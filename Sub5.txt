@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://ae061df1-1674-45db-ac1b-c234f55c330b@162.159.134.234:2083?security=tls&sni=JOin-TelEgRAM-ChAnNEL-disVPn.OnflashDRIvE.APP&type=ws&host=JoIn-TELeGram-ChanNel-diSvPn.ONFlAsHDrIVe.apP&path=%40DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:2083 📡 PING-001.55-MS
 vless://c6031db4-af0d-48c7-accc-b80ae9a83092@104.26.15.85:2053?security=tls&sni=h.protoeinpaitakht.com&type=grpc&serviceName=@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.15.85:2053 📡 PING-001.55-MS
 vless://06034197-1589-4c5d-a696-eb831845e189@104.22.13.192:80?security=none&type=ws&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.192:80 📡 PING-001.55-MS
 vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.18.200.220:443?security=tls&sni=hetzner.nirevil.ir&type=ws&host=hetzner.nirevil.ir&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.200.220:443 📡 PING-001.55-MS
@@ -603,4 +604,3 @@ vless://89420825-e589-4735-bee1-6dc636fca343@172.67.161.104:8443?security=tls&sn
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.24.141:443?security=tls&sni=edgu.pureboy.eu.org&type=ws&host=edgu.pureboy.eu.org&path=%2Fpath%2Ftelegram@v2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.141:443 📡 PING-001.34-MS
 vless://ca41d969-0257-5309-92fb-440b3fd2f4d6@104.21.35.158:8443?security=tls&sni=mahdiserver.qmoddj.woRkeRS.dEv&type=ws&host=mahdiserver.qmoddj.woRkeRS.dEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.158:8443 📡 PING-001.34-MS
 vless://b0080418-ecc7-4b21-a395-c1a057bc3f87@188.114.98.220:443?security=tls&sni=xn--hgb3a0cs.irquran.shop&type=ws&host=xn--hgb3a0cs.irquran.shop&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.98.220:443 📡 PING-001.34-MS
-vless://e80f8c6c-fa9d-4dfa-8d4b-02f05b350801@104.16.4.103:8880?security=none&type=ws&host=sabooscode.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.4.103:8880 📡 PING-001.34-MS

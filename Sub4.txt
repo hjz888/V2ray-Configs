@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.75.101.0:3443 📡 PING-204.12-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.186.188:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-45.8.186.188:443 📡 PING-204.40-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.17.250:2083 📡 PING-204.47-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.218.243.226:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-103.218.243.226:34237 📡 PING-205.17-MS
@@ -603,4 +604,3 @@ vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.21.32.238:2053?security=tls&sni
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.182.110:2096?security=tls&sni=vpncT.arvancode.eu.Org&type=ws&host=vpncT.arvancode.eu.Org&path=%2FPath%2FTelegram@V2ray_alpha%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.182.110:2096 📡 PING-001.55-MS
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.135.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2087 📡 PING-001.55-MS
 vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.17.245.1:443?security=tls&sni=hdfy8c1.foriran.nl&type=ws&host=hdfy8c1.foriran.nl&path=/PvSPM3IicU6D349brWUw6a&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.1:443 📡 PING-001.55-MS
-vless://ae061df1-1674-45db-ac1b-c234f55c330b@162.159.134.234:2083?security=tls&sni=JOin-TelEgRAM-ChAnNEL-disVPn.OnflashDRIvE.APP&type=ws&host=JoIn-TELeGram-ChanNel-diSvPn.ONFlAsHDrIVe.apP&path=%40DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:2083 📡 PING-001.55-MS
