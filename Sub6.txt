@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e123f63c-1b2f-5ecf-8cb6-f35a2a99ee0c@104.21.39.130:2053?security=tls&sni=mahdiserver.bdlapzxv.wORKErS.Dev&type=ws&host=mahdiserver.bdlapzxv.wORKErS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.130:2053 📡 PING-005.23-MS
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.248.60:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.248.60:2082 📡 PING-005.23-MS
 vless://06c4e0f6-794b-4dac-ba14-60e296c9a16d@172.66.47.98:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.98:2053 📡 PING-005.23-MS
 vless://a44b8dd8-8335-4ca6-8e63-89bd6da0ee7d@190.93.247.155:2083?security=tls&sni=JOin-TelEgRAM-ChAnNEL-disVPn.OnflashDRIvE.APP&type=ws&host=JoIn-TELeGram-ChanNel-diSvPn.ONFlAsHDrIVe.apP&path=%40DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.155:2083 📡 PING-005.23-MS
@@ -603,4 +604,3 @@ vless://b04ecf8c-f9b5-4ef4-bb34-818d1c79ca48@162.159.152.2:2087?security=tls&sni
 vless://1c136496-880f-4539-816f-c15ea74a5f07@104.17.246.203:443?security=tls&sni=rcv2.happylifee.space&type=ws&host=rcv2.happylifee.space&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443 📡 PING-005.11-MS
 vless://4bec0064-137e-48e2-85a2-b2ef37732a8f@104.26.14.85:2087?security=tls&sni=98.hsza.site&type=grpc&serviceName=@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.14.85:2087 📡 PING-005.11-MS
 vless://9df12d70-407c-4c37-8248-3caf3aa175f4@104.21.10.71:443?security=tls&sni=Helsinki.oceannetwork.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.10.71:443 📡 PING-005.11-MS
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Free_V2rng.....Free_V2rng.....Free_V2rng.....%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.193.36:2096 📡 PING-005.10-MS

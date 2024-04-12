@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@51.38.75.54:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-51.38.75.54:443 📡 PING-078.20-MS
 vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=ec2-iranc-cal02.global.ssl.fastly.net&type=ws&host=ec2-iranc-cal02.global.ssl.fastly.net&path=%2FGTTYQA9#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.87:443 📡 PING-078.35-MS
 vless://b8e38072-1b65-4d5d-8038-3156b712785a@146.75.74.76:443?security=tls&sni=gogoli01.global.ssl.fastly.net&type=ws&host=gogoli01.global.ssl.fastly.net&path=/GR66ARR#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.76:443 📡 PING-078.41-MS
 vless://b8e38072-1b65-4d5d-8038-3156b712785a@146.75.74.83:443?security=tls&sni=gogoli01.global.ssl.fastly.net&type=ws&host=gogoli01.global.ssl.fastly.net&path=/GR66ARR#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.83:443 📡 PING-078.52-MS
@@ -603,4 +604,3 @@ vless://bfb39691-d545-4ea4-8bea-080aee2fef9f@172.67.204.84:2096?security=tls&sni
 vless://f2e4f5b1-a32d-4ac7-b7dd-fde48f370010@172.67.187.219:2086?security=none&type=ws&path=vless-ws%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.187.219:2086 📡 PING-005.49-MS
 vless://d5e37f09-78ac-460e-aab8-197bcad93119@103.184.44.91:8880?security=none&type=ws&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.91:8880 📡 PING-005.49-MS
 vless://b0e19729-5392-4530-ba25-ba356f98d104@162.159.135.232:2087?security=tls&sni=www.gostmod.shop&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:2087 📡 PING-005.49-MS
-vless://c6a979db-09de-4b47-88c2-fb89c0335049@104.21.74.214:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:443 📡 PING-005.49-MS

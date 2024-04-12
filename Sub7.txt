@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Free_V2rng.....Free_V2rng.....Free_V2rng.....%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.193.36:2096 📡 PING-005.10-MS
 vless://46d1b25d-f163-4998-9cb7-c96287605984@45.131.4.7:80?security=none&type=ws&host=bia-channel-hajimamad.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.7:80 📡 PING-005.10-MS
 vless://3caa610f-40ce-4554-a92e-ffdf04f25288@141.193.213.96:443?security=tls&sni=console-sharing-some-mesa.trycloudflare.com&type=ws&host=console-sharing-some-mesa.trycloudflare.com&path=%40daily_configs--%40daily_configs--%40daily_configs--%40daily_configs--%40daily_configs&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.96:443 📡 PING-005.10-MS
 vless://b820b7f5-2f62-4942-88df-b62e7c62263e@104.18.7.41:2082?type=ws&host=s3.redbullplus.xyz&path=%2Fredbullvpns#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.7.41:2082 📡 PING-005.10-MS
@@ -603,4 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-114.17-MS
 ss://YWVzLTI1Ni1nY206ZFUzRFNOUzh3WVBYekVLdw==@213.183.63.69:9029#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9029 📡 PING-114.78-MS
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@213.183.63.69:9020#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9020 📡 PING-115.13-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.37:989 📡 PING-115.63-MS

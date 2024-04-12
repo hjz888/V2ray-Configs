@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://c6a979db-09de-4b47-88c2-fb89c0335049@104.21.74.214:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:443 📡 PING-005.49-MS
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.148.99:8880 📡 PING-005.49-MS
 vless://43d3c519-fb90-4e1c-ab72-ab921f6d3d04@104.21.70.184:443?security=tls&sni=max-allnet.hiroman5445.ir&type=grpc&serviceName=O3Uol8KHmEiQtlZRFODy&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.70.184:443 📡 PING-005.49-MS
 vless://2803eed6-0f66-48eb-ad89-3eaadb859c95@172.67.139.160:443?security=tls&sni=ExprESsVpnFree021.EXPRESsVPnfREE021.WOrKers.dEV&type=ws&host=expResSVPNfree021.exPressvpNfRee021.WOrkeRs.deV&path=%2FZeTvSm0zRXrgUmC_%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.139.160:443 📡 PING-005.49-MS
@@ -603,4 +604,3 @@ vless://b867aa62-33f4-452a-a175-98b84fad295b@172.67.178.12:443?security=tls&sni=
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@104.16.67.38:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=/975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.67.38:443 📡 PING-005.23-MS
 vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@170.114.46.78:443?security=tls&sni=cf.xujiang.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.78:443 📡 PING-005.23-MS
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.220.155:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.155:8080 📡 PING-005.23-MS
-vless://e123f63c-1b2f-5ecf-8cb6-f35a2a99ee0c@104.21.39.130:2053?security=tls&sni=mahdiserver.bdlapzxv.wORKErS.Dev&type=ws&host=mahdiserver.bdlapzxv.wORKErS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.130:2053 📡 PING-005.23-MS
