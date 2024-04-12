@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://25c499e5-cb45-4989-b25d-d80688f68518@terapkharkose.ephoria-roye-mari.sbs:443?alpn=http%2F1.1&encryption=none&host=terapkharkose.ephoria-roye-mari.sbs&path=%2F&security=tls&sni=terapkharkose.ephoria-roye-mari.sbs&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣
 vless://7376b89b-34f9-4998-a4ba-e39174c1f117@172.66.213.38:443?encryption=none&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&path=%2F&security=tls&sni=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣
 vless://6fb325b8-aad9-4141-a765-cd02385e3b1e@www.speedtest.net:2086?encryption=none&host=xn--047h.iman-v2ray.sbs.&path=%2F&security=none&type=ws#رایگان | VLESS | @Outlinev2rayNG | CA🇨🇦 | 0️⃣6️⃣
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?encryption=none&host=test43.pages.dev&path=Path%2FTelegram-channel-proxy_mtm%2F%3Fed%3D2048&security=tls&sni=test43.pages.dev&type=ws#رایگان | VLESS | @v2rayng_vpnrog | CA🇨🇦 | 0️⃣1️⃣
