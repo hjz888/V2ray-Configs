@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4xMDQiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNi4zMiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJhLnByYXB0NS5pciIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS42OCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJhLnByYXB0NS5pciIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyOS40NyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4xODciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
@@ -601,6 +604,3 @@ vless://25caa765-7ebc-43e6-9df4-306c03d8027c@107.189.2.115:58797?security=none&t
 vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-151.69-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.165.170.94:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-188.165.170.94:443 📡 PING-151.70-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@51.210.179.47:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-51.210.179.47:443 📡 PING-151.74-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.187.98.185:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-37.187.98.185:443 📡 PING-151.77-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@51.83.43.151:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-51.83.43.151:443 📡 PING-151.90-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.105.39.5:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-46.105.39.5:443 📡 PING-151.98-MS

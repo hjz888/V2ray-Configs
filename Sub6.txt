@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://c6a979db-09de-4b47-88c2-fb89c0335049@172.67.163.103:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.103:443 📡 PING-001.56-MS
+vless://9e6dd9f4-1688-4b5b-9243-576d51090095@104.24.32.4:443?security=tls&sni=rS.gOlEsTaN-vpn.LInk.&type=ws&host=rS.gOlEsTaN-vpn.LInk.&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.32.4:443 📡 PING-001.56-MS
+vless://2faf4f83-ab0f-4d20-9084-b0223317a3cf@104.21.56.204:443?security=tls&sni=pPAL03.dAwn-PriCE.WOrKerS.dev&type=ws&host=ppal03.daWn-priCe.worKerS.dev&path=%2Fci-Q-gXv3IzlFQj_%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.56.204:443 📡 PING-001.56-MS
 vless://19f9aa50-d67b-4b9e-9802-4628a10df5fd@172.66.213.38:8080?type=ws&host=AsqTv7zPcb9uDKTlMQFF.BAlE.BIo&path=%2Fws#🔒 VL-WS-NA 🇺🇸 US-172.66.213.38:8080 📡 PING-001.56-MS
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:2052?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:2052 📡 PING-001.56-MS
 vless://04f127bc-86a0-4743-90b7-d69ca5481722@104.18.74.199:2096?security=tls&sni=dL.gOlEsTaN-vPn.LInk.&type=ws&host=dL.gOlEsTaN-vPn.LInk.&path=%2F%3Fed%3D2096&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.74.199:2096 📡 PING-001.56-MS
@@ -601,6 +604,3 @@ vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2087?security=tls&sni=
 vless://9df12d70-407c-4c37-8248-3caf3aa175f4@172.67.144.229:443?security=tls&sni=Helsinki.oceannetwork.ir&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.144.229:443 📡 PING-001.44-MS
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.136.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096 📡 PING-001.44-MS
 vless://f6932063-d2d4-4756-a363-47b632a299c9@104.21.82.17:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:2087 📡 PING-001.44-MS
-vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443 📡 PING-001.44-MS
-vless://a51814bb-7783-4cfe-a629-6f0054fd7a9d@162.159.136.232:80?security=none&type=ws&host=TMCUSTOMIZE-TMCUSTOMIZE.v2ray.motorcycles&path=%2F%40VPNCUSTOMIZE#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:80 📡 PING-001.44-MS
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.68.38:443?security=tls&sni=admin2.pythonic-ai.com&type=ws&host=admin2.pythonic-ai.com&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:443 📡 PING-001.44-MS
