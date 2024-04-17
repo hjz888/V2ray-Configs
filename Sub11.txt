@@ -1,0 +1,8 @@
+#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMTEg8J+rgg==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+vless://87647c65-acb5-4ba0-90d7-7442b5816945@104.168.107.230:10050?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blogs.windows.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10050 | 16.79ms
+
