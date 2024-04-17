@@ -4,27 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0771
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjMzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjMzLTIyMzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMjQuMTM2LjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAia2hhcmlkdC5pcmFua2FsYWRpZ2l0YWwuY29tIiwKICAgICJpZCI6ICJhZjQ1NTc3ZS03ZjRmLTQ2ZTItODMyOC0wY2ZkZDkzNjNlNmMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYWxpbXhyd3M/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDIwODMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNC4xMzYuMTMtMDEzNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.79:9001#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0774
-vmess://ewogICAgImFkZCI6ICJiZWlqaW5nLm1mYS5lZSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm9wZW4uYWxpcGF5Lm92aCIsCiAgICAiaWQiOiAiZDM5YTM0N2EtMDBjOS00ZjkxLTkyNTUtN2Y1MzZjMDdjNWE4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2FyaWVzP2VkPTIwNDgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTYyLjE1OS4xMzYuNjEtMDIzMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0755
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0753
-vmess://ewogICAgImFkZCI6ICI5NC4xNDAuMC4xMTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJmb29kLnpoYWFsLmlyIiwKICAgICJpZCI6ICIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODg4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktOTQuMTQwLjAuMTEwLTAxMjQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0751
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.103:9064#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-3516
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0754
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.103:9060#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-3504
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@103.172.116.79:9010#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0766
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjEzLTIyNjYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjM0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjM0LTIyNzEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMjQuMTM2LjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicGlyYWhuLmlyYW5rYWxhZGlnaXRhbC5jb20iLAogICAgImlkIjogImFmNDU1NzdlLTdmNGYtNDZlMi04MzI4LTBjZmRkOTM2M2U2YyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hbGlteHJ3cz9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjA1MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjI0LjEzNi4xMy0xMjA4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiVHNoaXJ0cy5pcmFua2FsYWRpZ2l0YWwuY29tIgp9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989#%F0%9F%87%AA%F0%9F%87%A8EC-179.49.5.114-0793
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-6635
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@103.172.116.79:9050#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0761
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@103.172.116.79:9043#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0763
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-6636
 vmess://ewogICAgImFkZCI6ICJ2MDE0LjU4MzE4MS54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ2MDE0LjU4MzE4MS54eXoiLAogICAgImlkIjogIjZiY2I5MWQ3LTNkNmItNDBhZC05M2Y0LWIzMjZkMGVkMjBhNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTk4LjExNS0wMjM5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0765
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjM5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjM5LTIyNjUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
@@ -468,7 +447,7 @@ hy2://
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2024-04-17 05:33:14 UTC</div>
+            <div class="mt-3">2024-04-17 06:12:29 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -497,7 +476,7 @@ hy2://
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Ashburn</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -545,12 +524,12 @@ hy2://
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">875a0791f8380650</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">875a41120fa99858</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.65.196.145</span>
+      <span class="hidden" id="cf-footer-ip">13.91.68.85</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -604,3 +583,24 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBSb2NrcC5CbGFu
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgMS45OG1zIiwiYWRkIjoiMTk5LjU5LjI0My4yMjUiLCJwb3J0IjoiNDQzIiwiaWQiOiIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiVHJlZS5CbGFua3UuTWUiLCJwYXRoIjoiXC93c3M0OTQwNiIsInRscyI6InRscyIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6InJhbmRvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgMS41NG1zIiwiYWRkIjoiMTcyLjY2LjIxMy4zOCIsInBvcnQiOiI0NDMiLCJpZCI6IjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUcmVlLkJsYW5rdS5NZSIsInBhdGgiOiJcL3dzczQ5NDA2IiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoicmFuZG9tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgMS41bXMiLCJhZGQiOiIxMDQuMTcuNDIuMTAiLCJwb3J0IjoiNDQzIiwiaWQiOiIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiVHJlZS5CbGFua3UuTWUiLCJwYXRoIjoiXC93c3M0OTQwNiIsInRscyI6InRscyIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3gifQ==
+vless://c3e39565-cccb-4f06-b0c8-e675f28c7222@104.168.107.230:22?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-22 | 16.68ms
+vless://a439be2c-56f5-41ed-acab-2e96ae056a41@104.168.107.230:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pantercon.net&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-443 | 26.68ms
+vless://7a1e9296-e01d-49af-87ee-d34bd03b81cc@104.168.107.230:2052?encryption=none&flow=xtls-rprx-vision&security=reality&sni=debian.org&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2052 | 27.27ms
+vless://ee837e6b-f987-41b1-a83a-30e5aec5d13a@104.168.107.230:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tuyacn.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2053 | 16.71ms
+vless://82b6cc2a-6016-4e77-96d5-b94ac0522b2a@104.168.107.230:2058?encryption=none&flow=xtls-rprx-vision&security=reality&sni=theverge.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2058 | 16.8ms
+vless://955eb75d-63cb-473c-b60b-bf2147430058@104.168.107.230:2082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2082 | 16.98ms
+vless://a5c11a42-61b1-4807-b2f0-4813d21af2e2@104.168.107.230:2085?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2085 | 16.9ms
+vless://14d3b666-0b28-45db-9f11-a6bf650f2f56@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2086 | 18.2ms
+vless://a459fb41-ff5f-4bd6-8cde-b882b2492442@104.168.107.230:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=flightradar24.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2087 | 16.85ms
+vless://ea2765d9-b92b-431a-87f0-2640a12c5ac6@104.168.107.230:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sovrn.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2095 | 26.68ms
+vless://6341ddff-a9a7-4dca-afdf-80c6e48ad0f0@104.168.107.230:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cj.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2096 | 16.59ms
+vless://efeff2c5-12fa-49bd-80e7-2bbc3348b70d@104.168.107.230:2983?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradedoubler.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2983 | 17.05ms
+vless://f2b9611c-802f-46be-aee5-2ebedba56d5c@104.168.107.230:3462?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cookiebot.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3462 | 17.35ms
+vless://a77a90a7-ab8c-4e28-9aa2-19fdcfe8b90e@104.168.107.230:3492?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sloanreview.mit.edu&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3492 | 17.48ms
+vless://1c37bcf8-0c56-4913-8e71-c0d2d58ad28c@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4212 | 16.82ms
+vless://3b980522-9a45-4222-a964-1af541df0e59@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4342 | 16.65ms
+vless://4a2a9035-954a-4048-989a-b8ab82b9c7b4@104.168.107.230:4607?encryption=none&flow=xtls-rprx-vision&security=reality&sni=magicbus.ca&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4607 | 27.03ms
+vless://7d5765c9-2934-4336-8023-bd3d73a3e8c1@104.168.107.230:4876?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10to8.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4876 | 26.74ms
+vless://7f0f7525-410e-4f5b-b585-8c95be60421d@104.168.107.230:5144?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oxfamintermon.org&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5144 | 26.7ms
+vless://f7f1a01a-f0e5-4d5b-892a-fac2b5bca4a0@104.168.107.230:5474?encryption=none&flow=xtls-rprx-vision&security=reality&sni=support.cloudflare.com&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5474 | 17.81ms
+vless://8c0926a3-2448-4f52-94a2-5700aec3483e@104.168.107.230:5676?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arnebrachhold.de&fp=chrome&pbk=03kUtEDcKaIi-6XDe90P6rkoXVGFeWyMVaXDgZj1QiQ&sid=6a99fe4511b8b48b&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5676 | 20.74ms
