@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.18.85.204:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.18.85.204:22222 📡 PING-067.40-MS
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.126.104:443?security=tls&flow=xtls-rprx-vision&sni=b295-23us129-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.126.104:443 📡 PING-067.63-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@149.28.201.214:49355?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-149.28.201.214:49355 📡 PING-068.75-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@43.153.80.208:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443 📡 PING-069.43-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.230.47.17:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-150.230.47.17:443 📡 PING-073.79-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@192.9.246.112:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443 📡 PING-073.91-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@51.195.165.203:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-51.195.165.203:443 📡 PING-074.59-MS
@@ -600,7 +604,3 @@ vless://65feba03-0b97-4609-a331-1dd5125e5544@190.93.246.158:443?security=tls&sni
 vless://03e65202-9ca4-42b2-9804-257cbdffc719@104.21.74.197:443?security=tls&sni=BpB.alAnA-hEidEnReich.woRKErs.dEv&type=ws&host=BpB.aLana-hEiDenREich.WoRKeRs.dEv&path=/g8FcEa43XePiWgWa?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.197:443 📡 PING-002.46-MS
 vless://215db198-eee1-4037-ae3e-b7d518bacb0e@104.16.155.72:2083?security=tls&sni=dl.ordeloil.com.&type=ws&host=dl.ordeloil.com&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.155.72:2083 📡 PING-002.43-MS
 vless://729e9f33-82d4-45bb-93f5-5a016553e43a@172.67.165.99:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=free/#🔒 VL-WS-TLS 🇺🇸 US-172.67.165.99:443 📡 PING-002.43-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.23.64:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.23.64:80 📡 PING-002.42-MS
-vless://98bb933c-921c-4c3c-84be-91aae07832b0@162.159.130.234:2082?security=none&type=ws&host=cH.tOtFaRaNgHi.SbS&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:2082 📡 PING-002.41-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.136:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.183.136:80 📡 PING-002.41-MS
-vless://ffffffff-eeae-4311-b37c-b2a67847fed2@172.67.220.65:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&host=watashi.free.de.mnhacker.eu.org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.220.65:443 📡 PING-002.40-MS

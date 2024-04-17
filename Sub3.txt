@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=telegram-chanel-ab-841-vpns.pages.dev&fp=chrome&type=ws&sni=telegram-chanel-ab-841-vpns.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://5afb11dc-f76d-4507-93e2-e19be4c45d18@172.66.47.25:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.194:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=telegram-chanel-ab-841-vpns.pages.dev&fp=chrome&type=ws&sni=telegram-chanel-ab-841-vpns.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://a466bbf1-7ace-47df-a6c1-cd506e733cb6@185.146.173.59:8880?type=grpc&serviceName=Telegram:%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh,%40Migekeh&mode=multi&security=tls&encryption=none&path=/%40%4cIG%48T%4eIN%476,#[🇸🇪]t.me/ConfigsHub
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.61.8:80?path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=ada3.qowch.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?path=%2F&security=tls&encryption=none&host=germany-frankfurt.bitplatform.cloud&fp=random&type=ws&sni=germany-frankfurt.bitplatform.cloud#[🇨🇦]t.me/ConfigsHub
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.35.226:443?path=%2F47b9ebrCQpP3DA7h%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpB.RadIcaliZaTion.ir&fp=randomized&type=ws&sni=BpB.RaDICAlizAtIon.IR#[🇨🇦]t.me/ConfigsHub
@@ -600,7 +604,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@108.181.22.195:443?security=tls&flo
 vless://3d30a430-4fbd-4c13-9478-2f3370bbb000@108.181.23.33:8443?security=tls&flow=xtls-rprx-vision&sni=jsdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.33:8443 📡 PING-062.89-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.147.168:443?security=tls&flow=xtls-rprx-vision&sni=767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.147.168:443 📡 PING-062.96-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.214.232:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.76.214.232:22222 📡 PING-066.75-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.18.85.204:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.18.85.204:22222 📡 PING-067.40-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.126.104:443?security=tls&flow=xtls-rprx-vision&sni=b295-23us129-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.126.104:443 📡 PING-067.63-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@149.28.201.214:49355?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-149.28.201.214:49355 📡 PING-068.75-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@43.153.80.208:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443 📡 PING-069.43-MS

@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://024db747-6abb-4f6c-96e6-9def52fe2b3d@104.21.16.153:443?security=tls&sni=pPaL03.DORiAn-hARvey-iv.WOrKeRs.dEV&type=ws&host=PpAL03.Dorian-HArVey-iv.WORkers.deV&path=/oHQ0WVzElFEXu4Ip?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.153:443 📡 PING-001.63-MS
+vless://feb828971af044d2aa96f7c787ed9f97@104.21.65.133:8080?security=none&type=ws&host=SvnTeamV2rayTKOne6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.65.133:8080 📡 PING-001.63-MS
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.82.174:8443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.82.174:8443 📡 PING-001.63-MS
+vless://4d86eaee-0077-4f3f-b719-b1301777b590@172.67.178.98:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.178.98:2082 📡 PING-001.63-MS
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:8443?security=tls&sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.128:8443 📡 PING-001.63-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.1.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.21:80 📡 PING-001.63-MS
 vless://7fcefed3-8334-4f08-8d8c-dd1d5b2d1539@188.114.97.24:443?security=tls&sni=es2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.24:443 📡 PING-001.63-MS
@@ -600,7 +604,3 @@ vless://f65c6d7d-f0a2-4ee4-f8fa-c60dbfa2bc7d@104.17.148.252:80?type=ws&host=bia-
 vless://be29f77a-4b98-4d92-b3f4-b37caff45e94@104.21.25.32:443?security=tls&sni=no2-vless.sshmax.xyz&type=ws&host=no2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.32:443 📡 PING-001.46-MS
 vless://f65c6d7d-f0a2-4ee4-f8fa-c60dbfa2bc7d@198.41.215.205:80?type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.215.205:80 📡 PING-001.46-MS
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.dev&type=ws&host=vpnxw.pages.dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.20.220:2096 📡 PING-001.46-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.49.162:2095?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.49.162:2095 📡 PING-001.46-MS
-vless://a38ff82a7e584d7b9dded17b0af4d6c7@172.67.163.123:2052?security=none&type=ws&host=SvnTeamV2rayGmThree6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.163.123:2052 📡 PING-001.46-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.34.21:443?security=tls&sni=bpB.RAdicALiZaTioN.iR&type=ws&host=bpb.RADICaliZatIOn.IR&path=%2FNHtQZSf1mdr3TeZa%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:443 📡 PING-001.46-MS
-vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.21.32.238:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=TELEGRAM_PROXY_MTM#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.238:80 📡 PING-001.46-MS
