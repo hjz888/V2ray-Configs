@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://7c072517-e335-4476-985c-5ca3d715cbbb@dl.vindonews.com.tr:8081?type=ws&path=%3Fed%3D2048&host=dl.vindonews.com.tr&security=tls&fp=random&alpn=h2&sni=dl.vindonews.com.tr#[🇩🇪]t.me/ConfigsHub
 vless://0d0245cd-8412-4a32-b52c-ef810651e632@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#[🇨🇷]t.me/ConfigsHub
 vless://2eef0aae-f188-4f73-bd62-2afdc7387996@XvProxy.savagev2ray.site:443?path=%2F&security=tls&encryption=none&host=all4.savagev2ray.site&type=ws&sni=All4.savagev2ray.site#[🇨🇷]t.me/ConfigsHub
 vless://ac612337-e6b7-4027-a28c-131b23fe594a@www.speedtest.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@XvProxy,@XvProxy,@XvProxy,@XvProxy&sni=All4.savagev2ray.site#[🇨🇦]t.me/ConfigsHub
@@ -604,3 +603,4 @@ vless://acd066ad-8cd2-4573-bfcd-5b60861dae4b@103.35.189.42:8443?security=reality
 vless://5aca7eb3-a3a0-40a0-a793-df5aafe9b4c7@172.172.162.195:443?security=reality&sni=ng.codedeploy-commands.eu-west-2.amazonaws.com&type=grpc&fp=chrome&pbk=Ca8yRwYaKw6gVZxiFqrnj9MHQamccAuGgmxpdVorim4&sid=bbe53393d02629b8#🔒 VL-GRPC-RLT 🇺🇸 US-172.172.162.195:443 📡 PING-000.84-MS
 vless://eb68bc65-68b5-4ef9-9164-37fe8f227f6e@188.119.113.68:8443?security=reality&flow=xtls-rprx-vision&sni=104.18.12.130&type=grpc&fp=chrome&pbk=iOq9XFgvr8uyenRX9HUNjxrDpWVmfadlLcTZGXX0m0k&sid=836a980ffcbd9a64#🔒 VL-GRPC-RLT 🇳🇱 NL-188.119.113.68:8443 📡 PING-000.00-MS
 vless://abacabc-abca-abac-cadb-bcabaaccbacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vless://abaaccb-caba-caab-dacb-abbccbcabcaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-29-FARVARDIN-1403 🕑 09:22

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://7de1aca4-4755-48aa-952c-acf6c69382f2@104.17.245.203:443?security=tls&sni=host8.shabazian.ir&type=ws&host=host8.shabazian.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:443 📡 PING-001.05-MS
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.2.9:2096?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.9:2096 📡 PING-001.05-MS
 vless://416aedde-3a3a-4fa3-b502-7bb5f722f397@104.17.102.66:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.66:80 📡 PING-001.05-MS
 vless://5afb11dc-f76d-4507-93e2-e19be4c45d18@172.66.47.25:443?security=tls&sni=pardazeshvpn.pages.dev&type=ws&host=pardazeshvpn.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.25:443 📡 PING-001.05-MS
@@ -604,3 +603,4 @@ vless://b7d8dd37-a307-4d72-b73e-0958bf7d4a18@45.205.0.50:2095?security=none&type
 vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.21.32.238:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&path=%2F%3Fed%3D2047&fp=ios&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.238:2053 📡 PING-000.88-MS
 vless://1828f1be-e261-46ad-a18d-d16b7bc9a82b@104.21.92.8:8443?security=tls&sni=sni.drghabe.ir&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.8:8443 📡 PING-000.88-MS
 vless://6464c61e-00b3-4ba8-a140-0c16328ecf40@104.21.86.139:443?security=tls&sni=pPaL03.diegO-HoDkIEwiCZ-Iii.WOrkErS.dev&type=ws&host=ppaL03.DiegO-hOdkieWiCz-III.WORKErs.Dev&path=%2F2KvZlF4hZyZcUuQM%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.86.139:443 📡 PING-000.88-MS
+vless://28f410b2-9048-5bfe-ab84-3bebb5915974@172.67.132.87:2087?security=tls&sni=mahdiserver.pecmvdd.woRkErS.DEv&type=ws&host=mahdiserver.pecmvdd.woRkErS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.132.87:2087 📡 PING-000.88-MS

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.46.246:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.246:443 📡 PING-000.75-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.57:2053?security=tls&sni=8-2bw.pages.dev&type=ws&host=8-2bw.pages.dev&path=Telegram%40SINABIGO%40SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.57:2053 📡 PING-000.75-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.157:443 📡 PING-000.75-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.10:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.10:80 📡 PING-000.75-MS
@@ -604,3 +603,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTzBNbkdkWDh0ZTN4WFJYSWpEVjBu@103.75.198.71:
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-093.52-MS
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-094.88-MS
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-095.42-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Q29CcVlaR2FNaXZObHpJaGpwSUg1@85.192.63.92:31212#🔒 SS-TCP-NA 🇩🇪 DE-85.192.63.92:31212 📡 PING-097.96-MS
