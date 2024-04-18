@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://4daa4b5d-fe69-4e44-b00c-4b7d1243b077@104.20.52.151:2053?security=tls&sni=dl3.chicagoland.ir&type=ws&host=dl3.chicagoland.ir&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.52.151:2053 📡 PING-008.79-MS
 vless://43d3c519-fb90-4e1c-ab72-ab921f6d3d04@172.67.216.218:443?security=tls&sni=max-allnet.hiroman5445.ir&type=grpc&serviceName=O3Uol8KHmEiQtlZRFODy&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.216.218:443 📡 PING-008.79-MS
 vless://14216445-2cde-441b-a916-7c1d978aa1c6@104.21.67.173:2083?security=tls&sni=de02.dailybodymind.com&type=grpc&serviceName=de02.dailybodymind.com#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.67.173:2083 📡 PING-008.79-MS
 vless://5ff1ce6d-5a22-4c17-8ffd-bff41b7070d0@173.245.49.32:8880?security=none&type=ws&path=%2Findex.php%3Fed#🔒 VL-WS-NONE 🇫🇷 FR-173.245.49.32:8880 📡 PING-008.79-MS
@@ -604,3 +603,4 @@ vless://7dbaa104-c4d2-48a4-813d-74656a131701@66.235.200.107:8443?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.139:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.139:443 📡 PING-008.57-MS
 vless://00ab1ddf-249b-421e-8161-df9de884fbe4@104.31.16.136:443?security=tls&sni=HarmoNY.RadicalizatiON.IR&type=ws&path=%2F%3Fed&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.136:443 📡 PING-008.57-MS
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.128.212:443 📡 PING-008.57-MS
+vless://4755a271-e240-41aa-b638-5bff727918e3@172.67.173.252:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.173.252:2087 📡 PING-008.57-MS
