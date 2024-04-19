@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@visa.com:2096?path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&fp=random&type=ws&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIyMTcuMTk1LjIwMC45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiOWU4NS02NzgzLTQ4NmEtYmE1Zi1jOThmMjc3YWVkZjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjUyOTA4IiwicHMiOiJb8J+HpvCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InBtZGVtaXJhdGUucHhkbW9kLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://cb87def4-e2fd-4da1-a2ec-57ff2120fd9b@discord.gg:80?path=%2F&security=none&encryption=none&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&type=ws#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIwYTQ4OWUtZTllYi00MWIxLTkwMmUtZDRhY2FkNjY3YmE2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJhcmdvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh750ZWxlZ3JhbSDinqAgQHYycmF5TkdfTWF0c3VyaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhY2Nlc3NvcmllczguZnJlZWFpcmxhaW5lcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?type=ws&host=polo.gdorri.info&path=/paradise&security=tls&sni=polo.gdorri.info#[🇨🇦]t.me/ConfigsHub
+vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@discord.gg:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=re2.v2logy.xyz#[🇨🇦]t.me/ConfigsHub
+vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@discord.gg:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=re3.v2logy.xyz#[🇨🇦]t.me/ConfigsHub
+vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=re4.v2logy.xyz#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?encryption=none&security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FATdmeWNJtRAFAGlU%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://dc7e39b3-66f0-47d5-fbae-043d6040016b@185.146.173.59:2052?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&security=none&encryption=none&host=1.3.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&type=ws#%40v2ray_swhil+%F0%9F%87%A9%F0%9F%87%AA+ws3
 vless://60ed20d5-0159-43c5-9a35-6d68a2ffa00b@wolf432ir.royalmt.life:8242?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%B7%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
@@ -596,11 +604,3 @@ vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:2003?security=tls&sn
 vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-101.12-MS
 vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-101.86-MS
 vless://db4dd264-34d6-42ac-d6f0-1d8184e2f42c@107.191.47.168:443?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-107.191.47.168:443 📡 PING-102.03-MS
-vless://f3c85554-d957-4108-bf7e-a644ce7bc9d5@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=Join-M-buy-In-Telegram.pages.dev&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.140.167.94:443 📡 PING-102.11-MS
-vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@142.93.226.128:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-142.93.226.128:2003 📡 PING-102.42-MS
-vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@142.93.226.128:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-142.93.226.128:443 📡 PING-102.47-MS
-vless://61e34729-70cf-4cd9-9895-15bc8991cc83@206.189.4.214:443?security=tls&flow=xtls-rprx-vision&sni=nl-freevmess.privateip.net&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-206.189.4.214:443 📡 PING-102.59-MS
-vless://217966ac-777a-4f84-b7e4-5aa0857e8918@37.157.255.84:65000?security=tls&sni=a.mgtoken.net&type=ws&path=/#🔒 VL-WS-TLS 🇩🇪 DE-37.157.255.84:65000 📡 PING-103.24-MS
-vless://ef841aa9-f1ea-4544-ad38-457d108cf1fb@128.199.56.180:1400?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-128.199.56.180:1400 📡 PING-103.84-MS
-vless://63f2261a-17d8-44f8-bf93-837f1738b81c@51.75.77.237:2003?security=tls&sni=de-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-51.75.77.237:2003 📡 PING-105.73-MS
-vless://da5954d7-beeb-44ca-ef01-84968569ba80@95.179.160.62:443?type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-95.179.160.62:443 📡 PING-106.66-MS
