@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://5de77c11-04ac-45cd-8a6b-ae26f4cc585f@185.146.173.59:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#[🇸🇪]t.me/ConfigsHub
+vless://3fdcf7c6-3898-49dc-83aa-1fac32ea0d40@104.22.13.192:443?path=%2F&security=tls&encryption=none&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&type=ws&sni=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.#[🇨🇦]t.me/ConfigsHub
 vless://d4944920-2aa0-4790-8270-9e446a73c517@104.16.60.8:8080?path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro&security=none&encryption=none&host=sleepingdogs%E9%82%AA%E6%81%B6%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%BA%B3%E8%B5%AB%E7%89%B9%E7%93%A6%E5%B0%94%E5%BE%B7a.darkdiamond.top.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://48d8b15f-31b2-42ec-8731-6e5911bb3fed@discord.org:8080?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://5cbc1ea6-5dfd-4011-bd4b-0b49d3e74b30@discord.gg:2095?path=path&security=none&encryption=none&host=join-zedmodeon-zedmodeon-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -602,5 +604,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@143.47.236.28:443?security=tls&flow
 vless://1bc00ee5-6f7d-4a9d-9a44-65cbaa6a3a48@140.82.39.79:443?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-140.82.39.79:443 📡 PING-133.21-MS
 vless://1bc00ee5-6f7d-4a9d-9a44-65cbaa6a3a48@209.250.239.46:443?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-209.250.239.46:443 📡 PING-133.89-MS
 vless://f8f8c2d0-324c-496f-ac50-aab8ace7d037@195.201.46.218:53724?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-195.201.46.218:53724 📡 PING-133.92-MS
-vless://4fdf518f-feee-49f3-924e-b106fde477f2@49.13.163.226:80?security=none&type=ws&host=google.com&path=%2FDiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇩🇪 DE-49.13.163.226:80 📡 PING-133.96-MS
-vless://efa5a1ba-b8c0-49b5-983a-a43cf3b88da2@172.232.62.234:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.232.62.234:2003 📡 PING-134.39-MS

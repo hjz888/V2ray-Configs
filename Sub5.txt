@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://758446f1-481b-47e2-a34a-685f2114fa92@104.26.15.85:8443?security=tls&sni=bia-falcunargo-germany.falcunar.asso.eu.org&type=ws&host=bia-falcunargo-germany.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443 📡 PING-008.58-MS
+vless://f8687cc5-a16e-4c58-8e20-d0695ce88570@162.159.135.232:2087?security=tls&sni=www.gostmod.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:2087 📡 PING-008.58-MS
 vless://9c4b362d-7654-45f2-dbaf-a6edf9046c40@104.254.140.33:80?security=none&type=ws&host=htamiz5.kaghazacharrangi.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-104.254.140.33:80 📡 PING-008.58-MS
 vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880 📡 PING-008.58-MS
 vless://b788032a-8e11-492b-bf70-6a1358a05629@104.18.50.39:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=/whois?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.50.39:2083 📡 PING-008.57-MS
@@ -602,5 +604,3 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobs
 trojan://aacabcb-acba-aacb-dacb-bbcbcaacabac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTphYmNhYmNhLWNhYmEtYWJhYy1hYmNkLWFiYmFhYmJjY2NjYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-01-ORDIBEHESHT-1403 🕑 01:31
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5600 📡 PING-050.91-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@38.180.80.187:16899#🔒 SS-TCP-NA 🇺🇸 US-38.180.80.187:16899 📡 PING-056.69-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.197:5003 📡 PING-057.73-MS
