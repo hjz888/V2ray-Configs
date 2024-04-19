@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f65c6d7d-f0a2-4ee4-f8fa-c60dbfa2bc7d@104.17.148.252:80?type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.252:80 📡 PING-001.92-MS
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@172.67.204.177:2083?security=tls&sni=jooin.pardazeshvpn.onFLaShDriVe.ApP&type=ws&host=jooin.pardazeshvpn.onFLaShDriVe.ApP&path=%2Fwatashi.free.jppublic.moh539.link%3A2083%2FPath%2FTelegram%40confing_Costume%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.204.177:2083 📡 PING-001.92-MS
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.218.115:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=fuck_yes%21#🔒 VL-WS-TLS 🇺🇸 US-172.67.218.115:8443 📡 PING-001.92-MS
+vless://93688d6e-1776-4018-a303-005fae3a9e4d@104.27.30.91:8080?security=none&type=ws&host=a.cloud.%E7%A7%91%E6%96%AF%E6%B6%85%E6%BF%BE%E5%99%A8-hp-ab17gsb97653bi54y11ikgdenjsth48gv.ClOUdclOUd.OnFlAshDrive.APP.&path=%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.30.91:8080 📡 PING-001.92-MS
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:2052 📡 PING-001.92-MS
+vless://9dd404b2-6afa-4ab5-b15c-8a43b467a7a7@104.22.48.253:2086?security=none&type=ws&host=cdn1.nigc-ar.com&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:2086 📡 PING-001.92-MS
 vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.15.198:2082 📡 PING-001.91-MS
 vless://3028cf21-7957-43a8-9c67-835d7b15d69f@104.18.203.232:2083?security=tls&sni=all5.savagev2ray.site&type=grpc&serviceName=@XvProxy,@XvProxy,@XvProxy,@XvProxy#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2083 📡 PING-001.91-MS
 vless://ce526092-81c1-42be-8354-88e58946c1f3@104.21.74.139:443?security=tls&sni=monardas.aurorainiceland.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443 📡 PING-001.91-MS
@@ -598,9 +604,3 @@ vless://303c4e48-948c-49e8-a78e-9c84d58435e5@104.21.15.198:443?security=tls&sni=
 vless://fbfac6a2-d848-478f-a71c-590447a08b11@154.83.2.10:80?security=none&type=ws&host=V2ray-xn--89-pv2cl2k5x3fipr.snaapppfree.com.&path=%2F#🔒 VL-WS-NONE 🇸🇨 SC-154.83.2.10:80 📡 PING-001.64-MS
 vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:2083?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.143.34:2083 📡 PING-001.64-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.1.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.21:80 📡 PING-001.64-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@79.99.30.120:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.120:8443 📡 PING-001.64-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.192:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.21.192:80 📡 PING-001.64-MS
-vless://cf428955-86c2-46b1-8cd7-f111666ff9fc@173.245.59.16:2053?security=tls&sni=sayhello.rokna.online&type=ws&path=%2Fbackup#🔒 VL-WS-TLS 🇺🇸 US-173.245.59.16:2053 📡 PING-001.64-MS
-vless://5afb11dc-f76d-4507-93e2-e19be4c45d18@172.66.47.25:443?security=tls&sni=pardazeshvpn.pages.dev&type=ws&host=pardazeshvpn.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.25:443 📡 PING-001.64-MS
-vless://a180220b-cbae-4330-91f6-f8cf46889fc5@172.67.172.16:2083?security=tls&sni=91ca3d82e15c53.mitsonic.com&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.172.16:2083 📡 PING-001.64-MS
-vless://33c8325b-cbe9-45b4-9f01-9c6497e5f9c7@151.101.2.137:443?security=tls&sni=chol-can0.global.ssl.fastly.net&type=ws&host=chol-can0.global.ssl.fastly.net&path=/PPQOS56#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.137:443 📡 PING-001.64-MS
