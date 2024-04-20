@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@AstroVPN-official.astrovpn-official.workers.dev:2087?type=ws&security=tls&path=%2F&host=kinghooman.vpnboy.cloud&fp=chrome&sni=kinghooman.vpnboy.cloud&alpn=h2#[🇨🇦]t.me/ConfigsHub
-vless://48b94941-d602-11ee-aaa8-00505603e70d@AstroVPN-official.AstroVPN-official.workers.dev:443?type=ws&security=tls&path=%2Fwebsocket&host=st-pl-1.brocdn.com&fp=chrome&sni=st-pl-1.brocdn.com#[🇨🇦]t.me/ConfigsHub
-vless://872fc34c-d2e2-4134-9e77-f2cd08a8b9d0@shift.footballlovernews.com:443?encryption=none&security=tls&sni=shift.footballlovernews.com&fp=chrome&type=ws&host=&path=%2Fshift#[🇨🇦]t.me/ConfigsHub
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@91.193.58.1:2052?type=ws&path=%2F%3Fed%3D2053&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&security=none#[🇬🇧]t.me/ConfigsHub
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@discord.com:2052?type=ws&path=%2F%3Fed%3D2053&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&security=none#[🇨🇦]t.me/ConfigsHub
-vless://8d2d4598-bc43-4758-8e00-0e92b9abad33@185.146.173.59:80?path=%2F&security=none&encryption=none&host=sbs.numallas.sbs.&type=ws#%E3%80%BD%EF%B8%8F54%40oneclickvpnkeys
 vless://ef841aa9-f1ea-4544-ad38-457d108cf1fb@128.199.56.180:1400?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E3%80%BD%EF%B8%8F1%40oneclickvpnkeys
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=vpnxw.pages.dev&type=ws&sni=vpnxw.pages.dev#%E3%80%BD%EF%B8%8F31%40oneclickvpnkeys
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.16.96.92:2083?path=Twitter%E8%8B%8F%E5%B0%8F%E6%8B%A7&security=tls&encryption=none&host=watashi.free.jppublic.moh539.link&type=ws&sni=watashi.free.jppublic.moh539.link#%E2%9C%94%EF%B8%8F6%40oneclickvpnkeys
@@ -604,3 +598,9 @@ vless://9c56dc50-c0f7-489e-9175-cb13f4d9541b@5.78.101.178:47137?security=reality
 vless://cbaaabc-baca-cbaa-bcad-bcabbccaabca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://ccbbaaa-cbaa-abca-cbad-acbbbbcacaac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SAT-01-ORDIBEHESHT-1403 🕑 19:29
 vless://03cd8171-7f94-4d36-8855-29b465cc8757@172.105.25.249:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.25.249:443 📡 PING-060.50-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?type=ws&path=/http#🔒 VL-WS-NA 🇨🇦 CA-148.113.175.147:80 📡 PING-068.63-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.193.72.178:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-34.193.72.178:22222 📡 PING-070.67-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.157.142:443?security=tls&sni=sp11.tioet.com&type=ws&path=%2Fusers%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.157.142:443 📡 PING-071.47-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.143.118:80?security=none&type=ws&host=bmi.ir&path=users%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-5.161.143.118:80 📡 PING-071.54-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.209.20.140:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-44.209.20.140:22222 📡 PING-072.97-MS
+vless://1e51c1d8-a4be-42f3-beed-505ba542fe1e@103.35.189.42:443?security=tls&sni=freeiranweb.pages.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443 📡 PING-074.01-MS
