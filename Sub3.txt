@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://ef288047-ddff-4483-a9c3-750ab82a5de3@www.zula.ir:443?type=grpc&serviceName=melov2ray&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=help.melov2ray.shop#%40melov2ray-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%F0%9F%87%A9%F0%9F%87%AA
+vless://74066387-e74c-4510-bbdf-6eb2bb206138@chat.openai.com:8080?type=ws&path=%2Fmelov2ray&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&security=none#%40melov2ray-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@www.speedtest.net:443?encryption=none&security=tls&sni=folani.iiipok.wORKErs.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=folani.iiipok.wORKErs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.195.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://c75ce3b0-045e-4f27-b9a2-2dc756f8c340@185.146.173.59:8880?type=ws&path=%2Fdaily_configs%3Fed%3D2048&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&security=none#[🇸🇪]t.me/ConfigsHub
 vless://5b3bdf29-52f4-42c5-9554-c6b081bbab43@194.76.18.22:8880?type=ws&path=%2Fdaily_configs%3Fed%3D2048&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&security=none#[🏁]t.me/ConfigsHub
@@ -601,6 +604,3 @@ vless://cabcbaa-aacb-aabc-cadb-bccbcbabcaaa@127.0.0.1:8080?security=tls&type=tcp
 vless://aabacbc-abca-cbaa-adcb-abaccbcbaabc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SAT-01-ORDIBEHESHT-1403 🕑 17:29
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.143.118:80?security=none&type=ws&host=bmi.ir&path=users%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-5.161.143.118:80 📡 PING-053.37-MS
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.157.142:443?security=tls&sni=sp11.tioet.com&type=ws&path=%2Fusers%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.157.142:443 📡 PING-053.45-MS
-vless://e26ab7d3-0371-4830-a103-c42a8de39b27@159.65.171.54:443?security=tls&flow=xtls-rprx-vision&sni=us-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-159.65.171.54:443 📡 PING-055.35-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.209.20.140:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-44.209.20.140:22222 📡 PING-057.97-MS
-vless://1e51c1d8-a4be-42f3-beed-505ba542fe1e@103.35.189.42:443?security=tls&sni=freeiranweb.pages.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443 📡 PING-063.35-MS
