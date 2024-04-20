@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
+
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
@@ -602,5 +604,3 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?host=jobscareerforlawyers.com&path=%2F6b777a91&security=tls&sni=jobscareerforlawyers.com&type=ws#رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.249.173.159:16899#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8090#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aXZyR0VIWTg4c1FrM0RQ@account-mec.emofid.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1NlJZWnlOSWQ1Um1vV1ROVHVtMG56@185.229.65.157:8234#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
