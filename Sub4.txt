@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://081444a1-fda3-4e7d-b7d8-c6d50fab0ba7@45.140.167.94:8443?security=reality&sni=104.18.8.215&type=grpc&serviceName=grpc&fp=chrome&pbk=DhQtiEuqmi3N0OAUFncUdSgV0WABfzS2wUHfmy7yViw&sid=4cedd4c199a5b100#🔒 VL-GRPC-RLT 🇬🇧 GB-45.140.167.94:8443 📡 PING-102.69-MS
 vless://59186adf-7358-4a00-9c52-859e07b89d9b@95.179.157.189:2096?security=reality&sni=wordpress.org&type=grpc&fp=firefox&pbk=kSbgBTmr4zmP-Lo8fh6I_fYjTF3LmzGMRfV8PNtnkwI&sid=6c#🔒 VL-GRPC-RLT 🇳🇱 NL-95.179.157.189:2096 📡 PING-103.48-MS
 vless://a5690a5b-0693-409d-ac88-9e9d6c56d004@152.42.135.21:443?security=reality&flow=xtls-rprx-vision&sni=www.paypal.com&type=tcp&fp=chrome&pbk=KysY09cPrQb0ErYZDToB3--vs1p5IqSSwVgyliSBjHA&sid=d8#🔒 VL-TCP-RLT 🇳🇱 NL-152.42.135.21:443 📡 PING-104.04-MS
 vless://c69ab9d1-756e-4a12-8bf1-20f3cffe8268@128.140.15.177:445?security=reality&sni=www.tgju.org&type=grpc&serviceName=%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.15.177:445 📡 PING-109.34-MS
@@ -603,4 +604,3 @@ vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@31.22.116.91:443?security=tls&sni=c
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.60.8:80?security=none&type=ws&host=ada3.qowch.com&path=%2Fusers%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.8:80 📡 PING-003.45-MS
 vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.16.28.165:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.28.165:2087 📡 PING-003.44-MS
 vless://edadaf4b-3462-4e67-bbed-5c4ff728d48c@104.21.65.133:443?security=tls&sni=tr1-vless.sshmax.xyz&type=ws&host=tr1-vless.sshmax.xyz&path=/@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.133:443 📡 PING-003.44-MS
-vless://0788e1f1-fac6-486e-b3fd-08de8980c6c5@104.19.99.230:443?security=tls&sni=BLoG.cHiCaGolAnd.iR&type=ws&host=bLOg.cHiCagOlAnd.iR&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.99.230:443 📡 PING-003.44-MS

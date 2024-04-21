@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0788e1f1-fac6-486e-b3fd-08de8980c6c5@104.19.99.230:443?security=tls&sni=BLoG.cHiCaGolAnd.iR&type=ws&host=bLOg.cHiCagOlAnd.iR&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.99.230:443 📡 PING-003.44-MS
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.88.212:443?security=tls&sni=bPb.rAdicaLIzatioN.IR&type=ws&host=BPb.RADIcaLiZAtion.iR&path=%2FZiRNBN8yXECvWrQT%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443 📡 PING-003.44-MS
 vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@104.21.94.98:443?security=tls&sni=lon1.copenhagencafes.com&type=ws&path=%2Flon1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.98:443 📡 PING-003.44-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-88.216.66.38:443 📡 PING-003.44-MS
@@ -603,4 +604,3 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.138.232:2096?security=tls&s
 vless://5b3bdf29-52f4-42c5-9554-c6b081bbab43@194.76.18.22:8880?security=none&type=ws&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.22:8880 📡 PING-002.77-MS
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.68.38:443?security=tls&sni=admin2.pythonic-ai.com&type=ws&host=admin2.pythonic-ai.com&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:443 📡 PING-002.77-MS
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:2053?security=tls&sni=folani.iiipok.WoRkeRS.deV&type=ws&host=folani.iiipok.WoRkeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.180.238:2053 📡 PING-002.77-MS
-vless://ea79df40-43cc-477e-9be4-a19de539714a@104.26.14.85:2053?security=tls&sni=lan.protoeinpaitakht.com&type=ws&host=lan.protoeinpaitakht.com&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=firefox&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2053 📡 PING-002.77-MS
