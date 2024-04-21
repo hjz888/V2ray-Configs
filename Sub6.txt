@@ -4,17 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://8853d6d9-57f5-439d-a903-55615932730b@172.66.46.249:443?security=tls&sni=ac67e643.servernett-1ov.pages.dev&type=ws&host=ac67e643.servernett-1ov.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.249:443 📡 PING-005.12-MS
-vless://47cd56cb-23cc-455e-8936-7dad092efb6d@190.93.246.241:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#🔒 VL-WS-TLS 🇨🇷 CR-190.93.246.241:2053 📡 PING-005.12-MS
-vless://8f8cb113-5e7f-4d41-ac0a-c65b8722a961@104.26.13.8:443?security=tls&sni=jojetala.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:443 📡 PING-005.12-MS
-vless://25ac3741-7502-4a88-9108-e7444de813f6@172.64.80.1:2095?security=none&type=ws&host=polproxy.turkabr.ir&path=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY#🔒 VL-WS-NONE 🇺🇸 US-172.64.80.1:2095 📡 PING-005.12-MS
-vless://c28040ba-ff61-4e98-a5a3-7616a6789143@172.67.208.85:443?security=tls&sni=neifg9ovivOhOdd8d9e92hobOhOhhoHoOgOvIcdSDEFGj645zuko.yaemiko.cloudns.org&type=ws&host=nezuko.yaemiko.cloudns.org&path=/VLESS/fr-freevmess.privateip.net&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.208.85:443 📡 PING-005.12-MS
-vless://d9b3134e-007e-41e0-a146-8c53977e27f5@188.114.96.0:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.96.0:443 📡 PING-005.12-MS
-vless://d4944920-2aa0-4790-8270-9e446a73c517@162.159.248.67:8080?security=none&type=ws&host=sleepingdogs%E9%82%AA%E6%81%B6%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%BA%B3%E8%B5%AB%E7%89%B9%E7%93%A6%E5%B0%94%E5%BE%B7a.darkdiamond.top.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.248.67:8080 📡 PING-005.12-MS
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.18.158.102:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF7.7.7.7.net.ir.com.site.%E4%BA%8B%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.link.&path=%2F%40my_proxii%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.158.102:80 📡 PING-005.12-MS
-vless://ae46fb2e-db1c-4aaa-b48a-106ae169cbda@172.66.47.118:443?security=tls&sni=fdcbd191.mahdiserver-41x.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.118:443 📡 PING-005.12-MS
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.118.180:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.118.180:8080 📡 PING-005.12-MS
-vless://93688d6e-1776-4018-a303-005fae3a9e4d@185.176.26.233:8080?security=none&type=ws&host=a.cloud.%E7%A7%91%E6%96%AF%E6%B6%85%E6%BF%BE%E5%99%A8-hp-ab17gsb97653bi54y11ikgdenjsth48gv.ClOUdclOUd.OnFlAshDrive.APP.&path=%3Fed%3D2053#🔒 VL-WS-NONE 🇰🇿 KZ-185.176.26.233:8080 📡 PING-005.12-MS
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.58.44:443 📡 PING-005.12-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.2.9:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.2.9:443 📡 PING-005.12-MS
 vless://0f29287b-17c4-4ece-9e7e-1fbcbacd3b35@188.114.96.0:8443?security=tls&sni=gogo.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.96.0:8443 📡 PING-005.12-MS
@@ -604,3 +593,14 @@ ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.90:9084#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.94:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9097 📡 PING-220.96-MS
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.103:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9073 📡 PING-220.96-MS
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@103.172.116.90:9005#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9005 📡 PING-220.99-MS
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9044 📡 PING-221.05-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@103.172.116.79:9037#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9037 📡 PING-221.06-MS
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@103.172.116.90:9045#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9045 📡 PING-221.07-MS
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@103.172.116.103:9061#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9061 📡 PING-221.10-MS
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@103.172.116.94:9079#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9079 📡 PING-221.12-MS
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9070 📡 PING-221.13-MS
+ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.94:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9015 📡 PING-221.13-MS
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9041 📡 PING-221.18-MS
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9070 📡 PING-221.22-MS
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.90:9001#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9001 📡 PING-221.26-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.69.200:443#🔒 SS-TCP-NA 🇰🇷 KR-43.201.69.200:443 📡 PING-221.26-MS
