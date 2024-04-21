@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e6f7a257-3bd5-4d35-808c-178bdb589752@78.141.221.126:6522?security=reality&flow=xtls-rprx-vision&sni=pcgamer.com&type=tcp&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=bbe53393d02629b8#🔒 VL-TCP-RLT 🇳🇱 NL-78.141.221.126:6522 📡 PING-130.38-MS
+vless://a5690a5b-0693-409d-ac88-9e9d6c56d004@152.42.135.21:443?security=reality&flow=xtls-rprx-vision&sni=www.paypal.com&type=tcp&fp=chrome&pbk=KysY09cPrQb0ErYZDToB3--vs1p5IqSSwVgyliSBjHA&sid=d8#🔒 VL-TCP-RLT 🇳🇱 NL-152.42.135.21:443 📡 PING-131.54-MS
 vless://e6f7a257-3bd5-4d35-808c-178bdb589752@45.32.185.157:6522?security=reality&flow=xtls-rprx-vision&sni=pcgamer.com&type=tcp&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=bbe53393d02629b8#🔒 VL-TCP-RLT 🇳🇱 NL-45.32.185.157:6522 📡 PING-132.85-MS
 vless://378387d5-4370-4e38-9661-25796e8630ba@143.47.241.46:16097?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.241.46:16097 📡 PING-133.00-MS
 vless://59186adf-7358-4a00-9c52-859e07b89d9b@95.179.157.189:2096?security=reality&sni=wordpress.org&type=grpc&fp=firefox&pbk=kSbgBTmr4zmP-Lo8fh6I_fYjTF3LmzGMRfV8PNtnkwI&sid=6c#🔒 VL-GRPC-RLT 🇳🇱 NL-95.179.157.189:2096 📡 PING-133.27-MS
@@ -602,5 +604,3 @@ vless://758446f1-481b-47e2-a34a-685f2114fa92@172.67.73.163:8443?security=tls&sni
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@45.80.111.9:8880?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:8880 📡 PING-008.85-MS
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.194:443?security=tls&sni=telegram-chanel-ab-841-vpns.pages.dev&type=ws&host=telegram-chanel-ab-841-vpns.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.194:443 📡 PING-008.84-MS
 vless://4b68508e-456d-4949-96b5-113300640c05@104.25.107.32:443?security=tls&sni=1eE61c3F.WYVERNFrEE.pAGES.DEV&type=ws&host=1ee61C3F.wyVeRnFrEe.PAgES.dEV&path=%2FpowerdbyWyvern%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.107.32:443 📡 PING-008.84-MS
-vless://47be52ef-4a25-4ef4-8ec2-dd6674385784@104.21.69.44:80?security=none&type=ws&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80 📡 PING-008.84-MS
-vless://872fc34c-d2e2-4134-9e77-f2cd08a8b9d0@104.21.7.27:443?security=tls&sni=shift.footballlovernews.com&type=ws&path=%2Fshift&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443 📡 PING-008.84-MS

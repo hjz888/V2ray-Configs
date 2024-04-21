@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://aa9e4f20-f7f3-46cc-96f3-897116755cf3@104.18.1.84:443?security=tls&sni=worker-jolly-block-2e78.gamal32324.workers.Dev&type=ws&host=worker-jolly-block-2e78.gamal32324.workers.Dev&path=Telegram@SiNABiGO/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.84:443 📡 PING-008.45-MS
+vless://437043c4-0e79-449a-8af7-f287faaa42ee@104.21.19.58:443?security=tls&sni=se2-vless.sshmax.xyz&type=ws&host=se2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.58:443 📡 PING-008.45-MS
 vless://cd84f70f-b383-4a67-99ab-df037adc382b@172.67.204.84:8080?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7nababbiabrimto.kholochel.shop.&path=%2F%40Grizzlyvpn%2F%3Fed%3D2053#🔒 VL-WS-NONE 🇺🇸 US-172.67.204.84:8080 📡 PING-008.45-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.133.234:443?security=tls&sni=B0329D11.Bh90-OXNetz0o924.PagES.dEV&type=ws&host=B0329D11.Bh90-OXNetz0o924.PagES.dEV&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443 📡 PING-008.45-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.183:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.183:443 📡 PING-008.45-MS
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.90:9015#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9070 📡 PING-173.82-MS
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.79:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9000 📡 PING-173.82-MS
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@103.172.116.90:9098#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9098 📡 PING-173.85-MS
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.94:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9038 📡 PING-173.86-MS
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@103.172.116.94:9056#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9056 📡 PING-173.89-MS
