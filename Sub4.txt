@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@167.99.194.229:52547?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-167.99.194.229:52547 📡 PING-145.00-MS
-vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=ec2-iranc-cal02.global.ssl.fastly.net&type=ws&host=ec2-iranc-cal02.global.ssl.fastly.net&path=%2FGTTYQA9#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.87:443 📡 PING-145.27-MS
 vless://b8e38072-1b65-4d5d-8038-3156b712785a@146.75.74.83:443?security=tls&sni=gogoli01.global.ssl.fastly.net&type=ws&host=gogoli01.global.ssl.fastly.net&path=%2FGR66ARR#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.83:443 📡 PING-145.29-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-141.145.200.125:443 📡 PING-145.38-MS
 vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-145.74-MS
@@ -604,3 +602,5 @@ vless://43a754b1-f207-48a7-88a0-d420761598aa@172.67.138.171:443?security=tls&sni
 vless://d289199f-b7e5-4e7a-959f-0e7069120f98@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.132.6:2096 📡 PING-001.93-MS
 vless://c876cf5a-5392-452c-914c-8c9b2df2ac17@172.66.44.141:443?security=tls&sni=pardazesh1.pages.dev&type=ws&host=pardazesh1.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.141:443 📡 PING-001.93-MS
 vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?security=tls&sni=vfarid.proxxystore11.WorkErs.DEV&type=ws&host=vfarid.proxxystore11.WorkErs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.43.115:2083 📡 PING-001.93-MS
+vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@172.67.161.118:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.161.118:2087 📡 PING-001.92-MS
+vless://5e287656-5005-4c1d-b803-b781ac46d700@172.67.163.123:8080?security=none&type=ws&host=SvnV2rayVip1.2.3.4.ir.Com.Space.Site.xn--fhq0la447aac5504dea701axr1g.CoM.&path=%2FSvnTeam-VipConfig-net%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.163.123:8080 📡 PING-001.92-MS

@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?security=tls&sni=vpnmarket-8bm.pages.dev&type=ws&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.181:443 📡 PING-001.75-MS
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.137.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2052 📡 PING-001.75-MS
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@104.24.196.20:443?security=tls&sni=api339.animationkidsart.ir&type=ws&host=api339.animationkidsart.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443 📡 PING-001.75-MS
 vless://6a965180-6f4e-459d-8603-6347099b73b7@172.64.138.167:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.64.138.167:443 📡 PING-001.75-MS
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@190.93.246.158:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#🔒 VL-WS-TLS 🇨🇷 CR-190.93.246.158:2083 📡 PING-001.75-MS
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#🔒 SS-TCP-NA �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080 📡 PING-151.13-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTTdMYzQzYmpObVhaWjBZZ3hFbjIw@136.244.81.170:20888#🔒 SS-TCP-NA 🇩🇪 DE-136.244.81.170:20888 📡 PING-151.14-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSnNySmV5Z1N3WDQ=@45.95.233.21:443#🔒 SS-TCP-NA 🇫🇷 FR-45.95.233.21:443 📡 PING-151.50-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WVJYSlA=@38.150.12.187:56070#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56070 📡 PING-151.95-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVm1SSEJoYkpyY1lZVTMyM29BZ3NrYmpCVHcrRjBwT3lNS1krSUF6dFgwPQ==@159.223.234.119:1080#🔒 SS-TCP-NA 🇳🇱 NL-159.223.234.119:1080 📡 PING-152.10-MS

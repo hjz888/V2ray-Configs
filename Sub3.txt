@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f2b19ac5-ecb6-43a6-b85b-e620b10b0065@185.146.173.59:80?Telegram=@V2RayTz,@V2RayTz&path=%2F&security=none&encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+irancell+%2C+Rightel+%7C+27221`
-vless://78991bb0-2280-444e-8744-395dbf0d5002@172.67.204.84:80?Telegram=@V2RayTz,@V2RayTz&path=%2F&security=none&encryption=none&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+IR-MCI+%2C+MKH+%7C+27222`
 vless://429137ec-527d-4e99-80e7-a2705192a1e2@185.146.173.96:8880?Telegram=@V2RayTz,@V2RayTz&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+27223`
 vless://429137ec-527d-4e99-80e7-a2705192a1e2@185.146.173.59:8880?Telegram=@V2RayTz,@V2RayTz&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+27224`
 vless://cbd583dd-bb4c-4b7d-9628-ab1011c326e0@104.21.34.110:2083/?type=grpc&encryption=none&serviceName=TLQVyGiO5OwZU9iYzyeZwbq&security=tls&sni=yetyoursorrowspeaksvolumes.armitageravand.tech&alpn=h2&fp=chrome#%E2%9C%B4%EF%B8%8F45%40oneclickvpnkeys
@@ -604,3 +602,5 @@ vless://7f14e42a-f453-4c39-a762-019ee493237d@132.226.168.199:18421?security=tls&
 vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-144.50-MS
 vless://2f024052-9128-4d8e-944c-124ae738c0d7@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-144.52-MS
 vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-144.88-MS
+vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@167.99.194.229:52547?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-167.99.194.229:52547 📡 PING-145.00-MS
+vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=ec2-iranc-cal02.global.ssl.fastly.net&type=ws&host=ec2-iranc-cal02.global.ssl.fastly.net&path=%2FGTTYQA9#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.87:443 📡 PING-145.27-MS
