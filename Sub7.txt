@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.66.1.113:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.1.113:443 📡 PING-001.34-MS
-vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443 📡 PING-001.34-MS
-vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.16.248.58:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.248.58:443 📡 PING-001.34-MS
 vless://79978027-ef16-4137-b18e-905f8c18f845@198.41.223.79:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.79:8080 📡 PING-001.33-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.47:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.47:443 📡 PING-001.33-MS
 vless://9c29a930-2a50-4cd2-a710-7db21b8096b7@104.21.32.238:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:2096 📡 PING-001.33-MS
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.250.27:443#🔒 SS-TCP-NA 🇬🇧 GB-13.42.250.27:443 📡 PING-078.03-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989 📡 PING-078.54-MS
 ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇫🇷 FR-51.195.149.115:45816 📡 PING-078.67-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSnNySmV5Z1N3WDQ=@45.95.233.21:443#🔒 SS-TCP-NA 🇫🇷 FR-45.95.233.21:443 📡 PING-078.81-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8000 📡 PING-080.24-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8091 📡 PING-080.33-MS

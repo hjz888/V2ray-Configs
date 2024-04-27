@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://9e5a5563-1351-4ad7-8146-c1803de6ca70@88.216.66.126:80?security=none&type=ws&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇱🇹 LT-88.216.66.126:80 📡 PING-001.49-MS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.123:443?security=tls&sni=PpaL03-PANJSHaNBeH2.paGEs.DeV&type=ws&host=PpAl03-pAnJsHaNbEH2.paGeS.dEV&path=%2FGKYDzsU3TGG67ubH%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.123:443 📡 PING-001.49-MS
-vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:8443?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.143.34:8443 📡 PING-001.49-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.20:443 📡 PING-001.49-MS
 vless://cb1732d1-bd77-47e5-9ac4-9cca1c496f47@172.66.44.168:2096?security=tls&sni=tiauoays789rfjlsdfj.pages.dev&type=ws&host=tiauoays789rfjlsdfj.pages.dev&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.168:2096 📡 PING-001.49-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.12.130:2053?security=tls&sni=qopyz.oxnetirz11.ONfLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.ONfLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.130:2053 📡 PING-001.49-MS
@@ -604,3 +601,6 @@ vless://b1b78c33-83fa-4106-b08d-6738b4bd9314@172.64.146.80:443?security=tls&sni=
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.136.208:2096 📡 PING-001.34-MS
 vless://16f89bf2-7059-4f98-98a4-6be27932c93b@104.26.7.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.89:443 📡 PING-001.34-MS
 vless://87d1accf-3757-470f-a798-225473cc59ff@104.16.71.236:8080?security=none&type=ws&host=picnic%E5%A5%B9%E7%9A%84%E8%BA%AB%E4%BD%93weregoingtoteambuilding%E6%8D%9F%E5%9D%8F%E7%9A%84.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.71.236:8080 📡 PING-001.34-MS
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.66.1.113:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.1.113:443 📡 PING-001.34-MS
+vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443 📡 PING-001.34-MS
+vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.16.248.58:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.248.58:443 📡 PING-001.34-MS
