@@ -44,14 +44,14 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-trojan://telegram-id-privatevpns@16.16.175.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.135.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.20.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.28.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.135.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.20.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.158.187.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.246.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.36.135.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.20.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@16.16.175.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 
 #profile-title: base64:VFZDIHwgTUlY
 #profile-update-interval: 1
@@ -141,8 +141,8 @@ vless://Telegram-ipV2Ray-xvr@185.146.173.59:80?type=ws&path=/Telegram-ipV2Ray?ed
 vless://Telegram-ipV2Ray-ctp@185.146.173.59:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=4.www.speedtest.net.www.checkhost.net.免费上网68.Site.&security=none#🇸🇪SE | 🔴 | vless | @ipV2Ray | 12
 vless://15b49a69-013f-4c64-9a64-aac0fcbc63bd@142.132.189.159:8443?allowInsecure=false&fp=firefox&pbk=ImnVH3mK86iRKeSSANgSeUd7TeP-_cuiRkdu8PD8kAo&security=reality&serviceName=melov2ray&sid=32fd2962&sni=discord.com&spx=/&type=grpc#🇩🇪DE | 🔴 | vless | @melov2ray | 2
 vless://98d284ea-e611-4266-b3a9-3652b1a0fe9e@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 3
-vless://ce1a4b20-f9a1-4aba-8ae3-d6066ff154d9@help.melov2ray.shop:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#🇨🇦CA | 🔴 | vless | @melov2ray | 4
-vless://9d568a07-a12e-4ac1-a554-f7cddfce2db1@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇨🇦CA | 🔴 | vless | @melov2ray | 6
+vless://ce1a4b20-f9a1-4aba-8ae3-d6066ff154d9@help.melov2ray.shop:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#🇺🇸US | 🔴 | vless | @melov2ray | 4
+vless://9d568a07-a12e-4ac1-a554-f7cddfce2db1@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 6
 vless://d2f106da-b99a-454f-aae6-2c4a9e527670@help.melov2ray.shop:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#🇺🇸US | 🔴 | vless | @melov2ray | 7
 vless://49715d61-c947-4e11-ae05-9848c5f2100c@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 9
 vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@www.zula.ir:443?type=grpc&serviceName=melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#🇺🇸US | 🔴 | vless | @melov2ray | 10
@@ -557,7 +557,6 @@ vmess://eyJhZGQiOiJ3d3cuZ292LnNlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@elma.ns.cloudflare.com:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=lon2.mbh-meti.com&type=ws&sni=lon2.mbh-meti.com#🇺🇸US | 🔴 | vless | @proxyymeliii | 16
 vless://9f3ee763-b45e-4e71-8852-0be321a4fe19@46.226.162.251:34172?security=none&encryption=none&headerType=none&type=tcp#🇬🇧GB | 🔴 | vless | @proxyymeliii | 17
 vless://2033386f-64c0-48ad-bfea-63feabf36523@217.60.252.208:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @proxyymeliii | 18
-vless://be427558-0c61-42f6-ac8f-f99a7c6f56c2@LIGHTNING6-joinbede.filj.top:8880?path=/@LIGHTNING6, @LIGHTNING6, @LIGHTNING6, @LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#🇸🇪SE | 🔴 | vless | @proxyymeliii | 19
 vless://-MsV2ray-MsV2ray-MsV2ray-@185.146.173.58:2095?type=ws&path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=2048&host=www.cafebazaar.ir.www.myket.ir.科斯涅過濾器.website.&security=none#🇸🇪SE | 🔴 | vless | @MsV2ray | 2
 vless://-MsV2ray-MsV2ray-MsV2ray-@185.146.173.58:80?type=ws&path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=2048&host=www.zula.ir.www.speedtest.net.科斯涅過濾器.website.&security=none#🇸🇪SE | 🔴 | vless | @MsV2ray | 3
 vless://MsV2ray-MsV2ray-MsV2ray@Back.MsV2ray.online:2095?type=ws&path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=2048&host=www.cafebazaar.ir.www.myket.ir.科斯涅過濾器.website.&security=none#🇸🇪SE | 🔴 | vless | @MsV2ray | 5
@@ -604,3 +603,4 @@ vless://DIGIV2RAY@185.146.173.32:80?Telegram=@V2RayTz,@V2RayTz&path=/Digiv2ray-?
 vless://DIGIV2RAY@104.18.202.232:80?Telegram=@V2RayTz,@V2RayTz&path=/Digiv2ray-?Telegram=@V2RayTz,@V2RayTz&ed=2048=&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 10
 vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 11
 vless://51281f99-a4ff-4496-8d0d-71a548306a8c@185.146.173.59:2095?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @V2RayTz | 12
+vless://e5520f09-fd8b-49c0-89e6-3deff37b3eaa@185.146.173.59:8880?Telegram=@V2RayTz,@V2RayTz&path=/@LIGHTNING6, @LIGHTNING6, @LIGHTNING6, @LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#🇸🇪SE | 🔴 | vless | @V2RayTz | 13
