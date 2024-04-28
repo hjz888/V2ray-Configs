@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-105.mitoption.com:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-106.mitoption.com:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+trojan://VQcup0dd7ulkb1pV@us-01.pickaxe.sh:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+trojan://UvhTLyCf27fjxqPQ@shop-three.defun.us:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://OEfntmUGHmwQnNGr@shop-one.defun.us:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://INvx7sPho8PyTLS6@meet-one.defun.us:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiaGszLmZkbnMuY2xvdWRsaW5rMTIzLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzZjYwMDZjYS1lOGJhLTQ5ZDUtYWY5ZC1mNDgwNmRkMzZlMDkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJoazMuZmRucy5jbG91ZGxpbmsxMjMuY29tIiwidGxzIjoiIn0=
@@ -600,7 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.218.159:28082?security=tls&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@132.226.171.158:9527?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-132.226.171.158:9527 📡 PING-178.45-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@210.179.97.142:17486?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-210.179.97.142:17486 📡 PING-179.71-MS
 vless://b108405b-6e8c-4b6d-b5b7-aa0efda32377@81.12.96.179:20515?security=none&type=ws&host=Speedtest.com&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.12.96.179:20515 📡 PING-179.93-MS
-vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.57.29:8888 📡 PING-180.28-MS
-vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-181.81-MS
-vless://9a250c36-eee8-4cdb-93e6-4715becfc589@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-182.09-MS
-vless://9a250c36-eee8-4cdb-93e6-4715becfc589@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-186.18-MS

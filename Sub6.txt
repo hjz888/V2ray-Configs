@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:2053?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:2053 📡 PING-005.16-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.57:443 📡 PING-005.16-MS
+vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@45.80.111.137:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.137:80 📡 PING-005.16-MS
+vless://19be8473-3ce9-499e-bcfd-d0cb2d65e813@188.114.97.3:443?security=tls&sni=ch2-vless.sshmax.xyz&type=ws&host=ch2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.3:443 📡 PING-005.16-MS
 vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.66.45.10:443 📡 PING-005.16-MS
 vless://f97386df-3700-4f58-bbdd-9ff2bce803f1@104.21.74.139:2096?security=tls&sni=geminal.aurorainiceland.com&type=ws&path=%2Fgeminal&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:2096 📡 PING-005.16-MS
 vless://5b9a0223-578a-47c8-ba27-a0eb07beff95@188.114.98.224:80?security=none&type=ws&path=%2F%40ExpressVPN_420%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-188.114.98.224:80 📡 PING-005.16-MS
@@ -600,7 +604,3 @@ vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473ca@104.25.196.220:2083?security=tls&sn
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.221.166:443 📡 PING-005.08-MS
 vless://d289199f-b7e5-4e7a-959f-0e7069120f98@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.132.6:2096 📡 PING-005.08-MS
 vless://ba191efb-99fa-4a3d-8938-699c80585f22@172.66.47.153:443?security=tls&sni=pardazesh17.pages.dev&type=ws&host=pardazesh17.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.153:443 📡 PING-005.08-MS
-vless://556b08cc-2f87-485a-8664-6744538f3654@162.159.7.247:443?security=tls&sni=Sky2.bbv2ry.pics&type=ws&host=Sky2.bbv2ry.pics&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443 📡 PING-005.08-MS
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.21.48.84:443?security=tls&sni=hdfy6c4.foriran.trade&type=ws&host=hdfy6c4.foriran.trade&path=/Bc5xLs413y7DNJYMWXN7kCm3lL&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.84:443 📡 PING-005.08-MS
-vless://2956b41c-deed-47b3-868b-2224ee140817@162.159.137.232:443?security=tls&sni=dashcloudflare.bluev2rayng.cfd&type=ws&host=dashcloudflare.bluev2rayng.cfd&path=%2Fgra#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:443 📡 PING-005.08-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.63:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.63:443 📡 PING-005.08-MS
