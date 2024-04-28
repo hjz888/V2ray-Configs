@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443 📡 PING-008.54-MS
+trojan://6008202d-f9b4-4068-890b-298835d7a77a@104.21.69.44:443?security=tls&sni=fr1.trojanvpn.de&type=ws&host=fr1.trojanvpn.de&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:443 📡 PING-008.53-MS
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443 📡 PING-008.51-MS
+trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443 📡 PING-008.48-MS
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@172.67.193.36:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc&fp=chrome#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.193.36:2087 📡 PING-008.36-MS
+trojan://cabcaab-aacb-acab-bdac-cabbbbacacca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTpjYWFjYWJiLWFjYWItYWNhYi1kY2FiLWFjY2JjYWJhY2JiYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-09-ORDIBEHESHT-1403 🕑 15:35
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@38.180.80.187:16899#🔒 SS-TCP-NA 🇺🇸 US-38.180.80.187:16899 📡 PING-053.50-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#🔒 SS-TCP-NA 🇲🇽 MX-190.103.179.23:989 📡 PING-054.05-MS
@@ -598,9 +604,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2376#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.77:5500#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.77:5500 📡 PING-008.69-MS
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:9101 📡 PING-008.66-MS
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@23.227.60.186:80#🔒 SS-TCP-NA 🇨🇦 CA-23.227.60.186:80 📡 PING-008.66-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003 📡 PING-008.57-MS
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067 📡 PING-008.57-MS
-ss://TXNWMnJheS1Nc1YycmF5LU1zVjJyYXk6@185.146.173.59:2095#🔒 SS-TCP-NA 🇸🇪 SE-185.146.173.59:2095 📡 PING-008.55-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:8882 📡 PING-008.54-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.42:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:8080 📡 PING-008.50-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:5001 📡 PING-008.49-MS
