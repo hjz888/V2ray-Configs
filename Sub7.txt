@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@104.18.37.228:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.37.228:443 📡 PING-005.13-MS
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.90:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.90:8080 📡 PING-005.13-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-89.116.250.6:2083 📡 PING-005.13-MS
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.192.45:443 📡 PING-005.13-MS
@@ -603,4 +604,3 @@ trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.21.69.44:443?security=tls&sni=
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443 📡 PING-005.57-MS
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.9:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.9:443 📡 PING-005.53-MS
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443 📡 PING-005.52-MS
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-005.50-MS

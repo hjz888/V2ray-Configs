@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://12ac0ca9-c8eb-49fe-a5d7-7238a5620f48@172.67.154.193:2083?security=tls&sni=kilidstor.meysaam.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.154.193:2083 📡 PING-005.45-MS
 vless://43731e8b-a5bb-481a-fd87-1b4e41491352@88.216.66.126:2086?type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NA 🇱🇹 LT-88.216.66.126:2086 📡 PING-005.45-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.210:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.210:2083 📡 PING-005.45-MS
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.2:443 📡 PING-005.45-MS
@@ -603,4 +604,3 @@ vless://13198e79-6b05-4abf-c2d8-3860268e0180@104.16.60.8:80?security=none&type=w
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.34.21:443?security=tls&sni=bpB.RAdicALiZaTioN.iR&type=ws&host=bpb.RADICaliZatIOn.IR&path=%2FNHtQZSf1mdr3TeZa%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:443 📡 PING-005.24-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.7:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.7:443 📡 PING-005.24-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.222:2087 📡 PING-005.24-MS
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:80?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.148.99:80 📡 PING-005.24-MS

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-005.50-MS
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443 📡 PING-005.49-MS
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443 📡 PING-005.47-MS
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@104.21.39.134:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.39.134:443 📡 PING-005.47-MS
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.223:5499#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8090#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8090 📡 PING-006.40-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.225:8119#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8119 📡 PING-006.39-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.225:8888#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8888 📡 PING-006.35-MS
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7307#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7307 📡 PING-006.35-MS
