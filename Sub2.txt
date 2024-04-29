@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?path=/?ed=2048&security=tls&encryption=none&host=pardazesh25.pages.dev&fp=randomized&type=ws&sni=pardazesh25.pages.dev#🚩CF | 🔴 | vless | @VmessProtocol | 2
 vless://416e5016-2df4-4a3c-beca-fa8f3546776f@213.176.2.178:38266?encryption=none&security=none&type=tcp&headerType=http&host=aparat.com#🇮🇷IR | 🔴 | vless | @VmessProtocol | 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🇬🇧GB | 🟢 | ss | @VmessProtocol | 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧GB | 🟢 | ss | @VmessProtocol | 9
@@ -604,3 +603,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4yMDkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzNy42NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS45OSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJhLnByYXB0NS5pciIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzMy42NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
