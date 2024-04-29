@@ -4,33 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @vless_vmess | US🇺🇸 | 0️⃣1️⃣
-vless://c5563d61-58cb-4374-a966-fc533b5312ed@104.26.13.8:2087?alpn=h2&authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=ram.49z.info&type=grpc#رایگان | VLESS | @vless_vmess | US🇺🇸 | 0️⃣2️⃣
-vless://a49672ff-8770-4fdb-b4bd-f0394d7f5e82@185.146.173.59:80?encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org.&path=%2F&security=none&type=ws#رایگان | VLESS | @vless_vmess | SE🇸🇪 | 0️⃣5️⃣
-vless://c5563d61-58cb-4374-a966-fc533b5312ed@cl.parspack.com:2087?alpn=h2&authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=ram.49z.info&type=grpc#رایگان | VLESS | @vless_vmess | US🇺🇸 | 0️⃣6️⃣
-vless://7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb@104.24.95.58:2096?encryption=none&host=0a6b0c0a.expressvpnfree021-4j0.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=0a6b0c0a.expressvpnfree021-4j0.pages.dev&type=ws#رایگان | VLESS | @vless_vmess | US🇺🇸 | 0️⃣7️⃣
-vless://9b5dd301-e7f0-45d9-b098-5d8da184664f@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=fe.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣
-vless://adc29165-bdfc-495a-8cc3-e117bd0231fb@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣2️⃣
-vless://beafbe3f-5cc8-4d3a-969b-2112d39e097b@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=fe.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣3️⃣
-vless://a1ae3309-0a58-4468-aa1a-af63db7bc027@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣4️⃣
-vless://6adac6d4-517c-4540-b026-c11c7815789d@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&servicename=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&sni=fe.xsv2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣5️⃣
-vless://d113cd5c-80c9-43e2-a567-107819004a12@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&servicename=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&sni=dm.xsv2ray.cfd&type=grpc#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣6️⃣
-vless://be269eed-5993-4c34-8193-95829ac95dc9@185.146.173.94:8880?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=xn---qhantayawi--c-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣
-vless://080ca147-a023-4181-a2d5-22a935014ecc@185.146.173.58:2052?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=a.b.c.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣
-vless://617ffbbe-e527-4698-894a-13c6cbc2e709@185.146.173.32:2095?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣3️⃣
-vless://be64ac35-af88-4985-ad9e-3015c793e635@185.146.173.94:8880?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣4️⃣
-vless://be64ac35-af88-4985-ad9e-3015c793e635@185.146.173.94:8880?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=xn---qhantayawi--c-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣5️⃣
-vless://telegram-id-ArV2ray@185.146.173.58:80?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=1.mc.mihanyas.ir.www.farsroid.com.xn--48jyb6eya.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣6️⃣
-vless://6b078cfb-a4e3-4841-a51c-719ed52c1bea@185.146.173.58:80?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=a1.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&type=ws#رایگان | VLESS | @V2RayTz | SE🇸🇪 | 0️⃣7️⃣
-vless://bffead23-bd0b-44dd-b4cb-b2a745ae069f@muna.minusober.com:443?encryption=none&path=%2Fmuna&security=tls&sni=muna.minusober.com&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣
-vless://f5512b61-d706-4438-8d03-1817f0aba9e0@116.203.47.128:29253?encryption=none&fp=chrome&headerType=none&pbk=eS-KEoBKsWjjBTpMY6kr5eZbre-UPBGAiqmeNPLRkXg&security=reality&sid=5038468e&sni=canva.com&type=tcp#رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣
-vless://96ba9325-c815-4537-b12f-0932ce2e53a5@www.speedtest.net:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=de-02p.allhub.shop&path=%2FAsdASDkjfv%3B2834&security=tls&sni=admin.allhub.shop&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣
-vless://d2f106da-b99a-454f-aae6-2c4a9e527670@help.melov2ray.shop:443?encryption=none&fp=chrome&path=%2Fmelov2ray&security=tls&sni=help.melov2ray.shop&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣
-vless://Parsashonam-55@www.visa.com:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣
 vless://e6a047f0-734b-4bd7-82aa-367f2d88f4a4@104.21.94.125:443?encryption=none&fp=randomized&host=httpstmev2rayvmessfree.raminramin006.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=httpstmev2rayvmessfree.raminramin006.workers.dev&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.22:2082?encryption=none&host=h3.xn--gmq282ekfhyys3gs.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣2️⃣
 vless://25da296e-1d96-48ae-9867-4342796cd742@172.67.149.95:443?encryption=none&fp=chrome&host=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣
-vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@172.67.214.179:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&sni=ch.bo3kot.com&type=grpc#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣
 vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@104.21.23.243:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&sni=ch.bo3kot.com&type=grpc#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.67.38:2053?encryption=none&host=itcenteriran.blog&path=%2Fp%3D19&security=tls&sni=itcenteriran.blog&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=api2.shabazian.ir&path=%2F&security=tls&sni=api2.shabazian.ir&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣1️⃣
@@ -74,6 +50,8 @@ vless://2bcc97b3-ce59-412f-a09d-7ef8e38688f8@www.speedtest.net.cdn.cloudflare.ne
 vless://4a4494eb-0340-40c4-ba4e-7a07c16a0a59@join-VPNCUSTOMIZE.V2ray.motorcycles.:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FVPNCUSTOMIZE%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @Capoit | SE🇸🇪 | 0️⃣5️⃣
 vless://7f55b425-a623-439b-bbd5-0b1778162054@V2rayGodVip--mci1.V2rayGod.Site:80?encryption=none&host=v2raygodvip--free24.Azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | US🇺🇸 | 0️⃣6️⃣
 vless://7f55b425-a623-439b-bbd5-0b1778162054@V2rayGodVip--allh1.V2rayGod.Site:80?encryption=none&host=v2raygodvip--free24.Azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | SE🇸🇪 | 0️⃣7️⃣
+vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@time.is:443?encryption=none&fp=randomized&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣1️⃣
+vless://e66bb4ed-ea00-4361-b445-3077c3d9936a@104.19.54.50:443?encryption=none&fp=randomized&host=aRiAMEHr-3WP.pAges.DeV&path=Telegram%40Freakconfig&security=tls&sni=ARIameHr-3WP.PAGeS.Dev&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣2️⃣
 vless://51281f99-a4ff-4496-8d0d-71a548306a8c@185.146.173.59:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣2️⃣
 vless://V2RAXX@185.146.173.32:2052?encryption=none&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @mehrosaboran | SE🇸🇪 | 0️⃣1️⃣
 vless://V2RAXX@185.146.173.32:8080?encryption=none&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @mehrosaboran | SE🇸🇪 | 0️⃣2️⃣
@@ -114,13 +92,13 @@ vless://e51b714f-18ab-4969-a82d-4500649320bd@discord.org:8080?encryption=none&ho
 vless://telegram-id-ArV2ray@185.146.173.59:80?encryption=none&host=9.k.mihanyas.ir.www.farsroid.com.xn--48jyb6eya.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&type=ws#رایگان | VLESS | @TVCminer | SE🇸🇪 | 0️⃣4️⃣
 vless://telegram-id-ArV2ray@185.146.173.59:80?encryption=none&host=10.h.mihanyas.ir.www.zula.ir.xn--lan-5j3ex52c62e1lg804d3wxa.Site.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&type=ws#رایگان | VLESS | @TVCminer | SE🇸🇪 | 0️⃣5️⃣
 vless://c8e85c73-258f-41f6-8e56-3afac8c18ed8@172.232.53.15:47149?authority=&security=none&serviceName=&type=grpc#رایگان | VLESS | @raze_vpn | FR🇫🇷 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@18.171.102.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@13.37.143.68:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣2️⃣
-trojan://telegram-id-privatevpns@35.181.249.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣3️⃣
-trojan://telegram-id-privatevpns@3.65.201.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣4️⃣
-trojan://telegram-id-privatevpns@18.158.129.244:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@51.20.223.153:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@13.50.205.4:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣7️⃣
+trojan://telegram-id-privatevpns@108.128.51.187:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@18.135.85.237:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@18.171.102.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@13.37.143.68:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣4️⃣
+trojan://telegram-id-privatevpns@35.181.249.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣
+trojan://telegram-id-privatevpns@3.65.201.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣
+trojan://telegram-id-privatevpns@18.158.129.244:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?host=jobscareerforlawyers.com&path=%2F6b777a91&security=tls&sni=jobscareerforlawyers.com&type=ws#رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NE5lYmhxbGhSR2JhS2MwWVdNN09x@vienna.telegavpn.com:61992#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40azadi_az_inja_migzare+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdDZiT1dTcDlXRHpVdm14SWhNakZV@outline.de.outlinekeys.net:20888#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40azadi_az_inja_migzare+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
@@ -169,7 +147,7 @@ hy2://
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2024-04-29 07:09:57 UTC</div>
+            <div class="mt-3">2024-04-29 08:13:30 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -198,7 +176,7 @@ hy2://
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">San Jose</span>
+  <span class="md:block w-full truncate">Chicago</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -246,12 +224,12 @@ hy2://
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">87bd75c28cc4cea4</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">87bdd2dacf928134</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.157.14.94</span>
+      <span class="hidden" id="cf-footer-ip">172.183.82.219</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
