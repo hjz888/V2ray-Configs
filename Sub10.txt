@@ -4,6 +4,19 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://02dfc7eb-2dd6-475b-991c-b302ea593708@104.17.233.221:80?encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=none&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣
+vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=api2.shabazian.ir&path=%2F&security=tls&sni=api2.shabazian.ir&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣1️⃣
+vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@caretaker.com:2096?alpn=http%2F1.1&authority=&encryption=none&fp=safari&mode=gun&security=tls&serviceName=&sni=re4.v2logy.xyz&type=grpc#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣2️⃣
+vless://19be8473-3ce9-499e-bcfd-d0cb2d65e813@188.114.97.3:443?encryption=none&host=ch2-vless.sshmax.xyz&path=%2Fvless&security=tls&sni=ch2-vless.sshmax.xyz&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣3️⃣
+vless://35ae9f57-0a63-43dc-a391-530f05c96963@104.21.25.39:443?encryption=none&host=be2-vless.sshmax.xyz&path=%2Fvless&security=tls&sni=be2-vless.sshmax.xyz&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣4️⃣
+vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@104.17.42.10:2083?authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=dlqz.meysaam.com&type=grpc#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣5️⃣
+vless://5bdf790f-0af2-4481-a624-41b66e7e3489@188.114.99.99:443?alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=10-20%2C0%2Ctlshello&host=cdn.ircp.online&path=%2F%40ln2ray%3Fed%3D2048&security=tls&sni=cdn.ircp.online&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣6️⃣
+vless://4f43d8c6-eb82-4bd0-90de-0f03b96c8109@www.zula.ir:443?encryption=none&fp=chrome&host=MCI-Shatel-aSIaTeCH-pARsoNlINe-HiweB.PAges.dEv&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&sni=MCI-Shatel-aSIaTeCH-pARsoNlINe-HiweB.PAges.dEv&type=ws#رایگان | VLESS | @sinabigo | US🇺🇸 | 0️⃣7️⃣
+vless://SVNTEAM@185.146.173.59:80?host=SvnTeamV2rayGmOne7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @lrnbymaa | SE🇸🇪 | 0️⃣1️⃣
+vless://-VPNCUSTOMIZE@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣6️⃣
+vless://-VPNCUSTOMIZE@185.146.173.59:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @lrnbymaa | SE🇸🇪 | 0️⃣7️⃣
+vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?encryption=none&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣
+vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?encryption=none&fp=randomized&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=ir.proxystorepanel.eu.org&type=ws#رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=saLaM-Word.PaGeS.Dev&path=%2F&security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?encryption=none&fp=randomized&host=academivpn1-bo7.pages.dev&path=%2F&security=tls&sni=academivpn1-bo7.pages.dev&type=ws#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣
 vless://a59aafeb-1d05-4382-8220-4f5f7d84c7f6@185.146.173.58:80?encryption=none&host=alooo.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&path=%2FTelegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY-+Telegram%3A%40POLPROXY&security=none&type=ws#رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣1️⃣
@@ -130,7 +143,7 @@ hy2://
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2024-04-29 02:22:00 UTC</div>
+            <div class="mt-3">2024-04-29 03:10:46 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -207,12 +220,12 @@ hy2://
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">87bbcff63cc159f2</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">87bc1763ce3982a2</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.51.159.42</span>
+      <span class="hidden" id="cf-footer-ip">20.97.191.254</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
