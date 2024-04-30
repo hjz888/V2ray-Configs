@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://32be4b6d-4a84-4e0c-a77a-e850a6b3e225@89.221.224.166:443?security=tls&sni=is1.x2fast.net&type=ws&host=is1.x2fast.net&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇸 IS-89.221.224.166:443 📡 PING-112.00-MS
-vless://59eeaae6-8ec3-44ba-a297-8b14af898a53@141.105.130.77:57994?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:57994 📡 PING-113.14-MS
-vless://c3d656d7-8634-4a10-a043-810659fc6d4a@194.87.45.173:3306?security=none&type=tcp#🔒 VL-TCP-NONE 🇪🇸 ES-194.87.45.173:3306 📡 PING-113.37-MS
-vless://e36fe023-7881-4d6a-a99a-725394c1f30f@141.105.130.77:55945?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:55945 📡 PING-114.25-MS
 vless://7a7d1976-87dd-44b1-b290-b815770bff35@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443 📡 PING-114.51-MS
 vless://99e44f7f-3541-44e1-9d89-d2c4be65d89a@109.120.135.113:44843?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-109.120.135.113:44843 📡 PING-115.66-MS
 vless://5d23f47a-0c7f-4280-82e5-5993d50e1f18@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-117.17-MS
@@ -604,3 +600,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.190:443?security=tls&sni
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@104.21.27.231:2053?security=tls&sni=folani.iiipok.worKeRS.dEv&type=ws&host=folani.iiipok.worKeRS.dEv&path=%2Fjd.wxgqlfx.top%3A2053%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.231:2053 📡 PING-001.77-MS
 vless://35caec98-86de-4f38-a011-eb7e134446c7@172.67.197.28:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🇺🇸 US-172.67.197.28:443 📡 PING-001.77-MS
 vless://411e02f8-af26-420b-9ed4-11607310d0ee@104.21.88.58:443?security=tls&sni=pPal03-1shANEH1.MR-ViDaL-kiLbacK.WOrKerS.dEv&type=ws&host=PPAl03-1SHaNEH1.mR-vIDal-kILbAck.WOrkERS.dEv&path=%2FUCMqznkXuEFrofTD%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.58:443 📡 PING-001.77-MS
+vless://65b8f6d3-f347-48d4-bfff-bac8e5bf5d1d@172.66.213.38:2052?security=none&type=ws&host=rebelmoon%E3%82%B9%E3%82%AB%E3%83%BC%E3%82%AE%E3%83%90%E3%83%BCparttwo%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3.darkdiamond.top.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🇺🇸 US-172.66.213.38:2052 📡 PING-001.77-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.144:443 📡 PING-001.77-MS
+vless://96d0a52e-0e12-4cfc-bce4-037a9154e43d@172.66.44.111:443?security=tls&sni=pardazesh11.pages.dev&type=ws&host=pardazesh11.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.111:443 📡 PING-001.77-MS
+vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.176.195:80 📡 PING-001.77-MS
