@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443 📡 PING-087.59-MS
+vless://fc2e1de6-d07b-48f1-996f-cbfccb9a8e03@185.231.114.218:443?security=tls&sni=test.operator.monster&type=ws&host=test.operator.monster&path=/what?ed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.231.114.218:443 📡 PING-087.79-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&flow=xtls-rprx-vision&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-158.101.195.118:443 📡 PING-088.33-MS
 vless://30e76e45-35b2-426a-92f0-fbc200099f8b@95.164.117.128:443?security=tls&flow=xtls-rprx-vision&sni=de-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-95.164.117.128:443 📡 PING-088.53-MS
 vless://7a24704b-5d64-48a9-94d7-726ba993d51f@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003 📡 PING-088.58-MS
@@ -602,5 +604,3 @@ vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:2087?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.209:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.209:443 📡 PING-005.50-MS
 vless://b01fd23f-da88-51fa-b545-e86c55fc0ec6@104.19.125.91:443?security=tls&sni=freeconfig.join-telegram-channel-free-v2rng.WORKers.dev&type=ws&host=freeconfig.join-telegram-channel-free-v2rng.WORKers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.125.91:443 📡 PING-005.50-MS
 vless://ba5318c1-4ef6-4726-cf77-8007228eb7d7@104.21.67.173:2053?security=tls&sni=de04.dailybodymind.com&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.173:2053 📡 PING-005.50-MS
-vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?security=tls&sni=pardazesh8.pages.dev&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.133:443 📡 PING-005.49-MS
-vless://46f72049-4c32-455c-af5b-d6a6c0039679@104.21.19.32:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.32:443 📡 PING-005.49-MS

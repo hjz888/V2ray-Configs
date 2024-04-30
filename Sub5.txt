@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?security=tls&sni=pardazesh8.pages.dev&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.133:443 📡 PING-005.49-MS
+vless://46f72049-4c32-455c-af5b-d6a6c0039679@104.21.19.32:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.32:443 📡 PING-005.49-MS
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@104.26.12.54:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443 📡 PING-005.49-MS
 vless://669ad826-af8a-434b-8e61-d8d7caa230c2@104.21.74.139:443?security=tls&sni=forwarder.aurorainiceland.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443 📡 PING-005.49-MS
 vless://3b603889-aba6-47bb-8c7f-5d306b50c140@172.67.163.123:443?security=tls&sni=tr2-vless.sshmax.xyz&type=ws&host=tr2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.67.163.123:443 📡 PING-005.49-MS
@@ -602,5 +604,3 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.125.91:2096?security=tls&sni
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:2096 📡 PING-005.28-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.5:2083 📡 PING-005.28-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.139.111:8443 📡 PING-005.28-MS
-vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.241:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.246.241:2083 📡 PING-005.28-MS
-vless://1542d961-8578-4ef5-98f2-734c3c561bbc@104.18.203.232:443?security=tls&sni=theenchantingrift.pages.dev&type=ws&host=theenchantingrift.pages.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:443 📡 PING-005.28-MS

@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzOC45MyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4yIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4yNyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4yMDkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzNy42NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
@@ -602,5 +604,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@89.168.48.239:443?security=tls&flow
 vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@188.166.67.124:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-188.166.67.124:8080 📡 PING-086.90-MS
 vless://217966ac-777a-4f84-b7e4-5aa0857e8918@37.157.255.84:65000?security=tls&sni=a.mgtoken.net&type=ws&path=/#🔒 VL-WS-TLS 🇩🇪 DE-37.157.255.84:65000 📡 PING-086.95-MS
 vless://30809b51-e80a-43a8-8fd9-e9ee7a71ce0f@213.134.31.180:20191?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-213.134.31.180:20191 📡 PING-087.52-MS
-vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443 📡 PING-087.59-MS
-vless://fc2e1de6-d07b-48f1-996f-cbfccb9a8e03@185.231.114.218:443?security=tls&sni=test.operator.monster&type=ws&host=test.operator.monster&path=/what?ed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.231.114.218:443 📡 PING-087.79-MS

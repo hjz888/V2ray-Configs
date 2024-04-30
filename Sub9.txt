@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNmM1NDY3YS1iYzk5LTNmZWMtYmQ4YS1iMzNmZmM1MmM2YWI=@220.195.133.232:50015#🔒 SS-TCP-NA 🇨🇳 CN-220.195.133.232:50015 📡 PING-217.65-MS
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9046 📡 PING-217.74-MS
 ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@103.172.116.103:9099#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9099 📡 PING-217.83-MS
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.103:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9027 📡 PING-217.84-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9038 📡 PING-217.88-MS
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-2338
 #profile-title: base64:VFZDIHwgTUlY
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector

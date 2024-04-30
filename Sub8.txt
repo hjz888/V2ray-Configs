@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://94447ee1-76ac-4499-9b4f-06052d3f1e12@104.21.89.71:2087?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.71:2087 📡 PING-005.04-MS
+vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.8.55:443?security=tls&sni=qifei2024.dns.army&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.8.55:443 📡 PING-005.04-MS
 vless://ee2ce083-9461-4068-9040-bf4a5d286b7a@104.20.8.175:2053?security=tls&sni=miza-grpc-4dfcdaa9b187f7533626a34d19b4efee.mitsonic.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.8.175:2053 📡 PING-005.03-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.136.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&path=vless-ws%2F%3Fed%3D2048%2FTelegram%40V2ray_alpha%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:2053 📡 PING-005.03-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443 📡 PING-005.03-MS
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@103.172.116.79:9019#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.90:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9080 📡 PING-217.35-MS
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.103:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9088 📡 PING-217.36-MS
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.90:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9031 📡 PING-217.53-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNmM1NDY3YS1iYzk5LTNmZWMtYmQ4YS1iMzNmZmM1MmM2YWI=@220.195.133.232:50015#🔒 SS-TCP-NA 🇨🇳 CN-220.195.133.232:50015 📡 PING-217.65-MS
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9046 📡 PING-217.74-MS
