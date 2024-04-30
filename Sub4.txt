@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://98164f50-bfe5-4b4d-8e6b-e2946f23b8d3@172.233.249.144:80?security=none&type=ws&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🇫🇷 FR-172.233.249.144:80 📡 PING-108.54-MS
 vless://040a9349-5308-4c88-a15f-f4c3234f535c@5.75.199.183:443?security=tls&sni=vs3.alphaton.space&type=grpc&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇩🇪 DE-5.75.199.183:443 📡 PING-108.76-MS
 vless://4fdf518f-feee-49f3-924e-b106fde477f2@49.13.163.226:80?security=none&type=ws&host=google.com&path=%2FDiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇩🇪 DE-49.13.163.226:80 📡 PING-108.77-MS
 vless://979eff94-5697-413f-9473-c4a6cd94bd6e@159.69.27.1:51202?security=none&type=tcp&host=www.telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-159.69.27.1:51202 📡 PING-108.87-MS
@@ -604,3 +603,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.59.37:2053?security=tls&sni=
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.60.8:443?security=tls&sni=admin2.pythonic-ai.com&type=ws&host=admin2.pythonic-ai.com&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:443 📡 PING-003.66-MS
 vless://e9e2d63c-1cab-4605-b36d-fe52cc5130a7@162.159.136.234:2095?type=ws&host=xn--047h.v2raxx6.shop.&path=%2FV2RAXX-V2RAXX-V2RAXX%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.234:2095 📡 PING-003.66-MS
 vless://a6e6cd6b-a508-40ce-cccf-2d4750f95ec1@45.159.217.97:8080?security=none&type=ws&host=Daily-Configs-Join.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-45.159.217.97:8080 📡 PING-003.66-MS
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.13:443 📡 PING-003.66-MS
