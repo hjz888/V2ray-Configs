@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiaGthejQueG1ydGgtbm9kZS54eXoiLCJwb3J0IjoiMTMzMDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZWNlY2RkOGQtZDI1Ny0zZTliLWE3NzAtOWFiYWY2MWU0OTIwIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsImhvc3QiOiJoa2F6NC54bXJ0aC1ub2RlLnh5eiIsInRscyI6IiJ9
+ss://YWVzLTI1Ni1nY206bTM1eWZFanRiUw@c39s1.jamjams.net:32567#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.19:7306#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+trojan://e5d46365e25e31d94279c2bcf93390a2@o7cx6bd6t4yjiqsm.xiongsonglin.com:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-106.mitoption.com:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@169.197.142.99:9101#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://e5d46365e25e31d94279c2bcf93390a2@sg-sr-114.mitoption.com:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5003#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -599,8 +604,3 @@ vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&
 vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.111.71:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.111.71:443 📡 PING-177.07-MS
 vless://934e8a1a-3a81-496e-86cc-bd31b06f03d4@94.182.147.148:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-94.182.147.148:80 📡 PING-177.22-MS
 vless://9509ac33-1559-4565-9522-0e81138bc461@84.47.235.152:2095?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.152:2095 📡 PING-177.27-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.7.57:9999?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇷 KR-140.238.7.57:9999 📡 PING-177.30-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.151.32:19?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.151.32:19 📡 PING-177.62-MS
-vless://74d21728-1ef9-4b3f-bd62-3998d17a1a78@195.96.135.254:37281?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-195.96.135.254:37281 📡 PING-177.62-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@146.56.150.165:46452?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇷 KR-146.56.150.165:46452 📡 PING-177.65-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.145.38:50001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.145.38:50001 📡 PING-177.88-MS

@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.71:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.71:443 📡 PING-005.02-MS
+vless://44429467-1ddb-4461-887e-69f2fdcfebcb@104.31.16.91:80?security=none&type=ws&host=ZTL5iDkNDQmHZb6v4RNC.OPeENup.coM&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.91:80 📡 PING-005.02-MS
+vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@104.21.0.114:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.0.114:80 📡 PING-005.02-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443 📡 PING-005.02-MS
+vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@172.67.175.204:443?security=tls&sni=pPAl03.jeSSy-pADbERg.worKErS.dEv&type=ws&host=pPaL03.JeSsy-pAdberg.wOrkers.dEv&path=%2FxK8n9LZBJL6OzN1M%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.175.204:443 📡 PING-005.02-MS
 vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.47.67:443?security=tls&sni=pardazesh25.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.67:443 📡 PING-005.01-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443 📡 PING-005.01-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.56:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.56:2053 📡 PING-005.01-MS
@@ -599,8 +604,3 @@ ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@103.172.116.90:9093#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@103.172.116.79:9045#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9045 📡 PING-215.63-MS
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.103:9006#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9006 📡 PING-215.66-MS
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.103:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9097 📡 PING-215.67-MS
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.103:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9027 📡 PING-215.68-MS
-ss://YWVzLTI1Ni1jZmI6@103.172.116.94:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9000 📡 PING-215.68-MS
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.94:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9084 📡 PING-215.71-MS
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@103.172.116.94:9045#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9045 📡 PING-215.71-MS
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@103.172.116.94:9020#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9020 📡 PING-215.72-MS
