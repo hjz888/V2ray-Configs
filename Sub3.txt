@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@jgwcc3.gaox.ml:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://4337dfb9-bc77-4c08-8672-1f12f4d6f7fb@sg1.qingyun123.xyz:10001?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://4337dfb9-bc77-4c08-8672-1f12f4d6f7fb@jp1.qingyun123.xyz:10100?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5004#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -603,4 +604,3 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@152.70.239.134:34237?security=tls&s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.70.232.173:28756?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇰🇷 KR-152.70.232.173:28756 📡 PING-174.32-MS
 vless://3a1bbcab-1713-4c27-a81b-2cd81cd0fee4@193.123.237.143:443?security=tls&flow=xtls-rprx-vision&sni=dcpqkr1.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇰🇷 KR-193.123.237.143:443 📡 PING-174.54-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.145.38:50001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.145.38:50001 📡 PING-174.63-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.238.14.228:58854?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-140.238.14.228:58854 📡 PING-174.71-MS

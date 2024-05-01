@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://b1a9eb9f-58a7-4714-9a2b-d9ce474b3c08@185.133.35.148:80?security=none&type=ws&host=soft98.ir.de.debian.org.farsroid.com.xn--84-pv2cvta065cac9302fea377a148g.Store.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-ArfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.148:80 📡 PING-005.31-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:443?security=tls&sni=whmm.meRlINNz.LiNK&type=ws&host=whmm.meRlINNz.LiNK&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:443 📡 PING-005.31-MS
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.17.218.225:443?security=tls&sni=proxystore11.kodaksho.eu.org&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.218.225:443 📡 PING-005.31-MS
 vless://5a3ce743-f5f9-498d-b2f6-07087e318856@104.21.34.229:443?security=tls&sni=nl1.v2vless.xyz&type=ws&host=nl1.v2vless.xyz&path=@TLS_v2ray-@TLS_v2ray%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.229:443 📡 PING-005.31-MS
@@ -603,4 +604,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.9:8443?security=tls&sni=jd
 vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?security=tls&sni=pardazesh8.pages.dev&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.133:443 📡 PING-005.19-MS
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@77.75.199.156:2082?security=none&type=ws&host=h3.xn--gmq282ekfhyys3gs.com.&path=%2F#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.156:2082 📡 PING-005.19-MS
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@104.18.202.232:443?security=tls&sni=mindroom2-2kf.pages.dev&type=ws&host=mindroom2-2kf.pages.dev&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443 📡 PING-005.19-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.1:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.1:8443 📡 PING-005.19-MS

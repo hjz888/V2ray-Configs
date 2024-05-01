@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://626eb1b6-401b-4961-ae49-57cec0ef4372@173.245.58.31:443?security=tls&sni=High-speedV2ray.VPNCUSTOMIZE.tech&type=grpc&serviceName=‌@VPNCUSTOMIZE‌&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.58.31:443 📡 PING-005.08-MS
 vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@172.67.218.84:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.218.84:2053 📡 PING-005.08-MS
 vless://4b53ce9c-5999-4a06-bbfc-8b0856df19ca@104.17.151.240:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.240:80 📡 PING-005.08-MS
 vless://7f55b425-a623-439b-bbd5-0b1778162054@185.146.173.96:80?security=none&type=ws&host=v2raygodvip--free24.Azaronline.Org.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.96:80 📡 PING-005.08-MS
@@ -603,4 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZWU1Y2U1OS1hN2UyLTQ4NTAtYjkyOS1jOTAzYzY1M2J
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.248.114.187:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.248.114.187:2377 📡 PING-190.27-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.95.205:443#🔒 SS-TCP-NA 🇰🇷 KR-3.34.95.205:443 📡 PING-191.18-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZWU1Y2U1OS1hN2UyLTQ4NTAtYjkyOS1jOTAzYzY1M2JmNzI=@223.111.150.118:10001#🔒 SS-TCP-NA 🇨🇳 CN-223.111.150.118:10001 📡 PING-192.15-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZWU1Y2U1OS1hN2UyLTQ4NTAtYjkyOS1jOTAzYzY1M2JmNzI=@120.199.84.187:50502#🔒 SS-TCP-NA 🇨🇳 CN-120.199.84.187:50502 📡 PING-196.02-MS

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.1:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.1:8443 📡 PING-005.19-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.123:443?security=tls&sni=PpaL03-PANJSHaNBeH2.paGEs.DeV&type=ws&host=PpAl03-pAnJsHaNbEH2.paGeS.dEV&path=%2FGKYDzsU3TGG67ubH%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.123:443 📡 PING-005.19-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.192.142:443?security=tls&sni=ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV&type=ws&host=ppAl03-sHANBeH2.mRS-AntoINetTe-OHarA.wOrkerS.deV&path=%2F0ZMEGjVSSsqFUJqv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.192.142:443 📡 PING-005.19-MS
 vless://4b68508e-456d-4949-96b5-113300640c05@104.25.107.32:443?security=tls&sni=1eE61c3F.WYVERNFrEE.pAGES.DEV&type=ws&host=1ee61C3F.wyVeRnFrEe.PAgES.dEV&path=%2FpowerdbyWyvern%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.107.32:443 📡 PING-005.19-MS
@@ -603,4 +604,3 @@ vless://cece4a63-9099-40fc-a6d7-e4a4a1e6c2c3@172.66.47.131:443?security=tls&sni=
 vless://fdf4f24b-c04c-49bb-ba62-3102ad995aad@91.193.58.1:443?security=tls&sni=ns5.kellekcollection.com&type=grpc&serviceName=‌@VPNCUSTOMIZE‌&fp=chrome#🔒 VL-GRPC-TLS 🇬🇧 GB-91.193.58.1:443 📡 PING-005.08-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096 📡 PING-005.08-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.6:443 📡 PING-005.08-MS
-vless://626eb1b6-401b-4961-ae49-57cec0ef4372@173.245.58.31:443?security=tls&sni=High-speedV2ray.VPNCUSTOMIZE.tech&type=grpc&serviceName=‌@VPNCUSTOMIZE‌&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.58.31:443 📡 PING-005.08-MS
