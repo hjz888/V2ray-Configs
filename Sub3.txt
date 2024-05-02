@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJhZGQiOiAiMTc2LjEyMC42NS4xMDkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXQzLXZtZXNzLnNzaG1heC54eXoiLCAiaWQiOiAiNTgxM2NjNmYtN2ZlMi00NzFjLThkYzEtMjJiYjg5ZmVhNjkxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.252.234:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiMTA0LjE4LjI5LjI1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJqcGFmenloZnNnMy55b2ZuaGtmYy54eXoiLCAiaWQiOiAiYTU5NWU5YmEtYjY0MS00ODBmLTg1OTctMzIzNjEyMzU3YmE1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92aWRlby91NGVDWlR4VyIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiNDcuMjQyLjIyLjE3MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2IxMDcyY2UtZDA5Ni00NmMyLWEzZTctMDhiNGY1ODUzOGY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDI4NjgxLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8ifQ==
 vless://e2987f46-8281-40c4-c6fc-8f75e601ef13@185.146.173.94:8880?path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&type=ws#%40proxyymeliii
@@ -604,3 +602,5 @@ vless://8ac97b01-23f3-4d87-b78f-44ecb577cd8b@188.119.113.68:443?security=tls&sni
 vless://4f92b020-da80-51d9-a3d5-cf6aa1f7f227@45.76.82.86:443?security=tls&sni=kv-02.artemis-vpn.org&type=ws&host=kv-02.artemis-vpn.org&path=/@@kurdistan_vpn_perfectt&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-45.76.82.86:443 📡 PING-086.24-MS
 vless://2262eb4f-adda-4e6e-a410-11523d9ba574@140.82.38.219:443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-140.82.38.219:443 📡 PING-086.28-MS
 vless://e1797b99-3d72-40b4-8d32-87ad7b8290f9@104.207.130.40:443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-104.207.130.40:443 📡 PING-086.83-MS
+vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443 📡 PING-086.93-MS
+vless://15c8e8e3-4f66-48af-b0de-0b869a642bc1@212.52.1.77:5454?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-212.52.1.77:5454 📡 PING-087.00-MS

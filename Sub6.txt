@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://5cf3419b-ad27-4e41-a1ca-c009631ff6eb@104.16.60.8:2087?security=tls&sni=V2rayeServers.aminhossienam.ir&type=grpc&serviceName=@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.60.8:2087 📡 PING-001.62-MS
-vless://6eaabb55-831c-433d-879e-9b3a054dc650@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2f&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443 📡 PING-001.62-MS
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@172.67.156.210:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=Telegram+%40v2rayng_ribvar#🔒 VL-WS-NONE 🇺🇸 US-172.67.156.210:80 📡 PING-001.62-MS
 vless://b15153e1-7cae-4265-b1ed-c306ca995950@185.146.173.59:8443?security=tls&sni=uk1.isvphp1.onflashdrive.app&type=ws&path=%2Fvless&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.59:8443 📡 PING-001.62-MS
 vless://fff7e9a0-592b-44d5-9fc5-8005c9455d7f@172.67.163.123:80?security=none&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-172.67.163.123:80 📡 PING-001.62-MS
@@ -604,3 +602,5 @@ vless://5a3ce743-f5f9-498d-b2f6-07087e318856@104.21.34.229:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.80:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.80:443 📡 PING-001.48-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.2:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.2:8443 📡 PING-001.48-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@172.67.180.238:8443?security=tls&sni=folani.iiipok.wORKErS.DEv&type=ws&host=folani.iiipok.wORKErS.DEv&path=%2Fguq22.oXNETwORKs.lInk%3A8443%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.180.238:8443 📡 PING-001.48-MS
+vless://5d27a365-1f98-46fc-a89f-8b1ff711c647@188.114.97.0:8443?security=tls&sni=gogo.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.97.0:8443 📡 PING-001.48-MS
+vless://19a05c90-a0bf-43d6-86c3-9bb6822568c0@162.159.130.234:2096?security=tls&sni=trv2rat-cd.iraniposhal.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096 📡 PING-001.48-MS
