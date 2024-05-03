@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.234.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:2052 📡 PING-092.02-MS
 vless://4fdf518f-feee-49f3-924e-b106fde477f2@49.13.163.226:80?security=none&type=ws&host=google.com&path=%2FDiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇩🇪 DE-49.13.163.226:80 📡 PING-092.08-MS
 vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.225.84:443 📡 PING-092.13-MS
 vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?security=tls&sni=mohsenfitshr.wibibin259.workers.dev&type=ws&host=mohsenfitshr.wibibin259.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:443 📡 PING-093.17-MS
@@ -603,4 +604,3 @@ vless://94447ee1-76ac-4499-9b4f-06052d3f1e12@104.21.89.71:2087?security=tls&sni=
 vless://5fd6974f-ca32-45eb-c59f-36b7abfe00f9@104.18.202.232:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2086 📡 PING-005.50-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.139.111:2083 📡 PING-005.50-MS
 vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.95:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:2053 📡 PING-005.50-MS
-vless://79978027-ef16-4137-b18e-905f8c18f845@172.67.254.45:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.254.45:8080 📡 PING-005.50-MS

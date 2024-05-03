@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://45ca084b-d774-4c75-afa3-2c5b9ee91bfd@172.232.43.13:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.43.13:443 📡 PING-000.00-MS
 trojan://cbaabac-acba-aabc-cbda-aaccbbcbaacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTpjY2FiYmFhLWFhYmMtYWNhYi1kYWJjLWNjYWJiYWNhYWJiYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 FRI-14-ORDIBEHESHT-1403 🕑 03:33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.98:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.98:2377 📡 PING-055.46-MS
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.218:8090#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:8118 📡 PING-006.75-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-006.70-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:8118 📡 PING-006.60-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8080#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8080 📡 PING-006.57-MS

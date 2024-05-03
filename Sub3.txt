@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?path=%2Fmahdiiprog&security=none&encryption=none&host=mail.mahan-prog.ir&type=ws#%40V2ray1_Ng
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.134.159:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?path=%40HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://c820c9e8-0d1f-42d8-8947-c6fc93a682d3@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=33333.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -603,4 +604,3 @@ vless://6c317171-a223-4466-ad3b-ec73f4267668@51.75.77.237:2003?security=tls&sni=
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-144.24.206.147:443 📡 PING-091.60-MS
 vless://5c7d4376-935a-452d-8cf8-1a8a8e5dd42c@185.143.234.122:2086?type=ws&host=asashop.co&path=%2Fdash#🔒 VL-WS-NA 🇮🇷 IR-185.143.234.122:2086 📡 PING-091.67-MS
 vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.233.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2052 📡 PING-091.80-MS
-vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.234.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:2052 📡 PING-092.02-MS
