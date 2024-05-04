@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e555a459-6070-4000-b019-1a0a3d673e59@173.245.59.181:443?security=tls&sni=menu-in-pages-template-flutters.nigc-ar.com&type=ws&host=menu-in-pages-template-flutters.nigc-ar.com&path=44376%2FTemplate&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.181:443 📡 PING-069.54-MS
 vless://0f706d06-85b6-4e85-a954-63da05f79760@140.99.233.18:80?security=none&type=ws&host=m.speedur.site&path=%2Fspeed#🔒 VL-WS-NONE 🇩🇪 DE-140.99.233.18:80 📡 PING-070.57-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@185.176.26.3:8443?security=tls&sni=xow10.oXNEtworKS.liNK&type=ws&host=xow10.oXNEtworKS.liNK&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.3:8443 📡 PING-083.93-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.40.234:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-46.137.40.234:22222 📡 PING-087.45-MS
@@ -604,3 +603,4 @@ vless://064363e7-d60e-11ee-aaa8-00505603e70d@162.159.130.234:443?security=tls&sn
 vless://0ca3eb00-271b-49e0-b3c8-fe2e8ba634b8@104.21.30.22:443?security=tls&sni=freedom8.yeweroh309.workers.dev&type=ws&host=freedom8.yeweroh309.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.30.22:443 📡 PING-003.10-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.31:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443 📡 PING-003.09-MS
 vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@172.67.204.84:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2052 📡 PING-003.09-MS
+vless://a4b5ae06-6863-48be-8042-c4f89e9b2ec2@172.67.205.165:443?security=tls&sni=nl1.v2vless.xyz&type=ws&host=nl1.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.165:443 📡 PING-003.09-MS
