@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://-MsV2ray-MsV2ray-MsV2ray-@185.146.173.58:80?type=ws&path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=2048&host=www.zula.ir.www.speedtest.net.科斯涅過濾器.website.&security=none#🇸🇪SE | 🔴 | vless | @MsV2ray | 7
-vless://76241e82-8ded-416a-9d4c-84d5a0989149@172.64.155.189:443?path=TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h3&host=pOrIYA-wARphIddiFy-PAnel.paGeS.DEV&fp=chrome&type=ws&sni=pORiyA-warPhIDdify-PANEL.PAGEs.DeV#🚩CF | 🔴 | vless | @v2ray1_ng | 3
-vless://c820c9e8-0d1f-42d8-8947-c6fc93a682d3@172.67.204.84:80?path=/@custom_config?ed=2048&security=none&encryption=none&host=33333.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#🚩CF | 🔴 | vless | @v2ray1_ng | 4
 vless://009b7af9-7a82-4fd1-9a96-1605139fe7ed@23.227.60.130:80?path=@HAJIMAMADVPN?ed=2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#🇨🇦CA | 🔴 | vless | @v2ray1_ng | 5
 vless://0b10d705-79cb-4e33-99a2-f7e97d06022e@g4.zapserver.xyz:30155?path=/&security=none&encryption=none&type=ws#🇮🇷IR | 🔴 | vless | @v2ray1_ng | 7
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#🚩CF | 🔴 | vless | @vless_vmess | 4
@@ -604,3 +601,6 @@ trojan://MyYoZhfX@36.138.99.56:40316?allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.141:8882#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7ogX0xVX+WNouajruWgoSIsImFkZCI6IjQ1LjgyLjMxLjE2NCIsInBvcnQiOiIzMzg5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.86.135.223:5499#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.158.56.17:7307#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E6%84%8F%E5%BF%97%E8%81%94%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@142.202.51.58:8080#%F0%9F%87%AC%F0%9F%87%A7%20_GB_%E8%8B%B1%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoiX1FBX+WNoeWhlOWwlCIsImFkZCI6IjU0LjM4LjIxMi45MSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ZTY2MDY4MC1lN2JiLTQ3MjUtZjFjOS04NGQxZmRiYmY1YzYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Ind3dy5nb3YudWsiLCJ0bHMiOiIifQ==
