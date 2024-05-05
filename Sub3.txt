@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#@Hope_Net-join-us-on-Telegram
-vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?path=/?ed=2048&security=tls&encryption=none&host=pardazesh8.pages.dev&fp=randomized&type=ws&sni=pardazesh8.pages.dev#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.250.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://dcf0fcec-3800-4f42-9b78-1323f6a4a004@95.164.117.128:443?allowInsecure=1&sni=de2-full.privateip.net#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjE5LjI1MC4xNSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFlYzgyZmE2LWFiNzAtNGQwYS1lN2ZiLTQyMmVmNzI5ZDk2MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImhlbGFudjZjZi5pbmVrb2tray50b3AiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgX05MX+iNt+WFsCIsImFkZCI6Im5sMi1mdWxsLnByaXZhdGVpcC5uZXQiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI3YTBjZjM5LTk5ZmEtNDdhNC04ZDlmLTUyNjM4MDZlOGNjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUkFDRVZQTiIsImhvc3QiOiJubDItZnVsbC5wcml2YXRlaXAubmV0IiwidGxzIjoidGxzIn0=
@@ -604,3 +599,8 @@ vless://b2829e06-f767-4975-b033-be95ee361fa0@95.164.113.34:443?security=tls&sni=
 vless://f0ce8267-5948-4f1a-9180-2a3f31b76031@94.228.165.121:2053?security=tls&sni=hamEdan.daMpezeshki.lOl&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇵🇱 PL-94.228.165.121:2053 📡 PING-120.29-MS
 vless://99e44f7f-3541-44e1-9d89-d2c4be65d89a@109.120.135.113:44843?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-109.120.135.113:44843 📡 PING-121.16-MS
 vless://5d23f47a-0c7f-4280-82e5-5993d50e1f18@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-121.71-MS
+vless://7421c12c-47c4-41cb-8abe-23d0d98eb141@139.162.91.35:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-139.162.91.35:443 📡 PING-150.05-MS
+vless://6b1d5ec7-71ed-4523-98b7-4562972937e3@31.14.122.73:18312?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.122.73:18312 📡 PING-159.14-MS
+vless://e22ef9fa-74ff-4a35-9c85-f91ba2218bb5@193.151.153.109:443?security=none&type=tcp&host=namava.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.153.109:443 📡 PING-160.30-MS
+vless://3f2a993b-fcba-43e4-8dbd-f2b4dee4d9cf@78.109.200.182:30955?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.200.182:30955 📡 PING-160.48-MS
+vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&type=ws&host=mail.mahan-prog.ir&path=%2Fmahdiiprog#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.42:8880 📡 PING-160.83-MS

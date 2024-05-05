@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://7421c12c-47c4-41cb-8abe-23d0d98eb141@139.162.91.35:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-139.162.91.35:443 📡 PING-150.05-MS
-vless://6b1d5ec7-71ed-4523-98b7-4562972937e3@31.14.122.73:18312?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.122.73:18312 📡 PING-159.14-MS
-vless://e22ef9fa-74ff-4a35-9c85-f91ba2218bb5@193.151.153.109:443?security=none&type=tcp&host=namava.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.153.109:443 📡 PING-160.30-MS
-vless://3f2a993b-fcba-43e4-8dbd-f2b4dee4d9cf@78.109.200.182:30955?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.200.182:30955 📡 PING-160.48-MS
-vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&type=ws&host=mail.mahan-prog.ir&path=%2Fmahdiiprog#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.42:8880 📡 PING-160.83-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@45.78.55.32:28874?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇯🇵 JP-45.78.55.32:28874 📡 PING-160.86-MS
 vless://83d63ef0-34c5-45ab-ba31-ee5ddef04b98@80.71.149.223:8000?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-80.71.149.223:8000 📡 PING-161.52-MS
 vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.255.205:2001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.255.205:2001 📡 PING-161.79-MS
@@ -604,3 +599,8 @@ vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@172.67.187.219:2052?security=none&t
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@172.67.170.103:443?security=tls&sni=marly.toptechnonews.com&type=ws&host=marly.toptechnonews.com&path=%2Fnimws&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.103:443 📡 PING-005.52-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-89.116.180.161:2096 📡 PING-005.52-MS
 vless://6024b2c4-5f46-42bb-a5b4-82c0ea7ae73f@77.37.33.82:443?security=tls&sni=5us2.pqjc.buzz&type=ws&path=%2Fpq%2Fus2&fp=safari#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.82:443 📡 PING-005.52-MS
+vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.205.0.50:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.205.0.50:80 📡 PING-005.52-MS
+vless://64b2f336-f8bd-4c8b-9744-5699da10f025@162.159.138.232:2095?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2095 📡 PING-005.52-MS
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@162.159.7.219:443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.219:443 📡 PING-005.52-MS
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.44.237:2053?security=tls&sni=AzadNet-sEMej-STM-hAGh.pAges.DEv&type=ws&host=AzadNet-sEMej-STM-hAGh.pAges.DEv&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.237:2053 📡 PING-005.52-MS
+vless://35b4341e-66a5-432f-ad21-ad9093e65dd0@104.18.203.232:2095?security=none&type=ws&host=de11.vlessx.us&path=%40freeiranweb#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2095 📡 PING-005.52-MS
