@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.130.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2083 📡 PING-002.26-MS
-vless://54af6fdf-3ce0-4d33-a09c-d91206ed14b3@188.114.96.0:2087?security=tls&sni=T.ArmanCamera.ir&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.0:2087 📡 PING-002.26-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.163:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.163:443 📡 PING-002.26-MS
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.6:2053 📡 PING-002.26-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.101.123.212:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.123.212:443 📡 PING-002.26-MS
 vless://c110db8f-72c8-52a2-8ae9-dfbfd9704035@172.67.131.154:443?security=tls&sni=joinmahdiserver.pmyzdpx.wOrkErS.DEV&type=ws&host=joinmahdiserver.pmyzdpx.wOrkErS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.154:443 📡 PING-002.26-MS
@@ -604,3 +601,6 @@ vless://cece4a63-9099-40fc-a6d7-e4a4a1e6c2c3@172.66.44.125:443?security=tls&sni=
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.124:443?security=tls&sni=Telegram-ZTV2RAY.pages.dev&type=ws&host=Telegram-ZTV2RAY.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:443 📡 PING-002.11-MS
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.29:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.29:8080 📡 PING-002.11-MS
 vless://16f89bf2-7059-4f98-98a4-6be27932c93b@104.26.7.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.89:443 📡 PING-002.11-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.59:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.59:443 📡 PING-002.11-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.219.5.130:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.130:443 📡 PING-002.11-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.225:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.225:8443 📡 PING-002.11-MS

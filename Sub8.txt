@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.59:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.59:443 📡 PING-002.11-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.219.5.130:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.130:443 📡 PING-002.11-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.225:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.225:8443 📡 PING-002.11-MS
 vless://ea875b96-be12-4bba-f558-3c8777882874@104.21.19.202:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.202:2052 📡 PING-002.11-MS
 vless://63b31b2f-7df8-47aa-9eb2-f0deacbe0ee7@104.21.53.184:2053?security=tls&sni=free.econoos.com&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.184:2053 📡 PING-002.11-MS
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.90:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.90:8080 📡 PING-002.11-MS
@@ -604,3 +601,6 @@ vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.129.233:2083?security=tls&s
 vless://2ab13129-3443-4544-b159-29a74b3ff443@104.21.77.101:2087?security=tls&sni=nl.RxV2ray.space&type=grpc&serviceName=%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.77.101:2087 📡 PING-001.84-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.54:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.54:8443 📡 PING-001.84-MS
 vless://1890351e-af30-40f3-8595-127671bde200@160.79.104.10:2053?security=tls&sni=vpn--ocean2.cdn-user.workers.dev&type=ws&host=vpn--ocean2.cdn-user.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.10:2053 📡 PING-001.83-MS
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.176.105:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.105:8080 📡 PING-001.81-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=k.kp&type=ws&path=%2F%40Alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2F%3Fed&fp=safari#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443 📡 PING-001.78-MS
+vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.249.101:2095 📡 PING-000.00-MS

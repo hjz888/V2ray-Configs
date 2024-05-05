@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.176.105:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.105:8080 📡 PING-001.81-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=k.kp&type=ws&path=%2F%40Alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2F%3Fed&fp=safari#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443 📡 PING-001.78-MS
-vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.249.101:2095 📡 PING-000.00-MS
 vless://64b2f336-f8bd-4c8b-9744-5699da10f025@162.159.137.232:2095?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2095 📡 PING-000.00-MS
 vless://aabcacb-baac-abac-dabc-abcabbcacbca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNjYmFhYWItY2FiYS1hY2FiLWRiY2EtYmNhYmNjYWFiY2JhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgU1VOLTE2LU9SRElCRUhFU0hULTE0MDMgXHVkODNkXHVkZDUxIDE1OjMzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@103.172.116.94:9003#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.103:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9007 📡 PING-207.79-MS
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.90:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9057 📡 PING-207.79-MS
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@103.172.116.90:9093#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9093 📡 PING-207.91-MS
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9007 📡 PING-207.99-MS
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.94:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9084 📡 PING-208.00-MS
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.103:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9031 📡 PING-208.03-MS

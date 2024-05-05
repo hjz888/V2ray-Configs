@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.101.27:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
-vless://ff884731-2476-44aa-855c-a5384085672d@gcore.com:80?path=/ws&security=none&encryption=none&host=mamanodamind.com&type=ws#@Hope_Net-join-us-on-Telegram
-vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&encryption=none&host=pardazesh14.pages.dev&fp=randomized&type=ws&sni=pardazesh14.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.159.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
@@ -604,3 +601,6 @@ vless://351656fd-d452-53ee-ab56-2aefd01e697f@65.109.176.246:46205?security=none&
 vless://7a7d1976-87dd-44b1-b290-b815770bff35@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003 📡 PING-130.18-MS
 vless://7a7d1976-87dd-44b1-b290-b815770bff35@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443 📡 PING-130.30-MS
 vless://11e852ab-0d0f-4f11-b861-1883b1e55332@5.42.107.242:13428?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇷🇺 RU-5.42.107.242:13428 📡 PING-131.31-MS
+vless://32be4b6d-4a84-4e0c-a77a-e850a6b3e225@89.221.224.166:443?security=tls&sni=is1.x2fast.net&type=ws&host=is1.x2fast.net&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇸 IS-89.221.224.166:443 📡 PING-131.57-MS
+vless://b2829e06-f767-4975-b033-be95ee361fa0@95.164.113.34:443?security=tls&sni=fi3-vless.sshmax.xyz&type=ws&host=fi3-vless.sshmax.xyz&path=%2F@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2C@AstroVPN_official%2Fvless#🔒 VL-WS-TLS 🇫🇮 FI-95.164.113.34:443 📡 PING-131.69-MS
+vless://09284371-09ee-4ad7-a3f6-3b7bcd583999@89.221.224.13:80?security=none&type=ws&path=%2Fvless#🔒 VL-WS-NONE 🇮🇸 IS-89.221.224.13:80 📡 PING-131.94-MS

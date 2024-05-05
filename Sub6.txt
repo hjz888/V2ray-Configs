@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.7.37:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.37:443 📡 PING-002.71-MS
-vless://f35ee8d8-6ef1-49d5-a138-12b3d514e873@172.66.47.54:443?security=tls&sni=pardazeshvpn-tg6.pages.dev&type=ws&host=pardazeshvpn-tg6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.54:443 📡 PING-002.71-MS
-vless://545d8edd-03a3-4100-ae73-078bbba1964a@104.21.28.62:443?security=tls&sni=es2-vless.sshmax.xyz&type=ws&host=es2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443 📡 PING-002.71-MS
 vless://834ba8c5-a6a2-482f-b9f9-97bb86e52904@172.66.47.91:443?security=tls&sni=1bdf3e45.mahdiserver-3kd.pages.dev&type=ws&host=1bdf3e45.mahdiserver-3kd.pages.dev&path=CHANNEL:@vpnwedbazTelegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz--Telegram:@vpnwedbaz-Telegram:@vpnwedbaz%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.91:443 📡 PING-002.71-MS
 vless://399206b3-3c09-43e2-85cd-9a13256fcfad@104.19.255.51:443?security=tls&sni=pichar.ser2ser2.top&type=ws&host=pichar.ser2ser2.top&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.255.51:443 📡 PING-002.71-MS
 vless://40d3fdd7-e534-4762-a125-359484e522ef@104.21.65.172:443?security=tls&sni=PpAL03.MagDalENA-GaYLoRd.workERs.dEV&type=ws&host=pPAL03.mAGdalena-GayloRd.WOrkERS.DEv&path=%2FN-_L-VT4Ff-rSL8v%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.172:443 📡 PING-002.71-MS
@@ -604,3 +601,6 @@ vless://0788e1f1-fac6-486e-b3fd-08de8980c6c5@104.19.99.230:443?security=tls&sni=
 vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@104.21.90.164:443?security=tls&sni=ashburn.omega-dic.workers.dev&type=ws&host=ashburn.omega-dic.workers.dev&path=%2Fbs55Ovr86OzuubiHi#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.164:443 📡 PING-002.26-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.191:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.191:443 📡 PING-002.26-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:2087 📡 PING-002.26-MS
+vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.130.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2083 📡 PING-002.26-MS
+vless://54af6fdf-3ce0-4d33-a09c-d91206ed14b3@188.114.96.0:2087?security=tls&sni=T.ArmanCamera.ir&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.0:2087 📡 PING-002.26-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.163:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.163:443 📡 PING-002.26-MS
