@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.218:443 📡 PING-001.77-MS
-vless://8aacd26d-9f4f-4db1-89fc-9eb2f07a2798@104.19.217.47:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.217.47:443 📡 PING-001.77-MS
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.115.35:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.115.35:2096 📡 PING-001.77-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.211:2053 📡 PING-001.77-MS
 vless://e2894e45-c95f-4b45-ba9a-37e6830999b7@104.16.61.8:2096?security=tls&sni=vaylafoodakor.atkfood.com&type=ws&host=vaylafoodakor.atkfood.com&path=%2FAMVPN+Telegram+Channel#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2096 📡 PING-001.77-MS
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.64.80.1:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.80.1:2052 📡 PING-001.77-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.134:2096 📡 PING-001.77-MS
@@ -604,3 +600,7 @@ vless://939fcfa4-0d30-4f86-a1f7-13cc2dae002b@162.159.195.65:443?security=tls&sni
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.38.126:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.38.126:8080 📡 PING-001.68-MS
 vless://58172a35-8d87-431f-bd4f-ad051e90a52c@45.12.30.16:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.16:8080 📡 PING-001.68-MS
 vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443?security=tls&sni=ztv2ray.teyekas893.wORKeRS.DEV&type=ws&host=ztv2ray.teyekas893.wORKeRS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.216.72:443 📡 PING-001.68-MS
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&host=B458AB02.Caa-CHAnEl-wORker-PAgE-FrEE-jhuihNujhpHjkL-NiHGKJN.pages.DeV&path=%2FBMkPskkiYM1rrlxM%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.84.115:443 📡 PING-001.68-MS
+vless://0f706d06-85b6-4e85-a954-63da05f79760@140.99.233.0:80?type=ws&host=m.speedur.site&path=%2Fspeed#🔒 VL-WS-NA 🇩🇪 DE-140.99.233.0:80 📡 PING-001.68-MS
+vless://cb1732d1-bd77-47e5-9ac4-9cca1c496f47@172.66.44.168:2096?security=tls&sni=tiauoays789rfjlsdfj.pages.dev&type=ws&host=tiauoays789rfjlsdfj.pages.dev&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:2096 📡 PING-001.67-MS
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.15.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:2096 📡 PING-001.67-MS
