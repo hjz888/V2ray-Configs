@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a59739cb-8207-4878-b84d-458e1513bfac@172.67.211.208:443?security=tls&sni=Ppal03.darRel-hARVEY.WorKERS.dEV&type=ws&host=PPAL03.DArRel-haRVeY.wORkErs.Dev&path=%2FkkNN7exNaw26RpWD%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.208:443 📡 PING-005.13-MS
-vless://e9e2d63c-1cab-4605-b36d-fe52cc5130a7@162.159.133.234:2095?type=ws&host=xn--047h.v2raxx6.shop.&path=%2FV2RAXX-V2RAXX-V2RAXX%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.234:2095 📡 PING-005.13-MS
-vless://008f8af6-483c-4860-97a1-4b5be158d1d9@172.67.174.201:8880?security=none&type=ws&host=mmd.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.lavazemjanebicoffee.IR&path=%2Ftelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%2Ctelegram-AtV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.201:8880 📡 PING-005.13-MS
 vless://09e6ed18-07af-4e76-9f5c-ca775679b068@172.67.133.87:2053?security=tls&sni=u1.korda.top&type=grpc&serviceName=u1.korda.top&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.133.87:2053 📡 PING-005.13-MS
 vless://f15c17d2-7288-49f5-aa37-155fe6184ac4@172.66.44.233:443?security=tls&sni=pardazesh26.pages.dev&type=ws&host=pardazesh26.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443 📡 PING-005.13-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@217.163.76.49:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.49:2083 📡 PING-005.13-MS
@@ -604,3 +601,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaG5BVU1mT1dJZ2pUOTE3eVlDRzd1@89.117.109.97:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfNmVrQnFSWmdiRW96NDY4Y0F3OTRB@159.223.221.42:1080#🔒 SS-TCP-NA 🇳🇱 NL-159.223.221.42:1080 📡 PING-086.36-MS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6379 📡 PING-086.88-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881 📡 PING-086.89-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119 📡 PING-087.80-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7002 📡 PING-088.10-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989 📡 PING-089.23-MS

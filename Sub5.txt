@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://4c6ecf70-9c54-401a-bcb3-27c88d9c814a@162.159.7.247:443?security=tls&sni=Sky2.bbv2ry.pics&type=ws&host=Sky2.bbv2ry.pics&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443 📡 PING-005.66-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.192:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.192:80 📡 PING-005.66-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.75.172:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.172:443 📡 PING-005.66-MS
 vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:80?security=none&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.39:80 📡 PING-005.66-MS
 vless://64b2f336-f8bd-4c8b-9744-5699da10f025@162.159.135.232:2095?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2095 📡 PING-005.66-MS
 vless://213acced-2c20-405a-9742-226caa911199@172.67.217.127:443?security=tls&sni=Joinmahdiserver.jaiktzw.workers.dev&type=ws&host=Joinmahdiserver.jaiktzw.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.127:443 📡 PING-005.66-MS
@@ -604,3 +601,6 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.23.66:2082?security=none&typ
 vless://f7e514ea-bba1-5a88-bfd9-061be5b21ee7@172.67.180.13:2083?security=tls&sni=grizzlyvpn.rafox50437.WoRKERs.DEv&type=ws&host=grizzlyvpn.rafox50437.WoRKERs.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.13:2083 📡 PING-005.46-MS
 vless://adbf8aca-39fd-4aeb-a7ff-bbac9e758f95@104.18.202.232:2053?security=tls&sni=jo0o0o0in.golestan-vpn.link&type=ws&host=jo0o0o0in.golestan-vpn.link&path=%2F%2Fgoli&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2053 📡 PING-005.46-MS
 vless://89a9412c-b310-470d-ad72-233b11524bcd@104.21.74.214:2087?security=tls&sni=delamyange.elhamvmoin.space&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:2087 📡 PING-005.46-MS
+vless://116af85b-5a02-4c90-bdf5-127cf674a909@104.21.45.183:443?security=tls&sni=EliV2ray.naziitness.com&type=grpc&serviceName=@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.183:443 📡 PING-005.46-MS
+vless://58172a35-8d87-431f-bd4f-ad051e90a52c@185.18.250.128:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.128:8080 📡 PING-005.46-MS
+vless://0dd1347e-e342-456c-b802-779b859cca42@172.64.32.113:443?security=tls&sni=login1.abglaaa.info&type=ws&host=login1.abglaaa.info&path=%2Fchatapiws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.113:443 📡 PING-005.46-MS

@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://116af85b-5a02-4c90-bdf5-127cf674a909@104.21.45.183:443?security=tls&sni=EliV2ray.naziitness.com&type=grpc&serviceName=@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.183:443 📡 PING-005.46-MS
-vless://58172a35-8d87-431f-bd4f-ad051e90a52c@185.18.250.128:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.128:8080 📡 PING-005.46-MS
-vless://0dd1347e-e342-456c-b802-779b859cca42@172.64.32.113:443?security=tls&sni=login1.abglaaa.info&type=ws&host=login1.abglaaa.info&path=%2Fchatapiws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.113:443 📡 PING-005.46-MS
 vless://0ddfb4dd-d1f0-4416-8d5b-dd00e6d10d66@172.67.171.89:443?security=tls&sni=dk3-vless.sshmax.xyz&type=ws&host=dk3-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.89:443 📡 PING-005.46-MS
 vless://fa63d931-38ae-4dbf-95c8-441875a4273f@104.18.26.94:443?security=tls&sni=mahdiserver.zudujsdl-c78.workers.dev&type=ws&host=mahdiserver.zudujsdl-c78.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443 📡 PING-005.46-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.222:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.222:443 📡 PING-005.46-MS
@@ -604,3 +601,6 @@ vless://9cdeb389-c7fe-4a0a-8989-facd9a981188@188.114.98.223:8880?security=none&t
 vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443 📡 PING-005.33-MS
 vless://b788032a-8e11-492b-bf70-6a1358a05629@172.66.44.167:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.167:2083 📡 PING-005.33-MS
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&host=watashi.free.de.mnhacker.eu.org&path=lockey_vpn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.208:443 📡 PING-005.33-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.81:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.81:443 📡 PING-005.33-MS
+vless://495ab69c-af1d-477e-a1d7-ffc5eb5b6cca@172.66.47.105:443?security=tls&sni=pardazesh16.pages.dev&type=ws&host=pardazesh16.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.105:443 📡 PING-005.33-MS
+vless://66da9a12-0305-467f-b62c-846d65413b20@104.18.203.232:443?security=tls&sni=mindroom2-012.pages.dev&type=ws&host=mindroom2-012.pages.dev&path=%2F%3Fed%3D2560&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:443 📡 PING-005.33-MS
