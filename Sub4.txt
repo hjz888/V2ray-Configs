@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://bccaaab-aacb-aacb-dbac-bbacabcbcaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://baaacbc-caba-acba-acbd-ccabacbbabac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-18-ORDIBEHESHT-1403 🕑 11:36
 vless://ff884731-2476-44aa-855c-a5384085672d@213.156.144.62:80?security=none&type=ws&host=mamanodamind.com&path=%2Fws#🔒 VL-WS-NONE 🇲🇽 MX-213.156.144.62:80 📡 PING-054.28-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@192.69.90.203:35658?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-192.69.90.203:35658 📡 PING-059.53-MS
@@ -603,4 +604,3 @@ vless://4338095d-7e84-4f3a-8ae7-b51c12baabac@172.66.213.0:80?type=ws&host=AllOpe
 vless://64d69f06-8675-4d8c-f30a-08ad780a28ac@172.67.204.84:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:8880 📡 PING-005.68-MS
 vless://9ba635d5-ed4e-4aa8-90b4-36926544aa28@104.16.198.114:2083?security=tls&sni=sPeEd.vbox778.info.&type=grpc&serviceName=@proxy_n1+%27+@proxy_n1+%27+@proxy_n1&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.198.114:2083 📡 PING-005.68-MS
 vless://6f06df36-53b5-4587-af85-1b878b004885@185.146.173.59:2096?security=tls&sni=ram.49z.info&type=grpc&serviceName=/Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2096 📡 PING-005.68-MS
-vless://23de906b-51f8-4dbf-ab47-3ee8eecdfa21@188.114.98.226:8880?security=none&type=ws&host=xn---qhantayawi--c-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.226:8880 📡 PING-005.68-MS
