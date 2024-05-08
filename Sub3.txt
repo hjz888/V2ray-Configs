@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a4a094c7-3d6a-44a2-a7d8-fc44d666b233@66.235.200.123:8443?encryption=none&security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F#vmessorg.mtn
-vless://5ee39c9d-754c-4207-90ea-b15c0a720ac0@185.146.173.58:2095?security=none&type=ws&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiNDUuODcuMTU1LjcwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4OGMwYTFmYi1mYzRkLTRlYWItODVjNy00ZGQ4NDQwN2U5YTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8ifQ==
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.21.40.63:443?security=tls&sni=marly.toptechnonews.com&type=ws&host=marly.toptechnonews.com&path=%2Fnimws#@Hope_Net-join-us-on-Telegram
@@ -604,3 +602,5 @@ vless://0f737293-71ce-4ccd-9ba7-1fb7f7a499ed@5.199.136.180:20601?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.75.101.0:3443 📡 PING-152.97-MS
 vless://30809b51-e80a-43a8-8fd9-e9ee7a71ce0f@213.134.31.180:20191?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-213.134.31.180:20191 📡 PING-153.02-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.125:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.125:443 📡 PING-153.26-MS
+vless://e09cc1bf-1fd4-4241-beee-561a98bdd959@188.119.113.68:443?security=tls&sni=nl1.x2fast.net&type=ws&host=nl1.x2fast.net&path=%2Fws&fp=random&alpn=h2#🔒 VL-WS-TLS 🇳🇱 NL-188.119.113.68:443 📡 PING-153.50-MS
+vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@176.126.113.161:443?security=tls&flow=xtls-rprx-vision&sni=nl2-full.privateip.net&type=tcp&path=/&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-176.126.113.161:443 📡 PING-153.54-MS

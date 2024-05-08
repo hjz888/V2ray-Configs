@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e555a459-6070-4000-b019-1a0a3d673e59@173.245.59.181:443?security=tls&sni=menu-in-pages-template-flutters.nigc-ar.com&type=ws&host=menu-in-pages-template-flutters.nigc-ar.com&path=44376%2FTemplate&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.181:443 📡 PING-001.72-MS
-vless://86bba249-900d-4f72-9ed5-e3a42ff06a97@104.17.250.237:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.250.237:80 📡 PING-001.72-MS
 vless://23867814-e6ff-433f-8ffe-b0786f3789e7@154.197.75.80:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.80:80 📡 PING-001.72-MS
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.237.79:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.237.79:8080 📡 PING-001.72-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.3:443 📡 PING-001.72-MS
@@ -604,3 +602,5 @@ vless://3fe8bc9f-0cd7-49f9-afee-adbba448deeb@104.17.130.163:80?security=none&typ
 vless://35caec98-86de-4f38-a011-eb7e134446c7@104.21.92.185:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%2FX2nrNV7R1e_TTqGK%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.185:443 📡 PING-001.62-MS
 vless://3eae724f-9256-40b5-a6b5-4f3df179c829@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80 📡 PING-001.62-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.70.248:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.248:80 📡 PING-001.62-MS
+vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.16.28.165:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.28.165:2087 📡 PING-001.62-MS
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2096?security=tls&sni=folani.iiipok.WoRKeRS.DEv&type=ws&host=folani.iiipok.WoRKeRS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2096 📡 PING-001.62-MS
