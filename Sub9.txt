@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc63b584-be6e-42a7-a3ad-bce6b285b166@172.64.155.187:80?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&path=%2Fnew_proxy_channel%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.187:80 📡 PING-000.83-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.188.173:443?security=tls&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline&type=ws&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&path=%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.188.173:443 📡 PING-000.83-MS
 vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@104.26.6.65:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.65:2096 📡 PING-000.83-MS
 vless://98bb933c-921c-4c3c-84be-91aae07832b0@162.159.136.234:2082?security=none&type=ws&host=cH.tOtFaRaNgHi.SbS&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2082 📡 PING-000.83-MS
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989#🔒 SS-TCP-NA 🇪🇨 EC-179.49.5.114:989 📡 PING-071.27-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.6:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.6:5500 📡 PING-071.93-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.235:443#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:443 📡 PING-071.98-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.81:8090 📡 PING-071.98-MS

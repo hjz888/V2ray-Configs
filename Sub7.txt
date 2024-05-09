@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?security=tls&sni=fln1.novinping.com&type=ws&host=fln1.novinping.com&path=%2FMgFwdcE2Hs2cgQYI0W&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:443 📡 PING-001.01-MS
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@172.67.132.72:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.72:80 📡 PING-001.01-MS
 vless://7bb969f8-29cb-445c-b1c0-62f8c300aa44@172.67.204.84:2086?security=none&type=ws&host=cdncloudifyr.pinpEn.ir.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2086 📡 PING-001.01-MS
 vless://3ff3a373-ceb3-4847-8f93-5cb628700353@172.67.171.96:2096?security=tls&sni=hopev2ray.accme.link&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.171.96:2096 📡 PING-001.01-MS
@@ -604,3 +603,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.89.199:443?security=tls&sni=
 vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.195:80 📡 PING-000.93-MS
 vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.166:2052 📡 PING-000.93-MS
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C%40frev2ray%2C&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-185.162.231.227:443 📡 PING-000.93-MS
+vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.46.250:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.250:443 📡 PING-000.93-MS

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-141.145.200.125:443 📡 PING-084.13-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.38.44.17:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇫🇷 FR-51.38.44.17:443 📡 PING-084.15-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.18.207:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇪 BE-38.180.18.207:8443 📡 PING-084.54-MS
 vless://86335524-a8c9-4805-9854-7195c57ca19b@213.159.64.5:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇲🇩 MD-213.159.64.5:443 📡 PING-085.25-MS
@@ -604,3 +603,4 @@ vless://775d80e6-8c95-4049-a6f3-0665f414acc1@162.159.137.232:80?security=none&ty
 vless://6f3ea586-91e8-4e56-87cd-24da82eae3d4@162.159.130.13:2083?security=tls&sni=800.kakoserver.com&type=ws&host=800.kakoserver.com&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.13:2083 📡 PING-001.31-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.146.173.237:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.237:2083 📡 PING-001.31-MS
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.182.61:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.182.61:8443 📡 PING-001.31-MS
+vless://491d8847-2d18-46ad-8f2a-ee45cf346222@172.67.73.174:80?security=none&type=ws&host=Vip1V2rayGod.xn--hssjg9ekdj8f1f.Site.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.174:80 📡 PING-001.31-MS
