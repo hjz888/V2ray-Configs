@@ -4,6 +4,23 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">20.75.95.109</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
 
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgMzAuNjRtcyIsImFkZCI6Ind3dy5wb2tlaHNhbmF0aS5pciIsInBvcnQiOiI0NDMiLCJpZCI6IjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUcmVlLkJsYW5rdS5NZSIsInBhdGgiOiJcL3dzczQ5NDA2IiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoic2FmYXJpIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgNi4xNW1zIiwiYWRkIjoicm94YW5tdGEuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiVHJlZS5CbGFua3UuTWUiLCJwYXRoIjoiXC93c3M0OTQwNiIsInRscyI6InRscyIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSJ9
