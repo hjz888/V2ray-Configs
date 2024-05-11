@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2617f72a-36d7-4b0e-8a89-c71b11100997@188.114.98.224:2053?security=tls&sni=gerMnV2ray.naziitness.coM&type=ws&host=gerMnV2ray.naziitness.coM&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2053 📡 PING-000.92-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.20:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.20:2083 📡 PING-000.92-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.106:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.106:2087 📡 PING-000.92-MS
 vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.135.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:2096 📡 PING-000.92-MS
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=polo.gdorri.info&type=ws&host=polo.gdorri.info&path=%2Fparadise#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443 📡 PING-000.92-MS
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.181.197.115:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.115:443 📡 PING-000.92-MS
@@ -601,6 +604,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.130:2376#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.239:5001#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.239:5001 📡 PING-015.78-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.130:5004#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.130:5004 📡 PING-015.77-MS
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.77:5499#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.77:5499 📡 PING-015.76-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.213:2375 📡 PING-015.76-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.213:443#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.213:443 📡 PING-015.74-MS
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.250.113:7002#🔒 SS-TCP-NA 🇨🇦 CA-216.39.250.113:7002 📡 PING-015.73-MS

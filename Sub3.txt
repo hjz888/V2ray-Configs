@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJhZGQiOiAiMTU4LjEwMS44NC4yMzYiLCAiYWlkIjogMCwgImhvc3QiOiAianAtdG9reW8tb3JhY2xlLTVhMjZkYS5pcDEuc2hvcCIsICJpZCI6ICJmMWI5MWE3ZC1hNWUyLTQ2ODQtYTE4My1kMmQ2NTY0MDBjYTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwgInBvcnQiOiA1NzU1NywgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJhZGQiOiIxMDQuMTkuNDUuNzAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9uZWEuZmxoYS5ydSIsImlkIjoiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiLwn6qvNTZAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMTkuNDUuMjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbmVhLmZsaGEucnUiLCJpZCI6IjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NSIsInBzIjoi8J+qrzU1QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://e240547f-5a80-4cee-a318-779c320a1d8e@bestxshopx1.avash.pics:13446/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#%F0%9F%AA%AF53%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfqq81MkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443/?type=ws&encryption=none&host=turkmenistan.armanibash.Shop.&path=%2F%3Fed%3D2048&security=tls&sni=turkmenistan.armanibash.Shop.&fp=chrome#%F0%9F%AA%AF49%40oneclickvpnkeys
@@ -601,6 +604,3 @@ vless://47272f26-d814-4a9c-973f-658a1c12712b@31.47.42.199:59709?security=none&ty
 vless://338f8a9d-f655-4148-a35c-cf3b6b27826c@78.109.194.206:18312?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.206:18312 📡 PING-168.42-MS
 vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.31.171:46769 📡 PING-168.77-MS
 vless://e6b1b5e0-c586-4ced-a9c0-ec43cfd99adc@31.7.70.89:8477?security=none&type=tcp&host=colorlib.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8477 📡 PING-169.01-MS
-vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.57.29:8888 📡 PING-169.50-MS
-vless://a10a6a35-6d64-4d90-babb-37017ce80feb@94.182.149.29:22710?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.149.29:22710 📡 PING-169.67-MS
-vless://893c2cb2-4a2e-4131-efa2-f587671b4432@85.9.120.31:21635?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.31:21635 📡 PING-169.67-MS

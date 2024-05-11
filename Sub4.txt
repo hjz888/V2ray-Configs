@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.57.29:8888 📡 PING-169.50-MS
+vless://a10a6a35-6d64-4d90-babb-37017ce80feb@94.182.149.29:22710?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.149.29:22710 📡 PING-169.67-MS
+vless://893c2cb2-4a2e-4131-efa2-f587671b4432@85.9.120.31:21635?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.31:21635 📡 PING-169.67-MS
 vless://29fac846-1def-490f-8c3d-b3428f3bff05@95.38.132.232:8880?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-95.38.132.232:8880 📡 PING-170.18-MS
 vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@31.7.70.89:8478?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8478 📡 PING-170.55-MS
 vless://e7cc88ba-b1e5-44fc-91f4-bbf3829f5ce2@84.47.235.69:51392?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:51392 📡 PING-170.93-MS
@@ -601,6 +604,3 @@ vless://827cb2f7-2387-40ee-dfb8-5e87250c7fc0@172.67.171.91:443?security=tls&sni=
 vless://b91b3053-9602-4a60-b848-ec0eafea2053@104.21.69.44:2053?security=tls&sni=u6zGhn5ZYTAreT4s838q76KQgD9mn61UFLU53560xV8Nmu68gd7q25Y3PX.PAGes-dEV.SiTe&type=ws&host=u6zGhn5ZYTAreT4s838q76KQgD9mn61UFLU53560xV8Nmu68gd7q25Y3PX.PAGes-dEV.SiTe&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053 📡 PING-001.17-MS
 vless://838cb8b2-e9ed-43e7-9e92-e4eab95cba35@188.114.98.56:80?security=none&type=ws&host=Eli.V2ray.motorcycles&path=Eli.V2ray.motorcycles#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.56:80 📡 PING-001.17-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.5:443 📡 PING-001.17-MS
-vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.6.189:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.6.189:80 📡 PING-001.17-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2053 📡 PING-001.17-MS
-vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:2095 📡 PING-001.17-MS

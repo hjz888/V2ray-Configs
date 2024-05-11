@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.6.189:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.6.189:80 📡 PING-001.17-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2053 📡 PING-001.17-MS
+vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:2095 📡 PING-001.17-MS
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=telegram.%40vlees_v2rayng%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443 📡 PING-001.17-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.3.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.3.189:443 📡 PING-001.17-MS
 vless://5dd24b99-cfcc-44a9-edf5-8bffc472d947@104.31.16.17:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.17:443 📡 PING-001.17-MS
@@ -601,6 +604,3 @@ vless://e0d87846-4659-40b1-bb31-bffefc606062@185.18.250.232:443?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.158:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.158:443 📡 PING-000.92-MS
 vless://8d21d838-d899-4293-9c36-7223adcfea82@172.67.171.96:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.96:443 📡 PING-000.92-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.178:443 📡 PING-000.92-MS
-vless://2617f72a-36d7-4b0e-8a89-c71b11100997@188.114.98.224:2053?security=tls&sni=gerMnV2ray.naziitness.coM&type=ws&host=gerMnV2ray.naziitness.coM&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2053 📡 PING-000.92-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.20:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.20:2083 📡 PING-000.92-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.106:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.106:2087 📡 PING-000.92-MS
