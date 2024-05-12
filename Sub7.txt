@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881 📡 PING-101.12-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMkpIMDBVWVQ2dU9IS3ZNZmd1YXBk@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-101.15-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.215:8080 📡 PING-101.28-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-101.31-MS
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%E6%9C%AA%E7%9F%A52
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.218:7306#US102%202.0MB%2Fs
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A5241
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5242
+trojan://c19d1432-8b3e-4818-8837-3d160cf65908@jgwdb2.gaox.ml:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21

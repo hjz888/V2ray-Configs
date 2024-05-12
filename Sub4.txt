@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f446d402-0b84-4758-84df-6448a6f07039@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443 📡 PING-118.39-MS
 vless://3a505b50-86f0-4402-9583-296577960bfd@172.233.121.188:22230?security=none&type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-172.233.121.188:22230 📡 PING-120.85-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.93.247:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.50.93.247:22222 📡 PING-123.97-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.251.154:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.49.251.154:22222 📡 PING-125.53-MS
@@ -604,3 +603,4 @@ vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80?security=none&typ
 vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096 📡 PING-002.66-MS
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2083 📡 PING-002.66-MS
 vless://2803a524-0eaf-40d4-b601-b61099a598b4@172.67.66.177:8880?security=none&type=ws&host=football.barcelona.xn--g6qp0de1duz4a3t1behn.shop.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880 📡 PING-002.66-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.111:443 📡 PING-002.66-MS
