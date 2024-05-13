@@ -4,6 +4,15 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@154.197.121.253:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.253:443 📡 PING-000.78-MS
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.14.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096 📡 PING-000.78-MS
+vless://6e47fa69-eb76-4fa7-9a00-4311a73d0427@104.21.20.16:443?security=tls&sni=de2-vless.sshmax.xyz&type=ws&host=de2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.16:443 📡 PING-000.78-MS
+vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80 📡 PING-000.78-MS
+vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.1.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.1.87:2096 📡 PING-000.78-MS
+vless://9fb265ea-999e-468d-b0b6-cb1f8cff645b@104.21.69.44:2096?security=tls&sni=ipv6_freevirgoolnet.xn--6qq87do2jeunvmhhuhh1d9qj8zij6i6k8a.com&type=grpc&serviceName=%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet%2C%40FreeVirGoolNet&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2096 📡 PING-000.78-MS
+vless://1ca7d3a9-6b3e-47ed-88a7-ccbd1ff927c6@188.114.96.11:80?security=none&type=ws&host=iNvesTiNg.SpamDeTectOr.worlD&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.11:80 📡 PING-000.78-MS
+vless://39275628-a78c-4f19-ab81-c9424edf2956@104.26.15.85:2096?security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&path=%2F%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng.%40Free_V2rng%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2096 📡 PING-000.78-MS
+vless://502350ae-0938-4069-9f86-cd2b631f5eb8@104.25.254.88:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel%3A%20%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:8443 📡 PING-000.78-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.126:443?security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&path=%2FiXyGTa2hkso0v8lU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:443 📡 PING-000.78-MS
 vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.153.2:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:2095 📡 PING-000.78-MS
 vless://ec2e3ffa-9cca-4e3d-911d-89584a401027@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.6:2096 📡 PING-000.78-MS
@@ -595,12 +604,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8090#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.39:5001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.39:5001 📡 PING-072.03-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:5500 📡 PING-072.03-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.39:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.39:443 📡 PING-072.04-MS
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.66:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.66:9101 📡 PING-072.04-MS
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:9102 📡 PING-072.08-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:6679 📡 PING-072.10-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:5500 📡 PING-072.13-MS
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:6379 📡 PING-072.15-MS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8091 📡 PING-072.16-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679 📡 PING-072.18-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:8882 📡 PING-072.19-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8080 📡 PING-072.19-MS
