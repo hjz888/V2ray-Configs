@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://fdf529f2-c0c0-4713-bb10-2ba829ed3a13@188.114.98.225:80?security=none&type=ws&host=2.debian.org.fop.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&path=%2Ftlegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.225:80 📡 PING-001.88-MS
+vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@172.67.204.84:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087 📡 PING-001.88-MS
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&host=watashi.free.de.mnhacker.eu.org&path=lockey_vpn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.208:443 📡 PING-001.88-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.43:443?security=tls&sni=join-tEleGRAAm-chANNEL-DiSVpN.PaGeS.DEv&type=ws&host=JOiN-tELEgRAam-channEl-dIsVPN.PAGEs.dev&path=%2FTelegram+Join%3A+%40DisVpn%2CTelegram+Join%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.43:443 📡 PING-001.87-MS
 vless://88363077-79d2-441e-b96b-cd8e4346794d@172.67.161.243:2096?security=tls&sni=wedbaz-sueed-tls.bigvip.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.243:2096 📡 PING-001.87-MS
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@103.172.116.94:9003#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.230.112:443#🔒 SS-TCP-NA 🇸🇬 SG-47.128.230.112:443 📡 PING-216.08-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.139.225.183:443#🔒 SS-TCP-NA 🇸🇬 SG-18.139.225.183:443 📡 PING-216.44-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxaG9iclpybWdBeVpDQlJGMDIyd2dQ@46.250.237.91:443#🔒 SS-TCP-NA 🇬🇧 GB-46.250.237.91:443 📡 PING-218.39-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.171:443#🔒 SS-TCP-NA 🇸🇬 SG-13.214.212.171:443 📡 PING-220.39-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.9.69:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.9.69:443 📡 PING-221.34-MS

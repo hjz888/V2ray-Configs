@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.21.7.50:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.7.50:8443 📡 PING-002.79-MS
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.5.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.5.90:8443 📡 PING-002.79-MS
 vless://25b45954-6209-48c2-a412-c568c8154cf0@172.67.220.70:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.70:2083 📡 PING-002.79-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.233:443 📡 PING-002.79-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.173:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.173:443 📡 PING-002.79-MS
@@ -602,5 +604,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&sni
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@172.67.138.107:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.107:443 📡 PING-002.27-MS
 vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@172.66.213.5:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F%3FTelegram%3A%40FreeVirGoolNet#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:8443 📡 PING-002.27-MS
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@188.114.98.54:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.54:8443 📡 PING-002.27-MS
-vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.135.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.233:8443 📡 PING-002.27-MS
-vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.71:443 📡 PING-002.27-MS

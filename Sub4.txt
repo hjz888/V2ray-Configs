@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80 📡 PING-104.30-MS
+vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443 📡 PING-105.12-MS
 vless://9fd9f9a4-27a6-453a-84de-07c8c963d2f4@95.164.68.37:443?security=tls&sni=namasha.com&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.68.37:443 📡 PING-105.80-MS
 vless://a8a9e9ec-83f0-4d7a-8c0f-243d597d973f@217.196.101.178:10092?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-217.196.101.178:10092 📡 PING-105.82-MS
 vless://7d0ee965-97c1-4ad0-ac4f-06148da7c1bc@95.164.1.6:443?security=tls&sni=95.164.1.6&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🇦🇹 AT-95.164.1.6:443 📡 PING-106.34-MS
@@ -602,5 +604,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.32:8443?security=tls&sni=j
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.207:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.207:443 📡 PING-002.80-MS
 vless://462340fd-5523-4a10-bc15-52678b579ddf@172.67.191.234:2096?security=tls&sni=mrz-cdn.dooshvari.sbs&type=grpc&serviceName=@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:2096 📡 PING-002.79-MS
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473cd@104.24.1.90:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.1.90:2083 📡 PING-002.79-MS
-vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.21.7.50:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.7.50:8443 📡 PING-002.79-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.5.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.5.90:8443 📡 PING-002.79-MS

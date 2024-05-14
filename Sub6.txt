@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.135.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.233:8443 📡 PING-002.27-MS
+vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.71:443 📡 PING-002.27-MS
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:8443?security=tls&sni=Poriya-WaRpHIddiFY-PaNEl.PaGes.DeV&type=ws&path=%2Fz93L2cQo2AVOdUlT%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.50:8443 📡 PING-002.27-MS
 vless://957e3de7-7f01-49b9-afcc-949930381128@162.251.82.187:2082?security=none&type=ws&host=61.athena.sa.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:2082 📡 PING-002.27-MS
 vless://6e093e3c-89f0-4b88-8629-2a150ea19e10@104.19.247.91:2052?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:2052 📡 PING-002.27-MS
@@ -602,5 +604,3 @@ vless://f56362e0-909f-4094-a15e-fb4b32b952cb@45.131.208.0:2087?security=tls&sni=
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80 📡 PING-001.89-MS
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.159.208:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.208:443 📡 PING-001.89-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.244:443 📡 PING-001.89-MS
-vless://fdf529f2-c0c0-4713-bb10-2ba829ed3a13@188.114.98.225:80?security=none&type=ws&host=2.debian.org.fop.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&path=%2Ftlegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%2Ctelegram-AMVPN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.225:80 📡 PING-001.88-MS
-vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@172.67.204.84:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087 📡 PING-001.88-MS
