@@ -4,15 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e2e155ff-7b00-4db5-81cf-aae34ef2d558@162.159.130.234:2095?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:2095 📡 PING-001.65-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.56:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.56:2053 📡 PING-001.65-MS
-vless://61958b98-d52a-420e-bb42-a3fd22985895@172.66.0.98:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.0.98:2096 📡 PING-001.65-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.225:443 📡 PING-001.65-MS
-vless://2803a524-0eaf-40d4-b601-b61099a598b4@172.67.66.177:8880?security=none&type=ws&host=football.barcelona.xn--g6qp0de1duz4a3t1behn.shop.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880 📡 PING-001.65-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.168:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.168:8443 📡 PING-001.65-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?security=tls&sni=baipiao406.stunning-bassoon.pages.dev&type=ws&host=baipiao406.stunning-bassoon.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.94:443 📡 PING-001.65-MS
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.38:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.38:80 📡 PING-001.65-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.113.101:443?security=tls&sni=Bia-paiN-baCHe.PageS.dEV&type=ws&host=biA-pAIn-BachE.PaGeS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.113.101:443 📡 PING-001.65-MS
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.80.110.133:443?security=tls&sni=pOriyA-waRPHidDiFy-paneL.PaGeS.dEv&type=ws&path=/0SBXgskOtFstJVYL?ed&fp=chrome#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.133:443 📡 PING-001.65-MS
 vless://7599245e-0605-4365-ae29-6027e5312b76@104.21.81.200:443?security=tls&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&type=ws&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.200:443 📡 PING-001.65-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.19.34.120:2087?security=tls&sni=guq22.oxNEtwoRkS.LiNk&type=ws&host=guq22.oxNEtwoRkS.LiNk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.34.120:2087 📡 PING-001.65-MS
@@ -604,3 +595,12 @@ trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12052?sni=china3.one.
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12051 📡 PING-154.64-MS
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12003?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12003 📡 PING-155.03-MS
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12022?sni=china2.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12022 📡 PING-155.20-MS
+trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443 📡 PING-155.28-MS
+trojan://918eba0d3ff04abc803fb00e18d0fcb5@202.64.1.143:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.143:443 📡 PING-155.69-MS
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12005?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12005 📡 PING-155.71-MS
+trojan://dfb13825-f6b4-4bf0-9a35-c37c5bab2e04@95.164.117.128:443?#🔒 TR-TCP-NA 🇩🇪 DE-95.164.117.128:443 📡 PING-155.99-MS
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@138.2.36.157:8443?sni=591.591haoka.com&type=ws&host=591.591haoka.com#🔒 TR-WS-NA 🇯🇵 JP-138.2.36.157:8443 📡 PING-156.04-MS
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@40.83.125.236:443?#🔒 TR-TCP-NA 🇭🇰 HK-40.83.125.236:443 📡 PING-156.56-MS
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@13.75.41.153:443?#🔒 TR-TCP-NA 🇭🇰 HK-13.75.41.153:443 📡 PING-157.04-MS
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@207.46.153.63:443?#🔒 TR-TCP-NA 🇭🇰 HK-207.46.153.63:443 📡 PING-157.36-MS
+trojan://telegram-id-privatevpns@3.69.68.254:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.69.68.254:22222 📡 PING-157.53-MS

@@ -4,15 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.122.112.161:10003?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-193.122.112.161:10003 📡 PING-129.24-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@130.162.140.215:443?security=tls&sni=e8b99cbe-9ebd-4a20-a497-38f4b29f2c98.83b11782-ecae-411f-90c3-2a01bb33260a.gleeze.com&type=ws&path=/pasge.pages.dev/?ed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-130.162.140.215:443 📡 PING-129.34-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.141.168:47590?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.141.168:47590 📡 PING-129.34-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.7.57:9999?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-140.238.7.57:9999 📡 PING-129.77-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.206.254:59158?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158 📡 PING-129.94-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@210.87.202.245:52646?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=/pasge.pages.dev/?ed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-210.87.202.245:52646 📡 PING-130.12-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.122.110.164:25800?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-193.122.110.164:25800 📡 PING-130.12-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.42.31:48652?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-146.56.42.31:48652 📡 PING-131.48-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.130:14850?security=tls&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-146.56.130.130:14850 📡 PING-131.93-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@217.142.151.193:8443?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-217.142.151.193:8443 📡 PING-132.15-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.201:8443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-146.56.130.201:8443 📡 PING-132.30-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.226.230.177:48132?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-132.226.230.177:48132 📡 PING-132.37-MS
@@ -604,3 +595,12 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.57:443?security=tls&sni=
 vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.131:443 📡 PING-002.09-MS
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:8443?security=tls&sni=sisand.waztow.wORkERS.dEv&type=ws&host=sisand.waztow.wORkERS.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:8443 📡 PING-002.09-MS
 vless://ea875b96-be12-4bba-f558-3c8777882874@104.21.19.202:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.202:2052 📡 PING-002.09-MS
+vless://ada35bae-0fde-41a1-b302-f5d97aadf648@172.66.192.70:443?security=tls&sni=mindroom-5cz.pages.dev&type=ws&host=mindroom-5cz.pages.dev&path=%40MIND_ROOM2%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.192.70:443 📡 PING-002.09-MS
+vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.19.251.69:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.251.69:2087 📡 PING-002.09-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443 📡 PING-002.09-MS
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443 📡 PING-002.09-MS
+vless://b08240fd-72a7-48ce-97cf-905c499a3fda@66.235.200.92:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.92:80 📡 PING-002.09-MS
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.136.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:2053 📡 PING-002.09-MS
+vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@172.67.217.152:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.152:443 📡 PING-002.09-MS
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.254:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.254:8443 📡 PING-002.09-MS
+vless://f182fdb7-6945-4719-bd4f-868465e5a2d7@172.66.44.158:80?security=none&type=ws&host=yeCtW3ZIVaWuNVSezf6F.cInIMO.apP&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.158:80 📡 PING-002.09-MS
