@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.229.9:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.229.9:2083 📡 PING-001.80-MS
 vless://ac4a922d-86fa-44e6-8825-238164b693f3@104.21.69.44:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.&path=%2F%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet-%40jetupnet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8880 📡 PING-001.80-MS
 vless://5a23974d-d620-11ee-aaa8-00505603e70d@104.26.11.137:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.137:443 📡 PING-001.80-MS
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.68.38:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:2053 📡 PING-001.80-MS
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.79:9088#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.171:443#🔒 SS-TCP-NA 🇸🇬 SG-13.214.212.171:443 📡 PING-212.30-MS
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@103.172.116.79:9037#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9037 📡 PING-212.46-MS
 ss://YWVzLTI1Ni1nY206ekJqbW1JTWZxdXpyaVNUMQ==@139.59.123.43:21592#🔒 SS-TCP-NA 🇸🇬 SG-139.59.123.43:21592 📡 PING-212.51-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.139.225.183:443#🔒 SS-TCP-NA 🇸🇬 SG-18.139.225.183:443 📡 PING-213.76-MS
