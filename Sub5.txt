@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://b08240fd-72a7-48ce-97cf-905c499a3fda@66.235.200.92:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.92:80 📡 PING-001.72-MS
 vless://060b45cb-e660-4bda-8cc4-dbff626cc4ca@104.31.16.65:2096?security=tls&sni=tm.bestv2rang.space&type=ws&host=tm.bestv2rang.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2096 📡 PING-001.72-MS
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?security=tls&sni=SHAh-9Aq.PAGes.deV&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:443 📡 PING-001.72-MS
 vless://c117c4fa-c93c-4d52-b02c-fcbc22063bfa@172.67.171.44:443?security=tls&sni=se1-vless.sshmax.xyz&type=ws&host=se1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.44:443 📡 PING-001.72-MS
@@ -603,4 +604,3 @@ vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:443?security=tls&sni=a
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.109:443?security=tls&sni=current.iraniancp.click&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.109:443 📡 PING-001.53-MS
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@104.17.219.222:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.219.222:80 📡 PING-001.53-MS
 vless://d211cb27-c37c-455b-c4a4-78cefdfde755@104.21.18.38:443?security=tls&sni=deeppurple.nabise4347.workers.dev&type=ws&host=deeppurple.nabise4347.workers.dev&path=/downloader/22836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443 📡 PING-001.53-MS
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.27.96.7:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.96.7:443 📡 PING-001.52-MS

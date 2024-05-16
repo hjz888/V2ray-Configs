@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.27.96.7:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.96.7:443 📡 PING-001.52-MS
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?security=none&type=ws&host=nl57.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2082 📡 PING-001.52-MS
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:80?security=none&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.158.108:80 📡 PING-001.52-MS
 vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@173.245.58.51:443?security=tls&sni=dash.zedmodeon.fun&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🏴‍☠️ NA-173.245.58.51:443 📡 PING-001.52-MS
@@ -603,4 +604,3 @@ vless://08ff0d19-f06e-4cf9-948d-5b26d13ebaa6@185.146.173.58:2096?security=tls&sn
 vless://39275628-a78c-4f19-ab81-c9424edf2956@104.26.15.85:2096?security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2096 📡 PING-001.40-MS
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.200.250:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.200.250:2096 📡 PING-001.40-MS
 vless://19b020ae-dddd-4340-a2e7-34cbdb33d62e@[::ffff:6812:cae8]:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-[::ffff:6812:cae8]:8080 📡 PING-001.40-MS
-vless://c69ab9d1-756e-4a12-8bf1-20f3cffe8268@172.67.73.163:2083?security=tls&sni=ErFaN2.aSdBeWg.SbS.&type=ws&host=ErFaN2.aSdBeWg.SbS.&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083 📡 PING-001.40-MS
