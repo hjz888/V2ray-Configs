@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.240.130:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FZN1NpKJ0c08SZu1Z%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ProxYSTorePANeL.eu.Org&fp=randomized&type=ws&sni=ProXYsTOrepANeL.EU.ORg#configkade%F0%9F%91%89%40proxystore11
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a06:98c1:3120::3]:443?path=%2FWcfPf36Rz6wsRmkm%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pRoxYSToRePANEl.eU.org&fp=randomized&type=ws&sni=ProxYSTorepAneL.EU.org#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2FS09Heg8MSn0gqr8t%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pROXYSTorepAnEl.Eu.OrG&fp=randomized&type=ws&sni=PrOXySTORePANeL.eU.ORg#configkade%F0%9F%91%89%40proxystore11
 vless://a83feb00-0a0b-40b5-a525-07e2b406a95b@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://a83feb00-0a0b-40b5-a525-07e2b406a95b@104.20.104.209:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -601,6 +604,3 @@ vless://ccabbaa-caba-abac-bcad-cbabaccbbcaa@127.0.0.1:2080?security=tls&type=tcp
 vless://aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa@148.135.88.198:23344?security=tls&sni=rn.axmsl.com&type=ws&path=%2Faaa#🔒 VL-WS-TLS 🇺🇸 US-148.135.88.198:23344 📡 PING-055.36-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@154.9.251.171:34237?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.9.251.171:34237 📡 PING-055.55-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@173.242.121.248:34237?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-173.242.121.248:34237 📡 PING-059.01-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@173.242.119.8:53151?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-173.242.119.8:53151 📡 PING-059.54-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@154.40.57.245:34237?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.40.57.245:34237 📡 PING-060.21-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@91.149.239.198:443?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.198:443 📡 PING-060.57-MS

@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443 📡 PING-005.71-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.97:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.97:443 📡 PING-005.71-MS
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.87.125:443?security=tls&sni=bIa-pAIn-baChE.pAgES.dev&type=ws&host=bia-pain-baCHE.PAGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.87.125:443 📡 PING-005.71-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.126:443?security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:443 📡 PING-005.71-MS
 vless://1fbd7633-8800-4de0-87fb-c656017f4099@172.67.197.103:443?security=tls&sni=aurora.nextgentechnews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.103:443 📡 PING-005.71-MS
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@104.16.96.58:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.96.58:8080 📡 PING-005.70-MS
@@ -601,6 +604,3 @@ vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c
 vless://8143f965-0aee-4122-bb34-aa7d3aacc493@104.17.50.38:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.38:80 📡 PING-005.41-MS
 vless://d8704b00-c989-480d-8cec-b87c86201a38@66.235.200.123:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.123:80 📡 PING-005.41-MS
 vless://51a844a4-fb41-4bb7-b79d-5bf40a832fe5@185.16.110.193:2096?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.193:2096 📡 PING-005.41-MS
-vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086 📡 PING-005.41-MS
-vless://a74068d7-7aee-4cc9-a0a8-954df6ceafd0@104.21.70.25:2082?security=none&type=ws&host=sg1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:2082 📡 PING-005.41-MS
-vless://c39305c2-e786-49ed-8139-9772954017d1@103.184.45.232:2096?security=tls&sni=J0in-Channel-Te1egram.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&fp=chrome#🔒 VL-WS-TLS 🇨🇳 CN-103.184.45.232:2096 📡 PING-005.41-MS
