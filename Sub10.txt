@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011 📡 PING-086.29-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3389 📡 PING-086.48-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989 📡 PING-086.62-MS
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.18.107:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.18.107:443 📡 PING-086.71-MS
@@ -604,3 +603,4 @@ trojan://WONOHswpQ82z@3.96.185.227:16396?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B
 trojan://3f728d98-e2e4-4907-9f7a-5af9e36473b8@95.164.114.43:443?#%E6%9C%AA%E7%9F%A572
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#%E6%9C%AA%E7%9F%A573
 trojan://auto@104.18.202.232:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A574
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOFgxVWlqV3NFU2ZBYk5PU1dhOTRv@89.187.28.20:443#%E6%9C%AA%E7%9F%A575

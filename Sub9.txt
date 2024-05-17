@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://357b018d-a9a9-4c58-bfa7-c0ba4e80807c@104.18.12.229:443?security=tls&sni=join-telegram-disvpn.pages.dev&type=ws&host=join-telegram-disvpn.pages.dev&path=/TelegramChannel:@DisVpn,TelegramChannel:@DisVpn&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:443 📡 PING-001.34-MS
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.248.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:2096 📡 PING-001.34-MS
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.22.6.4:443?security=tls&sni=bia-Pain-baCHE.Pages.DeV&type=ws&host=bIA-PAin-BAcHe.pages.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.6.4:443 📡 PING-001.34-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-91.193.58.119:2053 📡 PING-001.34-MS
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#🔒 SS-TCP-NA 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSkVrWXBtZnN3UW9KMXVtbXNUcmY2@136.244.81.170:20888#🔒 SS-TCP-NA 🇩🇪 DE-136.244.81.170:20888 📡 PING-085.97-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989 📡 PING-086.07-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#🔒 SS-TCP-NA 🇫🇷 FR-51.159.111.208:989 📡 PING-086.28-MS
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011 📡 PING-086.29-MS

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://auto@104.18.34.21:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5510
 trojan://0b496cc0-0e73-11ef-9767-1239d0255272@104.21.69.44:443?type=ws&sni=uk1.test3.net&path=/howdy&host=uk1.test3.net#%E6%9C%AA%E7%9F%A5511
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&type=grpc&sni=nleaaaaaa.piabolictash.online#%E6%9C%AA%E7%9F%A5512
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#%E6%9C%AA%E7%9F%A5513
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7002#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.51-3109
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.225:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.225-2589
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.117:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.117-3146
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.148-2305
