@@ -4,13 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://Ck0nkbbsur@104.26.5.32:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.32:2096
-trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
-trojan://baaabcc-abac-caab-adcb-abbbcbcccaaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTpiYWFiY2NhLWFhY2ItYWFiYy1jZGFiLWJjY2JhYWNiY2FhYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-29-ORDIBEHESHT-1403 🕑 11:29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJR2VGY0VodlRKbE9JME1mREgzczEvMG5VTzR2MTA2U1phbU52MmtLdmxZPQ==@3.120.184.178:8080#🔒 SS-TCP-NA 🇩🇪 DE-3.120.184.178:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWWFwaDM3c3FXTXg=@5.188.36.93:51348#🔒 SS-TCP-NA 🇹🇷 TR-5.188.36.93:51348
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.225:8000#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:8000
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.31:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:808
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
@@ -604,3 +597,10 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8008
 ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@172.67.188.134:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.188.134:443
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:30129#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:30129
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8888
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8090
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8091
+ss://NWYzZGI2NDUtYWUwYi00Y2Y2LWFlZTEtODM4YTkyYjZlYTY4Og==@172.67.202.26:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.202.26:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:5500#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5500
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8118#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8118
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.225:8119#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8119
