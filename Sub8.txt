@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.115.243:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.115.243:8080
+vless://fb32de6e-c03b-47eb-96b8-bc048e145c75@5.57.33.37:54677?security=none&type=tcp&host=Speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.37:54677
 vless://41340698-cc0e-4bb7-a796-8b245b1f2370@172.66.203.36:2052?security=none&type=ws&host=netflixvgiuf%F0%9F%98%82%F0%9F%97%BFyduuvgguiigyquhoihtfxtopuihojV2rayolhgyfyvyvlknouvrdfed2s2svyhij22kkuogifjfkfifofotitirruye63467r8t8t8tgigjgjvnvmfsraew4w4w5e5e7t8y9u9uhoihopjjpkbbkvngnmcmchfyfd.7.smvpn1997.shop.&path=%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.203.36:2052
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:c629:c7a6]:443?security=tls&sni=TelEGram.v2VIPchanNel.MRVi.online&type=ws&host=telegram.v2vipchannel.mrvi.online&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:c629:c7a6]:443
 vless://a54a8e51-cb42-4fe0-9c7b-1b56937e481a@188.114.97.0:2096?security=tls&sni=moal5.jokpas1.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:2096
@@ -602,5 +604,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?security=tls&sni
 vless://9ac18653-25c9-431d-ac9a-20125216e9c1@190.93.247.155:2087?security=tls&sni=ChanelcipcV2ray.Snappfoodd.site&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2087
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@104.21.95.205:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.95.205:8880
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.154:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.154:8443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.230.146.168:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-20.230.146.168:443
-vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?security=none&type=ws&host=bia-channel-hajimamadvpn.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:80
