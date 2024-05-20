@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@185.143.234.120:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.75.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.75.210:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.95.126.8:80?security=none&type=ws&host=a.ssll.gay&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-34.95.126.8:80
 vless://97de1be3-24c8-4939-ba73-59c2ca0232c1@195.123.224.173:443?security=none&type=tcp&host=fast.com&path=%2F%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing%40HivePing&headerType=http#🔒 VL-TCP-NONE 🇧🇬 BG-195.123.224.173:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.17.150.39:443?security=tls&sni=mAmaNe-FiLtErCHI.pAgeS.dEv&type=ws&host=MaMANE-fIlteRCHI.pAges.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.150.39:443
@@ -602,5 +604,3 @@ vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.133.233:8443?security=tls&s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.126.64:53777?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.122.126.64:53777
 vless://c6a979db-09de-4b47-88c2-fb89c0335049@172.67.163.103:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:443
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.24.234.35:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.234.35:2052
-vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
-vless://612e4dd1-b6db-4c95-b627-888b6d34abeb@104.26.15.85:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2083

@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@192.18.139.229:8443?security=tls&sni=v222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.18.139.229:8443
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.44.58:8443?security=tls&sni=ios-azadnet1.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.58:8443
 vless://7f5798c2-f61b-41de-ae4d-d43b61871995@185.18.250.245:2052?type=ws&host=lshopingstore.qpfldn.nokhamenei.cjsnawcn.swqpobfblogsite.topwebsiteliq.com.&path=/telegram-@Liqivpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqivpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqvpn,telegram-Liqivpn,telegram-Liqvpn,telegram-Liqivpn,Ddaridv2rayng-V2rayngmmd-telegram-Lliq-v2ray?ed%3D2056&fp=chrome#🔒 VL-WS-NA 🇨🇭 CH-185.18.250.245:2052
 vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
 vless://82f05100-0f5e-4efc-9f87-4ea66056b773@190.93.247.155:2096?security=tls&sni=hopev2ray.accme.link&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2096
@@ -602,5 +604,3 @@ trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.m
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@172.207.160.184:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.160.184:443
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
 trojan://0f408453-2589-4fc2-bf9d-22e0cef8b8d2@54.169.103.95:20230?security=tls&sni=421421.xyz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-54.169.103.95:20230
-trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
-trojan://auto@172.67.1.191:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.1.191:443

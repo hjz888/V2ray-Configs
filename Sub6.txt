@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.44:2083
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.123:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.123:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&sni=BIa-PaiN-baChE.pageS.dev&type=ws&host=Bia-PAIN-baChe.paGEs.DeV&path=%2F&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.170:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.231:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.231:443
 vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80?security=none&type=ws&host=gxg7RQ.dL-apArAT.coM&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
@@ -602,5 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.131:443?security=tls&sni
 vless://4bb53d72-8d13-437e-861f-bd0919ddc81f@172.67.172.97:443?security=tls&sni=ParvizsaBeTI-2bo.PAgES.DeV&type=ws&host=paRVizsaBETI-2Bo.pAges.dev&path=%2F4oyQliblS2OjQ0ka%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.97:443
 vless://48bd0de9-cc25-427f-f8e9-a13e89ddc53e@192.248.149.199:42683?security=none&type=tcp&host=uplod.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-192.248.149.199:42683
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?security=tls&sni=nl57.Vlessx.us&type=ws&host=nl57.vlessx.us&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.150:8443
-vless://44db8537-d0f7-4a43-9887-bb334385a1bd@172.67.204.84:2082?security=none&type=ws&host=irov2rayn-irov2rayn-irov2rayn-join-iroazadi-irov2rayn-join.ardeshirssh13.shop.&path=%2F%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-m-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2082
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:443

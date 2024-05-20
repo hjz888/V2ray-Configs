@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJhZGQiOiIzOC4yMDcuMTY5LjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhOWQ2NDc2Ni0yYWQ2LTQ0YTAtYTRjMC1lMWU3NjBiOTJjM2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYTlkNjQ3NjYiLCJwb3J0IjoiNTA1NDIiLCJwcyI6IvCflLAyOEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@kk022.ylks.link:2087/?type=ws&encryption=none&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B&security=tls&sni=kk022.ylks.link#%F0%9F%94%B027%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCflLAzMEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@latin-america.alipay.ovh:80/?type=ws&encryption=none&host=ton.apple&path=%2F%3Fed%3D2560#%F0%9F%94%B033%40oneclickvpnkeys
 vmess://eyJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzNmd6eFFSckU0LmZ6YnFmcnNlLnh5eiIsImlkIjoiYzc0YzJmZDEtN2U1Yi00YzIwLWJlOWYtZjNjM2I3ZmQ2MjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL2JZZEo3VmMyV2UiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+UsDI5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -602,5 +604,3 @@ vless://1523bfc1-78ca-475d-a3ba-eb0b0518d613@185.226.172.42:8080?security=none&t
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.176:443
 vless://f99961e6-8fd2-4f6c-8d79-41781b9ae9e0@[::ffff:b992:ad3b]:2086?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-[::ffff:b992:ad3b]:2086
 vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.138:443?security=none&type=ws&path=/dr#🔒 VL-WS-NONE 🇮🇷 IR-94.101.187.138:443
-vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@185.143.234.120:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:8080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.75.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.75.210:443

@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
+vless://612e4dd1-b6db-4c95-b627-888b6d34abeb@104.26.15.85:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2083
 vless://96e3e3a8-b99e-4d6c-8a74-7a9ed2ef71fb@172.66.44.244:8443?security=tls&sni=pardazeshvpn-tg59.pages.dev&type=ws&host=pardazeshvpn-tg59.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.244:8443
 vless://366236b3-b3cb-4097-9900-b46098a244b7@172.67.163.103:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.103:2086
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.73.163:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:8443
@@ -602,5 +604,3 @@ vless://af6c7d65-7180-4715-b776-f92c919030d0@185.16.110.174:2096?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.176.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.176.18:443
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.193:2096
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.44:2083
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.123:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.123:443

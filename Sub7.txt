@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://44db8537-d0f7-4a43-9887-bb334385a1bd@172.67.204.84:2082?security=none&type=ws&host=irov2rayn-irov2rayn-irov2rayn-join-iroazadi-irov2rayn-join.ardeshirssh13.shop.&path=%2F%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-m-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2082
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:443
 vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.232:443
@@ -602,5 +604,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.154.104.77:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-43.154.104.77:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:2053
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.233.225:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.233.225:2096
-vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.245.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:2083
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.36:443
