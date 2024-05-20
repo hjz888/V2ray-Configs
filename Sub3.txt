@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@latin-america.alipay.ovh:80/?type=ws&encryption=none&host=ton.apple&path=%2F%3Fed%3D2560#%F0%9F%94%B033%40oneclickvpnkeys
+vmess://eyJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzNmd6eFFSckU0LmZ6YnFmcnNlLnh5eiIsImlkIjoiYzc0YzJmZDEtN2U1Yi00YzIwLWJlOWYtZjNjM2I3ZmQ2MjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL2JZZEo3VmMyV2UiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+UsDI5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ0dzFnLmZvcmxpdmUubGl2ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiNGNjYzkyM2UtODQ1Mi00MThjLTkyMjItODdlZThmMjk1ZTE0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCflLAzNEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443/?type=ws&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-proxy_mtm%2F%3Fed%3D2048&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&fp=randomized#%F0%9F%94%B025%40oneclickvpnkeys
 vless://551b93fe-0421-44ac-9cf9-95d5ebf08738@185.58.240.178:1212?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -602,5 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.216:443?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.242:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.155:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.34.74:1935?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.154.34.74:1935
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.16.111.55:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-50.16.111.55:22222
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&sni=turkmenistan.armanibash.Shop.&type=ws&host=turkmenistan.armanibash.Shop.&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.39:443
