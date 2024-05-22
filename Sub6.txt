@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@130.61.23.77:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-130.61.23.77:443
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.57:80?security=none&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.57:80
 vless://f10a3902-438e-4d60-8978-68d21c5844a6@162.159.135.232:8443?security=tls&sni=real-state1.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:8443
@@ -604,3 +603,4 @@ vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.172:443?security=tls&sni=
 vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@162.159.138.232:2086?security=none&type=ws&host=cfhax2.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2086
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.171.205:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.171.205:2096
 vless://775213ac-3976-439a-8977-3277c0e4735d@79.99.30.138:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.138:8443
+vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.81.238:443?security=tls&sni=hdfy4c2.iraniancpi.uk&type=ws&host=hdfy4c2.iraniancpi.uk&path=%2FMr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.238:443

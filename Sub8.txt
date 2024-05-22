@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@185.174.138.112:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.112:443
 vless://e5598560-5b02-4845-bccc-9bef8f4f14e7@104.18.5.174:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.174:2087
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.64.90.53:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.90.53:8080
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.24.187.208:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.187.208:443
@@ -604,3 +603,4 @@ vless://3b1ba090-63a1-4710-9818-34be378bcfbd@162.159.1.94:8080?security=none&typ
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.122.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:8880
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@172.67.217.68:8443?security=tls&sni=eyd.saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.68:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.5.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.5.189:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@164.38.155.67:443?security=tls&sni=xin313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.67:443
