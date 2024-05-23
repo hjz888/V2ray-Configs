@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1675964d-6099-4f73-9814-fac67ad7fd26@172.64.35.226:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.226:443
 vless://766e9ecb-0e1c-4fbd-a54c-25199187dcbb@104.21.69.44:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.69.44:2086
 vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.103.112:2087?security=tls&sni=cloud-lb1.cyberscaler.com&type=ws&host=cloud-lb1.cyberscaler.com&path=%2Fqwertu&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.103.112:2087
 vless://c8c22bbb-3ced-4587-b3d0-a3392035e35a@92.246.136.186:54953?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-92.246.136.186:54953
@@ -603,4 +604,3 @@ vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@103.184.44.4:2083?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
 vless://07ffa30b-2366-4621-8c3a-aa7daeb70731@87.236.208.30:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-87.236.208.30:8080
 vless://daf5a237-baca-41f7-9801-3788e3f2c883@185.146.173.146:443?security=tls&sni=NoLimitV2ray.tranfer-Game.site&type=ws&host=NoLimitV2ray.tranfer-Game.site&path=/More_links:@holderproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.146:443
-vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.5.189:80?type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.5.189:80

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6InVwbG9hZC5pciIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIwODVmNjI4MS01YzRjLTRhMzQtOGI0NC1kNjViYzJlMmIwNjkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJpczMtdm1lc3Muc3NobWF4Lnh5eiIsInRscyI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UU9VeFlsZ1hsS3hXU3dGc1JVNkRF@146.19.233.101:29682#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.207:8080#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpveHA0WHI2NE9LcFhWMTI3Wnd0emwxNFA4TDhQb3ZxYkZHUEhibmJoUmY3Q3hDU1cxRQ@103.106.2.90:8881#%F0%9F%87%A7%F0%9F%87%A9%20_BD_%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD
@@ -603,4 +604,3 @@ vless://2b9e80c9-e164-4729-95ba-6901319a57d6@45.159.219.84:8080?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.106:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.106:443
 vless://097e2594-dbbb-4a36-a5c7-6b8c8893c611@104.18.26.94:80?security=none&type=ws&host=esetsecuritylicense.wixel67553.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:80
 vless://dc83e81b-f527-42f4-8013-ce9e1d5f6967@104.21.69.44:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2096
-vless://66af69cb-128f-4dd7-9db1-40ec31d2b9b9@104.26.7.5:443?security=tls&sni=cddtw.sdb5j.workers.dev&type=ws&host=cddtw.sdb5j.workers.dev&path=%2FTelegram%40Free_V2rng%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.5:443
