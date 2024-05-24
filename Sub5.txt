@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.225.72.135:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.135:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@198.41.217.188:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.217.188:443
 vless://72c90a40-be6b-4f5c-a293-63c7d639739c@172.67.192.28:2083?security=tls&sni=dns.seminar-irani.ir.&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.192.28:2083
 vless://a40742d3-0b12-4c73-80c2-333864a73d04@104.19.254.169:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.254.169:2087
@@ -603,4 +604,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.178:8443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.170:443?security=tls&sni=35bb3bed.12-05-2024.pages.dev&type=ws&host=35bb3bed.12-05-2024.pages.dev&path=%2FFfVqyk1EeMOsDUBM%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.170:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.210:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.254.120:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.254.120:2096
-vless://67f27227-85ab-4fea-f409-48ef93794de2@172.67.24.121:2052?security=none&type=ws&host=Fl.poloo.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.24.121:2052

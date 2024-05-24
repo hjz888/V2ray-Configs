@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.194:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.194:8443
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.133.9:443?security=tls&sni=ada27.qvqag.com&type=ws&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.133.9:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.31.16.162:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.162:2087
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@184.169.181.217:443?security=tls&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-184.169.181.217:443
@@ -603,4 +604,3 @@ vless://fa6a1a81-fcec-4a8d-895c-a7bc6c80cebe@104.26.12.54:80?security=none&type=
 vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?security=tls&sni=ip499.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2087
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.71.193:443?security=tls&sni=mAMAne-FIlTeRchI.PageS.DeV&type=ws&host=mAMAnE-fiLTerChi.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.71.193:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.246:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.246:80
-vless://298bec4b-c106-427d-cdf0-96b9226366cd@88.135.46.98:2053?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.46.98:2053
