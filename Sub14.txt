@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%E6%9C%AA%E7%9F%A5269%20853.2KB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjcwIDEuMU1CL3MiLCJhZGQiOiIxOTQuMTE2LjIxNC4yMTgiLCJwb3J0IjoiNTczMzkiLCJpZCI6IjM3OTllMGVjLTk2OWItNDc2YS04MWQ2LTFiMTVhMGViNjRiZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI3MCJ9
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#US109%201.9MB%2Fs
 trojan://auto@172.67.2.238:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5271
@@ -604,3 +603,4 @@ trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#%E6%9C%AA%E7%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#%E6%9C%AA%E7%9F%A5639%203.5MB%2Fs
 trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A5640
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%E6%9C%AA%E7%9F%A5641%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7002#US279%201.9MB%2Fs

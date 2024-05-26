@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1a7c73a8-f9c3-4acb-ad81-da1dba88ba02@104.168.107.230:2983?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradedoubler.com&fp=chrome&pbk=C_aq6dOybxsRyLBitX5wZp5bC3QB9S7mHYcxcCfO1Wg&sid=90df78a01babeac3&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2983 | 82.66ms
+vless://6e0c728f-93c0-4440-a583-3a614a3e5ccb@104.168.107.230:3462?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cookiebot.com&fp=chrome&pbk=C_aq6dOybxsRyLBitX5wZp5bC3QB9S7mHYcxcCfO1Wg&sid=90df78a01babeac3&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3462 | 83.14ms
 vless://3879db16-757e-42f7-8ea7-e7bdb24c0ac8@104.168.107.230:3492?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sloanreview.mit.edu&fp=chrome&pbk=C_aq6dOybxsRyLBitX5wZp5bC3QB9S7mHYcxcCfO1Wg&sid=90df78a01babeac3&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3492 | 83.91ms
 vless://34bb1300-f23e-4928-8852-1ae4a8c56cfa@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=C_aq6dOybxsRyLBitX5wZp5bC3QB9S7mHYcxcCfO1Wg&sid=90df78a01babeac3&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4212 | 92.71ms
 vless://d681e4bc-3106-4a05-bf05-d606ff07fa4c@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=C_aq6dOybxsRyLBitX5wZp5bC3QB9S7mHYcxcCfO1Wg&sid=90df78a01babeac3&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4342 | 72.93ms
