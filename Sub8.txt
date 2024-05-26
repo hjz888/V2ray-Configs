@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://39275628-a78c-4f19-ab81-c9424edf2956@104.26.14.85:2096?security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096
+vless://5f907d0a-923c-43b7-b049-2ca0a99894be@104.21.20.148:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:443
 vless://d744c466-7e55-4cd3-a69e-ffbc1eddf692@92.60.70.55:56701?type=tcp#🔒 VL-TCP-NA 🇹🇷 TR-92.60.70.55:56701
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.3:443
 vless://666daab2-b1cd-4fc0-a227-0ddf69586d2b@91.231.182.218:53998?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-91.231.182.218:53998
@@ -602,5 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.40:443?security=tls&sni=c
 vless://8c9cb6e5-1be1-4e35-9ed3-d0d5280479a9@104.18.15.19:2096?security=tls&sni=tp6.zedmodeon.lat&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2096
 vless://38c4ff35-8663-42a1-8488-ef67aa434d5c@185.146.173.112:2052?security=none&type=ws&host=Vsy.samancenter.com.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.112:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.230.34.30:443?security=tls&sni=jp226.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇯🇵 JP-13.230.34.30:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.198:443
-vless://ffd61a36-830e-4c64-96ce-c863b9d4f0b3@104.20.62.55:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.62.55:80

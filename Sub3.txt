@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7%20_GB_%E8%8B%B1%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmIiwiYWRkIjoiMTcyLjY3LjE2NC43OCIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImMyODZkYWEyLTU5ZGUtNDU1Yy04ZGU4LWVjMDMyYjZjZTJlOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImluMy53aXNoLm1sIiwidGxzIjoiIn0=
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://3e2290c5-332f-4bbe-8efb-05d4addc095b@91.194.11.168:443?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -602,5 +604,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.173:8443?security=tls&sni=
 vless://cba35cfb-7ebb-433f-a179-43dd5b28591c@104.16.60.8:443?security=tls&sni=freevpn1.pingreducer.top&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.60.8:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.123.173:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.123.173:443
 vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@172.67.177.17:2083?security=tls&sni=esetsecuritylicense.ybvmit.WoRKERS.DeV&type=ws&host=esetsecuritylicense.ybvmit.WoRKERS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.17:2083
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.22:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.22:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.252.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.252.195:443

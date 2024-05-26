@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.198:443
+vless://ffd61a36-830e-4c64-96ce-c863b9d4f0b3@104.20.62.55:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.62.55:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.118.118:443?security=tls&sni=FuNITech.PAGes.dEv&type=ws&host=fUnitEch.Pages.dEv&path=%2F6ShJ4K1D9XKTrQeO%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.118.118:443
 vless://9500134e-7c06-49b8-97ab-8cc43828f0f3@104.24.140.135:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.140.135:80
 vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.115:2083
@@ -602,5 +604,3 @@ vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@109.61.16.34:2045?security=none&typ
 vless://da6006c0-254a-4ef2-a77d-91f17b6d0c43@172.66.47.78:8443?security=tls&sni=pardazeshvpn-tg67.pages.dev&type=ws&host=pardazeshvpn-tg67.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.78:8443
 vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@188.114.96.1:8880?security=none&type=ws&host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&path=Telegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8880
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.75.14:443?security=tls&sni=bypassfilter.nuktsv.workers.dev&type=ws&host=bypassfilter.nuktsv.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.14:443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@146.56.171.182:11659?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-146.56.171.182:11659
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.206.150:2087?security=tls&sni=hk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.243.206.150:2087

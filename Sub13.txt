@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://aacacbb-abac-bcaa-bacd-bbabcacbcaac@127.0.0.1:1080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A5131
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.93:5500#US64%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#%E6%9C%AA%E7%9F%A5132%201.3MB%2Fs
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:5500#US65%201.6MB%2Fs
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&type=ws&sni=cdn13.cdn2cdn.com&path=/&host=cdn13.cdn2cdn.com#%E6%9C%AA%E7%9F%A5133
@@ -602,5 +604,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEsxNiIsImFkZCI6IjIxMC4zLjE1OS4yMjQiLCJwb3J0IjoiMTI5
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTEwIiwiYWRkIjoiMjEwLjIzMC4yMDYuMTgiLCJwb3J0IjoiMzk3NzciLCJpZCI6ImZjNzhjZDAxLTk5YWMtYTA4NS1jYjg0LTY5YTYwOTIwMTI5ZCIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MTAifQ==
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.183:7001#US224%201.9MB%2Fs
 trojan://telegram-id-directvpn@13.51.23.171:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5511
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyMjUgNDYuNE1CL3MiLCJhZGQiOiIxMjkuMTQ2LjQ2LjE4MSIsInBvcnQiOiI1MjQwOCIsImlkIjoiYTc5N2ZmN2ItODE2MS00MGE2LWQ1NzctMWIyYzIxM2IzODg1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMyMjUifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.225:8118#%E6%9C%AA%E7%9F%A5512%201.9MB%2Fs
