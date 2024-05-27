@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.81.35.248:443?security=tls&sni=xin306.ylks.link&type=ws&path=/proxyip#@Hope_Net-join-us-on-Telegram
 vless://499ee245-f954-4d41-9943-4e85666b7414@104.18.26.94:80?security=none&type=ws&host=esetsecuritylicense.mybdgpd.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.166.131:2083?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#@Hope_Net-join-us-on-Telegram
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@ALL VPNCUSTOMIZE
@@ -604,3 +603,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.38.15:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.38.15:2096
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.65.1:2096?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.65.1:2096
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.191:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.191:2083
