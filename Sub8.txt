@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@108.162.192.198:443?security=tls&sni=bia-PaiN-baCHE.PAGeS.DeV&type=ws&host=bia-pAin-bAChE.PaGeS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.198:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.61.88:443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FFree_V2rng%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.61.88:443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.186.98:443?security=tls&sni=bypassfilter.test-fad.workers.dev&type=ws&path=%2Fvless-ws%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.98:443
 vless://9613ffe2-ebb9-461a-a820-a0c4811044f6@104.24.176.7:2087?security=tls&sni=telgram.1lagvpn13.cfd&type=grpc&serviceName=@L_AGVPN13@L_AGVPN13@L_AGVPN13@L_AGVPN13#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:2087
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.32:443
@@ -602,5 +604,3 @@ vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.242.79.71:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.242.79.71:80
 vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.32:2087?security=tls&sni=aa-vpnwedbaz-tls.sibanimage.ir.&type=grpc&serviceName=@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbaz&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2087
 vless://64f38424-c7a6-4b4a-bc0e-2ee4b3f1291e@92.223.84.79:443?security=tls&sni=speedtest.gcore.com&type=ws&host=accelerattemanamnmyss.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-92.223.84.79:443
-vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.120.47:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.120.47:8080
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.16.132.229:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.229:443

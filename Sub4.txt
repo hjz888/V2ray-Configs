@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://95773733-4ab2-0185-7006-4adcfd614c2b@94.182.134.48:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.48:443
+vless://dd8fcc58-aa2e-400b-8de7-e7488d0d835e@104.21.42.84:2083?security=tls&sni=pasargad.top-speed.pw&type=grpc&serviceName=pasargad.top-speed.pw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.42.84:2083
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.19.202:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.202:2052
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.41:2052?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.41:2052
 vless://5521744a-f20b-407b-87b7-3797b30d3f2c@172.67.217.219:8443?security=tls&sni=frtvd.oxnetirz214.workers.dev&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.219:8443
@@ -602,5 +604,3 @@ vless://f56cec4b-8fca-4568-901e-da0f247293c8@185.146.173.38:80?security=none&typ
 vless://83f8f566-db9f-4ead-a46c-f08f17495c22@172.67.142.248:8443?security=tls&sni=mahdi.hackers85.monster&type=ws&host=mahdi.hackers85.monster&path=/@hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.248:8443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.131.1:80
 vless://12c7c187-ca45-411f-a1f0-662730cf347a@104.18.12.149:80?security=none&type=ws&host=almanv2raygmsix6.6.6.6.ir.com.site.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8%E6%96%AF.retete.fun.&path=%2FgermaniV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.149:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096
-vless://477d2cef-56a3-44ec-a6a1-85050dda1cf6@185.146.173.237:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.237:8443
