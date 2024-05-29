@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://de0a955c-dd4a-4e30-94f2-084f3b26a88c@172.67.190.127:8080?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.244.148.214:443?security=tls&sni=kk306.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇬🇧 GB-198.244.148.214:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.66.7.95:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-150.66.7.95:34237
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.161.126:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.126:443
@@ -603,4 +604,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.97.90:2087?security=tls&sni=
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:2086?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.40.164:2086
 vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@172.67.130.66:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.130.66:2053
-vless://586ef978-c450-4435-89f7-b281ebba09fe@170.187.231.189:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-170.187.231.189:2003

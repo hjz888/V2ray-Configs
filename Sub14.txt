@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.238:2375
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.29:5499
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.108:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:8091
 ss://MWNhN2U0M2YtYTczNy00NjY3LTk0OGUtNjdjMjA1OWY4MmU5Og==@172.67.69.236:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.69.236:443
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#US147%201.6MB%2Fs
 trojan://telegram-id-privatevpns@13.38.150.70:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5344%202.9MB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.111.114.133:5498#%E6%9C%AA%E7%9F%A5345%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:5600#US148%202.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#%E6%9C%AA%E7%9F%A5346%205.7MB%2Fs

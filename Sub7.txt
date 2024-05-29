@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@172.67.186.37:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.186.37:80
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@104.21.80.134:443?security=tls&sni=w2.sylarsun.eu.org&type=ws&host=w2.sylarsun.eu.org&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.134:443
 vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
 vless://88845e47-23a5-4049-8e8c-2ea49f0c11a1@51.178.236.123:43633?security=none&type=kcp#🔒 VL-KCP-NONE 🇫🇷 FR-51.178.236.123:43633
@@ -603,4 +604,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.109:443?security=tls&sni=
 vless://82494092-bd0c-405b-920c-8ebfaf5d8b81@188.114.97.170:80?security=none&type=ws&host=sssds433600.2b5c6c9f0d.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.170:80
 vless://2e712b67-510e-47b2-9632-257a693bc855@172.67.177.228:443?security=tls&sni=ch2.melobigg.site&type=ws&path=/melov2ray&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.228:443
 vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096
-vless://84e59ad7-ca22-4093-98b3-8b59617a3129@[::ffff:6815:4f8f]:443?security=tls&sni=at2.v2vless.xyz&type=ws&host=at2.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:4f8f]:443

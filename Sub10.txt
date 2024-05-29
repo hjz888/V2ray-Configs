@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://586ef978-c450-4435-89f7-b281ebba09fe@170.187.231.189:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-170.187.231.189:2003
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.94:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.207.92:2083?security=tls&sni=jp222.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.207.92:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@52.24.42.114:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-52.24.42.114:2087
@@ -603,4 +604,3 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@103.184.44.134:443?security=tls&sni
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.67.38.130:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.38.130:80
 vless://87f7cb00-a064-4173-9c04-70ab944b2ace@180.149.90.66:443?security=tls&sni=esna.serveirc.com&type=ws&path=%2F%40v2ray_configs_pool#🔒 VL-WS-TLS 🇲🇳 MN-180.149.90.66:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.202.204:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.204:443
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.125:2087

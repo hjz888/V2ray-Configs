@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.133.160.129:39419?security=tls&sni=xin306.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇷 KR-125.133.160.129:39419
 vless://87490206-bfdd-44a4-b630-4da69563a078@198.41.221.63:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.210.34.188:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.34.188:2087
 vless://64d291ef-1fa2-4bb3-a99c-e184708e4ea0@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-176.126.113.161:443
@@ -603,4 +604,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.130:443?security=tls&sni=
 vless://422e51ef-06a9-4122-b07f-780a1b13cd74@185.146.173.208:80?security=none&type=ws&host=1.2.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.CoM.&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER%3Fed#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.208:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.232.14:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.232.14:2083
 vless://8cff1710d1e64389831a6ea2ef029b32@185.146.173.59:2052?security=none&type=ws&host=SvnTeamV2rayFnThree6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:2052
-vless://e76fda5e-2783-4772-9af5-cea1a35b4316@172.67.171.99:80?security=none&type=ws&host=Be2-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.99:80

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.125:2087
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@203.69.248.40:27381?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇹🇼 TW-203.69.248.40:27381
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2087
 vless://10716279-b1ee-41d8-b63e-87782088305b@45.159.219.194:443?security=tls&sni=MAMAnE-fILterchi.PAgeS.deV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.194:443
@@ -603,4 +604,3 @@ trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&host=mmd.net.napster
 trojan://NISHIKUITAN222@104.21.76.195:443?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:443
 trojan://26a663656e575c0b@5.44.249.50:3306?sni=n2.gladns.com#🔒 TR-TCP-NA 🇸🇬 SG-5.44.249.50:3306
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.74:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.74:2053
-trojan://dbbaba11-1a70-4514-8005-f410a684145b@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443

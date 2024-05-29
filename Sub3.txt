@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInBvcnQiOiIyNjA1OSIsInR5cGUiOiJub25lIiwiaWQiOiIxYzc4MjRiMy0xYWEwLTNlNWEtODhlOC1kM2YwNDI2YWIyMWUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoicHB5LWdpYWNuMi4wMDk4ZG5zMDJpbi53b3JrIiwicG9ydCI6IjI2MDIzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFjNzgyNGIzLTFhYTAtM2U1YS04OGU4LWQzZjA0MjZhYjIxZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJwcHktZ2lhY24yLjAwOThkbnMwMmluLndvcmsiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInBvcnQiOiIyNjAwOCIsInR5cGUiOiJub25lIiwiaWQiOiIxYzc4MjRiMy0xYWEwLTNlNWEtODhlOC1kM2YwNDI2YWIyMWUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInBvcnQiOiIyNjA2MiIsInR5cGUiOiJub25lIiwiaWQiOiIxYzc4MjRiMy0xYWEwLTNlNWEtODhlOC1kM2YwNDI2YWIyMWUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoicHB5LWNtY2MuMDA5OGRuczAyaW4ud29yayIsInRscyI6IiJ9
@@ -603,4 +604,3 @@ vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:80?security=none&type=
 vless://93a23561-7665-4b2e-8824-85eed640d4de@104.18.22.19:80?security=none&type=ws&host=linood-fra.scriptboy.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.19:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.112:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.112:8443
 vless://6c3c8396-e94b-4a79-b1aa-9306d4749409@185.206.94.225:8880?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.206.94.225:8880
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.133.160.129:39419?security=tls&sni=xin306.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇷 KR-125.133.160.129:39419
