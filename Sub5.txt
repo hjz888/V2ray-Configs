@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ac820b81-e404-4284-bfcf-0220addbbcc9@162.159.138.232:8443?security=tls&sni=real-state2.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.138.232:8443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.186.98:443?security=tls&sni=bypassfilter.test-fad.workers.dev&type=ws&path=%2Fvless-ws%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.98:443
 vless://532bbfd9-47f5-45e6-8776-20e2708691db@109.61.42.206:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇪 AE-109.61.42.206:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.146:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.146:443
 vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws&host=vl26.rnd.biz.id&path=/?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
@@ -604,3 +602,5 @@ vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.225:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.225:443
 vless://e5bf6f9f-c638-4543-8a57-0c7629f993b2@217.60.252.121:6710?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.252.121:6710
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.20.22.211:443?security=tls&sni=BiA-Pain-baChE.PageS.DEv&type=ws&host=Bia-PAIN-BAChE.paGeS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.22.211:443
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.146.69:443?security=tls&sni=folani.iiipok.WORkerS.DEV&type=ws&host=folani.iiipok.WORkerS.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.69:443
+vless://d5696bc1-c9c6-43d8-959e-7378423a1b13@104.21.12.176:443?security=tls&sni=pq-gr-1.doctornim.ir&type=grpc&serviceName=tg3Vu3EboaFgTRqgBlzUTAbQ1730P&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.176:443
