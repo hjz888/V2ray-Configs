@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e84b6ead-1550-4734-b0ed-865e6e2bb866@95.164.68.37:443?security=tls&sni=Join-Telegram-FRAv2ray.fohapo2489.workers.dev&type=ws&host=host&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-95.164.68.37:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.31.107:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.31.107:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.24.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.250:443
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.107.13:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.107.13:443
@@ -603,4 +604,3 @@ vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?security=tls&sn
 vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.152.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@77.75.199.5:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.5:80
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.110:443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443

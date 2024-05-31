@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://240e3a40-fe5a-4ee9-aa1b-6017c312d038@185.58.243.54:15502?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.243.54:15502
 vless://61e4fe55-cecf-4094-8dd1-3f009924b757@45.94.169.231:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🇺🇦 UA-45.94.169.231:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.101.233:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.233:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.99.245:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.99.245:80
@@ -603,4 +604,3 @@ vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.51.3:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.3:2083
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.0.31:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:2083
 vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80?security=none&type=ws&host=proxiiraniii.hitido2760.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.149:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.120.51:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.120.51:80

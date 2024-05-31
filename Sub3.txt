@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTI5LjIyNi4yMTcuMTY4IiwicG9ydCI6IjE1MzIyIiwidHlwZSI6Im5vbmUiLCJpZCI6Ijc2NzZhNTI0LTM2MDMtNDczZS1kZTQxLTJiYzYyNzNkNTJmYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3dzIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTI5LjIyNi45My40NyIsInBvcnQiOiI1NDU5MiIsInR5cGUiOiJub25lIiwiaWQiOiI1YjFlNzdiZi1hNzNjLTQ3NTYtZTY0YS00ZjAyYWMzNWVkNDMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiMTI5LjIyNi45My40NyIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTI5LjIyNi45NC4xMzQiLCJwb3J0IjoiMzExNDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiODgzNTU3ZjItODhjOS00OTYzLWJkMGUtMjA4MzM1M2Y3OTAxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvd3MiLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTI5LjIyNi45NC4xNDUiLCJwb3J0IjoiNTE4NDgiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWQ0NzU3ZjEtZTI4Yy00N2I4LTk3MGMtNTFiMjMyYzY1M2Q4IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvd3MiLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -603,4 +604,3 @@ vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.7.24:8080?security=none&type
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@154.85.99.160:443?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-154.85.99.160:443
 vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80?security=none&type=ws&host=afjdh053dda.72386902d6.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.120.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.227:443
-vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@104.21.233.140:443?security=tls&sni=xn--mgbUg7c2aM63g.jObfineX.ir.&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.233.140:443

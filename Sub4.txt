@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@104.21.233.140:443?security=tls&sni=xn--mgbUg7c2aM63g.jObfineX.ir.&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.233.140:443
 vless://586ef978-c450-4435-89f7-b281ebba09fe@170.187.231.189:443?security=tls&sni=m.tiktok.com&type=ws&path=%2FVLESS#🔒 VL-WS-TLS 🇸🇬 SG-170.187.231.189:443
 vless://ca2279db-9aa2-4137-a792-d88efcc2eae0@104.20.11.224:2096?security=tls&sni=full.gosharep.CoM&type=ws&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.11.224:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.89.91:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.89.91:443
@@ -603,4 +604,3 @@ vless://f9b7f579-bb8a-48bf-bfc1-c470041eb9ca@104.20.101.62:2095?security=none&ty
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:443?security=tls&sni=esetsecuritylicense.ujlqwtae.WorkErs.deV&type=ws&host=esetsecuritylicense.ujlqwtae.WorkErs.deV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:443
 vless://e848dbe4-530e-4d33-8802-172bbb721d59@5.182.36.218:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-5.182.36.218:8080
 vless://6d196ba1-569f-4b2c-9160-998b3b1b19af@104.24.53.170:8880?type=ws&host=baghead%E5%88%9D%E5%90%BB%E6%97%B6%E7%9A%84%E7%88%B1%E6%83%85%E5%A5%87%E8%BF%B9%E4%B9%8B%E4%B9%A6.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.53.170:8880
-vless://1c06b6c9-d762-4092-a876-a5e6dd9ff85f@190.93.247.155:2087?security=tls&sni=LiV2raya.yoyoyo.ir&type=ws&host=LiV2raya.yoyoyo.ir&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:2087

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8888
 ss://Nzk5NzgwMjctZWYxNi00MTM3LWIxOGUtOTA1ZjhjMThmODQ1Og==@172.67.254.45:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.254.45:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQmxWUWEzeUJoYXpaVXBHVEFYTVJx@46.226.167.36:51476#🔒 SS-TCP-NA 🇫🇷 FR-46.226.167.36:51476
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6679
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:9090#US151%202.0MB%2Fs
 trojan://moist@146.56.44.226:55555?security=tls&type=ws&sni=trojan.freenods.sbs&path=/&host=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A5348
 ss://YWVzLTEyOC1nY206YjE5NTk2M2MtMjYzMS00NDJkLWFiM2EtNmU3OGRmMjVkOTA0@cdn2.myuuusss.com:20011#%E6%9C%AA%E7%9F%A5349
 trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&type=grpc&sni=vr.v2ray962.filegear-sg.me#%E6%9C%AA%E7%9F%A5350
-trojan://auto@104.21.31.51:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&host=esetsecuritylicense1.vowexa5791.workers.dev#%E6%9C%AA%E7%9F%A5351

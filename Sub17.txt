@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://auto@104.21.31.51:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&host=esetsecuritylicense1.vowexa5791.workers.dev#%E6%9C%AA%E7%9F%A5351
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.71.141:80#%E6%9C%AA%E7%9F%A5352
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12051?sni=china3.one.edu.kg#HK6
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5353
@@ -603,4 +604,3 @@ ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.17.249.203:2083#%E
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#US325%20591.5KB%2Fs
 trojan://310370b3-5cf5-48f4-887b-6f50e56f04a0@170.187.231.189:443?#%E6%9C%AA%E7%9F%A5740
 trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&type=ws&sni=t306.ylks.link&path=/&host=t306.ylks.link#%E6%9C%AA%E7%9F%A5741
-trojan://auto@172.67.213.48:443?security=tls&type=ws&sni=esetsecuritylicense2.wawafec355.workers.dev&path=/?ed=2560&host=esetsecuritylicense2.wawafec355.workers.dev#%E6%9C%AA%E7%9F%A5742
