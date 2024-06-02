@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://07687cfe-1206-485d-96be-d9d0af7d11c4@172.67.20.220:2083?security=tls&sni=filterchichenanbekobametbegorzegeran.segaro.tech&type=ws&host=filterchichenanbekobametbegorzegeran.segaro.tech&path=Telegram---@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.165.216.244:443?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.244:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.64.153.211:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.153.211:443
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cc@104.16.149.128:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.149.128:2053
@@ -603,4 +604,3 @@ vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.232:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.232:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.82.108:443?security=tls&sni=zdy300.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-152.70.82.108:443
 vless://2868e726-512b-402f-9678-bb273fda53fa@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096
-vless://470e861d-9be1-4057-bbdd-1c7278fe375f@190.93.247.247:443?security=tls&sni=AntiV2ray.godratmand.link&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.247:443

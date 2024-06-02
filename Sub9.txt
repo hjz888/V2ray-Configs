@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:8443?security=tls&sni=esetsecuritylicense.ikgbvch.WOrKeRS.DEV&type=ws&host=esetsecuritylicense.ikgbvch.WOrKeRS.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.9.147:8443
 vless://276d0443-9094-441b-ac9f-5662e4d9f114@172.67.136.157:2082?security=none&type=ws&host=SvnProBotV2rayGmOne6.9.6.9.ir.shop.com.hamidmoney.com&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.157:2082
 vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@104.18.39.116:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.39.116:2087
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.44:443
@@ -603,4 +604,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.89.91:443?security=tls&sni=s
 vless://d978c26d-1c43-440b-b696-be950032ab6f@172.67.222.169:2053?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.169:2053
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.245.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.148:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.77.42:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.42:443

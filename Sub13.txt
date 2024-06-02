@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@172.67.169.207:443?security=tls&sni=folani.iiipok.WORKers.Dev&type=ws&host=folani.iiipok.WORKers.Dev&path=/pikk.minusober.com:443/pikk&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.207:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.171.94:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.171.94:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.71.168:443?security=tls&sni=bbF9c21A.tEchNETBPb.PAGEs.DEV&type=ws&host=BbF9c21a.TeCHneTBPb.pAges.dev&path=%2Fl4f75fvmxHpFk3nc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.168:443
 vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
@@ -603,4 +604,3 @@ trojan://telegram-id-privatevpns@3.78.150.100:22222?security=tls&sni=trojan.burg
 trojan://DyF9KXR8gx5EclDF6pT2lS3BejSRDazY7C0aYwaOApn33ZquZyIOex4CS83NAC@154.31.114.174:28333?security=tls&sni=nagoya.meijireform.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.114.174:28333
 trojan://NISHIKUITAN222@146.56.171.182:11659?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-146.56.171.182:11659
 trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.21.69.44:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:443
