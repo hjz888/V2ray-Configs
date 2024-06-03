@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.87.222:443#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7306
 ss://MmUwMWViY2YtNGJkNi00YmU0LTkzNjUtZjVjNjIzNTEwNTEyOg==@104.25.37.104:2052#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.37.104:2052
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:3389
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.164:2375#US170%201.9MB%2Fs
 trojan://ca3d2d6a-f7ea-4a52-ba12-37bd8fcea8d2@45.156.21.216:443?security=tls&type=grpc&sni=minn2.viraticket.ir#%E6%9C%AA%E7%9F%A5352
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.196.103:80#%E6%9C%AA%E7%9F%A5353
 trojan://telegram-VPNHTTPIinjectorfree@104.18.5.250:443?security=tls&type=ws&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&path=/?ed=2560&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#%E6%9C%AA%E7%9F%A5354
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.18.235:443#%E6%9C%AA%E7%9F%A5355

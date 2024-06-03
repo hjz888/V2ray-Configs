@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.46.250:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.250:443
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.130.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.32.190.239:4431?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-152.32.190.239:4431
 vless://985bfbee-b6fa-462c-ba86-78bfa0a56981@172.67.190.127:2086?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:2086
@@ -603,4 +604,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:2083?security=tls&sn
 vless://e00a9dba-fa4c-4e07-c868-3eb02c3a905f@104.22.33.78:8880?security=none&type=ws&host=free.poloo.ir&path=%2Ftelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2CCyV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:8880
 vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@164.90.141.103:80?type=ws&host=google.com&path=/bs55Ovr86OzuubiHi#🔒 VL-WS-NA 🇺🇸 US-164.90.141.103:80
 vless://6d3ac2e8-7986-4d26-88ef-9e0194784432@104.18.7.24:80?security=none&type=ws&host=ZulaV2rayFINLAND7.7.7.7.ir.Com.Space.xn--uis47ll23adun.CoM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.7.24:80
-vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2053?security=tls&sni=esetsecuritylicense.mrgimsy.WORkErs.Dev&type=ws&host=esetsecuritylicense.mrgimsy.WORkErs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.38:2053

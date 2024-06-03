@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.9.97:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.9.97:2096
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.98:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.98:2087
 trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@118.161.82.22:13761?allowInsecure=1#🔒 TR-TCP-NA 🇹🇼 TW-118.161.82.22:13761
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA �
 ss://MjI4Y2Y0NjAtYmI1Mi00ODEwLWI1MjMtZTRjMGY1MWY3MWRkOg==@172.67.161.215:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.161.215:2087
 ss://ZTZhMDQ3ZjAtNzM0Yi00YmQ3LTgyYWEtMzY3ZjJkODhmNGE0Og==@172.67.223.175:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.223.175:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.83:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:7001
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7002

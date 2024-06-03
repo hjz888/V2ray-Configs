@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://fd40a9fc-8f39-4f04-899e-ecb35bbfce29@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
 vless://22db8666-ec54-425a-9db9-50409bbc0a67@104.20.225.16:8443?security=tls&sni=tarasvalat.ps4lavazemjanebi.ir&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.225.16:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.175:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.185:8443
@@ -603,4 +604,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?security=tls&sn
 vless://6f714a12-953b-40df-ba37-129e28abd39e@188.114.97.141:8080?security=none&type=ws&host=redc.servernet.fun.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:8080
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.223.165:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.165:8080
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.21:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/https://octohide.com/routertabrizm137.com/diamond_tm/t.me/azarbayjab1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.21:443
-vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.44:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.44:2083

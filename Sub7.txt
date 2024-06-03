@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://85bc3be1-f8d3-4f8c-806c-65375fd364df@185.16.110.61:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.61:8880
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.82.0:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.82.0:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.107.13.85:8443?security=tls&sni=jp222.ylks01.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇭 CH-51.107.13.85:8443
 vless://e15a0b34-0dee-437b-baad-b15050aa8f1c@65.109.213.238:2087?security=tls&sni=realpydar.banndedd.ir&type=tcp&path=/pydari&headerType=http&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇫🇮 FI-65.109.213.238:2087
@@ -603,4 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.200:443?security=tls&sni
 vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.247.238:443?security=tls&sni=mAmAne-FiLTerchI.pAgEs.DEv&type=ws&host=MaMane-filterChi.PageS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.238:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.148:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.148:443
 vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@172.64.148.133:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.148.133:443
-vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.46.250:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.250:443

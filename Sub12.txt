@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.238:2053
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@188.114.98.224:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&path=TELEGRAM-MARAMBASHI%2F%3Fed&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:443
 vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@104.21.79.184:443?security=tls&sni=esetsecuritylicense.shsxucu.WoRKers.dEV&type=ws&host=esetsecuritylicense.shsxucu.WoRKers.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.184:443
 vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@188.114.96.1:8880?security=none&type=ws&host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&path=Telegramchannel%3A%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8880
@@ -603,4 +604,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.112.17:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.159.83.88:8443?security=tls&sni=v331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-129.159.83.88:8443
 vless://8369ab2e-997a-47c7-87ca-c364a2e81820@104.31.16.103:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.103:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.90.78:8443?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.78:8443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.214.5:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.214.5:443

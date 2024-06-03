@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJhZGQiOiAiMTA0LjI2LjcuNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
 vless://c90ce1c3-5a45-4b5b-8655-09bb64f2a607@185.146.173.9:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#[🇸🇪]t.me/ConfigsHub`
 vless://f7ed4500-ada6-4e0b-b0fb-1e7b601ee748@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#[🇸🇪]t.me/ConfigsHub`
 vmess://eyJhZGQiOiIxODguMTE0Ljk5LjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
@@ -603,4 +604,3 @@ vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?security=tls&sni=
 vless://10716279-b1ee-41d8-b63e-87782088305b@147.185.161.192:443?security=tls&sni=mAMaNe-FILTErChI.pAGES.deV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.192:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.178:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.178:8443
 vless://66a7609a-2143-465c-b690-78dcfad6299c@[::ffff:172.67.180.12]:443?security=tls&sni=github.vipsmt.Workers.Dev&type=ws&host=github.vipsmt.Workers.Dev&path=%2Fgithub.com%2Fmhditaheri%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:172.67.180.12]:443
-vless://fd40a9fc-8f39-4f04-899e-ecb35bbfce29@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
