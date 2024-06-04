@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.194.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.194.66:443
-vless://02a99135-d557-4c65-b63b-4d8cf0d84e1a@104.21.89.90:443?security=tls&sni=m.mashti.link.&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.89.90:443
-vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.40.113:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.209.131:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.131:443
 vless://5387472d-fb54-4d7d-90fc-4cb93083e397@62.60.178.72:443?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-62.60.178.72:443
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.21.32.238:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=Telegram+%40v2rayng_ribvar#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.238:80
@@ -604,3 +601,6 @@ vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:2096?security=tls&sn
 vless://307d758b-d62b-11ee-aaa8-00505603e70d@57.128.159.106:80?security=none&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-NONE 🇬🇧 GB-57.128.159.106:80
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-190.93.246.241:2087
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2053?security=tls&sni=esetsecuritylicense.ujlqwtae.WorkErS.DEV&type=ws&host=esetsecuritylicense.ujlqwtae.WorkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2053
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.66.45.118:80?security=none&type=ws&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.118:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.65.237:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.65.237:80
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.20.156.248:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.156.248:2087

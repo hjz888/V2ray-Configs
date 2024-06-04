@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@172.67.68.240:2083?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.240:2083
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.171:80
-vless://4671a841-abb2-48e1-aacb-3b5d3cefbc59@104.16.119.3:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun&path=JoinToChannel______vistav2ray%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.119.3:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.59.14.96:443?security=tls&sni=kk116.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇫🇷 FR-146.59.14.96:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:443?security=tls&sni=kk002.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:443
 vless://3ab1e793-7cd7-49a1-bb14-b68043888482@104.21.4.8:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2086
@@ -604,3 +601,6 @@ vless://d1b64031-5833-4596-834a-5cdfc99a8893@154.197.75.20:80?security=none&type
 vless://e120d010-301f-49d7-bdb4-7568f9ab9782@91.193.58.1:2052?security=none&type=ws&host=穆罕默德侯赛superspeed12.ff2ray.cfd.#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2052
 vless://bf0c222b-3489-4f16-c8f0-90452e763cd8@172.67.208.41:443?security=tls&sni=72.morgensport.nl&type=ws&path=/VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM,VMESSKHODAM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.41:443
 vless://a8a8892a-3999-43e7-a0c9-92aded8b0f3e@104.18.13.229:8443?security=tls&sni=PONv2ray-tg54.pages.dev&type=ws&host=pardazeshvpn-tg54.pages.dev&path=/Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-Telegram:PONv2ray-&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.229:8443
+vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.18.158.102:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF7.7.7.7.net.ir.com.site.%E4%BA%8B%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.link.&path=%2F%40my_proxii%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.158.102:80
+vless://da853330-a294-4257-9a87-f481b9126d51@104.25.254.88:2053?security=tls&sni=m.mmd111.sbs&type=ws&host=m.mmd111.sbs&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.254.88:2053
+vless://e00a9dba-fa4c-4e07-c868-3eb02c3a905f@172.67.24.121:8880?security=none&type=ws&host=free.poloo.ir&path=%2Ftelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2CCyV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.24.121:8880
