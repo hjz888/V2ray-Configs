@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://421cd247-b14c-441f-9884-c9dc99420eda@104.168.107.230:8339?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sedo.com&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8339 | 17.57ms
-vless://70a7dafe-a332-47f2-87ed-ef79c38b030a@104.168.107.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8443 | 17.1ms
-vless://336bdf2f-3ad9-48ed-b306-7910ac578b1f@104.168.107.230:8667?encryption=none&flow=xtls-rprx-vision&security=reality&sni=taunusgaerten.com&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8667 | 25.05ms
 vless://8450c280-8b10-4c36-8be5-39fed03be556@104.168.107.230:8884?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dnschecker.org&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8884 | 18.37ms
 vless://4d0d2f09-8da5-449b-9c4a-b4622e2182b0@104.168.107.230:9333?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nachtzug.net&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9333 | 18.67ms
 vless://e25eb0f9-1713-4042-a521-ba7e52df1d07@104.168.107.230:9631?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=Ik9XfViLUteNSpb6jj1phga6csWyEA0F6ASHPBBXeBg&sid=812038fffa018e05&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9631 | 17.29ms
