@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1f463c22-d8c0-4163-88e1-a502c3be5917@172.66.213.38:443?encryption=none&security=tls&sni=m241.ghateleshahcheraghe.buzz&type=ws&host=m241.ghateleshahcheraghe.buzz&path=%2Fv6406924850#[🇨🇦]t.me/ConfigsHub`
-vless://df4e1392-c78a-4a67-86b2-8c8eefce64b8@172.67.190.122:8443?encryption=none&security=tls&sni=imaneemon66.imanf8roouznia.workers.dev&fp=chrome&type=ws&host=imaneemon66.imanf8roouznia.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub`
 vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?encryption=none&security=tls&sni=PpaL03.EDmUnD-RAU.wORkeRs.dev&fp=randomized&type=ws&host=pPaL03.EdMUnD-RAu.WoRKErS.DEv&path=%2FPath%2FTelegram@SiNABiGO%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub`
 vless://c9b85c37-b3ec-4e8d-ef61-e8edde961338@85.133.146.85:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@185.146.173.94:443?encryption=none&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#[🇸🇪]t.me/ConfigsHub`
@@ -604,3 +602,5 @@ vless://fb301d2e-4430-4b41-95d6-764460b8ef13@141.193.213.247:2053?security=tls&s
 vless://e8d6b46a-d61a-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=/websocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.137:443
 vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@104.20.19.78:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.78:2087
 vless://c117c4fa-c93c-4d52-b02c-fcbc22063bfa@188.114.96.45:80?security=none&type=ws&host=Se1-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.45:80
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.21.71.23:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.23:443
+vless://db681d06-693c-4616-bdb2-e5cfdcb00683@172.67.163.123:8880?security=none&type=ws&host=speedxzxzx5.5.5.5.ir.com.space.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8Fy.%E8%BF%88%E8%B5%AB%E6%96%AF%E9%9B%B7.mahxraytm.COM.&path=%2FmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%2CmahxrayTeam-ArV2ray%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.123:8880
