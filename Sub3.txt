@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f8fe7875-a4c3-4498-b59a-3b3ff87dbcb5@falconpolv2rayng.irodinamice.co:2087?path=%2F%40falconpolv2rayng%40falconpolv2rayng%40falconpolv2rayng&security=tls&encryption=none&host=falconpolv2rayn.irodinamice.co&fp=firefox&type=ws&sni=falconpolv2rayn.irodinamice.co#[🇨🇦]t.me/ConfigsHub`
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2FZYgm9Gg9QBkAXfbG%3Fed%3D2560&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%40V2ray1_Ng
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?path=%2F%40SiNABiGO%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mSDONOr.Pages.dEv&fp=randomized&type=ws&sni=MSdOnoR.pagEs.dEV#%40V2ray1_Ng
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#%40V_2rey+ALL`
@@ -604,3 +603,4 @@ vless://f1841614-1372-4a26-d96f-399c78c95595@185.146.173.31:443?security=tls&sni
 vless://86e00829-7b2c-4fac-a594-2dfaa7556d68@172.67.209.118:443?security=tls&sni=smconfing444.lakav69944.workers.dev&type=ws&host=smconfing444.lakav69944.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.118:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.168.70:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.70:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.4.173:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.4.173:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.4:443

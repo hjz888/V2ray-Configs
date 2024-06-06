@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaDZZOHAtM1V3clk5ZWotM1ZyU2Fn@185.200.191.49:443#US233%2046.8KB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.71:3389#US234%201.6MB%2Fs
 ss://Y2ZmYjZlYmEtYTMzZS00NjlmLTliZTAtYjY4Y2ZlYzAxOGU0Og==@104.18.12.130:8880#%E6%9C%AA%E7%9F%A5489
 ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.17.246.203:2083#%E6%9C%AA%E7%9F%A5490
@@ -604,3 +603,4 @@ ss://ODIzYWRhYmUtYTQwNC00NjgzLTk5YmYtOWY0OWUzNmJkMTExOg==@172.67.217.144:443#%E6
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@169.197.142.120:5498#US412%201.6MB%2Fs
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.137.42:9101#US413%202.0MB%2Fs
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#US414%201.9MB%2Fs
+trojan://telegram-id-directvpn@3.13.133.241:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US415
