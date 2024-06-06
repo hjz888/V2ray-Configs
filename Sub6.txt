@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@23.227.38.193:443?security=tls&sni=Iran.ir.arvancode.eu.Org&type=ws&host=Iran.ir.arvancode.eu.Org&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.193:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.123:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.123:8443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.5.79:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.79:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.209:443?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.209:443
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?security=tls&sni=web.v2ray-ab-841-vpn.WOrKErs.DEv&type=ws&host=web.v2ray-ab-841-vpn.WOrKErs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.175:8443
@@ -602,5 +604,3 @@ vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@172.67.217.144:443?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.77.52:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.52:443
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.133.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2096
 vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.94:2082
-vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@172.67.187.122:2096?security=tls&sni=p30download.ir-notting-hill.com&type=ws&host=proxy.ir-notting-hill.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.122:2096
-vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053
