@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@104.21.28.188:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.188:8443
 vless://1aa3ba95-18d7-4af5-a7be-f43af27a923b@104.25.245.135:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.245.135:80
 vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.28.181:8080?security=none&type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2FTELEGRAM-GH_V2RAYNG%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.28.181:8080
 vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.22.185:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.185:80
@@ -604,3 +603,4 @@ vless://4015a246-a042-4372-a64a-919171ca8593@104.16.219.120:2052?security=none&t
 vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@190.93.244.0:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.0:2087
 vless://ac7938f4-33e7-405f-8572-c65ad8f8bb87@190.93.247.155:8880?type=ws&host=LiV2raye.lightningz.ir.&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.155:8880
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.180.51:8443?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:8443
+vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.170.93:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.93:443
