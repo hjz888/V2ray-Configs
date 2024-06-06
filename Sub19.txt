@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@141.94.115.231:443?#%E6%9C%AA%E7%9F%A586
-trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.29:443?security=tls&type=grpc&sni=P5LXKRo.diamondgalery.ir#%E6%9C%AA%E7%9F%A587
 trojan://compassvpn-794T1C3EDa@104.17.223.175:2083?security=tls&type=ws&sni=147457129.19kala.co&path=/&host=147457129.19kala.co#%E6%9C%AA%E7%9F%A588
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@217.182.198.219:6697#%E6%9C%AA%E7%9F%A589%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.130:5004#%E6%9C%AA%E7%9F%A590%202.0MB%2Fs
@@ -604,3 +602,5 @@ trojan://b0b861c2c85346a389b9e95769c3cba4@104.19.159.6:443?security=tls&type=ws&
 ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.168.93:2095#%E6%9C%AA%E7%9F%A5475
 ss://YmNmNTA1ODktOTY1NC00MzMxLTkzYTYtZGE4OTY5MTRlYzQ3Og==@172.66.47.2:443#%E6%9C%AA%E7%9F%A5476
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSNG9heGlTclR1VExBWTVQOWxGVnU2@172.233.58.189:80#%E6%9C%AA%E7%9F%A5477
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56047#HK18
+ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.67.112.247:443#%E6%9C%AA%E7%9F%A5478

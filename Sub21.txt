@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#US392%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#US393%202.0MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:8388#%E6%9C%AA%E7%9F%A5867
 ss://ODNhMzA2YjktN2VhZC00OWRiLWE2MGEtYjA5NTg4YjUxN2JkOg==@172.67.135.169:443#%E6%9C%AA%E7%9F%A5868
 trojan://kh06dw8cR3@66.235.200.64:8443?security=tls&type=ws&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&host=eiiim.danesh-bonyan.store#US394
@@ -604,3 +602,5 @@ ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#US569
 ss://YWRhMzViYWUtMGZkZS00MWExLWIzMDItZjVkOTdhYWRmNjQ4Og==@172.66.192.70:443#%E6%9C%AA%E7%9F%A51255
 ss://M2QzYjE1OWQtZTMxMy00YjRmLWIyNDgtOTliZjEwNjQxNzVhOg==@104.21.69.44:80#%E6%9C%AA%E7%9F%A51256
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#US570%201.9MB%2Fs
+ss://OTI4ODRjMDItOGIwNy00NTE5LWIyMTItZjkxN2ExNDM5NWMzOg==@172.67.138.246:2096#%E6%9C%AA%E7%9F%A51257
+ss://YWVzLTEyOC1nY206YVc3V1J0cGtka0ZvenNfVTlQenZRQQ==@45.140.31.195:2061#%E6%9C%AA%E7%9F%A51258
