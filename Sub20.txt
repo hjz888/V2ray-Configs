@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#US160%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#US161%201.9MB%2Fs
 trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&type=grpc&sni=bestfollower.fandlaandpro.ir#%E6%9C%AA%E7%9F%A5323
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%E6%9C%AA%E7%9F%A5324
@@ -604,3 +603,4 @@ trojan://telegram-id-privatevpns@13.42.139.251:22222?security=tls&headerType=non
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.182.8:80#%E6%9C%AA%E7%9F%A5713
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhr@46.29.238.83:28768#%E6%9C%AA%E7%9F%A5714%207.9MB%2Fs
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.130:443#%E6%9C%AA%E7%9F%A5715
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.107:3306#US332%202.0MB%2Fs

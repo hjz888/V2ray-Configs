@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.44.5:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.255.205:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:2087?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram`
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMmQuaXJ2bi5kZWJpYW4uNi42LjFiNzEuOC5meHAuZGViaWFuLm9yZy5zcGVlZHRlc3QubmV0LuWIl+WIl+eUt+S6i+eahOS6i+WIl+S4iui1m+eUty5maWx0ZXItbmFrb24tbWFkYXJqLmN5b3UuIiwiaWQiOiI3ODU5NjI0NS0yY2NkLTRjODItOTQ1YS1iODc1NzU4NTU4ZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQGlydnBubixAaXJ2cG5uLEBpcnZwbm4sQGlydnBubj9lZFx1MDAzZDgwIiwicG9ydCI6IjIwNTIiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9`
@@ -604,3 +603,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.198:443?security=tls&sn
 vless://f6b5d14f-6227-45b4-b728-fb122b5bfe76@104.17.147.22:80?security=none&type=ws&host=nazaa.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.27.198:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.27.198:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.153:443?security=tls&sni=PPal03.Pages.dEv&type=ws&host=ppaL03.pAGEs.DEV&path=%2FSil3LDtnQJgtPPUQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.153:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.179.98:443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.98:443
