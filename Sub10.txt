@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@104.17.128.53:443?security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws&host=bpb-worker-panel-chf.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.128.53:443
 vless://037ff316-9581-4ab2-a4ba-7ecc96ded9ed@104.16.4.103:2082?security=none&type=ws&host=au7od5s74q-germany18.datam-co.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.4.103:2082
 vless://9cf47438-4a75-47bf-8f86-102644470797@104.16.219.243:8080?security=none&sni=nl16.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.219.243:8080
 vless://9c620d16-004c-423f-a853-e2d97488c326@172.67.153.223:443?security=tls&sni=V.telegramchanneljoinbede.com.&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.153.223:443
@@ -604,3 +603,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.46:2096?security=tls&sni
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.114.74:2095
 vless://d5696bc1-c9c6-43d8-959e-7378423a1b13@104.21.12.176:443?security=tls&sni=pq-gr-1.doctornim.ir&type=grpc&serviceName=tg3Vu3EboaFgTRqgBlzUTAbQ1730P&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.176:443
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:443
+vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.122.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:8880
