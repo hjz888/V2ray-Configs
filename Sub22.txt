@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTA3IiwiYWRkIjoiMTA0LjI2LjE1LjIxMyIsInBvcnQiOiIyMDgyIiwiaWQiOiI5YWUxMzg2MS0wYTM1LTQxNGEtZmY0OS1hMDc3ZTllZWVkYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJrcC5hbGlwYXkub3ZoIiwicGF0aCI6Ii9hcmllcz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTA3In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTA4IDE3LjFNQi9zIiwiYWRkIjoiMTYyLjE5LjI1LjIwNyIsInBvcnQiOiI0NDUxMyIsImlkIjoiNDU1MmJkYjYtZTAwOC00M2FjLTkyNmQtYzZjNmM1YTZmYzc2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTA4In0=
 trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&type=ws&sni=t306.ylks.link&path=/&host=t306.ylks.link#%E6%9C%AA%E7%9F%A5909
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#HK23
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%E6%9C%AA%E7%9F%A5910%204.8MB%2Fs
@@ -602,5 +604,3 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@162.210.199.65:443?#US536
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.170.220:443#%E6%9C%AA%E7%9F%A51294
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.12:443#%E6%9C%AA%E7%9F%A51295
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#%E6%9C%AA%E7%9F%A51296%201.8MB%2Fs
-trojan://telegram-VPNHTTPIinjectorfree@104.18.4.250:443?security=tls&type=ws&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&path=/?ed=2560&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#%E6%9C%AA%E7%9F%A51297
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A51298%2027.5MB%2Fs
