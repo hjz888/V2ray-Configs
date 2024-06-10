@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.194.202:80#%E6%9C%AA%E7%9F%A5367
-trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@172.67.215.180:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
-ss://YmY5ZGMwZDAtOTFjNS00ZDMzLWE0NWUtZDg5MDBiYjIyOTU3Og==@172.67.1.143:443#%E6%9C%AA%E7%9F%A5368
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:9090#US156%201.7MB%2Fs
 trojan://auto@104.21.31.51:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&host=esetsecuritylicense1.vowexa5791.workers.dev#%E6%9C%AA%E7%9F%A5369
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:9090#US157%201.7MB%2Fs
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.162.200.181:8000#%E6%9C%AA%E7%9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzM4IDIuNk1CL3MiLCJhZGQiOiIxNzMuMjQ1LjU5LjgiLCJwb3J0IjoiNDQzIiwiaWQiOiIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiI3N2gycXVpZXQtZHJlYW0tNWMzNC5mb3JhdGF5NzQxLndvcmtlcnMuZGV2IiwicGF0aCI6Ii9nbHdlaWRmLmNmZC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI3N2gycXVpZXQtZHJlYW0tNWMzNC5mb3JhdGF5NzQxLndvcmtlcnMuZGV2IiwidGVzdF9uYW1lIjoiNzM4In0=
 ss://YzBmYmQ2NjQtOTY5My00Y2MwLWFhNzMtOTI0N2RiYmFkYmViOg==@104.21.46.197:443#%E6%9C%AA%E7%9F%A5739
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@34.193.97.35:443#US328
+ss://YWVzLTEyOC1nY206YVc3V1J0cGtka0ZvenNfVTlQenZRQQ==@45.140.31.195:2061#%E6%9C%AA%E7%9F%A5740
+trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD28
+ss://YzBmYmQ2NjQtOTY5My00Y2MwLWFhNzMtOTI0N2RiYmFkYmViOg==@172.67.141.169:443#%E6%9C%AA%E7%9F%A5741
