@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.32:2087?security=tls&sni=aa-vpnwedbaz-tls.sibanimage.ir.&type=grpc&serviceName=@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbaz&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2087
-vless://36be852c-7964-437b-9a8c-7baa0dfe671b@104.21.24.112:8443?security=tls&sni=sub.ntgvip.online&type=ws&host=sub.ntgvip.online&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.112:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.137.23:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.23:443
 vless://143cefce-7a16-4db6-96e6-3024b7598ab5@104.20.243.196:443?security=tls&sni=it-world.rivasmed.com&type=ws&host=it-world.rivasmed.com&path=%2Frecvpn%2F10201#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.243.196:443
 vless://38535031-ccc3-4a94-bd54-c68806486406@172.67.161.132:443?security=tls&sni=ffvhyfhibfrhhddrhh965ommcdwwr5furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.132:443
@@ -604,3 +602,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.71:80?type=ws&host=kr1.
 vless://d0e0f8f3-f863-4cc4-895f-bc8ca71a51c8@104.19.247.91:8443?security=tls&sni=pardazeshvpn-tg51.pages.dev&type=ws&host=pardazeshvpn-tg51.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.91:8443
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.143.204:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.204:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443
+vless://a139a1de-b010-4e79-9f49-0e836d21a54b@185.146.173.179:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.179:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443

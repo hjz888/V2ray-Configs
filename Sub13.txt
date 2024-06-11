@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a139a1de-b010-4e79-9f49-0e836d21a54b@185.146.173.179:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.179:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.130:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.130:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.20:443
@@ -604,3 +602,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@216.205.52.180:2053?security=tls&sni=78345.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.180:2053
 vless://0eea7726-6424-46d9-b1e4-30f5001b0ccc@172.67.218.237:8880?security=none&type=ws&host=solta.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.divajnet.site.&path=@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.237:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.159:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.159:443
+vless://4233ad89-0065-487d-a7ce-bab7f413fbc2@84.32.230.82:29704?security=none&type=tcp&host=ramzinex.com%2Cfast.com%2Cspeedtest.net%2Ccloudflare.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-84.32.230.82:29704
+vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.159.208:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.208:443

@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2087?security=tls&sni=esetsecuritylicense.ujlqwtae.wORKERS.deV&type=ws&host=esetsecuritylicense.ujlqwtae.wORKERS.deV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.113.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.113.164:443
 vless://f5a9dfa6-14e2-473d-a66f-671ece5e8dd2@172.67.160.233:2052?security=none&type=ws&host=cfnb.v3nom.top&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.160.233:2052
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.1.52:8880
 vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@172.67.143.22:2096?security=tls&sni=Mainv2ray.mashti.us.KG.&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.143.22:2096
@@ -604,3 +602,5 @@ vless://7da27146-c7da-4518-89b5-68caf7ba87c0@172.64.38.151:2087?security=tls&sni
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.170.225:2083?security=tls&sni=aut222.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.170.225:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.119.131:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.119.131:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:2087?security=tls&sni=jp009.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.61.41:80?type=ws&host=kr1.175852.xyz&path=%2Fabcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.61.41:80
+vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.3.11:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.3.11:443

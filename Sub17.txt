@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083
-trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.202.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc&serviceName=0uXZLEZPdjyKouXtRbzQXkBQQ&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
 trojan://moist@116.47.10.236:27335?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇰🇷 KR-116.47.10.236:27335
 trojan://e0557db1-585e-4469-aaab-3e9061fc53ac@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇦 CA-91.194.11.168:443
 trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
@@ -604,3 +602,5 @@ trojan://ItSjMC37sc@185.146.173.31:443?sni=sus.suski2025.ir&allowInsecure=1#🔒
 trojan://NISHIKUITAN222@146.56.171.182:11659?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=%2F#🔒 TR-WS-TLS 🇰🇷 KR-146.56.171.182:11659
 trojan://ca4596fb9bc63cf2@134.195.101.32:3389?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-134.195.101.32:3389
 trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
+trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443
+trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
