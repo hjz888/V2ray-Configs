@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://754097a1-cda9-4069-f4fd-1d8d26e886c6@49.12.233.170:80?security=none&type=ws&host=varzish3.com&path=/.Turk#🔒 VL-WS-NONE 🇩🇪 DE-49.12.233.170:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.3:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.110.200:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.200:2053
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.117.169:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.117.169:80
 vless://affd626d-a2ed-4f9e-90bf-98197f15f522@185.126.5.55:22443?security=none&type=ws&host=www.speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.126.5.55:22443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:20001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:20001
@@ -604,3 +601,6 @@ vless://7e689ee3-79e9-4caf-8ae8-921d32b29b2a@185.146.173.237:2052?security=none&
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.138.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.138.38:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.218.222.36:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.222.36:2096
 vless://9937de02-e13a-4c7d-8ace-708104e01db0@185.16.110.37:2052?security=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net萨姆吉巴尼科.golestan-vpn.link.&path=/aSAn.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.37:2052
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.23.196:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.23.196:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.3:443
+vless://7943ef0a-bb17-4083-84d9-18d0b141d963@104.17.148.22:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2052
