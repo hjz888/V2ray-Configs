@@ -1,0 +1,20 @@
+#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMjcg8J+rgg==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+vless://75071c1f-e1a7-4d8d-96bc-d1cc5befc2f3@104.168.107.230:8224?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mashable.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8224 | 73.01ms
+vless://2c3539d9-0f4c-4308-ac9a-8fb57251e960@104.168.107.230:8339?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sedo.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8339 | 82.96ms
+vless://266ebbe5-8493-4e07-86b8-c8df34753294@104.168.107.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8443 | 93.04ms
+vless://db670c3e-98fc-45ec-8426-3123e55b2cd5@104.168.107.230:8667?encryption=none&flow=xtls-rprx-vision&security=reality&sni=taunusgaerten.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8667 | 84.12ms
+vless://dccbf44f-6872-4fc7-b309-4c5f904863de@104.168.107.230:8884?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dnschecker.org&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8884 | 73.66ms
+vless://75353b36-f80d-47e1-916f-23e29eb35515@104.168.107.230:9333?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nachtzug.net&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9333 | 83.57ms
+vless://48343f73-4f48-4dc2-82a7-34b7f0356d7c@104.168.107.230:9631?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9631 | 92.46ms
+vless://571317bf-b037-4a0d-92e5-f705523d183f@104.168.107.230:9633?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.4cdn.de&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9633 | 73.5ms
+vless://c63ca0f6-4e02-4ed4-a7bd-6093d00c2c11@104.168.107.230:9795?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yoast.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9795 | 83.43ms
+vless://1fe98de4-10a6-4da0-8f9e-c5ee16708650@104.168.107.230:9942?encryption=none&flow=xtls-rprx-vision&security=reality&sni=linuxfoundation.org&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9942 | 82.75ms
+vless://172a1f67-a3c2-4763-95e6-b808dc304e1e@104.168.107.230:9996?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hacks.mozilla.org&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9996 | 92.61ms
+vless://5b6ab1cb-777f-4d08-a185-53ebd64f292d@104.168.107.230:10036?encryption=none&flow=xtls-rprx-vision&security=reality&sni=docker.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10036 | 82.68ms
+vless://bb508790-ae1e-445d-b353-40c08703d17b@104.168.107.230:10050?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blogs.windows.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10050 | 82.68ms
+
