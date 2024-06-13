@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443
+vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-H2-RLT 🇩🇪 DE-164.90.162.16:6969
+vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.57.190:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40&allowInsecure=1#🔒 VL-TCP-RLT 🇺🇸 US-5.161.57.190:443
+vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@172.67.171.91:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🏴‍☠️ NA-172.67.171.91:443
 vless://64db2a61-4296-4747-8f50-017201a4c5e4@74.48.95.50:17974?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=17FnGUGQ9rrtCtJvtYWywWCYtAc0dyxVbwNbNEp05yE&sid=6a565d14#🔒 VL-TCP-RLT 🇺🇸 US-74.48.95.50:17974
 vless://b1c1da37-726b-4db1-8139-27a7497e3186@195.201.89.188:443?security=reality&sni=*.dnschecker.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=c452clIZOGrphH1pKZLlFFyN9bjhk2JxMemT2Df6C3w&sid=d276874c#🔒 VL-GRPC-RLT 🇩🇪 DE-195.201.89.188:443
 vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@188.166.11.22:443?security=reality&flow=xtls-rprx-vision&sni=booking.com&type=tcp&fp=chrome&pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&sid=2a87bdca#🔒 VL-TCP-RLT 🇳🇱 NL-188.166.11.22:443
@@ -600,7 +604,3 @@ vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.24.57.187:80?security=none&type
 vless://a7f152a1-4752-49dd-a0ca-2777ce679a7c@78.109.201.171:22406?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.201.171:22406
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.138:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.138:443
 vless://b499b663-7531-4014-b5a2-19069389574b@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443
-vless://e555a459-6070-4000-b019-1a0a3d673e59@2.189.59.5:443?security=tls&sni=menu-in-pages-template-flutters.nigc-ar.com&type=ws&host=menu-in-pages-template-flutters.nigc-ar.com&path=44376%2FTemplate&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-2.189.59.5:443
-vless://f41b48ad-1bb2-4e51-a595-80703e2b6dd4@185.106.93.76:39989?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-185.106.93.76:39989
-vless://2b278414-fad7-51c9-a8df-11848fee1487@104.21.89.155:2087?security=tls&sni=esetsecuritylicense.rihej59344.wORkErs.dEV&type=ws&host=esetsecuritylicense.rihej59344.wORkErs.dEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.155:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.134.221:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.134.221:443

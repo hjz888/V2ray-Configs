@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.179:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.179:2053
+vless://88d08ed7-091a-4aa9-bea5-5b830d8e1db8@104.21.73.91:2087?security=tls&sni=iIsBv2RaYli.666GaMe.bUzz&type=ws&host=iIsBv2RaYli.666GaMe.bUzz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.91:2087
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.96.18:2053?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf&path=Path%2FTelegram..proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.18:2053
+vless://10aecf00-ad54-49d5-9643-e356b5a16bab@104.21.20.205:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.205:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.44.168:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&host=B458AB02.Caa-CHAnEl-wORker-PAgE-FrEE-jhuihNujhpHjkL-NiHGKJN.pages.DeV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.84.115:443
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.12.83:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.83:8080
@@ -600,7 +604,3 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#🔒 TR-TCP-NA �
 trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.248.47:8443
 trojan://NISHIKUITAN222@8.219.210.57:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.210.57:8443
 trojan://NISHIKUITAN222@8.219.98.13:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.98.13:8443
-trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=%2Fapple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.97.76.140:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.97.76.140:443
-trojan://qjIPNzdyWS@172.67.204.84:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080
-trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443
