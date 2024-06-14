@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.110:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.110:2083
 trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@172.67.215.180:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.215.180:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.217:443?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.217:443
 trojan://NISHIKUITAN222@8.219.4.122:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.4.122:8443
@@ -604,3 +602,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWV5SFdDam1vcmlTRmFsZEVocG5T@94.131.106.19:
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.89:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5500
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@162.159.137.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.137.232:443
 ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.120.158:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.120.158:2083
+ss://ZDY3MmVjNGYtYWZiYS00ZjYxLWFmMDktZWVjODcyZjk3ZTk5Og==@104.21.84.110:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.84.110:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#🔒 SS-TCP-NA 🇨🇿 CZ-194.87.179.169:40928

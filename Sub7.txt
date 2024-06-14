@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.182.52:443?security=tls&sni=sHAv.MA-NpO.worKeRs.DEv&type=ws&host=shAV.MA-nPO.wORKERs.dEV&path=/zd0PLRTYdpHQAYwl?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.52:443
-vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@172.67.157.34:8880?security=none&type=ws&host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&path=Telegramchannel%3A%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.34:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.241:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.241:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.1:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2053
 vless://9155e3fe-d418-4f5c-a5a1-c26cfe862af1@194.60.231.31:29879?security=none&type=tcp&host=host%3Anasa.gov&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-194.60.231.31:29879
@@ -604,3 +602,5 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.161.60:2053?security=tls&sni
 vless://a348ba81-9ef2-4f80-e4ff-b58b22c4db8b@173.245.58.100:2052?security=none&type=ws&host=zula.ir.www.speedtest.net.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B784.Online.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.100:2052
 vless://073055b5-7c41-432d-bb15-0efe23c212e3@104.17.239.159:8880?security=none&type=ws&host=mikasa.megafair.store&path=/Telegram:@MikasaVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.159:8880
 vless://6cca12be-0968-4da8-8891-20c912de7d75@104.21.11.243:443?security=tls&sni=freedom5.cihafi6629.workers.dev&type=ws&host=freedom5.cihafi6629.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.243:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.24.181.38:54324?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.24.181.38:54324
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.161.55:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.161.55:80

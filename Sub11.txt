@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.16.68.38:2052?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fmarly.toptechnonews.com%2Fnimws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.68.38:2052
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.174.95:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.174.95:80
 vless://a77a8e8f-2f09-428d-9b6a-d7116d98dcc6@185.146.173.112:443?security=tls&sni=zula-mtn.mci-mtn-mymci-zula-shatel.space&type=ws&host=zula-mtn.mci-mtn-mymci-zula-shatel.space&path=%2FNBCServices-Join-Telegram&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.112:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.251:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.251:2053
 vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@95.81.86.113:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.86.113:443
@@ -604,3 +602,5 @@ vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.18.166.112:443?security=tls&sni
 vless://10716279-b1ee-41d8-b63e-87782088305b@45.159.219.194:443?security=tls&sni=MAMAnE-fILterchi.PAgeS.deV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.194:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.134.123:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.134.123:80
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@104.17.128.53:443?security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws&host=bpb-worker-panel-chf.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.128.53:443
+vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.5.179:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.57:2083?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.57:2083

@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.90.162.6:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-45.90.162.6:4004
-vless://7dd82ef7-2617-4922-b652-99984a02d568@104.168.107.230:9333?security=reality&flow=xtls-rprx-vision&sni=nachtzug.net&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9333
 vless://bff84531-4c90-4fa7-acd9-8922fee57823@206.206.123.198:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇺🇸 US-206.206.123.198:8443
 vless://07669291-5061-4e74-a5d7-1f94a5a36367@91.107.176.13:8080?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=UQcENeMy3VVqYDJIPm68FVHz9r2lC34ydM5chOKa5RU&sid=18cada#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.176.13:8080
 vless://5dbefed4-b8b8-4b10-b16f-5676037e9cb8@5.42.100.104:12074?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=udDFjkCpcsnIrNp_HsG93fz8-T8vShMfEmACFrRPhX8&sid=8372225d#🔒 VL-GRPC-RLT 🇳🇱 NL-5.42.100.104:12074
@@ -604,3 +602,5 @@ vless://63fe57fd-f3c5-4f88-bf85-c7577107775c@104.19.54.50:80?type=ws&host=V2ray-
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.182:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.182:2087
 vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@172.67.175.112:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.112:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&path=%2FhoIUgKAOdQSTdFVG%2FOC4yMTkuNjAuNTQg%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
+vless://f5a78514-1a94-486e-92a7-3bc9817095a6@104.21.34.74:443?security=tls&sni=nitriding.appreviewcenter.com&type=ws&host=nitriding.appreviewcenter.com&path=%2Fnimws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443
