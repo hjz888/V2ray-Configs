@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:2087
-vless://a61c4761-5848-43da-a632-309a7d18d393@104.26.6.95:2052?security=none&type=ws&host=ddddddddd.nigc-ar.com&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.95:2052
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.221.90:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.90:443
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@3.64.163.50:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇩🇪 DE-3.64.163.50:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2083
 vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
 vless://f65f00f9-f906-43a7-a45a-5de7eb1b342b@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@172.67.205.139:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.205.139:2086
@@ -604,3 +599,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6812:ba53]:443?security=tls
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.133.101:2096?security=tls&sni=nikuw.sspeednetokala.US.Kg&type=ws&host=nikuw.sspeednetokala.US.Kg&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.133.101:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.37.243:2083?security=tls&sni=jp009.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.37.243:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.143.237:2053?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:2053
+vless://9ab014d4-273c-4221-bb57-464bd0cc2a09@104.16.151.185:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.151.185:80
+vless://23ff8e34-2382-49cc-b068-d5de5b716e61@104.21.50.233:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev&path=%2FTelegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.50.233:80
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?type=ws&host=cherry.berry.strawberry.我们生活在该死的地狱里.shop.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.52:8880
+vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@104.21.94.98:443?security=tls&sni=lon1.copenhagencafes.com&type=ws&path=/lon1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.98:443
+vless://e8fefbde-2d52-48f1-8202-720539328853@172.67.138.147:80?security=none&type=ws&host=cconfigv2ray.v2rayngst.shop&path=%2F%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.147:80
