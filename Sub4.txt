@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@76.223.54.146:80?security=none&type=ws&host=www.wasa.com&path=%2ffastssh%2fxmxmmxmxm%2f63482aa422d82%2f#🔒 VL-WS-NONE 🇺🇸 US-76.223.54.146:80
-vless://ef7c0527-cd69-482f-9336-134f6044d312@190.93.245.138:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.245.138:8443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.178:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@45.131.4.89:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.89:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.218.222:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.222:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@146.70.175.168:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.168:443
 vless://74438c56-1179-4a25-8f58-271c6dafcf14@185.146.173.244:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=%2FTelegram+Join%3A+%40DisVpn%2CTelegram+Join%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.244:443
@@ -604,3 +600,7 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@204.216.105.106:8443?security=tls&s
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@108.162.193.100:443?security=tls&sni=qifei2024.dns.army&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.100:443
 vless://e8fefbde-2d52-48f1-8202-720539328853@104.21.38.208:80?security=none&type=ws&host=cconfigv2ray.v2rayngst.shop&path=%2F%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.38.208:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.141:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.161.104:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2083
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.159.219.178:443?security=tls&sni=v333.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.178:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443
+vless://c112e1bb-0d76-40bc-9c01-1ddeb2bb9ee5@188.114.98.224:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8080

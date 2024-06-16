@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://TfXhyKdmfX@172.64.146.62:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy-Ec6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.62:8443
-trojan://telegram-id-privatevpns@52.48.197.95:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.48.197.95:22222
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.242.107.109:8443?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.242.107.109:8443
 trojan://NISHIKUITAN222@47.245.126.151:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.245.126.151:8443
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp#🔒 TR-TCP-TLS 🇮🇸 IS-89.221.224.94:80
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
@@ -604,3 +600,7 @@ ss://NTVhNDI1YmQtYjdlYS01OGY2LWE3MTktNjg0YjFmNmVmZmNjOg==@172.67.128.79:2096#�
 ss://MzM4MzdhYTQtYTQxZi00NDFjLWEwZDUtZmE3YThlMThhZTQwOg==@104.18.22.19:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.22.19:443
 ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@104.24.0.233:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.0.233:8880
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8118
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.183:8091#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:8091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:40028#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:40028
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.139:443
+ss://ZDY0ZjQ0ZDUtNjZkYy00N2VlLWI5OTEtNzIxYjRhOTZiNjNkOg==@172.67.168.121:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.168.121:443

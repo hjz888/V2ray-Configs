@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.161.104:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2083
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.159.219.178:443?security=tls&sni=v333.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.178:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443
-vless://c112e1bb-0d76-40bc-9c01-1ddeb2bb9ee5@188.114.98.224:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8080
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@45.94.169.134:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.134:443
 vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@217.163.76.46:2053?security=tls&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop&type=grpc&serviceName=@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON@ZEDMODEON#🔒 VL-GRPC-TLS 🇬🇧 GB-217.163.76.46:2053
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.35.226:443?security=tls&sni=BpB.RaDICAlizAtIon.IR&type=ws&host=bpB.RadIcaliZaTion.ir&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.226:443
@@ -604,3 +600,7 @@ vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.133.234:443?security=tls&sn
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2087?security=tls&sni=folani.iiipok.wORKERs.dEv&type=ws&host=folani.iiipok.wORKERs.dEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.202.230:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.202.230:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.210:2096
+vless://d9f86526-6899-4b7b-a561-b774cd97e1b2@104.26.3.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2083
+vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@172.67.219.62:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.62:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.222.36:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.222.36:2053
+vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2053?security=tls&sni=esetsecuritylicense.mrgimsy.WORkErs.Dev&type=ws&host=esetsecuritylicense.mrgimsy.WORkErs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.38:2053

@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://MGViYjE2NzctNDkwMi00NzZmLWJjMDMtM2U4YzdjYTZmZDIxOg==@172.67.153.74:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.153.74:8880
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8888
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.107:3306#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.107:3306
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.225:9102#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:9102
 ss://NmFkMDg3NDctNDJiOS00NjE4LThmMTEtYWM0N2RlMGRhMGY4Og==@172.67.197.154:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.197.154:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:807
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:5601#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5601
@@ -604,3 +600,7 @@ ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@172.67.161.1:8080#%E6%
 trojan://telegram-id-privatevpns@13.37.134.91:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5130
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9101#US44%201.6MB%2Fs
 ss://OWU1YzIxNGUtNzQ2YS00NGQ1LWE5ZDAtMGIwYThkMzdhOTU3Og==@104.18.15.19:443#%E6%9C%AA%E7%9F%A5131
+trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A5132
+trojan://telegram-VPNHTTPIinjectorfree@104.18.5.250:443?security=tls&type=ws&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&path=/?ed=2560&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#%E6%9C%AA%E7%9F%A5133
+trojan://auto@104.21.44.210:443?security=tls&type=ws&sni=esetsecuritylicense1.bwnsmv.workers.dev&path=/?ed=2560&host=esetsecuritylicense1.bwnsmv.workers.dev#%E6%9C%AA%E7%9F%A5134
+ss://ZWE5MTQ4YjktMTNiNy00MWNmLTg5MTEtOTQyMzRlN2MzZmNmOg==@172.67.175.9:80#%E6%9C%AA%E7%9F%A5135
