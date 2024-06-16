@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://ODkxZDk5OWYtNzg2NC00NWM1LThkYjktM2M2OWYzNWRjYjk2Og==@104.21.29.75:443#%E6%9C%AA%E7%9F%A5544
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2elIzc0JZSktJVEVuZUdqZ3ZpN1Zs@23.26.133.154:443#US194
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.162.200.181:6697#%E6%9C%AA%E7%9F%A5545%201.8MB%2Fs
 ss://ZjIxZTFiMmQtNzFlNi00ZjUwLWI5MjEtYWNkNGU4OWVmMTlhOg==@50.7.85.221:8443#%E6%9C%AA%E7%9F%A5546
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#%E6%9C%AA%E7%9F%A5547%20469.5KB%2Fs
@@ -604,3 +602,5 @@ trojan://16877c70-e7b8-11ec-99f2-1239d0255272@w13.udpgw.com:443?#%F0%9F%87%B8%F0
 trojan://telegram-id-directvpn@18.189.35.133:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:47580#%E6%9C%AA%E7%9F%A5972
 ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@172.67.186.98:443#%E6%9C%AA%E7%9F%A5973
+ss://ODViOTRmMjAtZTU2My00OThiLTlkNGItYTc1NDM4YTUxMTAxOg==@104.18.0.89:8443#%E6%9C%AA%E7%9F%A5974
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&type=ws&sni=golinkwuxian.top&path=/apple&host=555.golinkwuxian.top#%E6%9C%AA%E7%9F%A5975
