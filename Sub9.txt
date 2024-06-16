@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.244.1:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.244.1:443
 vless://41e6771d-a96e-487a-bdae-bf1356ce8809@172.67.221.11:2083?security=tls&sni=X2ray-Team.bigbang87.sbs&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.11:2083
 vless://302148b3-308c-41be-9b5d-427a94957b5c@162.159.130.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.233:2095
 vless://486c2641-9156-42e2-a43c-3004f9b74dc4@104.21.44.43:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.43:443
@@ -603,4 +604,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.140.84:443?security=tls&sni=
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.15.166:443?security=tls&sni=mAMane-fIlTerChI.Pages.dEv&type=ws&host=MAMANe-FIltErcHI.PagEs.DeV&path=%2FV0RuL10t23MfbzOt%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.166:443
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:2083?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:2083
 vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.102:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.102:2053
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.135:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.135:80

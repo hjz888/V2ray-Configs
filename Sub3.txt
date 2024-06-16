@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrPCfh6dfR0Jf6Iux5Zu9IiwiYWRkIjoienVsYS5pciIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkYTYyYTEzNy0zNjExLTRkZDctODUyMy1iNTI2NmFmZTZmZTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJVazIudm1lc3Muc2l0ZS4iLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.77.53.200:8080#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqPCfh6ZfQ0Ff5Yqg5ou/5aSnIiwiYWRkIjoiMTYyLjE1OS4xMzYuMjMiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkNzI2ZWIzMS0wYzllLTQ5ZjktODk2OC01OWMwNmY0ZWExNWMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZDcyNmViMzEtMGM5ZS00OWY5LTg5NjgtNTljMDZmNGVhMTVjLXZtIiwiaG9zdCI6ImRpdmlzaW9uLXJhY2hlbC1zaWMtbWlsZWFnZS50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6IiJ9
@@ -603,4 +604,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.60.97:80?type=ws&host=kr1.17
 vless://ebd7ac6b-1613-487f-8229-aab5e264352e@172.67.171.50:80?security=none&type=ws&host=Ie2.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.50:80
 vless://2b01b7b0-3872-44c0-8aaa-61863bab6ec3@172.67.131.181:443?security=tls&sni=ESETseCuRItYLICensE.obBgYx.wOrKErS.dEV&type=ws&host=ESeTsecUritYLICEnsE.obbGYx.woRkers.DEv&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.181:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@107.182.17.52:34237?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-107.182.17.52:34237
-vless://a5368290-9ce5-4fc4-9652-06221e6689fa@104.24.196.20:8880?type=ws&host=cdn1.yasinvps.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.196.20:8880

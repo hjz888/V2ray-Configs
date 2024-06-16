@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@185.146.173.146:8880?security=none&type=ws&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&path=%2F%3Fed%3D2087#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.146:8880
 vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.241.5:443
 vless://beb74ebf-77d3-425b-a4bf-ddae062c293c@104.26.15.85:80?security=none&type=ws&host=PanelDghSGdgh54.com.net.ir.bargo.lol.&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.238:2087
@@ -603,4 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.213:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.185:8443
 vless://2b278414-fad7-51c9-a8df-11848fee1487@104.21.89.155:2087?security=tls&sni=esetsecuritylicense.rihej59344.wORkErs.dEV&type=ws&host=esetsecuritylicense.rihej59344.wORkErs.dEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.155:2087
 vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?security=tls&sni=zac1.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.141.116:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@135.84.76.40:443?security=tls&sni=xin000.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-135.84.76.40:443
