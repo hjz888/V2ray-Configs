@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN222@104.21.76.195:2083?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A51333
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#US435%201.7MB%2Fs
-trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&type=ws&sni=de1.trojanvpn.de&path=/websocket&host=de1.trojanvpn.de#%E6%9C%AA%E7%9F%A51334
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#US436%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.207:8080#US437%201.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVM0MzgiLCJhZGQiOiIxNTQuMTcuMi4xNjgiLCJwb3J0IjoiMTIzMyIsImlkIjoiNDBiYzdiNjUtZWM4YS0zMjAxLWE2NDYtYzlkMWI3MTA5MWM2IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM0MzgifQ==
-trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&type=tcp&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%E6%9C%AA%E7%9F%A51335
-trojan://NISHIKUITAN222@8.219.67.133:8443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A51336
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A51337
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%E6%9C%AA%E7%9F%A51338
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.106.52:1080#%E6%9C%AA%E7%9F%A51339%20922.0KB%2Fs
@@ -604,3 +596,11 @@ trojan://moist@47.243.67.28:2083?type=ws&sni=trojan.freenods.sbs&host=trojan.fre
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT1E1VEFaZmxiOWUwb2NhMGo4ZU9a@193.57.136.223:19423#%E6%9C%AA%E7%9F%A51763
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#US567
 trojan://kh06dw8cR3@66.235.200.64:8443?security=tls&type=ws&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&host=eiiim.danesh-bonyan.store#US568
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:3306#US569%201.8MB%2Fs
+ss://MjMwODJkYWEtNTQzNy00ZTIwLTk4NmItYTZlMTU2ZjhmMTMzOg==@104.21.90.28:80#%E6%9C%AA%E7%9F%A51764
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499#US570%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@54.179.4.150:40005#%E6%9C%AA%E7%9F%A51765
+trojan://telegram-id-privatevpns@35.181.228.56:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A51766
+ss://MmNkNmVkMGYtNjM2ZS00ZTZjLTk0NDktNWEyNjNkN2EwZmE1Og==@132.226.21.116:6056#%E6%9C%AA%E7%9F%A51767
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#US571%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3389#US572%201.9MB%2Fs
