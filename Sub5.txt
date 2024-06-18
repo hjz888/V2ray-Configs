@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.21.12.96:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.96:2053
 vless://fcf40615-3026-4e62-86fd-0b97385b9e67@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=/@hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
 vless://16782c80-8b2c-4eb1-81da-dd0435bfa586@104.17.148.22:8880?security=none&type=ws&host=cloudvezzzzzzev2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.doornadoor.com&path=/VezzeWmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.80:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.80:443
@@ -603,4 +604,3 @@ vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.24.185.137:2053?security=tls&sn
 vless://4dc136ba-e703-4044-bdb8-dff27d81d373@162.159.153.2:8880?security=none&type=ws&host=daily-configsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=/---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:8880
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@47.241.209.61:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.241.209.61:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.4.122:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.4.122:443
-vless://d23b1993-5083-493d-bde1-28eb3aa8fc4f@162.159.128.233:2086?security=none&type=ws&host=cfhax.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2086

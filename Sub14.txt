@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://NISHIKUITAN222@47.236.164.215:8443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A5355
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#%E6%9C%AA%E7%9F%A5356%2012.1MB%2Fs
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&type=ws&sni=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&host=ybv27nj.diamondgalery.ir#%E6%9C%AA%E7%9F%A5357
 ss://MzVjYWVjOTgtODZkZS00ZjM4LWEwMTEtZWI3ZTEzNDQ0NmM3Og==@104.21.92.185:443#%E6%9C%AA%E7%9F%A5358
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.79:9011#%E6%9C%AA%E7%9
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.219.239:80#%E6%9C%AA%E7%9F%A5752
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.43:6379#US256%202.0MB%2Fs
 trojan://nkmnlPd4k2@45.67.32.147:31104?security=reality&type=grpc&sni=discordapp.com#%E6%9C%AA%E7%9F%A5753
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.105:8881#US257%201.8MB%2Fs
