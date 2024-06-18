@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#US446%2082.8MB%2Fs
 trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&type=tcp&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%E6%9C%AA%E7%9F%A51481
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%E6%9C%AA%E7%9F%A51482
 trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&type=tcp&sni=t6.teslacdn2.live&host=t6.teslacdn2.live#%E6%9C%AA%E7%9F%A51483
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.83:445#US577%201.8MB%2Fs
 ss://ODk0ZTBlNmUtZDQxNS00N2ZkLTg0ZjUtNDE4ODk2ZDdhMzEwOg==@172.67.197.205:443#%E6%9C%AA%E7%9F%A51906
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.225:3306#US578%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%E6%9C%AA%E7%9F%A51907
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#US579%201.6MB%2Fs
