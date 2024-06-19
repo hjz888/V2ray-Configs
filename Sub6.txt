@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.147.106:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.147.106:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.120:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.120:443
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.186.249:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-152.70.186.249:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.27.206.181:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.206.181:2053
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@143.47.235.158:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-143.47.235.158:443
 vless://d9232705-ebe6-4820-af3e-988cec8153a8@199.59.243.226:993?security=tls&sni=ig4.poshakjadid.click&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.226:993
@@ -601,6 +604,3 @@ vless://3cf9e6e1-dbf6-49b2-bb69-10c9035b508a@188.114.96.3:8443?security=tls&sni=
 vless://d9ac84b0-7e0d-4fac-bccf-dee40aecb2df@194.246.114.54:2003?security=tls&sni=hk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇲🇩 MD-194.246.114.54:2003
 vless://aa4bbd3c-0306-4250-b431-50633e308f1c@104.21.2.23:8443?security=tls&sni=selinc-----selinc-----selinc.fgpgq.workers.dev&type=ws&host=selinc-----selinc-----selinc.fgpgq.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.23:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.76:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.76:80
-vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.172:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.172:80
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.61:2087
