@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.18:8009#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD25%202.0MB%2Fs
 ss://N2YxMTM5MjMtOTQyOS00OGI4LWQ1ZGQtYjI5MDZhNTgzZGZlOg==@172.67.163.103:443#%E6%9C%AA%E7%9F%A51654
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&type=grpc&sni=hdfy7c1.foriran2.eu.org#%E6%9C%AA%E7%9F%A51655
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@212.102.47.198:443#US506
@@ -604,3 +603,4 @@ trojan://telegram-id-privatevpns@15.188.170.186:22222?sni=trojan.burgerip.co.uk#
 ss://OGI3ZWZhY2YtOGU4My00ZTUxLWFiNTUtMTI2M2JhY2NkNGIyOg==@185.146.173.237:443#%E6%9C%AA%E7%9F%A52055
 ss://MThhM2Y0MDQtNTcyYy00ZjlkLWE4N2YtNDMyOWE3YzEzNGExOg==@104.21.78.138:2083#%E6%9C%AA%E7%9F%A52056
 trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.166.190:10187?sni=hk04.ckcloud.info#%E6%9C%AA%E7%9F%A52057
+ss://YWE5ZTRmMjAtZjdmMy00NmNjLTk2ZjMtODk3MTE2NzU1Y2YzOg==@104.18.1.84:443#%E6%9C%AA%E7%9F%A52058
