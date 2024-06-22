@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://ZThiODdkZDktY2M4Zi00MDdjLWExZjMtYTU2NDAwOWZlNmVlOg==@172.66.47.130:443#%E6%9C%AA%E7%9F%A51870
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.22.48:80#%E6%9C%AA%E7%9F%A51871
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:8443?security=tls&type=ws&sni=mailbox.CPIforPERSiA.uk&path=trojan-ws/?ed&host=mailbox.CPIforPERSiA.uk#%E6%9C%AA%E7%9F%A51872
-ss://ZWFkNmI3NGItYzE1Ni01YjJkLThmOWEtOWZjMWE4M2E1MzFlOg==@104.21.93.56:2083#%E6%9C%AA%E7%9F%A51873
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.181:5001#%E6%9C%AA%E7%9F%A51874%201.9MB%2Fs
 ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@172.67.193.39:443#%E6%9C%AA%E7%9F%A51875
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&type=ws&sni=lmtsg3.cfyun01.sbs&path=/CFYUN&host=lmtsg3.cfyun01.sbs#%E6%9C%AA%E7%9F%A51876
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-6725
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.62.62:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-1791
 #profile-title: base64:VFZDIHwgTUlY
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
