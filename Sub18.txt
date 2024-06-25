@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://Y2Y0Mjg5NTUtODZjMi00NmIxLThjZDctZjExMTY2NmZmOWZjOg==@104.16.29.8:2053#%E6%9C%AA%E7%9F%A51054
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%E6%9C%AA%E7%9F%A51055%201.5MB%2Fs
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.66.177:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#%E6%9C%AA%E7%9F%A51056
 trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&type=tcp&sni=royalshop.tech#%E6%9C%AA%E7%9F%A51057
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWVBRMVppbXpRcDJmaTRJcG5BSDVp@103.229.81.118:443#%E6%9C%AA%E7%9F%A51058
 ss://YWVzLTI1Ni1nY206ZTg0YTlmOTktZWFlYy00Y2RkLTk0YzktNjU2MTEwMTViZTNl@172.232.250.227:8443#%E6%9C%AA%E7%9F%A51059
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.71:8000#US471%201.6MB%2F
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.50.252:2087?security=tls&type=ws&sni=mfjd.591haoka.com&host=mfjd.591haoka.com#HK95
 trojan://NISHIKUITAN222@8.219.83.71:8443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A51478
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.207:4444#US472%201.7MB%2Fs
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%E6%9C%AA%E7%9F%A51479
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.137.93:8119#US473%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.19:6679#US474%201.5MB%2Fs

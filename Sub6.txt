@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.26.4.60:8443?security=tls&sni=xin555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:8443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.67:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.20.213:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.213:80
 vless://d055975a-90f6-4d3f-b16e-e482edb94783@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
 vless://5e4e10bb-96da-48f3-a615-9fd1a5690255@104.21.83.208:443?security=tls&sni=linde06.nofiltering2.sbs.&type=ws&host=linde06.nofiltering2.sbs.&path=%2Fnofiltering2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.208:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.99:443
@@ -604,3 +601,6 @@ vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.225:2083?security=tls&sn
 vless://e8e2f877-957d-4fa6-852d-e1a0bcb94c87@104.21.4.197:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.197:2083
 vless://bb0e1efc-3fd3-4ccc-83b8-f8a1e7f76bd4@172.64.150.145:2095?security=none&type=ws&host=almanv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.retete.fun.&path=/germaniV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.150.145:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.3.24:2096?security=tls&sni=jp700.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.210.3.24:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.27:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.182.27:80
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2087
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.205.139:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.205.139:2052
