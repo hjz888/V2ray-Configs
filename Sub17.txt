@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%E6%9C%AA%E7%9F%A5653
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%E6%9C%AA%E7%9F%A5654%2025.1KB%2Fs
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.172.112:443#%E6%9C%AA%E7%9F%A5655
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.79:9073#%E6%9C%AA%E7%9F%A5656%201.2MB%2Fs
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.48.199:443#US209%2047.1MB%2Fs
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.79:9015#%E6%9C%AA%E7%9
 trojan://huge123456@131.186.21.135:60954?security=tls&type=tcp&sni=h.iveze.com#%E6%9C%AA%E7%9F%A51082%204.4MB%2Fs
 trojan://cef820ea-fc50-4016-a0b3-3c7515c2b5b2@89.221.224.94:443?type=ws&sni=m.viber.com&path=/&host=is2.trojanvpn.xyz#%E6%9C%AA%E7%9F%A51083
 trojan://telegram-id-directvpn@18.156.112.4:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A51084%203.6MB%2Fs
-trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&type=ws&sni=t600.ylks.link&path=/&host=t600.ylks.link#%E6%9C%AA%E7%9F%A51085
-trojan://1e49d916-a9ee-4c7a-b6ba-0044b00ab411@138.124.184.173:443?#US338

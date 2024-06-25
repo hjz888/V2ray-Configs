@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://5945ff5b-cd0a-45e0-b35b-0231b50d091d@104.168.107.230:8884?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dnschecker.org&fp=chrome&pbk=pa3oMWpVsZim_Oe6I4Ml5v2BjPTs6ymRlXdGXxWJshs&sid=bf0898a8fa28b68f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-8884 | 17.15ms
 vless://afb89dd9-9db3-4a2a-9130-e84e059b8f13@104.168.107.230:9333?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nachtzug.net&fp=chrome&pbk=pa3oMWpVsZim_Oe6I4Ml5v2BjPTs6ymRlXdGXxWJshs&sid=bf0898a8fa28b68f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9333 | 26.95ms
 vless://7ff62d6e-2212-4769-82a1-78ae8b17680c@104.168.107.230:9631?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=pa3oMWpVsZim_Oe6I4Ml5v2BjPTs6ymRlXdGXxWJshs&sid=bf0898a8fa28b68f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9631 | 26.99ms
 vless://effe494e-5a4f-48f2-a9c8-588a4a05ab95@104.168.107.230:9633?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.4cdn.de&fp=chrome&pbk=pa3oMWpVsZim_Oe6I4Ml5v2BjPTs6ymRlXdGXxWJshs&sid=bf0898a8fa28b68f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9633 | 17.87ms
