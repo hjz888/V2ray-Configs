@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@104.20.37.186:80?security=none&type=ws&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site.&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.37.186:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.84.187:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.84.187:80
 vless://1a8b4f8b-a240-4818-a75f-3b74e875ca6f@172.66.45.23:443?security=tls&sni=pardazeshvpn-tg10.pages.dev&type=ws&host=pardazeshvpn-tg10.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.23:443
 vless://40bd0854-8a76-428a-993d-fea77db2a59d@104.26.14.16:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:8443
@@ -603,4 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.19:443?security=tls&sni
 vless://f5bb39a2-c997-4381-baf0-307ac3bd3464@172.64.143.61:443?security=tls&sni=MdVpnSec-V2rayNg-Free.snappfoodd.site&type=ws&host=MdVpnSec-V2rayNg-Free.snappfoodd.site&path=/&alpn=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.61:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.216:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.80.199:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.80.199:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.186:443
