@@ -1,0 +1,14 @@
+#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMTkg8J+rgg==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+vless://ff4273a4-39d4-4ab1-a1be-01b1029cc389@104.168.107.230:9631?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9631 | 76.64ms
+vless://b773c663-5414-4271-b48f-d87c969f6e5e@104.168.107.230:9633?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.4cdn.de&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9633 | 72.05ms
+vless://5a1738ab-3372-48ec-b6cf-c30136249d04@104.168.107.230:9795?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yoast.com&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9795 | 82.02ms
+vless://ea5bf262-4899-49f0-babe-e9248b466731@104.168.107.230:9942?encryption=none&flow=xtls-rprx-vision&security=reality&sni=linuxfoundation.org&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9942 | 71.65ms
+vless://cd222cf6-378c-46d9-a0a8-164574ba9656@104.168.107.230:9996?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hacks.mozilla.org&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9996 | 78.84ms
+vless://13c44419-f744-4b3e-b6ef-965a176512b2@104.168.107.230:10036?encryption=none&flow=xtls-rprx-vision&security=reality&sni=docker.com&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10036 | 71.84ms
+vless://51f9aaa4-b728-4914-9483-ab9854ef03a0@104.168.107.230:10050?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blogs.windows.com&fp=chrome&pbk=N2yWcZL0R-XMqQuyZHk3cYLD0YfEtZO_tgzizMNqrE0&sid=8543304902053e20&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10050 | 81.51ms
+
