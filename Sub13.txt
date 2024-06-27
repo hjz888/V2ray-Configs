@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://93e0e3cc-f71a-441e-94d0-806d0c4f1152@172.104.58.163:443?security=tls&sni=m.instagram.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-172.104.58.163:443
-trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.83.20:8443
 trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
 trojan://NISHIKUITAN222@47.236.117.48:443?security=tls&sni=t000.ylks.link&type=ws&host=t000.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.117.48:443
 trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443
@@ -604,3 +602,5 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.196.103:80#🔒
 ss://YzM1MzU4YmItZjExZi00MzQ4LWFiMWMtZDRkMmY4YTk4MmVjOg==@172.67.167.116:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.167.116:443
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.17.249:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.17.249:80
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8888
+ss://YWVzLTI1Ni1nY206a3l1aTVGQm13eG90eTU5QmYrb1BYQmZuMTcydm10Y2kvaGFRU1BFVGVlQT0=@95.164.46.203:8443#🔒 SS-TCP-NA 🇮🇹 IT-95.164.46.203:8443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.87.177:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.87.177:80
