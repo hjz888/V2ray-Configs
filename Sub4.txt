@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?security=tls&sni=nl57.Vlessx.us&type=ws&host=nl57.vlessx.us&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.150:8443
-vless://5cf13b6a-f84e-44ad-9938-3ffc66a679ac@185.146.173.79:8080?security=none&type=ws&host=mahanvips%E6%B3%A2%E6%96%AF%E7%B6%B2arbazansaouli%E6%B3%A2%E6%96%AF%E7%B6%B2%E8%B7%AF1.mahanteamvips.top.&path=%2FMahanVip%3Fed%3D2053#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.79:8080
-vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@185.146.173.22:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.22:2083
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@72.44.33.201:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-72.44.33.201:22222
-vless://79dcfd28-02af-42fd-af73-232f31ae0201@172.67.73.174:8880?security=none&type=ws&host=kiava.aws.amazon.com.f1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.174:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.46:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.194:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.194:80
 vless://d79f585f-7876-46c3-8e80-084a4cb53698@95.81.89.156:56025?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.89.156:56025
@@ -604,3 +599,8 @@ vless://cacd9434-1408-4f64-8bb0-b4c33d04c42b@104.21.95.147:443?security=tls&sni=
 vless://fcf40615-3026-4e62-86fd-0b97385b9e67@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=/@hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.146:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.146:443
 vless://e6743015-9cd3-4856-bce6-c9a27bb11ee3@185.146.173.146:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&path=%2Ftelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Lookivpn%2Ctelegram-Academi_vpn%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.146:8880
+vless://9849365c-2c5e-4630-9439-702192f9cb50@185.133.35.200:8880?security=none&type=ws&host=fadayehamatun.loveiran01.com&path=%2FEskiNaroKharkose-EskiNaroKharkose-EskiNaroKharkose#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.200:8880
+vless://4421a6a6-22c3-4c29-a40f-176748bbee74@104.17.147.22:8080?security=none&type=ws&host=DiReCt95-217-14-47.GamErmE12.IR&path=/DiReCt95-217-14-47.GamErmE12.IR#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8080
+vless://ae3a2fc4-ada8-40e8-aae0-672cab868967@172.67.174.201:2095?security=none&type=ws&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR&path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.201:2095
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.58:443
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.176:443
