@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@172.67.218.252:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.218.252:2096
-vless://770e8a1b-980e-474d-b583-2e4e98acb854@104.18.5.2:2053?security=tls&sni=notls.11111111.eu.org&type=ws&host=notls.11111111.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.2:2053
-vless://775213ac-3976-439a-8977-3277c0e4735d@209.46.30.217:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-209.46.30.217:8443
 vless://83213e65-9a49-446a-a8ce-6eaa7f78d1b8@104.27.115.80:2083?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.115.80:2083
 vless://2373c6d4-1333-4f1e-b039-ade976dcf14f@104.21.53.11:443?security=tls&sni=selinc--------------selinc.rmscipwd.workers.dev&type=ws&host=selinc--------------selinc.rmscipwd.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.11:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.198.137:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.198.137:443
@@ -604,3 +601,6 @@ trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.23.19:443?security=tls&sni=
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.147:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.147:443
 trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
 trojan://NISHIKUITAN222@8.219.111.147:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.147:443
+trojan://Ck0nkbbsur@104.18.37.248:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.37.248:2096
+trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.65:8443
+trojan://ROtELl2aYy@18.142.43.207:55148?security=none&type=ws&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.142.43.207:55148
