@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇧🇦 BA-77.74.228.97:2087
-vless://561a4ec2-7f74-4217-9856-a7684673de8c@104.20.31.213:80?security=none&type=ws&host=rel.shopservices.ir.&path=%2FSpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%3Fed%3D2052#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.31.213:80
 vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.244.103:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.103:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.102.52:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.102.52:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.69.219.31:41746?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-152.69.219.31:41746
@@ -604,3 +602,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.64:443?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.28:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.253:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.244.164:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.244.164:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.79:443
+vless://f8e5817e-8487-4239-be14-c1ea3284719c@62.60.212.218:29098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.212.218:29098
