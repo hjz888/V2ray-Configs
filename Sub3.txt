@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.162.200.28:3389#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#%E6%9C%AA%E7%9F%A5
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.27.200.28:989#%F0%9F%87%BA%F0%9F%87%BE%20_UY_%E4%B9%8C%E6%8B%89%E5%9C%AD
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@103.172.116.79:9011#%E6%9C%AA%E7%9F%A5
@@ -603,4 +604,3 @@ vless://e24c4579-79f4-4710-af2f-18280ab75174@185.146.173.32:80?security=none&typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.160:443?security=tls&sni=hk726.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.160:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.54:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.54:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.185:443
-vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@162.159.135.232:2086?security=none&type=ws&host=cfhax2.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2086
