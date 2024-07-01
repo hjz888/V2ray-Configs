@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://134dff5d-b27f-4392-9491-92addd27f8cd@104.21.13.125:2096?security=tls&sni=tr1.vless.site&type=ws&host=tr1.vless.site&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.53.110:8443?security=tls&sni=kk667.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.218.53.110:8443
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.33:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
@@ -603,4 +604,3 @@ vless://d7dd3a35b68b4992b319a85b8a1fc8e5@8.222.204.128:443?security=tls&sni=dns6
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-158.224.90.158:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.146.249:8443?security=tls&sni=hk555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.146.249:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.69.174:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.174:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.170:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.170:80
