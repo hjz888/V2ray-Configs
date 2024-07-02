@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.3.198:2096?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.3.198:2096
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.96.1:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-188.114.96.1:443
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:20227?security=tls&sni=v2uk01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:20227
 trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?sni=p6us4.pqjc.buzz&type=ws&path=/pq/us4&allowInsecure=1#🔒 TR-WS-NA 🇱🇹 LT-89.116.180.179:443
@@ -603,4 +604,3 @@ trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:46912?security=tls&
 trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&sni=p.mrproxy.shop&type=ws&host=h.mrproxy.shop&path=/tomfCNawNqSxpHShBC1yO&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.173.19:443
 trojan://ZJU29smXwp@45.85.118.0:2053?security=tls&sni=web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🇷🇴 RO-45.85.118.0:2053
 trojan://NISHIKUITAN222@8.219.83.201:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.201:2083
-trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.61.5:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.5:443
