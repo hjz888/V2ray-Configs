@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.16:443
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.148:443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443
 trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
 trojan://Ck0nkbbsur@104.18.37.248:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.37.248:2096
@@ -604,3 +600,7 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.6.207:80#🔒 S
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.67.160:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.67.160:80
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@80.92.204.106:9094#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9094
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3306
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@80.92.204.106:9031#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9031
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.29.170:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.29.170:80
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.27.210:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.27.210:80
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.70.98:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.70.98:80
