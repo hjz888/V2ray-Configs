@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.16.61.8:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.61.8:2096
-ss://ODIzYWRhYmUtYTQwNC00NjgzLTk5YmYtOWY0OWUzNmJkMTExOg==@104.21.75.79:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.75.79:443
-ss://YTY2ZGM4YjctM2QwOS00NDZmLTg1YmMtNDk4OTVlZGQ1M2M0Og==@104.18.27.94:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.27.94:80
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3389
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.137.139:4444#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.139:4444
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5003#US11%201.7MB%2Fs
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A529
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.40.251.45:443#%E6%9C%AA%E7%9F%A530%203.8MB%2Fs
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8090#US12%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.29:7001#US13%201.8MB%2Fs
+trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A531
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#US14%202.0MB%2Fs
