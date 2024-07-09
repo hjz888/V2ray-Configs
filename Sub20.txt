@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
+trojan://NISHIKUITAN222@47.237.95.13:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.95.13:8443
+trojan://NISHIKUITAN222@8.219.174.142:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.174.142:443
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.211.197.163:14586?security=tls&sni=ukvip101.qlgq.fun&type=grpc&serviceName=ukvip101#🔒 TR-GRPC-TLS 🇬🇧 GB-8.211.197.163:14586
 trojan://NISHIKUITAN222@8.219.210.57:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.210.57:8443
 trojan://NISHIKUITAN222@8.219.51.211:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.51.211:8443
@@ -601,6 +604,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#🔒 SS-TCP-NA 🇬
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8881
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.162.200.181:7001#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:7001
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.181:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8882
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8118
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8118
-ss://MTAxMDUwMWEtY2E5YS00NzljLTg0ZDAtMTMwOGQ5Nzc4OWI1Og==@104.25.125.114:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.125.114:443
