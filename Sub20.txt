@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
-trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.181.172:443
-trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@104.21.46.126:2053?security=tls&sni=ip-cf.hukinghumans-655.WorkeRs.dEv&type=ws&host=ip-cf.hukinghumans-655.WorkeRs.dEv&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.46.126:2053
-trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
 trojan://NISHIKUITAN222@35.247.124.181:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-35.247.124.181:443
 trojan://OVsFRZT5jG@172.67.191.189:443?security=tls&sni=web.teama.tk&type=ws&host=web.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.191.189:443
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.103:9000#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697
 ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@172.67.216.166:2086#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.216.166:2086
 ss://YzU3ZGI4ZTItNTU1ZS00YzQ4LWIyNjItZWMyMGI0YWU2YTUwOg==@104.21.31.161:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.31.161:443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.29.170:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.29.170:80
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.208:2376#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.208:2376
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.133:443#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.133:443
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.81:443
