@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://baaacbc-acab-aabc-abcd-cbcbaaacbbac@127.0.0.1:2080?security=tls&type=tcp#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
 trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-213.186.36.123:43118
 trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&sni=omid1.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.96.3:2053
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12069
@@ -604,3 +603,4 @@ trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sn
 trojan://NISHIKUITAN222@8.222.165.117:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.165.117:8443
 trojan://moist@47.236.158.158:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇸🇬 SG-47.236.158.158:2096
 trojan://4CCF9A9AB80E9889198B02ECE7FA08DD@154.44.27.99:43005?security=tls&sni=j0080.ruixiangseo.xyz#🔒 TR-TCP-TLS 🇭🇰 HK-154.44.27.99:43005
+trojan://NISHIKUITAN222@47.236.202.91:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.202.91:8443

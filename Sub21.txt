@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN222@47.236.202.91:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.202.91:8443
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.8.217:2096
 trojan://telegram-id-directvpn@13.37.183.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.183.132:22222
 trojan://auto@172.67.203.52:443?security=tls&sni=esetsecuritylicense.tobavo5084.workers.dev&type=ws&host=esetsecuritylicense.tobavo5084.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.52:443
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#🔒 SS-TCP-NA �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:40007#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:40007
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaHVNV1BRakJ5ZW82QkNWbkhSZzJj@206.189.45.193:2264#🔒 SS-TCP-NA 🇸🇬 SG-206.189.45.193:2264
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.83:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:9101
