@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.27.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.27.214:443
-vless://6be8ca9a-3d2f-4401-f7c5-3b2baf238977@104.21.20.148:2095?security=none&type=ws&host=ip1677.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:2095
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.90.141.204:443?security=tls&sni=vi.ylks.link&type=ws&path=%2Fpkms9hrhvbpq1ikg%3Fed#🔒 VL-WS-TLS 🇺🇸 US-47.90.141.204:443
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?security=none&type=ws&host=nl57.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.27.94:2087?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:2087
@@ -604,3 +602,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.178.30:80?type=ws&host=kr1.1
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.7.226:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.226:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.47.84:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.84:443
 vless://d5084865-70c3-46ca-aa6e-662b1f7e2c73@172.105.122.253:25362?security=none&type=ws&host=static.whatsapp.net&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-172.105.122.253:25362
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.26.87:443?security=tls&sni=hkk.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.87:443
+vless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@172.67.217.218:443?security=tls&sni=amirjk12.benyamin-bozorgi1379.workers.dev&type=ws&host=amirjk12.benyamin-bozorgi1379.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.218:443
