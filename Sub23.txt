@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://pUxG77WPOZ@104.17.148.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@13.248.169.48:443?security=tls&sni=t3.teslacdn2.live&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-13.248.169.48:443
 trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@195.123.213.46:443?security=tls&sni=ua-full.privateip.net#🔒 TR-TCP-TLS 🇱🇻 LV-195.123.213.46:443
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@142.171.219.14:31156?security=tls&sni=lavip101.qlgq.fun&type=grpc&serviceName=lavip101#🔒 TR-GRPC-TLS 🇺🇸 US-142.171.219.14:31156
@@ -603,4 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg=
 ss://NTFkMTljNmQtZDBiZi00ZTBiLThlZWYtOWExZDNmMTNjN2U2Og==@104.26.15.16:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.15.16:8443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.120:5498#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:5498
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:5500
-ss://SGluYVZQTjo=@104.18.203.232:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:2087

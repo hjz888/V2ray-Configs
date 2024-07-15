@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://91968473-fe77-4d88-8bb4-7279279bc9d4@104.21.25.49:80?security=none&type=ws&host=Ua2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.49:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.39.144:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.39.144:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.112:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.112:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.89.195:80
@@ -603,4 +604,3 @@ trojan://NISHIKUITAN222@104.21.76.195:8443?security=tls&sni=t111.ylks.link&type=
 trojan://Ck0nkbbsur@104.26.5.32:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.32:2096
 trojan://pumq91@172.67.216.95:443?security=tls&sni=aws-ca-central-1.f1cflined.com&type=ws&host=aws-ca-central-1.f1cflined.com&path=%2Ff1rocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.216.95:443
 trojan://NISHIKUITAN222@8.222.181.139:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.181.139:443
-trojan://trojan@104.18.12.229:8443?security=tls&sni=mav2flyng.pages.dev&type=ws&host=mav2flyng.pages.dev&path=%2FTelegram%2FMsv2flyNG%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
