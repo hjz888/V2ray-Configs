@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.65:8443
-trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
-trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443
-trojan://E0002134H@104.21.109.230:443?security=tls&sni=6504e90a.xpxroject.pages.dev&type=ws&host=6504e90a.xpxroject.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.109.230:443
 trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:443
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.82.54:43118
 trojan://F4C3hBud6J@172.67.196.179:2083?security=tls&sni=canadam.followerarzon.ir&type=httpupgrade&path=%2F&fp=chrome&alpn=h2&allowInsecure=1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.196.179:2083
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.89:5003#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8091
 ss://MDUwNDUwZDQtN2M3ZC00MzVmLWI4MTItMTU1ZTMwZmQ4YzdjOg==@104.21.7.175:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.7.175:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5001
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.83:9102#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:9102
+ss://OTk0YzkxZGQtYjI4Mi00YzI1LWEwYzUtYWY3NmI0ODBjMDgwOg==@66.235.200.1:443#🔒 SS-TCP-NA 🇺🇸 US-66.235.200.1:443
+ss://ODI2ZTQzZDItZGJlOS00MWE2LWJiZjgtM2FlZDJmOTNmNWQ0Og==@172.66.44.212:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.212:443
+ss://M2YyNjZkMjUtMjFhYS00NDk4LWJiMWEtY2U2ZDFkMzI3YWFmOg==@172.67.199.23:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.199.23:443
