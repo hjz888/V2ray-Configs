@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://770e8a1b-980e-474d-b583-2e4e98acb854@8.218.65.237:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-8.218.65.237:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.78.117:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.78.117:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.157.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.157.249:80
 vless://a8676dbb-7b11-409c-9e3e-15d313f89764@104.21.65.150:80?security=none&type=ws&host=7.v.v.V-_-_-V2ray-_-_-V.v.v.c.www.speedtest.net.ov.Zula.ir.cloudflare.com.pinocchio1.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.65.150:80
@@ -604,3 +603,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?type=ws&host=us1.rt
 vless://16782c80-8b2c-4eb1-81da-dd0435bfa586@104.17.148.22:8880?security=none&type=ws&host=cloudvezzzzzzev2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.doornadoor.com&path=/VezzeWmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:8880
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.66:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.66:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.227:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.227:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.101.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.101.138:80
