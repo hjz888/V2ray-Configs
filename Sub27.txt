@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-VPNHTTPIinjectorfree@104.18.5.250:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
-trojan://NISHIKUITAN222@8.222.156.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.156.242:8443
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
-trojan://telegram-id-privatevpns@13.60.0.173:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.0.173:22222
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
 trojan://NISHIKUITAN222@47.236.93.176:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.93.176:8443
@@ -604,3 +600,7 @@ ss://ZGMwMGYxZjgtMDViMi00YmMwLWI4NTEtZDRkZmU1MDg5MzI5Og==@173.245.49.116:80#🔒
 ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@104.21.40.164:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.40.164:8080
 ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@162.159.24.17:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.24.17:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsTldEeGlvdWN5dUVNWURJY3BoYnJQ@91.194.160.151:1235#🔒 SS-TCP-NA 🇯🇵 JP-91.194.160.151:1235
+ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@104.26.14.85:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.14.85:2096
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:2376
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@185.146.173.59:443#🔒 SS-TCP-NA 🇸🇪 SE-185.146.173.59:443
+ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.64.80.35:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.80.35:8080
