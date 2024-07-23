@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS0kzdDJwbmxVUDV2S3FHdUxwdWNH@206.189.159.120:3074#🔒 SS-TCP-NA 🇸🇬 SG-206.189.159.120:3074
-ss://OWU2N2YxNWMtMTc4Zi00OTRjLWE4NDMtZjM3MWUzYjNmYTVkOg==@172.67.153.75:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.153.75:8080
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@80.92.204.106:9037#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9037
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.181:5499#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:5499
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.19.168.54:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.168.54:80
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#US49%201.8MB%2Fs
 trojan://NISHIKUITAN222@34.82.76.253:443?security=tls&type=ws&sni=tt.ylks.link&path=/&host=tt.ylks.link#US50
 trojan://NISHIKUITAN222@198.41.221.0:443?security=tls&type=ws&sni=t116.ylks.link&path=/&host=t116.ylks.link#%E6%9C%AA%E7%9F%A581
 trojan://e88cb308-73f7-4302-89bf-b65c7386b117@youtube.bai-piao-wang-zhe.567568.ml:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:40023#HK15
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.225:9090#US51%201.7MB%2Fs
