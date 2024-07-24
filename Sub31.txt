@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YzMyMTVmNmItYmQ0Ny00MTIzLTk4OWQtZWU1OWJhZjdjMWYyOg==@104.16.61.8:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.61.8:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10015#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10015
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:7001
 ss://NzBlYTdhMTAtZGUzZS00OTIyLWJjN2MtNGRkN2MyY2VmODgyOg==@172.66.45.10:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.45.10:443
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.212.160:80#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.212.160:80
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#US16%201.7MB%2Fs
 trojan://telegram-id-directvpn@18.194.20.156:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A521
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A522
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10011#HK3
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&type=ws&sni=lmtsg3.cfyun01.sbs&path=/CFYUN&host=lmtsg3.cfyun01.sbs#%E6%9C%AA%E7%9F%A523
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjQiLCJhZGQiOiIxMjAuMjMyLjE1My43MSIsInBvcnQiOiI0NTk3MiIsImlkIjoiNzcwZWU3MzAtMjQ1MC00ZTNjLWE2YzYtMzkzMmJkMzJhZmJkIiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNCJ9
