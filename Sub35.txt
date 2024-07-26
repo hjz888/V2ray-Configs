@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://23c1bdc8-3f6f-48d0-9a5c-a11b5ddf1366@zula.ir:8080?encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=&type=ws#رایگان | VLESS | @Capoit | US🇺🇸 | 0️⃣6️⃣
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@nooneisalone.devminil.ir:2096?alpn=http%2F1.1&encryption=none&host=de.zafarinoco.ir&path=%2F&security=tls&sni=de.zafarinoco.ir&type=ws#رایگان | VLESS | @FreakConfig | SE🇸🇪 | 0️⃣1️⃣
-vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?encryption=none&host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣4️⃣
-vless://venom-servers@www.speedtest.net:443?authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=VenomServers&sni=toro.yadammire.ir&type=grpc#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣5️⃣
-vless://bf116031-bd1d-4aaf-bc8a-a61395560521@www.speedtest.net:80?encryption=none&host=speedtest.net.Hafezdivan.Online.&path=%2FNetspeed%3Fed%3D512&security=none&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣
 vless://c6cdf37b-ef74-4530-8e45-aebb82652a83@104.16.11.133:80?encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣4️⃣
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?encryption=none&host=WORKEr-LUcKy-sOunD-244a.VodaBaj775.WORKErs.deV&path=%2FpAb8JqwxGqHi43xN%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣5️⃣
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@worker-lucky-sound-244a.vodabaj775.workers.dev:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=WORKEr-LUcKY-SOund-244a.vodabaJ775.WORkErs.DEv&path=%2FdF3LoQEsRzYw163M%3Fed%3D2560&security=tls&sni=WorkeR-LUCky-soUNd-244A.vODabAJ775.workERS.deV&type=ws#رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣6️⃣
@@ -24,10 +19,13 @@ vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@serverpars.com:2052?encryption=none
 vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣
 vless://Telegram-ipV2Ray-kjp@www.speedtest.net:80?encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣
 vless://feb83e1f-038a-484d-b86d-0a1673311dd4@104.22.30.97:80?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣
-vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@188.114.97.3:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣
-vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@check-host.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣
-vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@www.speedtest.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣
-vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@zula.ir:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣
+vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@check-host.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣
+vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@www.speedtest.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣
+vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@zula.ir:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣
+vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@188.114.97.3:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣
+vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@check-host.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣5️⃣
+vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@www.speedtest.net:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣6️⃣
+vless://9e7cd183-a9b5-4e97-99a2-17b91f02543f@zula.ir:80?encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣
 vless://e945a5ba-b3a1-4208-d069-e7177993c80d@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣1️⃣
 vless://cedb2cca-5c53-467b-dbe1-53f4126f42d6@cpanel.com:8080?encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣2️⃣
 vless://34311ad1-9914-4523-be6a-3bc277e16577@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣3️⃣
@@ -73,6 +71,7 @@ trojan://ypDt8RkT7J@51.158.217.197:43118?headerType=none&security=tls&sni=riyyy.
 trojan://ypDt8RkT7J@51.158.217.130:43118?headerType=none&security=tls&sni=toflf.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | NL🇳🇱 | 0️⃣7️⃣
 trojan://tKadZAThEQ@188.245.59.155:57875?headerType=none&security=tls&type=tcp#رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣
 trojan://ypDt8RkT7J@62.210.82.54:43118?headerType=none&security=tls&sni=wuxgk.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣2️⃣
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZFBBV2pCSEdVaitsRHBkejhVTDlDYUlsQ0hyQjZscVB5dnNjcExHM1grdz0=@188.245.59.155:31902#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTm5yUEJha0R3SUNHeW94c0RjTHk1@185.65.202.99:49318#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.162:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
@@ -114,7 +113,7 @@ hy2://
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2024-07-26 22:09:27 UTC</div>
+            <div class="mt-3">2024-07-26 23:09:45 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -143,7 +142,7 @@ hy2://
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Chicago</span>
+  <span class="md:block w-full truncate">Ashburn</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -191,12 +190,12 @@ hy2://
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a97b4625f146157</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8a980cb33e2207bf</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.154.103</span>
+      <span class="hidden" id="cf-footer-ip">20.109.38.192</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
