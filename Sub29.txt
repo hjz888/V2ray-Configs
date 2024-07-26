@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://NISHIKUITAN222@8.219.83.71:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.71:8443
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.192.157:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.157:443
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.60.10:443
@@ -602,5 +604,3 @@ ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.161.104:2082#�
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNQktFUFBUdk53M25aV3dhQ1Rnemx5@166.0.162.84:8080#🔒 SS-TCP-NA 🇳🇱 NL-166.0.162.84:8080
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@162.159.135.115:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.135.115:8080
-ss://NDZkYmFjOGItZWFiYS00Mjc1LTk0MGMtODE5Zjk1ZDE2OTE2Og==@104.17.245.203:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.245.203:443
-ss://OWEzOWY2M2UtMjhjOC00NTYwLWFmMTgtYjAxYjk5MTZlZjFiOg==@104.18.41.138:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.41.138:8443

@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.145:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.145:443
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.113:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.113:443
 vless://439e2f9e-079e-4369-a712-22b942afeadd@172.67.153.28:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.153.28:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.179.235:443?security=tls&sni=ppal03.lia-HARTMAnn.woRkErs.dEV&type=ws&host=ppAL03.lIA-HArtManN.workers.DeV&path=%2FLK8QINcpxrBc7yhF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.179.235:443
@@ -602,5 +604,3 @@ trojan://NISHIKUITAN222@8.219.11.158:8443?security=tls&sni=t221.ylks.link&type=w
 trojan://fb89083a4ba1df5@172.67.145.123:443?security=tls&sni=turk-net-shop.internetir.biz.tr&type=grpc&serviceName=wwww&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.145.123:443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.23.19:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.23.19:443
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083
-trojan://NISHIKUITAN222@8.219.83.71:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.71:8443
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
