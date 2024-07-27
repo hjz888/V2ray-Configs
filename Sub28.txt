@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.211.102:2053?security=tls&sni=bPbG.168168.us.KG&type=ws&host=BPBG.168168.US.kg&path=/JyiLSQ0tECXpzezd/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.211.102:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:443?security=tls&sni=523afb17.IRS23.pAgES.Dev&type=ws&host=523AfB17.IRS23.pagES.DEv&path=%2FeaK9H14EfA31X0nr%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.229.57:443
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.47.203:2087?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=/?TM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.203:2087
 vless://29b3cbba-e6ac-485a-9481-976a7305eab9@172.67.149.249:80?security=none&type=ws&host=BlUE-SAlaD-0878.XoFowI2964.wORkeRs.DEV&path=%2Fim10v6XMu5ySbKg3%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-172.67.149.249:80
@@ -603,4 +604,3 @@ trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=av
 trojan://NUeBvQHox0BmnHpu@42.98.4.92:443?security=tls&sni=ggghhhk51.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-42.98.4.92:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
 trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
-trojan://moist@47.236.158.158:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇸🇬 SG-47.236.158.158:2096
