@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.117.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.117.109:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.49.121:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.49.121:80
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.150:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.150:443
 vless://abadf139-f74b-460b-beaf-7db3ff54ec95@172.67.67.134:8443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.67.134:8443
 vless://d4d0a56e-9616-4da6-823e-40663f8a0c81@188.114.97.3:2087?security=tls&sni=fa.lightning6x.ir&type=ws&host=fa.lightning6x.ir&path=%2F%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-%40LiV2ray%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-188.114.97.3:2087
@@ -604,3 +602,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.46:80?type=ws&host=kr1.1
 vless://c2e1eec3-2d9d-4df4-9636-09a64f35dc7f@188.165.177.45:32565?type=tcp#🔒 VL-TCP-NA 🇫🇷 FR-188.165.177.45:32565
 vless://e941f2c7-bc6a-457b-b86e-ba240caf7f20@104.21.32.109:2087?security=tls&sni=parsconfig4.queenm99881.workers.dev&type=ws&host=parsconfig4.queenm99881.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.109:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.234.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.80:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.63.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.63.50:80
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.22.19:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.19:443

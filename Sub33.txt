@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5003
-ss://M2I3YWM1ZWMtZmYxOC00ODdiLTkzOGMtMDlmZWRiYmZjMGEzOg==@172.66.44.243:8443#🔒 SS-TCP-NA 🇺🇸 US-172.66.44.243:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV013Tg==@185.242.87.81:8388#🔒 SS-TCP-NA 🇫🇷 FR-185.242.87.81:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI=@38.207.154.30:40723#🔒 SS-TCP-NA 🇭🇰 HK-38.207.154.30:40723
 ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#🔒 SS-TCP-NA 🇺🇸 US-23.94.76.55:51981
@@ -604,3 +602,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?sni=cfed.tgzdyz2.t
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.23:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|AE_speednode_0007
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#12|AT_speednode_0009
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.239:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=Twitterfreecodestg@zdyz2security=tls#12|AU_speednode_0010
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.221:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12|AU_speednode_0011
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#12|AU_speednode_0012
