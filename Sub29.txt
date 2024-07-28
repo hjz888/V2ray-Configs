@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2083?security=tls&sni=mailbox.cpifORpERsia.UK&type=ws&host=mailbox.cpifORpERsia.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2083
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@13.215.68.64:718?security=tls&sni=1sg04.170203.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-13.215.68.64:718
 trojan://telegram-id-privatevpns@3.79.131.159:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.131.159:22222
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
@@ -600,7 +604,3 @@ trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sn
 trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-139.162.84.183:3306
 trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
 trojan://NISHIKUITAN222@8.219.229.190:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.229.190:8443
-trojan://cabacba-cbaa-caab-acdb-acabaccacbbb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTpiYWNiYWNhLWJhY2EtY2JhYS1hZGJjLWNiYWJiYWNhYWNiYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-07-MORDAD-1403 🕑 07:05
-ss://bm9uZTpiYWFjYWNiLWNiYWEtYWJjYS1kYmFjLWNjY2JiYWNiYWJhYQ==@127.0.0.1:2080#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaa3luRlg1ZVNhRTBZdXNGOGpYZ3FR@77.91.123.173:18332#🔒 SS-TCP-NA 🇳🇱 NL-77.91.123.173:18332
