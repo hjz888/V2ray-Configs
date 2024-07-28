@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd00yRm1NVGMwTUMxak5tVTVMVFF3WTJZdFltVTRNQzAzTVRJek1UTTROelV6TXpR@free.2apzhfa.xyz:31411#%F0%9F%87%A6%F0%9F%87%BA%209%7C%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd00yRm1NVGMwTUMxak5tVTVMVFF3WTJZdFltVTRNQzAzTVRJek1UTTROelV6TXpR@free.2apzhfa.xyz:31441#%F0%9F%87%A8%F0%9F%87%A6%209%7C%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd00yRm1NVGMwTUMxak5tVTVMVFF3WTJZdFltVTRNQzAzTVRJek1UTTROelV6TXpR@free.2apzhfa.xyz:31471#%F0%9F%87%A9%F0%9F%87%AA%209%7C%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd00yRm1NVGMwTUMxak5tVTVMVFF3WTJZdFltVTRNQzAzTVRJek1UTTROelV6TXpR@free.2apzhfa.xyz:31511#%F0%9F%87%B7%F0%9F%87%BA%209%7C%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
@@ -603,4 +604,3 @@ vless://ace5ddbf-af37-407c-8cdd-d0ba99dfa091@104.26.3.186:443?security=tls&sni=l
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.30:80
 vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV&type=ws&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.145.150:443
-vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?security=tls&sni=promo.worldofwarships.eu&type=ws&host=mythstore.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-2.56.220.2:443
