@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJ2IjoiMiIsInBzIjoiMTN8ZCoqKioqKioqKmcuY29tXzIgIzQiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#4
 
 vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
@@ -604,3 +603,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.27.214:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.251.215:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.251.215:443
 vless://922e2aac-1dbd-4b11-e18d-d3e9e803a352@104.22.13.192:8880?security=none&type=ws&host=www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.192:8880
 vless://b3f29aa0-49ae-4bd3-b2e0-39609da273dc@104.16.184.248:8080?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.amirtronic.top.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.184.248:8080
+vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.247.155:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2083
