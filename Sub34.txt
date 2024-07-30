@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@172.67.197.64:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.197.64:2087
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.225:8090#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:8090
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:8090
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.87.177:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.87.177:80
@@ -604,3 +603,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzkgODcuNE1CL3MiLCJhZGQiOiIxNzIuNjcuMTU2LjIy
 trojan://moist@8.210.203.7:2087?type=ws&sni=trojan.freenods.sbs&host=trojan.freenods.sbs#HK8
 trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.29:443?security=tls&type=grpc&sni=P5LXKRo.diamondgalery.ir#%E6%9C%AA%E7%9F%A540
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5000#US26%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%E6%9C%AA%E7%9F%A541%201.3MB%2Fs
