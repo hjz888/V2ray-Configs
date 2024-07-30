@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087
 trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=/1C1eEyrBbGr0r2HZ1tSkA&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.60.10:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2096?security=tls&sni=mailbox.CpIfOrperSiA.UK&type=ws&host=mailbox.CpIfOrperSiA.UK&path=trojan-ws/?ed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2096
@@ -603,4 +604,3 @@ ss://ZDAxYTQwZjUtNGU2Zi00Mjc5LWIwYTktMGYyYTI2OGFiMDNjOg==@198.41.208.211:8080#�
 ss://Y2RiMTUzNjUtMWNjYi00ZDVhLWE1ZDktNmZiMDhkM2M3NWFjOg==@104.16.3.35:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.3.35:8880
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.103.104:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.103.104:80
 ss://MWZiNDY1YWMtNjBmYi00Yjc3LWI0YTYtY2M1OTBlZTYxMjRlOg==@104.21.24.57:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.24.57:443
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.17.227.60:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.227.60:443
