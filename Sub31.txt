@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://NISHIKUITAN222@8.219.142.191:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:2083
+trojan://hNTtLzK5f2@172.67.199.251:443?security=tls&sni=us2.hope-pls.ir&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.199.251:443
+trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
+trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
 trojan://NISHIKUITAN222@8.219.83.201:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.201:2083
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.86:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.86:46002
@@ -600,7 +604,3 @@ ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.64.105.78:2053#�
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@162.159.136.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.136.232:443
 ss://YzE5NzgyNjYtOTU4Yy00YWEzLWJhMzQtN2VhY2FjNzVhY2ExOg==@104.18.15.19:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.15.19:443
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.24.37:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.24.37:80
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.67.112.247:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.112.247:443
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@172.234.222.138:443#🔒 SS-TCP-NA 🇺🇸 US-172.234.222.138:443
