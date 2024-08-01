@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://Watashi_VPN@172.66.47.7:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 trojan://telegram-id-privatevpns@3.11.172.21:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.172.21:22222
 trojan://Watashi_VPN@104.18.27.94:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.27.94:8443
 trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
@@ -604,3 +603,4 @@ ss://Mzc4YWMyMDctMzhkMy00NDAxLWJhOTYtM2E3OTMxOTY4YmM1Og==@104.16.61.8:80#🔒 SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.18.119:1080#🔒 SS-TCP-NA 🇧🇪 BE-38.180.18.119:1080
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTlQd3NoUnB2QXRmTDE4Y1RHQmRB@188.166.210.158:3127#🔒 SS-TCP-NA 🇸🇬 SG-188.166.210.158:3127
+ss://M2Y5ZDNiNTItMWJjYy00OTlmLWFhZDAtYmE3MWQ2MTIzZjhiOg==@104.18.8.215:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.8.215:8080

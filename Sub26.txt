@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.21:2096?security=tls&sni=MORteZa2020neT.pagEs.dev&type=ws&host=MoRteza2020neT.pAges.DeV&path=%2FkeDRL5Jm7OKgFXi6%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.21:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.21.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.151:80
 vless://518ff002-dfe3-4854-930f-ccdfd52c9b11@140.99.233.180:80?security=none&type=ws&host=sa2.elmahstyle.ir&path=/https://Play.Google.com/Store/apps/detailsidCOM.V2ray.ang#🔒 VL-WS-NONE 🇩🇪 DE-140.99.233.180:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.30:80
@@ -604,3 +603,4 @@ vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.123:443?security=tls&sni=
 vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.213:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.213:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.31.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.96:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.235.191:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.191:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.81:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.81:80
