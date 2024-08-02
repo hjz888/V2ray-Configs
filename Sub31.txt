@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN222@47.236.180.24:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.180.24:8443
-trojan://19c80ce9-0935-41b9-b077-277621316a87@45.76.33.120:443?security=tls&sni=hidd2.sassanidempire.com&type=ws&host=hidd2.sassanidempire.com&path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🇳🇱 NL-45.76.33.120:443
-trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.204.84:443
 trojan://pumq91@104.21.51.9:443?security=tls&sni=aws-ca-central-1.f1cflined.com&type=ws&host=aws-ca-central-1.f1cflined.com&path=%2Ff1rocket#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.51.9:443
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@168.100.6.189:443?security=tls&sni=YbV27nj.diamondgalery.ir&type=ws&host=YbV27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🇺🇸 US-168.100.6.189:443
@@ -604,3 +601,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:800#🔒 SS-T
 ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.17.247.203:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.247.203:2083
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5000
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
+ss://NWFmMTA0NjktM2VjMy00MzUzLTk0ZDItMjk3YjcyMTVhMTViOg==@172.67.177.201:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.177.201:443
+ss://ZmI1Y2ZlOTUtZWUyNi00Mzk5LWJlNGItMzZkNjQ4NDE0YjljOg==@172.67.147.31:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.147.31:80
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.83:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:6379
