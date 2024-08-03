@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://8d06ea66-2372-48cd-848f-c48af4814690@104.18.61.189:2052?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
 vless://0edc1995-b3df-421b-88e1-9132f2e71252@172.67.218.226:2083?security=tls&sni=filimo.sezar3.ir&type=ws&path=/JoinChanel-@proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.@proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.226:2083
 vless://5db47982-e0ec-4a6e-82bc-8bd0d4255c3c@104.20.38.4:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.38.4:8080
@@ -604,3 +603,4 @@ vless://2efe52c2-e252-449e-8566-b6897fa041d9@172.66.47.74:2082?security=none&typ
 vless://f4b3c409-2ec5-49f7-9c0d-ca4ed6a292ee@190.93.247.155:2083?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=grpc&serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2083
 vless://ad8d6bc3-7540-459e-a75a-1febfa413f78@172.67.204.84:2082?security=none&type=ws&host=C1.unique69.com&path=/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2082
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.147.188.171:8005?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-38.147.188.171:8005
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@138.2.18.184:80?security=none&type=ws&host=hkk.ylks.xyz&path=/blue#🔒 VL-WS-NONE 🇯🇵 JP-138.2.18.184:80
