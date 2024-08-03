@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248?type=grpc&encryption=none&serviceName=@proxyforopeta&sni=www.google.com&fp=firefox&security=reality&pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&sid=0b03c417#🇬🇧GB | 🔴 | vless | @Capital_NET | 32
 vless://bdd00939-26be-4c99-9f4f-2a94df83a9c6@dlf.ornam.tech:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&alpn=http/1.1&fp=chrome&security=reality&pbk=hNVOQ6YXqVOT71Fe-dptYmqMBDHsGE_LYu6mipfgExU&sid=cb69dab2#❔XX | 🔴 | vless | @Capital_NET | 33
 vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293?type=grpc&encryption=none&serviceName=telegram:@proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#🇬🇧GB | 🔴 | vless | @Capital_NET | 34
 vless://5fea461d-9dd5-4c30-9dfa-63b966b6d411@128.140.49.29:443?type=tcp&encryption=none&sni=cdnjs.com&fp=firefox&security=reality&pbk=ssfcbUE7g67nECKXytt9CbDMZzu-X9ECtfgkIqIsWhk&sid=7a8275aa7bd14661#🇩🇪DE | 🔴 | vless | @Capital_NET | 35
@@ -603,4 +604,3 @@ ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EVTNPVEl6WkMwME5HWmhMVFJ
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EVTNPVEl6WkMwME5HWmhMVFJrWW1JdFltSTBZeTA0WVRkak1ESXlaVFZpWmpr@free.2weradf.xyz:36211#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E3%80%90%E5%9B%BD%E5%A4%96%E7%9B%B4%E8%BF%9E%E3%80%91
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EVTNPVEl6WkMwME5HWmhMVFJrWW1JdFltSTBZeTA0WVRkak1ESXlaVFZpWmpr@free.2weradf.xyz:36213#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EVTNPVEl6WkMwME5HWmhMVFJrWW1JdFltSTBZeTA0WVRkak1ESXlaVFZpWmpr@free.2weradf.xyz:36215#%F0%9F%87%BA%F0%9F%87%B8%207%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EVTNPVEl6WkMwME5HWmhMVFJrWW1JdFltSTBZeTA0WVRkak1ESXlaVFZpWmpr@free.2weradf.xyz:36271#%F0%9F%87%AC%F0%9F%87%A7%207%7C%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2001%20%7C%201x%20UK
