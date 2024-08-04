@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjAiLCJhZGQiOiIxMDQuMTkuNDIuNzkiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjEiLCJhZGQiOiIxMDQuMTcuMTA2LjE3MSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjIiLCJhZGQiOiIxMDQuMTkuNTcuMjQiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjMiLCJhZGQiOiIxMDQuMTkuNTkuOTkiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjkiLCJhZGQiOiIxMDQuMjAuMTcuMTk2IiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImNkbjMuZnJlZWdyYWRlbHkueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fMjgiLCJhZGQiOiIxMDQuMjAuMjUuMTY2IiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImNkbjMuZnJlZWdyYWRlbHkueHl6IiwidGxzIjoiIn0=
@@ -601,6 +604,3 @@ vless://e0d2a95b-60c8-4b53-ae25-8fc112f7d608@172.67.193.203:2053?security=tls&sn
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.136.60:80?security=none&type=ws&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.60:80
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.51.3:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.3:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.95:80
-vless://2f758eb2-d936-4254-9227-71c38fc04609@172.66.44.90:443?security=tls&sni=pardazeshvpn-tg89.pages.dev&type=ws&host=pardazeshvpn-tg89.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.90:443
-vless://d52c866c-a6bc-44a3-8b18-05572d09db5b@173.245.49.110:80?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.110:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.43.41:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.43.41:80
