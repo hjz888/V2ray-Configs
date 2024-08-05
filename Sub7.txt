@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.160:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.160:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.21.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.40:80
 vless://d809f2f6-6057-4c5c-9d3d-0b37513b96cc@104.22.13.192:443?security=tls&sni=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&type=ws&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.13.192:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.41.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.41.79:80
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-190.93.246.241:2087
@@ -602,5 +604,3 @@ vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.14.19:8880?security=none&typ
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.38.122:2082?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.38.122:2082
 vless://61958b98-d52a-420e-bb42-a3fd22985895@172.66.0.98:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.0.98:2096
 vless://7b798c2f-7f0f-48e8-d713-743c4b93cde3@104.31.16.164:80?type=ws&host=snapp.ir.iran.ir.bank-maskan.ir.isna.ir.nobat.ir.namava.ir.iauh.ac.ir.hamshahrionline.ir.emalls.ir.snappfood.ir.irna.ir.sid.ir.namava.ir.nobat.ir.blog.ir.khamenei.ir.bki.ir.iranjib.ir.avval.ir.mche.or.ir.araku.ac.ir.疯狂的莫迪17.shop.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.31.16.164:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.52.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.249:80
-vless://9f07f8e4-dbd1-40da-a588-278cfa7f6b08@78.109.194.242:36142?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-78.109.194.242:36142
