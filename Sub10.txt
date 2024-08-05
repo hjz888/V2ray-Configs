@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://Watashi_VPN@172.67.204.84:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
+trojan://865bc912-0b17-4bd1-b711-958d77232689@157.254.178.18:443?security=tls&sni=coal.zichuanlan.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-157.254.178.18:443
+trojan://saMgiangGt@172.64.80.1:443?security=tls&sni=teo.history-paint.art&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.64.80.1:443
 trojan://telegram-id-directvpn@52.202.142.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-52.202.142.246:22222
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.143.99:443?security=tls&sni=cfus2.trojanwss.xyz&type=ws&host=cfus2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.143.99:443
@@ -601,6 +604,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.43:8090#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.12:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.12:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5499
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6697
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#🔒 SS-TCP-NA 🇰🇿 KZ-89.44.193.112:51348
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ampIaGhXeXlJUUFsMVdIV2t6ZHhs@176.123.1.241:8576#🔒 SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576
