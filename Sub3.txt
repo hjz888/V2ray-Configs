@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fNCIsImFkZCI6IjE3Mi42NC4xNzUuOTgiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fNSIsImFkZCI6IjE3Mi42NC45OS4zMiIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fNiIsImFkZCI6IjEwNC4xOS4yMS44MSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fNyIsImFkZCI6IjE3Mi42NC4xNzUuMjIzIiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImNkbjMuZnJlZWdyYWRlbHkueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fOCIsImFkZCI6IjE3Mi42NC4xOTguMjI5IiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImNkbjMuZnJlZWdyYWRlbHkueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiNXxkKioqKioqKioqZy5jb21fOSIsImFkZCI6IjE3Mi42NC4xOTQuOTYiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
@@ -604,3 +601,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.204:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.32.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.32.105:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&type=ws&host=fraud.chase#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.0:80
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.248.203:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:443
+vless://565ae15e-6979-404d-84b5-d8860187cc65@104.21.65.72:2083?security=tls&sni=mahnode.interazad.nl&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.72:2083
+vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=mc0.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
