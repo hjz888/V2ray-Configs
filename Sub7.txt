@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?security=tls&sni=joinchannel.blacksugar.cfd&type=ws&host=capitalnet.blacksugar.cfd&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.13.192:2053
+vless://815724d3-0d61-4761-be07-471441d42be5@104.22.32.78:80?security=none&type=ws&host=holland.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.32.78:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.14:80
+vless://1fc23521-1f60-4419-b410-7caab71ec67b@185.143.234.200:443?security=tls&sni=mcistar.ir&type=ws&host=anten.ir.de1rvc.realirshop.com&fp=chrome#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.200:443
 vless://37c1a338-2378-4757-899e-2f89b3892939@172.67.172.16:2083?security=tls&sni=91ca3d82e15c53.mitsonic.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.16:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.202:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.202:80
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=/xmrdark#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
@@ -600,7 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.21.153:80?security=none&type
 vless://7efa43f4-17b6-46ae-a62e-7b764df45057@104.18.252.214:8443?security=tls&sni=6cb2aA5E.BpB-woRKEr-pANEL-3GD.PAGEs.dev&type=ws&host=6CB2AA5E.bpB-WoRkER-PaNel-3GD.paGEs.dev&path=/zttOLnmecHBW6WUO&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.252.214:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.224:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.224:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.233:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.169:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.220.168:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.168:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.44.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.44.12:80
-vless://6273758b-89d5-47c1-9f20-5e92acc885ac@46.101.225.231:18877?security=none&type=splithttp&path=%2F#🔒 VL-SPLITHTTP-NONE 🇩🇪 DE-46.101.225.231:18877
