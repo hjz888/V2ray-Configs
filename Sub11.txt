@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.189:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.189:443
 vless://1a1268e5-3472-4aa4-a47e-65d124a29944@91.194.161.121:13460?security=none&type=tcp&host=speedtest.com&headerType=http#🔒 VL-TCP-NONE 🇲🇩 MD-91.194.161.121:13460
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.52.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.52.129:80
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxVEZBVVpjYnl2WGowRjAwZlNIbUhV@51.140.68.123:25150#🔒 SS-TCP-NA 🇬🇧 GB-51.140.68.123:25150
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:5003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#🔒 SS-TCP-NA 🇳🇱 NL-188.212.132.20:52952
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.37:989

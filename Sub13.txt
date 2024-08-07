@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56012#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56012
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5500
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@44.208.124.139:443#🔒 SS-TCP-NA 🇺🇸 US-44.208.124.139:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
@@ -603,4 +604,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.48.222:443?allowInsecure=0&sn
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|SG_speednode_0265
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|SG_speednode_0266
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.186:443?allowInsecure=0&sni=xx.ylks.xyz&type=ws&host=xx.ylks.xyz&path=/security=tls#12|SG_speednode_0267
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.186:443?allowInsecure=0&sni=vx.ylks.xyz&type=ws&host=vx.ylks.xyz&path=/security=tls#12|SG_speednode_0268
