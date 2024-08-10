@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://Watashi_VPN@172.67.155.165:443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/#%E6%9C%AA%E7%9F%A575
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A576
 trojan://10e904b6-8420-47dc-b76c-6d8f818944e9@172.232.236.174:443?security=tls&type=tcp&sni=web.whatsapp.net#%E6%9C%AA%E7%9F%A577
 trojan://123456@104.18.11.39:443?security=tls&type=tcp&sni=trojan-amp-id01.globalssh.xyz#%E6%9C%AA%E7%9F%A578
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#US50%202.0MB%2Fs
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%87%A8%F0%9F%87%A6CA-23.162.200.28-0554
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8882#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0597
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7471
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.10:9090#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0560
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-1691
