@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://029b2274-47e2-4831-9f03-3bbe9d7ad0e8@104.18.33.36:443?security=tls&sni=nezuko.raidenshogun.cloudns.org&type=ws&host=nezuko.raidenshogun.cloudns.org&path=%2FVLESS%2Ffr-freevmess.privateip.net&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.33.36:443
 vless://c6916d66-b191-4651-8bbc-120ea8af539a@162.159.152.2:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.178.19:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.19:443
 vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-fr.brocdn.com&type=ws&host=cdn-fr.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
@@ -603,4 +604,3 @@ vless://b2561d3a-e814-425b-98c6-4aa21d0edb3b@104.21.75.149:8443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.210.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.210.210:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.73:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.153:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.132:80
