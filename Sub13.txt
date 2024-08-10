@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.10.194:443?sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=/4xLDSO3FrWl2DhIibUbDFdhZ&alpn=http/1.1&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.26.10.194:443
-trojan://fyy75RVvaT@185.112.249.10:443?security=tls&sni=libertyzone.xyz&type=ws&host=libertyzone.xyz&path=/43574/@persvpn#🔒 TR-WS-TLS 🇸🇰 SK-185.112.249.10:443
 trojan://saMgiangGt@172.67.180.110:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.180.110:443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5000
 ss://OGI3ZWZhY2YtOGU4My00ZTUxLWFiNTUtMTI2M2JhY2NkNGIyOg==@104.17.148.22:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.148.22:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56026#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56026
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.86:5003#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.86:5003

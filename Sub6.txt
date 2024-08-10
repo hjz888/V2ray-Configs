@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f110e62b-c579-de82-d5b8-61c53cde88a5@81.12.92.130:16362?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.130:16362
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.248.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.248.241:443
 vless://c0615218-5881-49d3-a008-03ca8359dc68@162.159.152.17:80?security=none&type=ws&host=ipv4dali.xwdil.ir&path=%2FDigiconnecT%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.17:80
 vless://b700da67-0e79-4622-8347-326dc6b8a87c@79.175.176.17:27479?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.176.17:27479
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.131:80
@@ -604,3 +602,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.200:2082?security=none&
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.157:80
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@104.17.223.175:443?security=tls&sni=jnir-sh.hpcode.ir&type=splithttp&host=jnir-sh.hpcode.ir&path=%2Fsh%2F%40JavidnamanIran%2F&fp=chrome&alpn=h3,h2#🔒 VL-SPLITHTTP-TLS 🏴‍☠️ NA-104.17.223.175:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.64.140.142:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.142:443
+vless://225e88f5-b289-42b8-9064-b7e51f24122b@104.26.10.164:2096?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.10.164:2096
+vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?security=tls&sni=ShAh-aGz.pAGes.DEV&type=ws&host=ShAH-AGZ.PAGES.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.120:443

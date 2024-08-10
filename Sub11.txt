@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://5184b87c-8537-41d6-be54-5027c8432d50@172.67.185.196:443?security=tls&sni=paRVIZsabEti.pAgeS.dEV&type=ws&host=PARvIzsABETI.paGeS.DEv&path=%2FpSaoBZxo2GE7v0ti%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.196:443
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.135:18755
 vless://f110e62b-c579-de82-d5b8-61c53cde88a5@81.12.92.132:16701?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.132:16701
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.150.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.150.175:443
 vless://381eb2e9-e18a-4f50-93b7-96965a36b7ad@198.41.198.76:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.76:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.188:80?security=none&type
 vless://0d82b4dd-fbed-4105-b60a-77f04066b38f@172.67.173.113:80?security=none&type=ws&host=ffv5365b7254n78n268.n7.4ghgdg.27n.5427.n24.805.mobileshop2go.ir&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.173.113:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.59.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.30:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.191.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.59:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.170.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.170.57:80
+vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?security=tls&sni=paHlAvi.pAGEs.DeV&type=ws&host=PaHLAvi.pAGes.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.15:443
