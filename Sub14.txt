@@ -4,6 +4,47 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#🔒 SS-TCP-NA 🇸🇬 SG-159.65.129.128:18814
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIQ29jUHhxdXdSemNralVkWmNkMGVQ@89.23.110.74:61194#🔒 SS-TCP-NA 🇳🇱 NL-89.23.110.74:61194
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5500
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFEyT0dRMA==@95.164.37.226:8388#🔒 SS-TCP-NA 🇬🇧 GB-95.164.37.226:8388
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5003
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5003
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:7306
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.31:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5000#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:5000
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:5499
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.121.87.147:989#🔒 SS-TCP-NA 🇲🇩 MD-192.121.87.147:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHandITGwySFpwd3ZTSGRlQ0MwUHpN@147.45.114.160:20810#🔒 SS-TCP-NA 🇳🇱 NL-147.45.114.160:20810
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNmRHVGNFMllONkRqRTB0aURyWmxW@85.159.230.44:52842#🔒 SS-TCP-NA 🇩🇪 DE-85.159.230.44:52842
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8881
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7307
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.31:5498#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:5498
+ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#🔒 SS-TCP-NA 🇨🇦 CA-51.222.157.179:49602
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3306
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.253.180:443#🔒 SS-TCP-NA 🇰🇷 KR-43.201.253.180:443
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.95.170.220:443#🔒 SS-TCP-NA 🇯🇵 JP-54.95.170.220:443
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.146:1230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEs5N1hFZDduMkF5MGtubkFyVl9B@31.129.22.73:1080#🔒 SS-TCP-NA 🇵🇹 PT-31.129.22.73:1080
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6697#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:47580#🔒 SS-TCP-NA 🇵🇱 PL-37.252.10.45:47580
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:9090#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:9090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#🔒 SS-TCP-NA 🇺🇸 US-74.50.98.185:8080
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7306
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.43:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:5499
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.9:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5003
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.180.193:16899#🔒 SS-TCP-NA 🇺🇸 US-172.245.180.193:16899
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:3306
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.156.208:443#🔒 SS-TCP-NA 🇸🇬 SG-13.215.156.208:443
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8090#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8090
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#🔒 SS-TCP-NA 🇵🇪 PE-190.120.229.28:989
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:800
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50211#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50211
@@ -563,44 +604,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?allowInsecure=0&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.158:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#12|BG_speednode_0018
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.10:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12|BG_speednode_0019
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security=tls#12|BG_speednode_0020
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.205:443?allowInsecure=0&sni=xx.ylks.xyz&type=ws&host=xx.ylks.xyz&path=/security=tls#12|BR_speednode_0021
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.133.35.98:443?allowInsecure=0&sni=vx.ylks.xyz&type=ws&host=vx.ylks.xyz&path=/security=tls#12|BR_speednode_0022
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|CH_speednode_0023
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20301?allowInsecure=1&sni=z301.hongkongnode.top#12|CN_speednode_0025
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#12|CN_speednode_0026
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#12|CN_speednode_0027
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20279?allowInsecure=1&sni=z279.hongkongnode.top#12|CN_speednode_0028
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:41767?allowInsecure=1&sni=x114.flybar.work#12|CN_speednode_0029
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:22741?allowInsecure=1&sni=dufu.hongkongnode.top#12|CN_speednode_0030
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:33323?allowInsecure=1&sni=z261.hongkongnode.top#12|CN_speednode_0031
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:59021?allowInsecure=1&sni=x100.flybar.work#12|CN_speednode_0032
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:21247?allowInsecure=1&sni=x91.flybar.work#12|CN_speednode_0033
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20140?allowInsecure=1&sni=z140.hongkongnode.top#12|CN_speednode_0034
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20298?allowInsecure=1&sni=z298.hongkongnode.top#12|CN_speednode_0036
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20059?allowInsecure=1&sni=x59.flybar.work#12|CN_speednode_0037
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20142?allowInsecure=1&sni=z142.hongkongnode.top#12|CN_speednode_0038
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20141?allowInsecure=1&sni=z141.hongkongnode.top#12|CN_speednode_0039
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:30767?allowInsecure=1&sni=z61.hongkongnode.top#12|CN_speednode_0040
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20296?allowInsecure=1&sni=z296.hongkongnode.top#12|CN_speednode_0041
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20295?allowInsecure=1&sni=z295.hongkongnode.top#12|CN_speednode_0042
-trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:21970?allowInsecure=1&sni=x41.flybar.work#12|CN_speednode_0043
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@140.99.233.156:2087?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|DE_speednode_0045
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|DE_speednode_0046
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.244.122.57:443?allowInsecure=0&sni=kx.ylks.xyz&type=ws&host=kx.ylks.xyz&path=/freecodessecurity=tls#12|DE_speednode_0048
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@45.80.111.111:443?allowInsecure=0&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/fp=firefox&security=tls#12|DE_speednode_0049
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.109:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=Twitterfreecodestg@zdyz2security=tls#12|DE_speednode_0050
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0051
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0052
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0054
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0055
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0056
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0057
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0058
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|EE_speednode_0059
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0060
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.223:2053?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0061
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodessecurity=tls#12|EE_speednode_0062
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.43:8443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0063
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.213:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0064
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.203:8443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0065
