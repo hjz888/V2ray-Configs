@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a61c4761-5848-43da-a632-309a7d18d393@104.26.6.95:2052?security=none&type=ws&host=ddddddddd.nigc-ar.com&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.95:2052
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.214.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.214.99:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.113.5:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.113.5:80
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:443?security=tls&sni=ffffrwewrg3.af3025eb2e.workers.dev&type=ws&host=ffffrwewrg3.af3025eb2e.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.216:443
@@ -603,4 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.237.231:80?security=none&typ
 vless://adc09c7c-a762-41f9-8a35-d193c83e181b@185.146.173.82:8880?type=ws&path=/Free#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.82:8880
 vless://58a92045-21e7-4668-867c-7bc906c54428@103.35.189.42:443?security=tls&sni=xxx-----------------AstroVPN-official-----------------xxxx---d.xxxx-----------pornhub-com-------------AstroVPN-official------x.workers.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.75.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.75.249:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.90.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.223:80

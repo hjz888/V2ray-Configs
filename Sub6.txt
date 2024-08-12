@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.28.134:80
 vless://1773441d-8b07-43c0-81e6-226cce288e13@104.18.15.166:80?security=none&type=ws&host=cpy2.cpy-teel-1-32f.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.166:80
 vless://2deb6940-0b30-47f3-b06b-46498a120464@172.67.173.10:2087?security=tls&sni=b.liopiol.ir&type=ws&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.217.76:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.217.76:80
@@ -603,4 +604,3 @@ vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@172.64.148.140:2087?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.251.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.251.51:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
 vless://dba21741-9901-4e3f-b9fe-a52ec3633b67@172.66.213.0:2083?security=tls&sni=s14.sg-forum.info&type=ws&host=s14.sg-forum.info&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.0:2083
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.127.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.127.251:443
