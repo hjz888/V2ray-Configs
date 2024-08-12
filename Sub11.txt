@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.13.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.210:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.0.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.182:80
-vless://417d0120-573d-4c0a-9248-6a01cf85c9c1@104.19.54.50:2095?security=none&type=ws&host=www.speedtest.net.www.digikala.com.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B.website.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:2095
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.138.243:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.138.243:443
 vless://630f63af-a0df-483a-96e0-1e1826dedbd0@85.198.15.59:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.198.15.59:80
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@162.159.152.2:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
@@ -604,3 +601,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.78.199:80?security=none&type
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@104.26.12.54:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.54:80
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.67.68.157:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
+vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.128.155:443?security=tls&sni=www.elledecor.com&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.155:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.104.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.104.128:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.54.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.54.146:80

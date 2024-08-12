@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.164.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.241:443
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.69.106.103:443?security=tls&sni=mmghgy5.azurewebsites.net&type=ws&host=mmghgy5.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇨🇦 CA-40.69.106.103:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.199:80
 vless://ad9ac4b3-a28d-4be2-a363-a59eea1bdeba@104.18.203.232:2052?security=none&type=ws&host=nl9.vlessx.us&path=Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@172.67.180.238:8080?security=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.32.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.32.249:80
@@ -604,3 +601,6 @@ vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni
 vless://fd690086-c197-470d-bad6-708b338ef237@104.16.102.112:2096?security=tls&sni=marzn.lyRa-st.ir.&type=ws&host=marzn.lyRa-st.ir.&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.102.112:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.230.219:443
 vless://c416be20-32b3-467f-83c2-735e04d639f7@172.67.175.148:443?security=tls&sni=summer-king-3735.segete5426.workers.dev&type=ws&host=summer-king-3735.segete5426.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.148:443
+vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443?security=tls&sni=yalda20230103.freedns.site&type=grpc&serviceName=freevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.36:8443
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.233:80
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096

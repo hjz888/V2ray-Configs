@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@59.3.3.161:443?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇰🇷 KR-59.3.3.161:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.103.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.103.236:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.174.130:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.130:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.191.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.191.1:80
 vless://0ee74307-c9b8-4a7c-9197-2b4b891fdb31@104.24.196.20:2095?security=none&type=httpupgrade&host=germa.cUstomizespeedtest.net.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.196.20:2095
@@ -604,3 +601,6 @@ vless://2dbac56a-40e9-4e0d-b2ee-554e6bdb6874@185.143.233.103:80?security=none&ty
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.174.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.174.186:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.161:80
+vless://0d82b4dd-fbed-4105-b60a-77f04066b38f@104.21.55.218:80?security=none&type=ws&host=ffv5365b7254n78n268.n7.4ghgdg.27n.5427.n24.805.mobileshop2go.ir&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.55.218:80
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@104.21.95.205:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.95.205:8880
+vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.107.48.162:37829

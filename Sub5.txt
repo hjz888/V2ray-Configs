@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443?security=tls&sni=yalda20230103.freedns.site&type=grpc&serviceName=freevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.36:8443
-vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.233:80
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.39.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.39.88:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.138:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.75:80
@@ -604,3 +601,6 @@ vless://095f0ede-5187-426d-b837-328c14d389c9@104.18.252.72:8080?type=ws&host=joi
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.235:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.6:80
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?type=ws&host=WxVvVtZx22.hAmEdIgOlD.CoM&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.137.11:2052
+vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:80?security=none&type=ws&host=sg18.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.115:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.37:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.246.37:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.20.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.20.78:80

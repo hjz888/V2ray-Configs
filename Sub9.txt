@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0d82b4dd-fbed-4105-b60a-77f04066b38f@104.21.55.218:80?security=none&type=ws&host=ffv5365b7254n78n268.n7.4ghgdg.27n.5427.n24.805.mobileshop2go.ir&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.55.218:80
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@104.21.95.205:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.95.205:8880
-vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.107.48.162:37829
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.115.89:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.115.89:443
 vless://3a0c80a4-244e-4408-bff8-b3e22a42a3e3@5.57.32.80:45532?security=tls&sni=dl3.mexicanseed.lol&type=ws&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-5.57.32.80:45532
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.61.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.61.143:80
@@ -604,3 +601,6 @@ vless://6951424b-384c-4afc-8f12-38192f68192b@104.21.40.66:80?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.13.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.56:80
 vless://d41faf1e-054b-48e9-9487-40747f230808@172.66.0.218:443?security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=%2Fws&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.0.218:443
 vless://4e806b5e-1063-480b-8a36-ef73c06c6208@104.16.56.97:2096?security=tls&sni=657b54ni4867onu79m.m4dcustomize.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.56.97:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.160.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.160.171:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.231:443?security=tls&sni=ah.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.231:443

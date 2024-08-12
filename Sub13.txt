@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.9.134:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.28:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.22.10:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.10:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.70.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.132:80
 vless://a74068d7-7aee-4cc9-a0a8-954df6ceafd0@104.21.70.25:2082?security=none&type=ws&host=sg1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:2082
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.225.160:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.225.160:80
@@ -604,3 +601,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.21.248:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.115:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.115:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.77.208:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.208:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.229.88:80
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.223:80
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.103:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.77.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.210:443
