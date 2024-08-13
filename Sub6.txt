@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.31.16.113:443?security=tls&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV&type=ws&host=mRaRSHa-ShAItaanm0Th3Rs-iNsTinCT-chAll3NgErS.pagEs.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.113:443
+vless://90bfacc6-fbcf-4552-b628-e75c5fd88805@193.151.138.51:443?security=tls&sni=car.vrvpn.lol&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-193.151.138.51:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.87:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.162:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.162:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.189.108:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.108:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.149.199:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.199:443
@@ -601,6 +604,3 @@ vless://07464341-d0d4-4561-9740-3328bca9fc57@104.17.169.114:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.102.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.102.47:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.210.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.210.210:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.101.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.101.82:80
-vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.219.89:443?security=tls&sni=hey.BAcHebIapaIn.IR&type=ws&host=Hey.BacHEBiaPaIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.89:443
-vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
-vless://63c56e85-ebdf-44fa-b2c1-343a275f8530@5.57.33.148:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.148:443

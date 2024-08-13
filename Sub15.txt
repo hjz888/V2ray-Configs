@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.1.33:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.1.33:443
+trojan://NISHIKUITAN222@34.105.49.234:443?security=tls&sni=t726.ylks.link&type=ws&host=t726.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-34.105.49.234:443
+trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.194.170:8443
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
 trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&sni=Web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.87:2053
 trojan://REvil@172.66.44.171:443?sni=trauma.pages.dev&type=ws&host=trauma.pages.dev&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.66.44.171:443
@@ -601,6 +604,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.83:8008#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI=@38.207.154.30:53250#🔒 SS-TCP-NA 🇭🇰 HK-38.207.154.30:53250
 ss://MDc1YTM2NWItYjBjNy00YmEzLWI1YTYtNTk3ODUwYzIyM2Y5Og==@104.16.3.35:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.3.35:8880
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMEJxcmdiZFhEaW9LUEVlZ1NVWFZh@193.233.193.111:33708#🔒 SS-TCP-NA 🇭🇰 HK-193.233.193.111:33708
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.83:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:7001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:809#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:809
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:2375

@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.219.89:443?security=tls&sni=hey.BAcHebIapaIn.IR&type=ws&host=Hey.BacHEBiaPaIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.89:443
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
+vless://63c56e85-ebdf-44fa-b2c1-343a275f8530@5.57.33.148:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.148:443
 vless://1fc23521-1f60-4419-b410-7caab71ec67b@185.143.234.200:443?security=tls&sni=mcistar.ir&type=ws&host=anten.ir.de1rvc.realirshop.com&fp=chrome#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.200:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.233.93:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.233.93:80
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@104.21.96.143:443?security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.143:443
@@ -601,6 +604,3 @@ vless://b9430690-525b-4774-9efa-42f163d3fe5b@104.19.8.225:8880?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.164.15:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.164.15:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.33.35:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.35:80
 vless://266169d9-665f-4fed-b1a8-da29794ee3cd@172.67.202.140:2053?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.140:2053
-vless://c3388667-987b-40eb-bd28-2540961cab07@141.101.123.72:8443?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.123.72:8443
-vless://b8ae9ff0-23f1-4393-ab9b-d8fa5dcad6e2@104.31.16.65:2095?security=none&type=ws&host=v2rayngvp.irch2.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2095
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.171:443
