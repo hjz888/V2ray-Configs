@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.18.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.18.148:80
 vless://0c94ca98-3643-4cb4-de75-6167815af665@172.67.212.223:8443?security=tls&sni=admin.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.212.223:8443
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@45.159.218.229:443?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2Fjuzi#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.229:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.60.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.60.156:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.176:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.152.117:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.152.117:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.147:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.147:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.169:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.73.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.248:80
