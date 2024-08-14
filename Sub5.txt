@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.80.58.226:443?security=tls&sni=sebbb.azurewebsites.net&type=ws&host=sebbb.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇯🇵 JP-40.80.58.226:443
+vless://504d9da5-ea6d-429e-a4e5-76d6fe9bdc54@104.21.47.137:2087?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.47.137:2087
+vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.6.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.149:2053
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.171.108:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.108:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.187:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.187:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.241.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.241.220:443
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.46.150:443?security=tls&sni=TeST-TESt-tEst-tESt.PagES.DEV&type=ws&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.150:443
@@ -600,7 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.167.227:80?security=none&typ
 vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@172.67.66.177:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:2053
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8080?type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.199.19:8080
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@104.21.32.238:443?security=tls&sni=storeships.toptechnonews.com&type=ws&host=storeships.toptechnonews.com&path=%2Fnimws%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.238:443
-vless://ba9935b8-3b80-44c6-baa2-8c67142e97be@178.239.145.152:9060?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.145.152:9060
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.17.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.17.9:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.238.48:2087?security=tls&sni=Crt-31-BGp-73c-221-E2-o-ncW02-DIN-293-pKIw-nHYW-AuEB-CUeW.PaGes.DeV&type=ws&host=crt-31-Bgp-73c-221-E2-o-NcW02-DiN-293-pKiw-NhYw-AuEb-CUeW.PAgES.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.238.48:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.131.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.131.141:443

@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.45.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.45.203:80
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.218.143.10:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-8.218.143.10:2053
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@183.178.22.246:36669?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-183.178.22.246:36669
+vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.170:2053
 vless://68097c30-148a-4d6c-b96f-9f89bfb6bee4@185.234.66.47:30555?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇲🇩 MD-185.234.66.47:30555
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=dx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.41:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.103.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.103.90:443
@@ -600,7 +604,3 @@ vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.235:8080?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.57.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.57.210:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.225.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.225.175:443
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.136.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.136.232:8880
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.62.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.62.67:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.154:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.154:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.207.182:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.207.182:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.78:80

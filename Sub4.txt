@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.201.69:80
+vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
+vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80?security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒 VL-WS-NONE 🇫🇷 FR-51.75.149.8:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.114.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.114.66:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.161:80
 vless://4d1255f7-3eae-45bb-92a5-8336bce6968f@172.67.190.140:2082?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.sarazirsina.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.140:2082
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
@@ -600,7 +604,3 @@ vless://68d816de-542a-40e3-8daa-b944b83002e2@172.66.47.115:443?security=tls&sni=
 vless://a2e34cb0-39a0-4db0-99a4-c56e84757461@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.25:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.25:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.109.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.109.7:80
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.80.58.226:443?security=tls&sni=sebbb.azurewebsites.net&type=ws&host=sebbb.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇯🇵 JP-40.80.58.226:443
-vless://504d9da5-ea6d-429e-a4e5-76d6fe9bdc54@104.21.47.137:2087?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.47.137:2087
-vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.6.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.149:2053
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.171.108:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.108:443
