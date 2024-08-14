@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://bb27a0c6-aa5e-4105-a943-b87239507057@172.66.47.66:443?security=tls&sni=pardazeshvpn-tg86.pages.dev&type=ws&host=pardazeshvpn-tg86.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.66:443
 vless://a989201e-f910-4533-aa58-fdd29b1ef48d@185.146.173.95:443?security=tls&sni=all1.vip-save.space&type=ws&host=all1.vip-save.space&path=/Telegram+-+@SavageV2ray+-+Telegram+-+@SavageV2ray#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.95:443
 vless://c306f9dc-771b-4fa3-bdad-364c898a169a@188.114.97.3:2053?security=tls&sni=tech-channel1.lookjump.ir&type=ws&host=tech-channel1.lookjump.ir&path=%2FTechnoi%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.66.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.33:80
@@ -603,4 +604,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.7.187:443?security=tls&sni=m
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.115.51:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.115.51:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.76.233.67:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-47.76.233.67:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.22:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.22:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.16:80

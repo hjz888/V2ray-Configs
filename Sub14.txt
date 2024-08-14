@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.245:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.153.103.203:38454?security=tls&sni=dx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:38454
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.27.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.200:80
 vless://1a1b6a74-d327-4443-9e7f-3c2d2aaeae49@185.231.181.233:2096?security=none&type=ws&host=uil434ffsdifjsd.mexicanseed.lol&path=/こんにちは私の友人GGYl#🔒 VL-WS-NONE 🇮🇷 IR-185.231.181.233:2096
@@ -603,4 +604,3 @@ vless://fd84ac44-6eff-40a3-8bb4-80ff321b87e7@172.67.149.117:8880?security=none&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.230.219:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.148:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.148:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.4.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.4.161:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.223:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.223:443
