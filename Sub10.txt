@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@151.101.198.225:80?security=none&type=ws&host=ramioncommunicationslimited.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.198.225:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@5.255.112.197:443?security=tls&sni=vt.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇳🇱 NL-5.255.112.197:443
 vless://05214830-5d65-4ee1-a3d4-68f36cbea637@185.170.166.124:443?security=tls&sni=api5.htve.ir&type=ws&host=api5.htve.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇬🇧 GB-185.170.166.124:443
@@ -603,4 +604,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.218:443?security=tls&sn
 vless://e3414cff-d076-4e7a-9518-c5792f9a87ac@45.12.31.238:443?security=tls&sni=connectingno.technewspaper.store&type=ws&host=connectingno.technewspaper.store&path=%2FFWwdxcwcwwQwdcwqwdd333qqqqqqqwdddddd&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.238:443
 vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@104.18.39.116:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.39.116:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.70.37:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.37:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.172:80

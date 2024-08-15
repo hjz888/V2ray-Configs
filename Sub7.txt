@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://10221e99-bb18-4d22-87ea-daa48470d098@104.18.203.232:8880?security=none&type=ws&host=fr2.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8880
 vless://8608d3c9-6536-483e-9ab2-e0b62a86d9b8@69.84.182.185:8080?security=none&type=ws&host=P2.MON3TER.com#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.185:8080
 vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?security=tls&sni=promo.worldofwarships.eu&type=ws&host=mythstore.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-2.56.220.2:443
 vless://d7a6e691-eba4-4a64-b5fa-0ad2512e6005@15.197.192.55:443?security=tls&sni=radar.snapfooding.com&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-15.197.192.55:443
@@ -603,4 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.216:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.30.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.99:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.58.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.58.7:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:2095?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.149.134:2095
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.159.87:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.159.87:80
