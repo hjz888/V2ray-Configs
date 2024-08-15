@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.20.45:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.20.45:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.168.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.62:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.110.225:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.225:443
-vless://99bd9072-226f-48f8-8ee1-7fc01542c903@204.93.210.94:8080?security=none&type=ws&host=dac9f71a1490f05a.sh.ger.bandinng.ir&path=/#🔒 VL-WS-NONE 🇺🇸 US-204.93.210.94:8080
-vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.21.70.25:80?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.68.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.11:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.6.200:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.6.200:443
-vless://10221e99-bb18-4d22-87ea-daa48470d098@104.18.203.232:8880?security=none&type=ws&host=fr2.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8880
 vless://8608d3c9-6536-483e-9ab2-e0b62a86d9b8@69.84.182.185:8080?security=none&type=ws&host=P2.MON3TER.com#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.185:8080
 vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?security=tls&sni=promo.worldofwarships.eu&type=ws&host=mythstore.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-2.56.220.2:443
 vless://d7a6e691-eba4-4a64-b5fa-0ad2512e6005@15.197.192.55:443?security=tls&sni=radar.snapfooding.com&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-15.197.192.55:443
@@ -604,3 +596,11 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.227:443?security=tls&sni=c
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.31.16.134:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.31.16.134:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.134.76:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.76:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.20.115.188:443?security=tls&sni=heY.BACHEBiapaIn.Ir&type=ws&host=HeY.bAcHebiapAiN.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.115.188:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.168.64:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.168.64:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.23.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.164:80
+vless://6a3e397f-8396-4dfe-a24c-ddccdbab30ec@104.19.54.50:80?security=none&type=ws&host=vrayargon.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.buzz.&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.216:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.216:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.30.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.99:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.58.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.58.7:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:2095?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.149.134:2095
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.159.87:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.159.87:80

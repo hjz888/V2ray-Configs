@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0edc1995-b3df-421b-88e1-9132f2e71252@104.21.43.41:2083?security=tls&sni=gapfilm.sezar3.ir&type=ws&path=%2FJoinChanel-%40proxyforopeta-telegram%3A%40proxyforopeta-telegram-proxyforopeta-joinchanel%40proxyforopeta.%40proxyforopeta.join-%40proxyforopeta.telegram%3A%40proxyforopeta&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.41:2083
-vless://a35017af-d228-44bd-885c-e5951ce09df6@104.24.196.20:80?security=none&type=ws&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:80
-vless://33837aa4-a41f-441c-a0d5-fa7a8e18ae40@172.64.146.48:443?security=tls&sni=mshngc1.freeairlaines.com&type=grpc&serviceName=wgTNq5m7eYJmld9KfLxG&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.146.48:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.168.122:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.168.122:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.128:80
-vless://4922fb95-dc7d-4d93-9f54-2dcc4b46f752@104.21.34.133:8880?security=none&type=ws&host=xn--80ajabxfcf7ah9bi.fiErlIne.lINk#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.133:8880
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.66:80
-vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.25.235.38:443?security=tls&sni=NGINX-H.pages.DEV&type=ws&host=NGINX-H.pages.DEV&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.235.38:443
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/server&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.48:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.97.90:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-47.236.97.90:80
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8880?type=ws&host=IeRoCbHg8.PrZeNdEgI.NeT&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.199.19:8880
@@ -604,3 +596,11 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.242:443?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.151.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.151.120:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.240.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.240.153:443
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:8443?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.140:8443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:443?security=tls&sni=eb043cC5.mkhAlILi.PAges.DEv&type=ws&host=Eb043Cc5.MkhaLILi.PagEs.dev&path=%2FwstBteiWzlzWfZGp&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.165:443
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.159:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.159:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.67:80
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?security=none&type=ws&host=MalAySiAdj.CArD-937.WorKeRs.DeV.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2082
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.195.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.195.28:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.251.25:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.251.25:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.4:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.162.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.199:80
