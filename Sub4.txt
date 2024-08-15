@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://82b7624c-8c12-4156-b192-6a4b6d272417@151.101.194.219:80?security=none&sni=speedtest.net&type=ws&host=Tuskmy.com&path=%2F%3Fed%3D1024&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.222.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.115:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.195:80
 vless://0c14db88-0343-4049-9779-9c2d9287f9e0@185.146.173.23:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.23:8880
@@ -604,3 +603,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.133.35.98:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.186:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.55.186:80
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.10.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.91:80
+vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-fr.brocdn.com&type=ws&host=cdn-fr.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443

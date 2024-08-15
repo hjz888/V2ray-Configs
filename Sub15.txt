@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.7.85:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.85:80
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.76.57:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.76.57:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.82:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.105.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.105.13:80
@@ -604,3 +603,4 @@ trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.de
 trojan://pUxG77WPOZ@104.17.148.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 trojan://NISHIKUITAN222@47.237.100.206:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.100.206:8443
 trojan://telegram-id-privatevpns@54.154.15.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.154.15.105:22222
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.226.32.68:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.226.32.68:46002

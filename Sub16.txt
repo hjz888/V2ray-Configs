@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.226.32.68:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.226.32.68:46002
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.144:443
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
@@ -604,3 +603,4 @@ ss://ZDY2M2ZlY2MtMWYwMi00ZTllLTgxNTctYzMzY2RiMzBkYTIzOg==@190.93.244.166:80#🔒
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:4444
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#🔒 SS-TCP-NA 🇵🇪 PE-190.120.229.28:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.27.200.28:989#🔒 SS-TCP-NA 🇺🇾 UY-179.27.200.28:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312
