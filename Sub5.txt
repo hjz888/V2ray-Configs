@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:443?security=tls&sni=napdg1000072.reneelegitimate.workers.dev&type=ws&host=napdg1000072.reneelegitimate.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.217:443
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.21.33.89:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.89:443
+vless://970bd1d9-8f7d-4527-8a93-52f1ad8556ff@104.17.148.22:2095?security=none&type=ws&host=8.v2.c.www.speedtest.net.debian.org.academigroup.iR.&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.19.106.201:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-199.19.106.201:8443
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.181:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.181:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.199:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.151.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.151.48:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.205.60:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.205.60:443
@@ -599,8 +604,3 @@ vless://e3c7bed3-6d45-43d0-b8a5-c1ee4349b5e4@92.223.124.62:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2security#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.109:443
 vless://6420f118-882f-4fcc-b801-070a7348120e@172.67.135.55:8443?security=tls&sni=kochweltzuhause-videobestjob.baftani-makromeshop.ir&type=ws&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.135.55:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.4.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.155:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.244.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.244.183:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.223:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.172.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.172.201:80
-vless://325732d7-4f00-4d80-8278-39ed3431cf04@104.21.88.239:443?security=tls&sni=zen3.xpartshub.com&type=ws&host=zen3.xpartshub.com&path=%2Fyfkq7cnPxOnK24VV7H&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.239:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.242.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.242.140:443
