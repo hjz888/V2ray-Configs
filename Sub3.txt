@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://3702ae13-286a-4f53-b7ae-9f111090155b@104.21.36.158:8443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=yTIot4U_iswonIMzFnkBswzGbOloKmJF8IdopSLONRE&sid=4500d410#🔒 VL-TCP-RLT 🏴‍☠️ NA-104.21.36.158:8443
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@67.205.152.244:12345?security=reality&sni=refersion.com&type=http&path=%2F&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇺🇸 US-67.205.152.244:12345
 vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=5JA5Y0-T4zvUCJ018TbvhhZ0jkNPjuUFbdm2K2Rwiz4&sid=182f0114&allowInsecure=1#🔒 VL-TCP-RLT 🇳🇱 NL-81.31.245.106:443
 vless://c274799d-6bbd-48a8-b985-e203217f79b2@45.140.167.94:2096?security=reality&flow=xtls-rprx-vision&sni=2606:4700:4700::1111&type=tcp&fp=chrome&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&sid=2880ee24bb417d46#🔒 VL-TCP-RLT 🇬🇧 GB-45.140.167.94:2096
@@ -604,3 +603,4 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@123.241.137.138:12071?security=tls&
 vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-fr.brocdn.com&type=ws&host=cdn-fr.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
 vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?serviceName=-Telegram:-@UraniumVpn-Telegram:&path=/#🔒 VL-TCP-NA 🇸🇨 SC-154.197.75.98:80
 vless://d12fd888-e00a-46b0-88f6-7d8ac86469dd@45.67.215.11:443?security=tls&sni=joinbedevmessorg.xn--54qv00ez5ar77g.co&type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D443#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.11:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.154.92:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.92:443

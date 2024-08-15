@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.238.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.238.77:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.24.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.24.128:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.22.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.194:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.199:80
@@ -604,3 +603,4 @@ vless://4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.123:80?security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.187.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.187.215:80
 vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@104.21.59.67:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.67:443
 vless://9e163d37-7514-4c12-9749-51cc91a31bf0@190.93.247.155:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:2052
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.131:80

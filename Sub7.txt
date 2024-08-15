@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f7e08961-ba18-4ac8-aac0-e925107417af@162.159.135.234:443?security=tls&sni=de.vpncustomize.Website&type=ws&host=de.vpncustomize.Website&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.24.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.24.99:80
 vless://c6b003b9-51bb-49cf-8d74-8db1e6bf65e1@135.125.140.6:14063?security=tls&sni=germany.raspberryip.com&type=grpc&serviceName=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-135.125.140.6:14063
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.176:443
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.180.49:80?security=none&type
 vless://19477f96-ea81-4f5b-93e7-119a171a7813@104.21.7.27:443?security=tls&sni=safe.footballlovernews.com&type=ws&path=/safe&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.88.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.88.47:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.163.189:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.189:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.62.184:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.62.184:80
