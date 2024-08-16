@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.60.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.60.54:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.109.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.109.73:80
 vless://e510ff3a-6b23-4948-afed-ae6ef432a4f0@172.67.73.174:443?security=tls&sni=VipCloudGodsw.nikoo-kala.Ir.&type=ws&host=VipCloudGodsw.nikoo-kala.Ir.&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.174:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.71.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.71.111:80
 vless://d80a5fad-5b13-4880-83e9-d455d8ca4417@104.19.203.218:8443?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.203.218:8443
@@ -604,3 +602,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.192.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.192.23:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.65:443?security=tls&sni=fv.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.65:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.69.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.69.204:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.51.217:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.51.217:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.10.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.78:80

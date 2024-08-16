@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@104.18.203.232:2096?security=tls&sni=vpNeRor.SAjadHADadi.WEbsiTe&type=ws&host=VPnerOr.sajAdHaDaDI.WEbSITe#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.146.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.19:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.110.181:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.181:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.63.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.63.164:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.83:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.216.238:80?security=none&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.209.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.209.149:80
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?security=tls&sni=ircp-617.pages.dev.&type=ws&host=ircp-617.pages.dev.&path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.54:443
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.26.15.85:443?security=tls&sni=hdfy4c2.freeairlaines.com&type=ws&host=hdfy4c2.freeairlaines.com&path=/Mr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
+vless://2ce3f82f-609e-4646-c289-0e918df396ba@103.184.44.21:2053?security=tls&sni=mt.AntiV2ray.site&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-103.184.44.21:2053

@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a0bbae32-205c-400e-b4f2-d1a62682db63@72.167.132.250:56152?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-72.167.132.250:56152
-vless://c6b003b9-51bb-49cf-8d74-8db1e6bf65e1@135.125.140.6:14063?security=tls&sni=germany.raspberryip.com&type=grpc&serviceName=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-135.125.140.6:14063
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.240.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.240.129:80
 vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.59.100:80?security=none&type=ws&host=zula.ir.www.speedtest.net.列列男事的事列上赛男84.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.59.100:80
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.135.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:80
@@ -604,3 +602,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.119.38:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@203.32.121.53:443?security=tls&sni=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&type=ws&host=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇻🇬 VG-203.32.121.53:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.215.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.230:80
 vless://af931af5-01ce-417a-b817-534b400c32bf@104.21.69.44:2095?security=none&type=ws&host=0.Soft98.ir.clOudFlare.com.wWw.speeDtest.nEt.xn--mgbx5cf.eNded-lAtin.iR.&path=%2F%40%63u%73%74om_%63onf%69g%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2095
+vless://17a5e590-46cb-4830-9a8f-1c04ae1515db@104.31.16.85:80?security=none&type=ws&host=host.roghanali.IR.&path=%2Fjoin-telegram-afV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.85:80
+vless://7f1548ae-3c31-45a4-9150-727e5d08e068@104.21.20.68:80?type=ws&host=Fi3.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.20.68:80
