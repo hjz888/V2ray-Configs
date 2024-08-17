@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.3.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.3.219:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.187.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.187.215:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.79.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.79.74:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.120:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.192:80
 vless://6279470a-5002-4192-8e18-38775309d10d@46.245.64.188:9900?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.188:9900
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.161.237:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.161.237:80
@@ -604,3 +600,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.33:80?security=none&type
 vless://56f83949-e2e8-41a1-eec9-70f8d5924d3f@198.41.193.40:2087?security=tls&sni=49-refaqaG0t.yarayaragahi12.info&type=ws&host=49-refaqat.yarayaragahi12.info&path=%2Frafighad3mifadat23Dfgthytfrtr5gHdhH.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.193.40:2087
 vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.241.5:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.150:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.124:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.5:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.5:80
+vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.85:443?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇩🇪 DE-50.7.87.85:443
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053

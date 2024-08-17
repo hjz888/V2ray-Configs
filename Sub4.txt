@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://722c66e2-bce4-46d2-a2f9-cb04e3bed034@162.159.192.88:443?security=tls&sni=ANa-4bA.PaGeS.DEv&type=ws&host=aNa-4ba.PaGEs.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.88:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.181:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.11.225:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.11.225:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.173.168:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.173.168:80
 vless://1fdcb94a-6250-4980-ae44-c0ee1834af7e@104.21.57.200:2087?security=tls&sni=get-product-from-shopify-ws.pajoheshgaraan-ai-network.ir&type=ws&host=lab.pajoheshgaraan-ai-network.ir&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.200:2087
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.67.68.157:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.52.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.52.3:80
@@ -604,3 +600,7 @@ vless://e69aff37-a166-4a92-a6ba-6acf81947110@5.160.46.23:443?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.149.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.149.247:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.85.60:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.85.60:80
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.46.106:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.106:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.162.32:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.32:80
+vless://c7be7a0f-44f6-463e-a65c-7749020b1db1@84.32.230.107:80?security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/zugF9IeL4d7Y6rrzLNIZhip#🔒 VL-WS-NONE 🇹🇷 TR-84.32.230.107:80
+vless://123000a0-51b5-4ced-a709-1d84e6173a96@91.107.218.161:80?security=none&type=ws&host=MarketINg.microSoFTs.doWnLOad&path=/#🔒 VL-WS-NONE 🇩🇪 DE-91.107.218.161:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.74:80

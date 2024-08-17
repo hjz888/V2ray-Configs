@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.58.237:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.58.237:80
-vless://8028c698-7958-4c18-e7e9-869a3926d7ee@172.67.170.52:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.52:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.174:80
-vless://bf116031-bd1d-4aaf-bc8a-a61395560521@162.159.134.42:80?security=none&type=ws&host=speedtest.net.Hafezdivan.Online.&path=%2FCurl%2F8.0.0-RunCi%2FCd-Uplode%3Fed%3D1280#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.42:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.177.175:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.177.175:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.190.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.154:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.134:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.134:8080
@@ -604,3 +600,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.232.223:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.185:80
 vless://4499efaf-edc4-43de-b301-956d91a2e01d@104.16.87.46:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.87.46:8080
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@190.93.244.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.0:2096
+vless://641e9b7e-b286-4be6-8283-dd0ea34bb61b@45.159.219.252:8080?security=none&type=ws&host=dailyCONFIGS-DAILYconfigs-DAILYconfigs.speedtest.net.vigilantecollection.com.&path=DAILYConfigs%3Fed%3D8080#🔒 VL-WS-NONE 🇺🇸 US-45.159.219.252:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.244.132:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.244.132:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.84:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.84:80
+vless://283516af-082c-4f67-b392-ea3add35b9c1@104.21.28.38:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.28.38:443
