@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://af0312ac-aa36-4cf4-93b1-b27e4afb50d0@104.18.13.130:2096?security=tls&sni=console.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.162.112:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.162.112:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@162.159.83.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.83.79:80
 vless://17f90013-1cc4-4bfd-acf6-003722518e16@104.21.29.119:2096?security=tls&sni=tdltesystemsitepishgamanirnet.p30downloadsha.ir&type=ws&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.119:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.218:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.63.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.63.82:80
@@ -604,3 +601,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.121:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.91.235:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.235:80
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.206.176.5:443?security=tls&sni=dhfthyt6.azurewebsites.net&type=ws&host=dhfthyt6.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇧🇷 BR-20.206.176.5:443
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@92.38.145.145:443?security=tls&sni=gcore.com&type=ws&host=raimonchannel.com&path=%2F&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-92.38.145.145:443
+vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@104.20.37.186:80?security=none&type=ws&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site.&path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.37.186:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.237.117:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.237.117:80
+vless://e510ff3a-6b23-4948-afed-ae6ef432a4f0@172.67.73.174:443?security=tls&sni=VipCloudGodsw.nikoo-kala.Ir.&type=ws&host=VipCloudGodsw.nikoo-kala.Ir.&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.174:443
