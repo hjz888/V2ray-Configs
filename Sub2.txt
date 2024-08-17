@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=/XV2ray?ed=512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#🇸🇪SE | 🔴 | vless | @FreakConfig | 2
 vless://20a5d75c-afe6-4fda-80f9-df60291d783e@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @FreakConfig | 4
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-dk3.pages.dev:443?path=/PX8F58g99kX8jRU8?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMahdiSErver-Dk3.pagES.DEv&fp=randomized&type=ws&sni=joInMahdISeRveR-dk3.pageS.dEV#❔XX | 🔴 | vless | @FreakConfig | 5
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=/TELEGRAM-PROXY_MTM/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#🇺🇸US | 🔴 | vless | @FreakConfig | 7
@@ -603,4 +604,3 @@ trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&
 vmess://eyJ2IjoiMiIsInBzIjoiMTN8ZCoqKioqKioqKmcuY29tXzIgIzMiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#3
 
-vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923

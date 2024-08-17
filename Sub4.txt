@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@104.16.4.103:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.103:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.142:80
@@ -603,4 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.54.113:80?security=none&type
 vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@172.67.214.110:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.110:443
 vless://90b3cbba-e6ac-485a-9481-976a0415eab9@172.67.197.31:80?type=ws&host=wAnDERiNg-fiReFlY-5eB4.yIbaVe7525.woRkErs.DeV#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.197.31:80
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?type=ws&host=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&path=%2FodHGn0T9HGFXsTlN%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.157.202:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.4:443
