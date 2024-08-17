@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://auto@162.159.153.198:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.198:443
-trojan://auto@162.159.153.42:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.42:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2087
-trojan://telegram-id-privatevpns@3.125.128.28:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.125.128.28:22222
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
 trojan://auto@162.159.152.193:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.193:443
 trojan://77891e6750@27.0.232.204:443?security=tls&sni=hk1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-27.0.232.204:443
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#🔒 SS-TCP-NA 🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348#🔒 SS-TCP-NA 🇷🇺 RU-92.53.86.220:51348
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.63:57456
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.105:8091#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.105:8091
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8000
+ss://OTM1MWYxZTUtOTdjYi00YTgwLTkwNTAtNjNiYzcyYmE1YzFmOg==@104.18.203.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7002

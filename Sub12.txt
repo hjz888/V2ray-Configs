@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.14:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.16.145:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.16.145:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.167.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.167.238:80
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:2083
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.132:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.132:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.91.235:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.235:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.7.8:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.8:80
@@ -604,3 +600,7 @@ vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.14.19:2083?security=tls&sni=
 vless://62f5cbe2-c055-4bbe-ec9a-57aa156291d8@193.151.158.112:1007?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.158.112:1007
 vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2083?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.240:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.248.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.248.155:80
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.229.20:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.229.20:80
+vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.207:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.119:2096?security=tls&sni=DBC7a449.BPb-WOrKER78.PaGES.DeV&type=ws&host=dBc7A449.BPB-WOrkeR78.PAgEs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.119:2096
