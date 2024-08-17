@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.255.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.255.154:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.241.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.241.11:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.128:80
 vless://17a1bbe7-58f7-4b5c-8ed6-b87f3f20e56a@2.189.104.23:10007?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-2.189.104.23:10007
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.43.99:80?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.86:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.50.86:80
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.226:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.226:2083
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.229.90:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.229.90:80
