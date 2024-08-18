@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
-trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@76.223.54.146:443?security=tls&sni=t3.teslacdn2.live&type=tcp&host=t3.teslacdn2.live#🔒 TR-TCP-TLS 🇺🇸 US-76.223.54.146:443
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@188.114.99.0:443?security=tls&sni=pages.dev&type=ws&host=texs.pages.dev&path=%2Ftruk1&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.0:443
-trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.237.153.228:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://8a1ab0df6abea549@172.105.220.7:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-172.105.220.7:3306
 trojan://NISHIKUITAN222@8.219.49.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.49.65:8443
 trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
@@ -604,3 +599,8 @@ ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.67.55.17:443#🔒 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8080#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8080
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6679
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989
+ss://ZTYzMzMzNjQtMzU4MS00ZTJiLTljZGMtZmRhMGU1MDliNzA2Og==@172.66.47.165:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.165:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:5001
+ss://MDMwZmY0Y2YtNjE5NC00MTc3LTkwZGEtYTQ5ZjQ2ZjlhZmNlOg==@172.67.188.196:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.188.196:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzdkcmVJU1hXMW1NbHRJa25xV1V3@13.74.113.46:56580#🔒 SS-TCP-NA 🇮🇪 IE-13.74.113.46:56580
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#🔒 SS-TCP-NA 🇷🇸 RS-194.71.126.31:989

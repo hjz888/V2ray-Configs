@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Outlinev2rayNG%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-89.19.216.18%3A8388
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40FreakConfig%20%7C%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B8%F0%9F%87%AC%20SG-91.192.81.21%3A8388
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A5003
 vless://d396ade5-431b-4127-a7bf-46979eb78761@free.to.free.join-private.ir:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40polproxy%20%7C%201
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.19:2376#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A2376
 vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&security=tls&sni=kingOfIRaN.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40v2rayNG_Matsuri%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
@@ -604,3 +599,8 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.144:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.68:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.68:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.174.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.174.75:80
 vless://e09e5d28-c785-4868-ab26-dcfcef8f557f@103.184.45.200:8443?security=tls&sni=15.globalnetvpn.site&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-103.184.45.200:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.64.163:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.64.163:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.120.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.195:443
+vless://7f1548ae-3c31-45a4-9150-727e5d08e068@104.21.20.68:80?type=ws&host=Fi3.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.20.68:80
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@100.28.62.107:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-100.28.62.107:80
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.58:443
