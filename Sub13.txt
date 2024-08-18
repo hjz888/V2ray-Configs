@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.116.206:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-46.137.116.206:22222
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.168.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.168.207:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.3:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.3:443
 vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@104.21.13.125:80?security=none&type=ws&host=nl21.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.125:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.19.187:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.19.187:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.243:80?security=none&type
 vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?security=tls&sni=ip499.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.251.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.251.59:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.7.85:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.85:80
+vless://4352f2a7-d620-474e-9249-e866774a2c81@79.133.108.4:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#🔒 VL-WS-TLS 🇺🇦 UA-79.133.108.4:443
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.216:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.216:8080
