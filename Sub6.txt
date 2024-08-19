@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.196:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.196:443
+vless://d0f29a67-b61e-49e3-9bee-637eb6743df1@152.42.222.9:443?security=tls&sni=aka.ms&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.222.9:443
+vless://a34cdf99-a8ba-4db8-b299-bc510ab2c877@69.16.231.60:80?security=none&type=ws&host=doostihaa.com.niazerooz.com.abasmanesh.com.netafraz.com.hamyarwp.com.mehrnews.com.yektanet.com.sariasan.com.blogsky.com.iranhost.com.emofid.com.nahayatnegar.com.emofid.com.shahrekhabar.com.talahost.com.talahost.com.meghdadit.com.charkhemashin.cfd&path=/#🔒 VL-WS-NONE 🇺🇸 US-69.16.231.60:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.95.93:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.95.93:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.225.236:80
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.3.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.73:80
 vless://91d65dba-474f-4b6a-a236-aa97f65a460e@167.71.198.154:443?security=tls&sni=www.whatsapp.com&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-167.71.198.154:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.84.97:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.84.97:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.54:80
@@ -597,10 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.105:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.223.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.65:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.69:443
 vless://8a58dacc-c0a8-431b-919a-36970624bbef@199.232.212.194:443?security=tls&sni=metacritic.com&type=ws&host=pardazeshvpn.tg0.ir&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.212.194:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.154:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.229.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.229.210:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.169:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.25.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.25.236:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.45:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.45:80
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.215.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.142:80
