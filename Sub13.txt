@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.60.106:80
+vless://ee689ec5-0670-4c08-91d1-631b8d569182@199.59.242.150:443?security=tls&sni=all.vpncustomize.cam&type=grpc&serviceName=‌&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-199.59.242.150:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.233.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.143:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.67.133:80?type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.219.67.133:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.26.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.26.183:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.162.10:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.162.10:443
@@ -601,6 +604,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.135.44.101:30002?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.167.210:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.167.210:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.188.76:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.188.76:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.33.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.37:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.157.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.58:80
-vless://06d9503e-6b12-4abb-90cd-7eb0ce58180f@104.24.72.1:443?security=tls&sni=telegram-falcunargo.yabado5043.workers.dev&type=ws&host=telegram-falcunargo.yabado5043.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.72.1:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.63:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.63:443
