@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVltTmpOek0wTlMwd1lqRXpMVFJrTmpRdFlXUTFOUzFpT1RWbE16RmxNR05sT1RV@free.2weradf.xyz:36511#%F0%9F%87%B7%F0%9F%87%BA%207%7C%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVltTmpOek0wTlMwd1lqRXpMVFJrTmpRdFlXUTFOUzFpT1RWbE16RmxNR05sT1RV@free.2weradf.xyz:36571#%F0%9F%87%B9%F0%9F%87%B7%207%7C%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVltTmpOek0wTlMwd1lqRXpMVFJrTmpRdFlXUTFOUzFpT1RWbE16RmxNR05sT1RV@free.2weradf.xyz:36611#%F0%9F%87%BA%F0%9F%87%A6%207%7C%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVltTmpOek0wTlMwd1lqRXpMVFJrTmpRdFlXUTFOUzFpT1RWbE16RmxNR05sT1RV@free.2weradf.xyz:36641#%F0%9F%87%BB%F0%9F%87%B3%207%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
@@ -603,4 +604,3 @@ vless://519d3ac5-928a-42d2-9e86-7e44added154@188.114.99.180:443?security=tls&sni
 vless://8ff4d697-e339-443a-b66a-809ff2a5791d@172.67.213.170:2083?security=tls&sni=cdnnode7mahz.cr-cfd.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.213.170:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.4:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.152.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.152.13:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.94.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.94.189:80
