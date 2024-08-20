@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.61.8:8880?type=ws&host=xn--7xvv6b.xn--gtvy9j.xn--vl1axf.xn--2024-965f794bzbu32k74w57mfzf.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.61.8:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.235.132.157:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-18.235.132.157:22222
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.64.94.0:2095?security=none&type=ws&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.94.0:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.92:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.92:80
@@ -604,3 +603,4 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.209:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.209:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.48.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.48.19:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.63.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.63.2:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.15.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.57:80

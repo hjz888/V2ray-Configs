@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.168.144:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.144:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.59.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.50:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.37.226:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.37.226:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.151.110:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.151.110:80
@@ -604,3 +603,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.53.216:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.50.101:2087?security=tls&sni=CRT-31-bgP-73C-221-e2-o-Ncw02-diN-293-PkIW-nhyw-AuEb-cUEw.paGEs.dEv&type=ws&host=CRT-31-bgp-73c-221-e2-O-Ncw02-dIn-293-pKiW-nHYW-AuEB-CUEw.PaGEs.dev&path=%2FqVusGkxkcKeGh0lB%2FMTkzLjEyMy44MS4xMDU%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.101:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.20.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.20.78:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.109.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.109.90:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.125.101:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.125.101:443

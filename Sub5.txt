@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://42d197f0-99ac-4837-9493-6bc416f951b9@66.235.200.0:2096?security=tls&sni=mah2.hAsmailKorea.storE&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.0:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.20.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.20.152:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.56.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.56.227:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.235.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.79:80
@@ -604,3 +603,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.243.166:443?security=tls&sni
 vless://b5c56758-0eda-4676-a270-2540aaf5eb39@172.64.133.252:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.64.133.252:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.23.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.55:80
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?security=tls&sni=NGINX-H.pages.DEV&type=ws&host=NGINX-H.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.103.47:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.168.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.62:443
