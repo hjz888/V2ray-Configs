@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b49ec27b-a18b-4cfe-b48c-ebeaad1d603f@104.18.86.70:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.86.70:8080
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.3:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.214:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.31.16.69:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.31.16.69:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.147.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.147.83:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.46.96:80?security=none&type=
 vless://f4b3c409-2ec5-49f7-9c0d-ca4ed6a292ee@190.93.247.155:2083?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=grpc&serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.172.189:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.172.189:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.226.17:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.251.249:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.251.249:443
+vless://0a48e54b-659e-4b3c-95e6-14da04954f25@172.67.68.157:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.157:80

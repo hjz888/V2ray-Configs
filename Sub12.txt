@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.162.199:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.162.199:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.113:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.252:80
 vless://5f75c7d3-446e-40c3-b5bf-da7f30857ee9@104.25.6.5:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.6.5:2087
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.249:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.249:443
@@ -604,3 +602,5 @@ vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.2:8880?path=/@ZEDMODEON+
 vless://0ee74307-c9b8-4a7c-9197-2b4b891fdb31@172.67.66.177:2095?security=none&type=httpupgrade&host=germa.cUstomizespeedtest.net.&path=%2Fwww.speedtest.net%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.167.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.167.80:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.190.24:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.190.24:80
+vless://fb76ae39-f97e-5a9f-9beb-0e7100166f69@104.21.21.218:2096?security=tls&sni=6-vpnkenzo.tgsqd.WoRKErs.deV&type=ws&host=6-vpnkenzo.tgsqd.WoRKErs.deV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.218:2096
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@23.227.38.33:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=/TG-AiLuMao/&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.33:2096
