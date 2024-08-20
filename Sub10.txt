@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.244.223:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.244.223:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.159.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.159.218:80
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?security=none&type=ws&host=buyz.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.107:80
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?security=tls&sni=continuity.sasuke.ir&type=ws&host=continuity.sasuke.ir&path=%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.201:443
@@ -604,3 +603,4 @@ vless://22b3cbba-e6ac-485a-8351-976a0415eab9@172.66.47.63:8880?security=none&typ
 vless://5bcb3c1b-42fa-4eb7-a8e5-02fa86cdc192@104.24.21.71:2087?security=tls&sni=Food.aKBArjojeTEHran.IR.&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.21.71:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.74.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.74.54:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.145.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.145.182:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.145.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.4:80

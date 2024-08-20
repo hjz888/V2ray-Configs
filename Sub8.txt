@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.3:80
 vless://c636b74e-151e-4a72-9a80-76ee8a828f09@104.21.94.168:2052?security=none&type=ws&host=WwW.speedtest.net.kkkkklllkokoWkfwofkfKfekojg.IR.mralpha-vpn.COm&path=%2FTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%3Fed%3D2040#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.168:2052
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.13:80
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2096
@@ -604,3 +603,4 @@ vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=w
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.21:443
 vless://dd72f90e-d0d1-4e9e-af3d-ec0442c36d8a@147.45.68.120:39264?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-147.45.68.120:39264
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.220.168:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.168:443
+vless://affd626d-a2ed-4f9e-90bf-98197f15f522@85.9.110.154:22443?security=none&type=ws&host=www.speedtest.net&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.110.154:22443
