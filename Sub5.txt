@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.37:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.37:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.156.6.97:10392?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-43.156.6.97:10392
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.208:443?security=tls&sni=gh.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.208:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.16.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.16.181:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.220.46:80?security=none&type
 vless://0d82b4dd-fbed-4105-b60a-77f04066b38f@104.21.55.218:80?security=none&type=ws&host=ffv5365b7254n78n268.n7.4ghgdg.27n.5427.n24.805.mobileshop2go.ir&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.55.218:80
 vless://261f6548-0738-50df-9bc5-cdd541f22b60@104.21.80.87:2087?security=tls&sni=bia-i-tel-vpnkenzo.sgrhu.WorkeRS.DEv&type=ws&host=bia-i-tel-vpnkenzo.sgrhu.WorkeRS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.87:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.15.83:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.15.83:443
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@104.21.12.212:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.212:2083
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.193:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.193:80
