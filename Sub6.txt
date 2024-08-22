@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.71:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.141:443?security=tls&sni=v2nGfasT.paGes.Dev&type=ws&host=v2ngFASt.pAGeS.dEV&path=%2FUwFT7UjxD7OKHhBU%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.141:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.152.42:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.152.42:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.222.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.69:443
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.20:80?security=none&type
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.243.74.220:2087?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇭🇰 HK-47.243.74.220:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.253:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.191.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.191.66:80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:80?security=none&type=httpupgrade&host=BoLqDcYh81.rEdAnDnCy.oRg&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.199.19:80

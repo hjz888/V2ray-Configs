@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.237.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.237.236:80
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb55@104.17.148.22:2095?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.185.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.185.23:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.19.163:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=telegram-SiNABiGO%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.19.163:443
@@ -604,3 +603,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:2083?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.195.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.195.142:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.232:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.232:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.243:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.243:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.2:80

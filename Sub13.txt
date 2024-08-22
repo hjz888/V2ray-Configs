@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1fdcb94a-6250-4980-ae44-c0ee1834af7e@104.21.57.200:2087?security=tls&sni=get-product-from-shopify-ws.pajoheshgaraan-ai-network.ir&type=ws&host=lab.pajoheshgaraan-ai-network.ir&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.200:2087
 vless://52ed8850-ee79-4c55-90b6-1d6e5c29e160@103.184.44.158:443?security=tls&sni=66.811243165.xyz&type=ws&host=66.811243165.xyz&path=/graphql#🔒 VL-WS-TLS 🏴‍☠️ NA-103.184.44.158:443
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@165.227.246.158:8888?type=grpc&serviceName=Telegram:(#🔒 VL-GRPC-NA 🇩🇪 DE-165.227.246.158:8888
 vless://0ee74307-c9b8-4a7c-9197-2b4b891fdb31@104.24.197.20:2095?security=none&type=httpupgrade&host=germa.cUstomizespeedtest.net.&path=%2Fwww.speedtest.net%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.197.20:2095
@@ -604,3 +603,4 @@ vless://f78123d7-cc23-493a-808a-3a2d589c68ff@172.64.193.124:8443?security=tls&sn
 vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80?security=none&type=ws&host=direct85-217-14-47.digital-ping.ir#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.88.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.88.252:80
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.60.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.60.182:80

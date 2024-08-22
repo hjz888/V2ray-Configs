@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.200.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.200.65:80
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.21.33.89:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.89:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.174.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.174.186:80
@@ -604,3 +603,4 @@ vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?security=none&
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@162.159.128.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.0:2096
 vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@172.66.213.38:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.213.38:8080
 vless://ef4cad50-4f83-4c66-85ae-ce8e9692d8cb@172.67.195.105:443?security=tls&sni=mtnasl006.chaghooosazi.shop&type=ws&host=mtnasl006.chaghooosazi.shop&path=/xMKyVeMwq7FLS5oNsuc&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.105:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:443

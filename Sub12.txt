@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://5cd008f7-4702-4f65-8c2d-67e348731fa4@160.79.104.233:443?security=tls&sni=host.gamingshoping.ir&type=grpc&serviceName=IranPing&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.79.104.233:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.125:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.189.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.109:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.75.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.75.218:80
@@ -604,3 +603,4 @@ vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?security=tls&sni
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.27.96.7:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.96.7:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.62.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.62.189:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
+vless://1fdcb94a-6250-4980-ae44-c0ee1834af7e@104.21.57.200:2087?security=tls&sni=get-product-from-shopify-ws.pajoheshgaraan-ai-network.ir&type=ws&host=lab.pajoheshgaraan-ai-network.ir&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.200:2087
