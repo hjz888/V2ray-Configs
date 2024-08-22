@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://be40e282-0efd-489b-9350-a1dd266c9961@162.159.130.234:2096?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.141.204:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.204:443
+vless://5b5837b3-8f77-4a73-9b37-a61a86c4a0d7@104.21.11.34:443?security=tls&sni=moonlight.irani.host&type=ws&host=moonlight.irani.host&path=a61a86c4a0d7#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.34:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.48.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.48.176:80
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@172.67.180.238:8080?security=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.226:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.226:80
@@ -601,6 +604,3 @@ vless://66a7609a-2143-465c-b690-78dcfad6299c@162.159.130.35:443?security=tls&sni
 vless://f1ee9df6-ab76-4d93-8acb-16b310b91ec8@193.151.158.16:80?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.111.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.175:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.123:80
-vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
-vless://22dae673-91fd-49be-899d-75876715ee02@104.19.138.13:2053?security=tls&sni=tyfyjtr76r76t78t687t676r56d45e45drt.behazinpokht.ir&type=ws&host=tyfyjtr76r76t78t687t676r56d45e45drt.behazinpokht.ir&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.138.13:2053
-vless://4e806b5e-1063-480b-8a36-ef73c06c6208@104.16.56.97:2096?security=tls&sni=657b54ni4867onu79m.m4dcustomize.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.56.97:2096

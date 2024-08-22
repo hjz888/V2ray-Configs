@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE5qWXdORGxqWlMwd04ySmpMVFE0Tm1NdE9ESmxNaTAwWmpNNU5UTmpNVFUyWm1R@free.2apzhfa.xyz:31511#%F0%9F%87%B7%F0%9F%87%BA%209%7C%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE5qWXdORGxqWlMwd04ySmpMVFE0Tm1NdE9ESmxNaTAwWmpNNU5UTmpNVFUyWm1R@free.2apzhfa.xyz:31571#%F0%9F%87%B9%F0%9F%87%B7%209%7C%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE5qWXdORGxqWlMwd04ySmpMVFE0Tm1NdE9ESmxNaTAwWmpNNU5UTmpNVFUyWm1R@free.2apzhfa.xyz:31611#%F0%9F%87%BA%F0%9F%87%A6%209%7C%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE5qWXdORGxqWlMwd04ySmpMVFE0Tm1NdE9ESmxNaTAwWmpNNU5UTmpNVFUyWm1R@free.2apzhfa.xyz:31641#%F0%9F%87%BB%F0%9F%87%B3%209%7C%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE5qWXdORGxqWlMwd04ySmpMVFE0Tm1NdE9ESmxNaTAwWmpNNU5UTmpNVFUyWm1R@free.2apzhfa.xyz:31671#%F0%9F%87%A7%F0%9F%87%B7%209%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTB88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiIxODMuMjM4LjkwLjMiLCJwb3J0IjoiNDA4OTAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -601,6 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.61.229:80?security=none&type
 vless://7f55b425-a623-439b-bbd5-0b1778162054@172.67.73.174:80?security=none&type=ws&host=Fre1V2rayGod.xn--hssjg9ekdj8f1f.site.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.174:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.62.55:443?security=tls&sni=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&type=ws&host=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.62.55:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.82:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.107:443?security=tls&sni=eh.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.107:443
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.0:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.192.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.192.28:80
