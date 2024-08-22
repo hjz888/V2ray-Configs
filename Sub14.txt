@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.66:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.66:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.149.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.149.185:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.248.15:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.248.15:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.197.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.197.153:80
 vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@104.17.42.10:2083?security=tls&sni=dlqz.meysaam.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.42.10:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.170.115:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.170.115:80
@@ -601,6 +604,3 @@ vless://420cdff4-40fa-4b49-a078-008c5475bce1@89.47.200.68:2023?security=none&typ
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.93:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.93:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.235:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.145:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.145:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@162.159.83.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.83.197:80
-vless://024db747-6abb-4f6c-96e6-9def52fe2b3d@104.21.16.153:443?security=tls&sni=pPaL03.DORiAn-hARvey-iv.WOrKeRs.dEV&type=ws&host=PpAL03.Dorian-HArVey-iv.WORkers.deV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.153:443
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?security=none&type=ws&host=Xmrdark.👽👽👽.V2ray.👨🏼‍💻.radiotehran.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2052
