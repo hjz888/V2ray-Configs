@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.246:80
-vless://d663fecc-1f02-4e9e-8157-c33cdb30da23@190.93.244.166:80?security=none&type=ws&host=sUB.veBoBE2961.WoRKeRs.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.166:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.60.210:443?security=tls&sni=bh.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-131.186.60.210:443
-vless://37c1a338-2378-4757-899e-2f89b3892939@104.21.63.221:2083?security=tls&sni=91ca3d82e15c53.mitsonic.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.221:2083
-vless://2f4cb437-a678-4771-a37c-4f7a0f9f6e15@92.223.124.62:443?security=tls&sni=speedtest-fr5.gcore.com&type=ws&host=iranserver.aparat.com.bankmellat.vbank.ir.word.ir.cdnarvan.ir.speedtest.net.speedtest.ir.abzaaralaatcpcoption.online&path=%2F%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%3Fed%3D1024#🔒 VL-WS-TLS 🇩🇪 DE-92.223.124.62:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.182:80
-vless://65136d09-0d6e-4ad6-9a08-ba436dcc72f3@104.16.30.250:443?security=tls&sni=opaso.sevenoseven.tech&type=grpc&serviceName=@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.30.250:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.198.92:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.92:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.214:80
 vless://04911484-1823-4fae-b329-57581e1ea22e@172.66.44.192:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.66.44.192:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.204.111:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-13.43.204.111:22222
@@ -604,3 +596,11 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.77.236:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.95:443
 vless://5d0e2838-6dcf-4012-cfae-a445f914d9e6@104.19.16.150:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.16.150:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.108.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.108.185:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.31:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.31:80
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@140.238.8.194:15800?security=tls&sni=dns68.putata.eu.org&type=ws&path=/#🔒 VL-WS-TLS 🇰🇷 KR-140.238.8.194:15800
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.29.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.29.194:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.110.234:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.110.234:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.164.155:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.164.155:443
+vless://9a4bc15d-a7d4-4181-9485-405629c36894@104.21.46.85:443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=%2F@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel%2B@cpy_teel&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.85:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.53.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.53.66:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.158.101:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.158.101:80
