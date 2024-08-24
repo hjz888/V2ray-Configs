@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.111.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.111.150:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.85.140:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.85.140:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.26.228:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.26.228:80
+vless://0ca81a17-6dd6-485f-9957-8fc691248f29@188.114.98.224:8880?security=none&type=httpupgrade&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&path=%2FSHHPROXY%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.98.224:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.210.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.210.249:80
 vless://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.102.154:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.102.154:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.231.35:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.231.35:443
@@ -600,7 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.2.239:80?type=ws&host=us3.rt
 vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.136.234:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.202.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.66:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.162:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.162:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.206.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F2FTelegram-V2rayi_net_-_-_-_-Telegram-V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.65:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.226.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.226.134:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.48.212:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.48.212:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.29.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.29.114:80

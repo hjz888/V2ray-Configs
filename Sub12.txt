@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.200.0:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.200.0:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.42:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.103.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.103.59:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.178.11:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.11:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.54.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.54.113:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.146.166:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.166:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.21.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.21.153:80
@@ -600,7 +604,3 @@ vless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@172.67.217.218:443?security=tls&sni
 vless://ce5dab82-00d2-4d4e-8dd7-26ab6a4cf6cd@152.42.206.215:443?security=tls&flow=none&sni=Host&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.206.215:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.67.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.67.221:80
 vless://fe64cd72-3288-4c31-9b09-fff9b26b7437@185.143.232.200:80?type=ws&host=free-02.artemis-03.sbs&path=/@Artemis_vpn#🔒 VL-WS-NA 🇮🇷 IR-185.143.232.200:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.197.140:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.197.140:80
-vless://d0729562-0f87-4bf6-989f-c8406f3895cc@104.31.16.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.0:2083
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.2:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.2:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.23.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.132:80

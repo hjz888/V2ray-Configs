@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f1c0ba66-9682-4e0a-950b-c239eacdd4cb@190.93.247.155:2053?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2053
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.57.35:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.57.35:80
+vless://123000a0-51b5-4ced-a709-1d84e6173a96@91.107.218.161:80?security=none&type=ws&host=MarketINg.microSoFTs.doWnLOad&path=/#🔒 VL-WS-NONE 🇩🇪 DE-91.107.218.161:80
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.36:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.36:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.245.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.245.159:80
 vless://118e23b4-1990-4edc-a35b-004aa46f96ee@104.26.13.8:80?security=none&type=ws&host=configt-channels.sg-forum.info&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.8:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.188:80
@@ -600,7 +604,3 @@ vless://3bca6005-c1dc-4321-ab7a-ca086a240e36@92.243.74.125:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.163.15:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.15:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.46.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.46.96:80
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.206.176.5:443?security=tls&sni=dhfthyt6.azurewebsites.net&type=ws&host=dhfthyt6.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇧🇷 BR-20.206.176.5:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.52.198:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.198:80
-vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.125:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.136:8443?security=tls&sni=joINmahdIsErvER-98m.PAgEs.DeV&type=ws&host=joINMaHdiSeRVeR-98M.pagES.DEv&path=%2FTwIrp3zAZVLZDWO7%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.136:8443

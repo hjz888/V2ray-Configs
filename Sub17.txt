@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.206.176.5:443?security=tls&sni=dhfthyt6.azurewebsites.net&type=ws&host=dhfthyt6.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇧🇷 BR-20.206.176.5:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.52.198:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.198:80
+vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.125:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.136:8443?security=tls&sni=joINmahdIsErvER-98m.PAgEs.DeV&type=ws&host=joINMaHdiSeRVeR-98M.pagES.DEv&path=%2FTwIrp3zAZVLZDWO7%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.136:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.168.242:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.168.242:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.86:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.56.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.56.245:80
@@ -600,7 +604,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.107.184:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.235.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.58:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.115.89:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.115.89:443
 vless://498f99cb-a90c-ac06-acd7-e48b665e8446@62.60.212.83:9129?security=none&sni=all61-vip.f-sub.com&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.212.83:9129
-vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:2083?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.34:2083
-vless://a9b3ea03-e32f-432f-e9dc-f2b7ffbed7ad@104.16.106.177:443?security=tls&sni=www-2-3-4-5-0-9-8-7-6-5-1-2-3-6-1-V2ray-mci-mtn-zx1000.jonedel.com&type=grpc&serviceName=@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afV2ray,@AfV2ray,@Afv2ray,@afv2ray,@afv2ray,@afv2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.106.177:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.33.178:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.178:80
-vless://66b3cbba-e6ac-485a-9481-962a0415eab5@172.67.153.162:443?security=tls&sni=ESeTSEcuRitYlIcensE.eIeOq.wORkErs.DEv&type=ws&host=eSEtseCUrityliCEnse.EIeoQ.WORkErs.DEV&path=%2FWDB88gPdosx8kBP7%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.162:443
