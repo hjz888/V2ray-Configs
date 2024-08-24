@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.186:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.66.72.229:443?security=tls&sni=ok.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-34.66.72.229:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.111.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.111.164:443
 vless://681ad492-75bf-47e7-c73c-1f705300da51@172.67.208.39:8443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.39:8443
@@ -604,3 +603,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.168:443?security=tls&sn
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.215:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.215:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.152:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.48.251:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.251:80
+vless://8b4c8451-7428-4372-99f1-e51bca938631@162.159.140.220:2086?security=none&type=ws&host=a1.virankade.site&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.140.220:2086

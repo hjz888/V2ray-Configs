@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@2.189.130.119:10082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.130.119%3A10082
 vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&security=tls&sni=kingOfIRaN.Pages.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%2011
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.111%3A6679
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A5003
@@ -604,3 +603,4 @@ vless://5d373aef-a2a7-4127-a3be-3d1c223063fa@162.159.134.234:8443?security=tls&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.142.193:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.142.193:443
 vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?security=none&type=ws&host=www.iriknet.ir&path=/OceanNetworks#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.39:2086
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.2.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.33:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.74.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.74.54:80

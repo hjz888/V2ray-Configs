@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@162.159.138.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
 vless://4d5b77d8-9f60-4d04-b1ef-cc9000988970@172.67.207.26:8880?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.207.26:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.107.11.76:8443?security=tls&sni=jz.linghang.buzz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇨🇭 CH-51.107.11.76:8443
 vless://a6a492f6-cf4f-43ca-8600-c9fa443164af@185.143.234.120:443?security=tls&sni=skyroom.online&type=http&host=network383.online&path=/Milan&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTP-TLS 🇮🇷 IR-185.143.234.120:443
@@ -604,3 +603,4 @@ vless://2362217c-bfee-4074-8f6f-478876f77fd4@190.93.247.32:2052?security=none&ty
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.88:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.156.62:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.156.62:80
 vless://91453cf9-57ea-4c51-91b6-2400d16f4589@185.146.173.82:80?security=none&type=ws&host=XFr1.SportNewShop.ir.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.82:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.43.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.43.195:80
