@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.249.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.249.12:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@154.17.12.169:443?security=tls&sni=Vh.yLkS.Xyz&type=ws&path=/pai6buclahf9cxx3?ed#🔒 VL-WS-TLS 🇺🇸 US-154.17.12.169:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.57.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.57.78:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.24.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.24.14:80
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@4.255.56.138:443?security=tls&sni=ox.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-4.255.56.138:443
@@ -604,3 +601,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.190.98:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.236.139:80
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
 vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:443?security=tls&sni=zaq11000d.b835a8094d.workers.dev&type=ws&host=zaq11000d.b835a8094d.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.223:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.58.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.58.131:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.153:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.153:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.245:80
