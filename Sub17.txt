@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.25.134.44:443?security=tls&sni=NGINX-H.pages.DEV&type=ws&host=NGINX-H.pages.DEV&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.134.44:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.154:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.129:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.191.13:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.191.13:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.183.200:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.200:443
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.11:443?security=tls&sni=vsdfee.azurewebsites.net&type=ws&host=vsdfee.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇯🇵 JP-20.210.64.11:443
@@ -604,3 +601,6 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.212.188:2053?security=tls&sn
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.110.29:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.110.29:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.143:443?security=tls&sni=ok.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.143:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.221:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.45.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.143:80
+vless://363a1242-5d0b-44b5-be94-4f8d18f45206@104.21.50.26:80?security=none&type=ws&host=test54.socepol945.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.50.26:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.46:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.204.46:443
