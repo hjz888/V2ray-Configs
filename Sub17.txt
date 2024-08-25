@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.8:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.8:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.227.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.227.244:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.249.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.249.153:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.139.213:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.139.213:443
 vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.57.29:8888
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.85:443
@@ -601,6 +604,3 @@ vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.244.103:8880?security=none&t
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.51.173:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.51.173:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.216.238:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.216.238:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.133:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.133:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.199.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.199.167:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.101.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.101.83:80
-vless://9bd4142c-7025-4405-9350-33851fdb4ecc@162.251.82.187:443?security=tls&sni=de2pq.itsvpns.app&type=ws&host=de2pq.itsvpns.app&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:443

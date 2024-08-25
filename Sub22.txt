@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjektDeWpUZURxN1ZZZEpCRjFqbWxj@194.58.34.208:19953#🔒 SS-TCP-NA 🇱🇻 LV-194.58.34.208:19953
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8118
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#🔒 SS-TCP-NA 🇩🇰 DK-192.36.27.116:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56026#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56026
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.93.100:8009#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.100:8009
 ss://YzQ5YWQxOTctMzdiNi00MGE3LTk3MWQtMDVlNmU4YTBiZGFjOg==@172.67.167.116:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.167.116:443
@@ -601,6 +604,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?allowInsecure=0&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.190:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0282
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.195:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0283
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.166:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0284
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.168:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0285
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.177:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0286
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.199:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0287
