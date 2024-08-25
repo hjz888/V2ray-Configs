@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://ODNhYTI2MzQtOTZhNy00ZWU2LWFhYzEtMDdmZDk2ZjFjNmMwOg==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@23.247.136.46:51120#🔒 SS-TCP-NA 🇸🇬 SG-23.247.136.46:51120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ==@92.223.109.205:51348#🔒 SS-TCP-NA 🇷🇺 RU-92.223.109.205:51348
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:989
@@ -604,3 +603,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.180:80?allowInsecure=0&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0281
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.190:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0282
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.195:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0283
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.166:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0284

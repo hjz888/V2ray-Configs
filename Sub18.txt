@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.158.105:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.105:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.50.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.50.201:80
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.99:8880
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.110:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.110:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.177.74:80?security=none&type
 vless://bf116031-bd1d-4aaf-bc8a-a61395560521@162.159.134.42:80?security=none&type=ws&host=speedtest.net.Hafezdivan.Online.&path=%2FCurl%2F8.0.0-RunCi%2FCd-Uplode%3Fed%3D1280#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.42:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.104.216:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.104.216:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.63.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.63.27:80
+vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?security=tls&sni=ip499.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2087

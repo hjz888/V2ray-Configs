@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?security=tls&sni=ip499.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.161.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.161.181:80
 vless://d37180e9-d801-42ae-8e18-34be5accc296@13.39.55.215:39926?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-13.39.55.215:39926
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.234.28:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.28:80
@@ -604,3 +603,4 @@ trojan://telegram-id-directvpn@99.80.73.72:22222?security=tls&sni=trojan.burgeri
 trojan://auto@162.159.153.100:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.100:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12033?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12033
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@108.162.192.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.192.100:443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12002?sni=cn1.cdn.xfltd-cdn.top#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12002
