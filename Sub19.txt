@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9c5ea92c-12a0-5f41-8706-cba929b34762@172.67.171.40:2052?security=none&type=ws&host=De2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.40:2052
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.17.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.17.143:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.146.49:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.49:80
 vless://211267ce-6387-413e-b221-30c6283ab397@172.67.188.149:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.188.149:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.168:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.130.168:443
@@ -602,5 +604,3 @@ trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&
 trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12069?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12069
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443?sni=golinkwuxian.top#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.133.220:443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
-trojan://trojan@104.17.148.22:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053

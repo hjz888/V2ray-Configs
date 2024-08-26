@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
+trojan://trojan@104.17.148.22:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
 trojan://auto@162.159.153.179:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.179:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12003?sni=cn1.cdn.xfltd-cdn.top#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12003
@@ -602,5 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaTM2S0JWdnlxaHRQY0R3VVJjQlN4@138.68.182.23:2248#🔒 SS-TCP-NA 🇬🇧 GB-138.68.182.23:2248
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.19.48.128:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.48.128:443
 ss://YTY0ZjBjZWEtY2E4OS00MGU2LWIzMTYtYjNiYWRmZjFlYjkwOg==@104.26.15.85:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.15.85:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#🔒 SS-TCP-NA 🇩🇪 DE-168.119.57.171:51348
