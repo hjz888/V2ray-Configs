@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://8a1ab0df6abea549@172.105.220.7:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-172.105.220.7:3306
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:2096?security=tls&sni=mailbox.CpiForPersia.Uk&type=ws&host=mailbox.CpiForPersia.Uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:2096
 trojan://dba20dcb635e430fa4d3bfc303a149d2@162.159.129.17:2052?security=none&type=ws&host=cdn11.fa.wikipedia.org.xn--m39h.www.cdn.speedtest.net.g2.google.ru.zula.ir.1.1.1.xn--6bi8548mabeaana921b9b830dbbb0nn92a.tls.xn--mn8haaaaa252bbabbbb.xn--mn8haaaaa252bbabbbb.fake.xn--j9h1028mqmaoytii00aha21hfjrd.aparat.com.zula.ir.xn--g28h.dns-dynamic.net.&path=%2FTelegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.129.17:2052
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.1:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.1:443
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.43:8881#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.142:9101#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:9101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUUtldGZuOFVRTEU1S0RFemRETVR4@81.19.141.45:52873#🔒 SS-TCP-NA 🇩🇪 DE-81.19.141.45:52873
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50245#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50245
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8888
