@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?security=tls&sni=NGINX-H.pages.DEV&type=ws&host=NGINX-H.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.103.47:443
 vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@104.18.202.232:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.22:443?security=tls&sni=gj.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.22:443
 vless://1ece19dd-1cb7-460b-8c40-f4607a5539b5@173.245.58.201:443?security=tls&sni=12.12migmigg54.top&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.201:443
@@ -603,4 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.228:80?security=none&typ
 vless://1995f2ee-6767-4623-b819-db5d6386bcda@162.159.129.17:2082?security=none&type=ws&host=free.prochanel99.online&path=TelegramChanel:t.me/HTTP_injector99#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.17:2082
 vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@45.33.30.197:443?security=tls&sni=fr2.vless.site&type=ws&host=fr2.vless.site&path=/vless#🔒 VL-WS-TLS 🇺🇸 US-45.33.30.197:443
 vless://37886b04-751a-430a-899c-3defd364952f@172.67.177.176:80?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.speedtest.net.zula.ir.ncba.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.177.176:80
-vless://74c2c452-9cb4-4c97-be11-2cfef6a8e635@104.17.147.22:443?security=tls&sni=mx.XsV2ray.cfd&type=grpc&serviceName=@XsV2ray,@XsV2ray&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:443
