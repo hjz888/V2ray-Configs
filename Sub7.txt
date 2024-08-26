@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://62aa5c8e-8eba-4fa6-8014-957b6c5ef5a5@185.146.173.237:8880?security=none&type=ws&host=www.telewbion.com.www.myket.com.科斯涅過濾器.irdonald.click.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.237:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.209:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.209:443
 vless://eb4f90fd-8138-4bb1-ba78-3da024e65522@94.182.222.13:871?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.13:871
 vless://5357a880-962d-4d37-8466-0bd382bc0ea0@172.67.173.116:443?security=tls&sni=cloud-unique.buqyglgw.woRKerS.DeV&type=ws&host=cloud-unique.buqyglgw.woRKerS.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.116:443
@@ -604,3 +603,4 @@ vless://236a784b-2506-4236-b336-00f2f792986a@172.67.171.46:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.103:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.147.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.153:80
 vless://c3388667-987b-40eb-bd28-2540961cab07@172.64.88.84:8443?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.88.84:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.2.180:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.2.180:443

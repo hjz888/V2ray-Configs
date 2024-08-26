@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.221:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.221:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.3:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.162:443?security=tls&sni=jk.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.162:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.127:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.127:443
@@ -604,3 +603,4 @@ vless://485a58a9-ecaa-4860-905e-7288ad7db007@108.138.82.153:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.162.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.157:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.17.235.28:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.235.28:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.68.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.129:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.123.194:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.123.194:443

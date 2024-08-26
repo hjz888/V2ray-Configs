@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://dc2fd2be-7da0-4ee0-9f7c-6c0d705ac99c@172.67.204.84:2086?type=ws&host=Cloutdcjvg.samancenter.com.&path=%2F%40Kingspeed_support-iran%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.204.84:2086
 vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.19.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2086
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.73.154:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.154:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.49.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.49.148:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.181:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.70:80
 vless://f66d4c05-cef9-4e17-ae8e-8af6103a28df@104.17.147.22:2087?security=tls&sni=LiV2ry.lightning1.ir&type=ws&host=LiV2ry.lightning1.ir&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.108.5:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.108.5:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.236.89:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.236.89:80

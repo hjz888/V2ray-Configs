@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.114.194:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.194:443
 vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80?security=none&type=ws&host=direct85-217-14-47.digital-ping.ir#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.62.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.62.199:80
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.29:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.29:80
@@ -604,3 +603,4 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12073?sni=cdn.aliba
 trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&type=ws&host=teo.history-paint.art&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.174.138.209:443
 trojan://auto@162.159.152.135:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.135:443
 trojan://NISHIKUITAN222@8.219.83.201:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.201:2083
+trojan://ZJU29smXwp@216.24.57.1:2053?security=tls&sni=omid2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🇺🇸 US-216.24.57.1:2053
