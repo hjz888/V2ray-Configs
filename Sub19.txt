@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.17.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.17.157:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.214:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.50:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.239:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.239:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.210.102:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.210.102:443
@@ -604,3 +602,5 @@ trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com&t
 trojan://telegram-id-privatevpns@3.72.83.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.72.83.187:22222
 trojan://auto@162.159.128.233:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:8443
 trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&sni=earya.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-185.180.13.70:43118
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
+trojan://NISHIKUITAN222@8.219.106.156:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.106.156:443

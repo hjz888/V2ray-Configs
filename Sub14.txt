@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.223:443?security=tls&sni=BPB-WorkeR-PAnel-2U8.PAGes.DEv&type=ws&host=BPB-WorkER-PaNEL-2u8.PAgES.dev&path=%2FtXX6kdgwFYvOUwjJ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.223:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.241.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.241.37:80
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@92.38.145.145:80?security=none&type=ws&host=raimonchannel.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-92.38.145.145:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.205:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.101:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.28.101:80
@@ -604,3 +602,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.243:80?security=none&typ
 vless://6d3ac2e8-7986-4d26-88ef-9e0194784432@104.18.7.24:80?security=none&type=ws&host=ZulaV2rayFINLAND7.7.7.7.ir.Com.Space.xn--uis47ll23adun.CoM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.7.24:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.168.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.168.229:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.5.118:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.5.118:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.59.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.156:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.155.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.155.6:80
