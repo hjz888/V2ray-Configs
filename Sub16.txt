@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.77.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.77.188:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.197.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.197.58:443
-vless://fe484e8c-316c-4b9f-dba8-6acf1f465ed4@128.199.80.135:80?security=none&type=ws&host=zoom.us&path=/FREE+By+Tharuwa++(0767597317)#🔒 VL-WS-NONE 🇸🇬 SG-128.199.80.135:80
-vless://8b905503-8fb9-4eba-b316-0b7493467c90@190.93.246.241:2053?security=tls&sni=dash.joinzedmodeon.shop&type=grpc&serviceName=ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2053
-vless://e6501df9-6b43-4d54-b42a-20aa994d2b23@194.76.18.88:2082?security=none&type=httpupgrade&host=77fdee2f18542f5d.host.de.s-privet.com.&path=%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.88:2082
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.44.208:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.208:80
 vless://38928290-00af-4255-9006-57df913e1f95@185.53.142.132:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🇮🇷 IR-185.53.142.132:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.191.145:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.145:443
@@ -604,3 +599,8 @@ vless://8028c698-7958-4c18-e7e9-869a3926d7ee@104.21.28.27:443?security=tls&sni=l
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.218.224:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.224:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.51.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.51.81:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.195:443
+vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443?security=tls&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&type=ws&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&path=%2FAgjOkU51bJ1hNmHL%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.196:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.244.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.244.244:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.96:80
+vless://bf82a225-edb7-4b16-b7b3-96421fc85a79@104.16.102.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.102.112:8880

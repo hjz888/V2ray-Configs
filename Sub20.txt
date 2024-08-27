@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.76:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.76:46002
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?sni=6us3.pqjc.buzz&type=ws&path=/pq/us3&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-167.68.5.183:443
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12073?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12073
-trojan://NUeBvQHox0BmnHpu@112.120.7.88:443?security=tls&sni=gnmktnwq58.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-112.120.7.88:443
-trojan://auto@162.159.152.6:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.6:443
 trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&sni=t6.teslacdn2.live&type=tcp&host=t6.teslacdn2.live#🔒 TR-TCP-TLS 🇫🇷 FR-217.182.76.235:443
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.138:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.138:80
 trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
@@ -604,3 +599,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.87.35.207:443#🔒 SS-TCP-NA 🇺🇸 U
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@162.159.243.231:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.243.231:8080
 ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@172.67.188.134:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.188.134:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNkpmTkZxdUd2VEp4b2kxU2FPWWNt@77.83.246.74:33320#🔒 SS-TCP-NA 🇵🇱 PL-77.83.246.74:33320
+ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@172.67.166.119:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.166.119:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWw2WWtEcWdEUDhUQ2YySEZGTUZU@3.67.70.16:23456#🔒 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.175.97.174:443#🔒 SS-TCP-NA 🇬🇧 GB-18.175.97.174:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20180#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20180

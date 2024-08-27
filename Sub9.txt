@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.78:80
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.73:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.73:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.58.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.58.111:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.228:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.228:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.58.42:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.58.42:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.219.77:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.219.77:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.82.80.96:443?security=tls&sni=rv.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇪 SE-45.82.80.96:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.42.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.42.215:80
@@ -604,3 +599,8 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.59.85:443?security=tls&sni=m
 vless://f15ec648-5637-494e-a2be-0a2c8d757653@172.66.44.58:443?security=tls&sni=bc788f58.parsa-aryayi.pages.dev&type=ws&host=bc788f58.parsa-aryayi.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.58:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.199.192:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.192:443
 vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?security=none&sni=bia-zod-falcunargo.545c437f13.workers.Dev&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.5.179:8880
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.17.137.23:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.137.23:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.138:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.147:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.147:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.145:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..@Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.145:443
+vless://3a500f69-5653-4ee4-921c-82adeafefc0d@151.101.65.57:80?security=none&sni=join-DailyConfigs.com&type=ws&host=join-DailyConfigs.com&path=%2F-liv2%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.57:80

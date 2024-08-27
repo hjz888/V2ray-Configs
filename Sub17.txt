@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.195:443
-vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443?security=tls&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&type=ws&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&path=%2FAgjOkU51bJ1hNmHL%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.196:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.244.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.244.244:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.96:80
-vless://bf82a225-edb7-4b16-b7b3-96421fc85a79@104.16.102.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.102.112:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.60.107:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.60.107:443
 vless://830a8493-19fd-58cc-88d4-a0ab63de790b@185.146.173.26:80?type=ws&host=Nl2.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.26:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.189:443
@@ -604,3 +599,8 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.197.56:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.102.43:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.102.43:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.111:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.169:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.226.169:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.160:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.160:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.39:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.225.39:80
+vless://ffcddd7f-5a28-4ef5-b0e0-574ca226d1ee@104.16.53.11:8080?security=none&type=httpupgrade&host=HTTps.NE.gOOGle.cOM.wWW.speEdtEST.net.wwW.speEDTesT.NEt.iVY-nEt.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.53.11:8080
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.240:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.205.0.240:8080
