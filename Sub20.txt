@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@172.105.120.73:443?#🔒 TR-TCP-NA 🇸🇬 SG-172.105.120.73:443
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443
 trojan://tg-dns68@152.70.245.66:12693?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇰🇷 KR-152.70.245.66:12693
 trojan://telegram-id-privatevpns@3.10.146.195:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.10.146.195:22222
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#🔒 SS-TCP-NA 🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.162.216.117:443#🔒 SS-TCP-NA 🇬🇧 GB-20.162.216.117:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjektDeWpUZURxN1ZZZEpCRjFqbWxj@194.58.34.208:19953#🔒 SS-TCP-NA 🇱🇻 LV-194.58.34.208:19953
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.44.165:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.165:2096
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ampIaGhXeXlJUUFsMVdIV2t6ZHhs@176.123.1.241:8576#🔒 SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576

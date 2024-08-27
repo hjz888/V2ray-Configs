@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://90209abc-fe5e-4689-f2eb-a3d509e79413@172.67.214.21:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.21:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.153.75:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.75:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.58.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.58.151:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.91.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.249:80
@@ -603,4 +604,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:8443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2053?security=tls&sni=Dw-3R-b4p-Bh3C-2T1-42-v-Nww01-D0n-2k3-pFIw-n1Yw-AFReB-c65.pages.DeV&type=ws&host=dW-3R-b4P-BH3c-2t1-42-v-NwW01-d0N-2K3-pfIW-N1Yw-aFREB-c65.pAges.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.148:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.188.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.188.229:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.69.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.6:80
