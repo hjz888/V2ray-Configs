@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8009
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8091
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.137.86:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.137.86:443
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.170.211:443#🔒 SS-TCP-NA 🇩🇪 DE-162.19.170.211:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#🔒 SS-TCP-NA 🇪🇪 EE-38.180.44.28:1080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNzI3NGIyMjRlZWIxZjM3@13.36.215.123:443#🔒 SS-TCP-NA 🇫🇷 FR-13.36.215.123:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@23.247.136.47:51119#🔒 SS-TCP-NA 🇸🇬 SG-23.247.136.47:51119
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:3389
 ss://YWVzLTI1Ni1nY206MzU3NmFhYzItZDUzMS00Mjc1LWFhNjAtMzk0OThlMDM1ZGJi@206.189.92.107:30080#🔒 SS-TCP-NA 🇸🇬 SG-206.189.92.107:30080
@@ -604,3 +598,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.106:80?allowInsecure=0&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.142:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0220
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.113:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0221
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.131:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0222
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.118:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0223
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.132:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0224
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.130:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0225
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.133:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0226
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.114:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0227
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.141:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=/?ed=2048#12|US_speednode_0228
