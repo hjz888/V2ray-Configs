@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.167.228:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.228:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.21:80
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.153.41:443?security=tls&sni=de1-moryvpnbot.pages.dev&type=ws&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.41:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.53:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.53:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.243:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.243:80
@@ -602,5 +604,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.48:2096?security=tls&sni
 vless://5cd008f7-4702-4f65-8c2d-67e348731fa4@160.79.104.233:443?security=tls&sni=host.gamingshoping.ir&type=grpc&serviceName=IranPing&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.79.104.233:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.183:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.107:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.107:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.214.154:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.214.154:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.183.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.183.86:80

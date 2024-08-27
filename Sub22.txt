@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8882
+ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.21.36.71:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.36.71:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7002
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.143.172:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.143.172:443
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041
@@ -602,5 +604,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?allowInsecure=0&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0041
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|EE_speednode_0042
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|EE_speednode_0043
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0044
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|EE_speednode_0045

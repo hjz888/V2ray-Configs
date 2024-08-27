@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@188.114.99.0:443?security=tls&sni=pages.dev&type=ws&host=texs.pages.dev&path=%2Ftruk1&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.0:443
+trojan://auto@162.159.152.218:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.218:443
 trojan://auto@162.159.153.254:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.254:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.17.215.4:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.4:443
 trojan://telegram-id-directvpn@52.47.101.1:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.101.1:22222
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.46:8118#🔒 SS-TCP-NA 🇺
 ss://YjkwMDUxNDUtMDNkMy00N2JkLWI5NzUtYjcwZjU1ODgyZTc3Og==@104.16.219.120:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.219.120:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5003
 ss://MmUwMWViY2YtNGJkNi00YmU0LTkzNjUtZjVjNjIzNTEwNTEyOg==@198.41.198.177:2052#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.198.177:2052
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6379
-ss://NWFmMTA0NjktM2VjMy00MzUzLTk0ZDItMjk3YjcyMTVhMTViOg==@104.21.31.146:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.31.146:443
