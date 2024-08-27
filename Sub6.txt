@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@154.17.12.169:443?security=tls&sni=Vh.yLkS.Xyz&type=ws&path=/pai6buclahf9cxx3?ed#🔒 VL-WS-TLS 🇺🇸 US-154.17.12.169:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.208.187:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.187:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.66.184:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.184:80
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?security=none&type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.211:8080
@@ -604,3 +603,4 @@ vless://77725f26-6bc5-493c-b23e-f60f3ac4dcf2@66.235.200.100:8080?type=ws&host=jo
 vless://f7c22e0d-acd2-4673-8969-9a3689f1743b@104.16.77.134:8443?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.77.134:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.2:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.157.120:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.49.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.49.192:80
