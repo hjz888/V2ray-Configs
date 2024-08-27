@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.16.170.208:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.170.208:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.91.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.211:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.243.185:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.185:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.136.254:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.136.254:443
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.167.143:80?security=none&typ
 vless://8028c698-7958-4c18-e7e9-869a3926d7ee@104.21.28.27:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.27:443
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.124:443?security=tls&sni=Telegram-ZTV2RAY.pages.dev&type=ws&host=Telegram-ZTV2RAY.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.67.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.67.221:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.89.239:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.89.239:443

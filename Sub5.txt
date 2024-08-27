@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e7579f32-d621-445f-a4b0-edf2e26614dd@173.46.80.70:443?security=tls&sni=usa6.connecton.surf&type=ws&path=/vless&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-173.46.80.70:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.25.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.98:80
 vless://adf6870a-a237-46c3-9978-8c9eacc8ddba@104.18.5.154:443?security=tls&sni=FreeSec.AgV2ray.Cfd&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.154:443
 vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.59.100:80?security=none&type=ws&host=zula.ir.www.speedtest.net.列列男事的事列上赛男84.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.59.100:80
@@ -604,3 +603,4 @@ vless://4352f2a7-d620-474e-9249-e866774a2c81@5.188.94.5:443?security=tls&sni=gco
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.0:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.105.23:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.105.23:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.237:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.205.0.237:8080
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?type=ws&host=WxVvVtZx22.hAmEdIgOlD.CoM&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.137.11:2052

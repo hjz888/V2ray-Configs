@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.216.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.216.235:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.113.82:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.113.82:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.77:80
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.211.64.15:443?security=tls&sni=bdfgfrtt7.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇺 AU-20.211.64.15:443
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.191.136:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.59.217:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.217:80
 vless://c9ed07dd-c559-4033-bdf6-a74de80061c8@193.107.48.54:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.107.48.54:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.247.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.247.230:443
+vless://0aa0e24e-3d32-4807-9be8-8f96da18ccaf@108.162.192.14:2095?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.192.14:2095

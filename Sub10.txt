@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.188.239:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.188.239:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.12:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.152.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.152.27:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.4.101:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.4.101:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.1.141:80?security=none&type=
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@34.227.185.138:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-34.227.185.138:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.100.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.100.219:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.175:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.75:80
