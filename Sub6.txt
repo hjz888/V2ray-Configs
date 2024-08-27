@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a34cdf99-a8ba-4db8-b299-bc510ab2c877@3.64.163.50:80?security=none&type=ws&host=doostihaa.com.niazerooz.com.abasmanesh.com.netafraz.com.hamyarwp.com.mehrnews.com.yektanet.com.sariasan.com.blogsky.com.iranhost.com.emofid.com.nahayatnegar.com.emofid.com.shahrekhabar.com.talahost.com.talahost.com.meghdadit.com.charkhemashin.cfd&path=/#🔒 VL-WS-NONE 🇩🇪 DE-3.64.163.50:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.102.111.127:80?type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-34.102.111.127:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.80.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.80.197:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.26.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.26.143:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.58.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.58.131:80
@@ -602,5 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.149:80?security=none&typ
 vless://4186aa74-caee-418f-b562-c1f446e1ac99@104.18.101.41:8080?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.101.41:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.6.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.6.96:80
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@80.93.223.61:443?security=tls&sni=gcore.com&type=ws&host=raimonchannel.com&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-80.93.223.61:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.58.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.58.2:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.51.63:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.63:80
