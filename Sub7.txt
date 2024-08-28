@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.209:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.209:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.101.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.101.143:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.108.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.108.238:80
 vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@104.21.40.63:443?security=tls&sni=shaliest.toptechnonews.com&type=ws&host=shaliest.toptechnonews.com&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.17:80?security=none&type
 vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.115:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.167.15:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.15:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.223.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.116:443
+vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&sni=uuttrr.607f1dbb99.workers.dev&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
