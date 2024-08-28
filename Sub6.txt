@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.158.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.158.158:80
+vless://f96ed5fc-a7f1-5cef-8dd1-01f3eaf5712b@104.21.25.32:80?type=ws&host=Pl2.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.25.32:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.45:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.45:443
+vless://5bcb3c1b-42fa-4eb7-a8e5-02fa86cdc192@104.24.20.71:2087?security=tls&sni=Food.aKBArjojeTEHran.IR.&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.20.71:2087
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.63.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.63.83:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.3.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.20:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.170.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.170.9:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.225:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.225:80
@@ -599,8 +604,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.247.63:443?security=tls&sni=
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
 vless://e4ab6302-a731-4330-8fb0-f06baf459fe3@108.162.195.205:443?security=tls&sni=mypanell.spoilshap.ir.&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.195.205:443
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.81:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.81:80
-vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2053
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@104.21.74.214:80?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.74.214:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.227.211:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2Ftelegram-%40freevirgoolnet%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.227.211:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.57.205:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.57.205:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.31.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.31.99:80
