@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.173.26:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.173.26:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.165.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.165.56:80
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.51.20:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2083
 vless://5d373aef-a2a7-4127-a3be-3d1c223063fa@162.159.133.234:8443?security=tls&sni=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&type=ws&host=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&path=Telegram:+@DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:8443
@@ -604,3 +603,4 @@ vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?type=ws&host=join
 vless://cd63bacc-fb9c-492a-af22-daf2623305b6@172.67.166.121:8443?security=tls&sni=parmo.gakibe3356.workers.dev&type=ws&host=parmo.gakibe3356.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.166.121:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.65:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.225:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.225:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.3.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.73:80

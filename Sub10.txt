@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0261c611-29a3-4feb-ae9a-f8c384b74821@104.21.69.44:2052?security=none&type=httpupgrade&host=www.cloudtest.com.www.speedtest.net.brt.debian.org.fot--ihqvlaa157dbv2ciyg50okggl0r2f5bcj1airfi2837tbrwety8gh9a.kmXShop.Ir.&path=%2F%2FChanell-NeT.Azad-TelegramID-%40TiRDaD1359%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:2052
 vless://d1c39c87-0ce1-497f-ba7a-59672b005a49@104.16.0.0:2053?security=tls&sni=t5.funlifea.shop&type=grpc&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.0.0:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.59.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.65:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.63.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.63.33:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.157.119:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.225.59:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.161.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.161.207:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.45.198:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.45.198:80
+vless://dc0d1cff-0db3-438b-afa2-b4b33665a673@172.67.138.69:2083?security=tls&sni=pixel.miracleriders.top&type=ws&host=pixel.miracleriders.top&path=%2Fv2rayyngvpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.69:2083

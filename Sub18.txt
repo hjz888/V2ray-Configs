@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b2c1e116-64de-4dcb-a2e9-19c34c714df1@151.101.2.87:443?security=tls&sni=www.livenation.com.au&type=ws&host=farm-vpn.ir&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.87:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.175.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.175.154:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.23.125.72:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.23.125.72:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.163.24:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.24:443
@@ -604,3 +603,4 @@ vless://d2b4bc1e-36f3-4e0e-8804-da6f10e50846@104.18.19.37:2083?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.111.40:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.156.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.163:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.46:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.204.46:443
+vless://0dd1347e-e342-456c-b802-779b859cca42@104.19.223.79:443?security=tls&sni=638585317232193442.owen-paaat.buzz&type=ws&host=638585317232193442.owen-paaat.buzz&path=/chatApiws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443

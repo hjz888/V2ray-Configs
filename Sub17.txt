@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.3:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.3:8880
 vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@172.67.164.182:2096?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.182:2096
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.0.118:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.0.118:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.234:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.246.210:443
 vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@172.67.185.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.15:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.108.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.108.185:80
+vless://b2c1e116-64de-4dcb-a2e9-19c34c714df1@151.101.2.87:443?security=tls&sni=www.livenation.com.au&type=ws&host=farm-vpn.ir&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.87:443

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50239#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50239
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989#🔒 SS-TCP-NA 🇰🇪 KE-62.12.116.66:989
 ss://ZTYzMzMzNjQtMzU4MS00ZTJiLTljZGMtZmRhMGU1MDliNzA2Og==@172.66.44.91:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.91:443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.220.68:443#🔒 SS-TCP-NA 🇰🇷 KR-43.203.220.68:443
@@ -604,3 +603,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQ
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12052?sni=cdn.alibaba.com#%E6%9C%AA%E7%9F%A5106
 trojan://CMLiu@59.3.3.161:443?type=ws&sni=aliorg.filegear-sg.me&path=/?ed=2048&host=aliorg.filegear-sg.me#%E6%9C%AA%E7%9F%A5107
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.16.159.112:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A5108
+ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw==@5.182.87.210:35961#%E6%9C%AA%E7%9F%A5109
