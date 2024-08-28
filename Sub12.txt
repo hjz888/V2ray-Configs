@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.83:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.83:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.163.177:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.163.177:80
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@52.87.37.41:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-52.87.37.41:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.106:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.22.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.22.151:443
@@ -602,5 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.58.39:80?security=none&type=
 vless://ef6b8903-1e87-46ba-9854-928f37e132af@104.18.86.96:443?security=tls&sni=telegram-------------------cassiusvpn-------------------6.lexel47149.workers.dev&type=ws&host=telegram-------------------cassiusvpn-------------------6.lexel47149.workers.dev&path=%2Ftelegram-----------------@cassiusvpn--------——------telegram-----—————--------------@cassiusvpn-------------—----telegram-----—————--------------@cassiusvpn--------------------telegram-----—————--------------@cassiusvpn--------------------telegram-----—————--------------@cassiusvpn--------------------telegram-----—————--------------@cassiusvpn--------------—---telegram-----—————--------------@cassiusvpn--------------------telegram-----—————--------------@cassiusvpn------------—-----telegram-----—————--------------@cassiusvpn-------------—----telegram-----—————--------------@cassiusvpn------------------%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.86.96:443
 vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?security=none&type=ws&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.162:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.245.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.175:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.224.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.224.153:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.160.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.160.54:80

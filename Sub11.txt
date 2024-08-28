@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.74.126:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.74.126:443
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.32:80
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@172.64.146.80:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.80:443
 vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@172.67.69.236:2095?security=none&type=httpupgrade&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.69.236:2095
 vless://9bb36300-163b-4f2b-d404-ea52ec7aa240@104.17.147.22:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2086
@@ -602,5 +604,3 @@ vless://eab7d6d3-158f-46b1-a9c5-d8f5163de524@172.67.175.71:2083?security=tls&sni
 vless://a34cdf99-a8ba-4db8-b299-bc510ab2c877@3.64.163.50:80?security=none&type=ws&host=doostihaa.com.niazerooz.com.abasmanesh.com.netafraz.com.hamyarwp.com.mehrnews.com.yektanet.com.sariasan.com.blogsky.com.iranhost.com.emofid.com.nahayatnegar.com.emofid.com.shahrekhabar.com.talahost.com.talahost.com.meghdadit.com.charkhemashin.cfd&path=/#🔒 VL-WS-NONE 🇩🇪 DE-3.64.163.50:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.244:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.82:80
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.83:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.83:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.163.177:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.163.177:80

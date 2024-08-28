@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?security=tls&sni=fala.zafarinoco.ir&type=ws&host=fala.zafarinoco.ir&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.31:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.31:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443?security=tls&sni=sv.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.94:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.230:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.27.94:8880?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:8880
@@ -602,5 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.159.150:80?security=none&typ
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.46.106:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.106:80
 vless://c4435a4b-3527-48fe-b7e6-b0a95835539c@104.21.20.148:443?security=tls&sni=v2rayroom.pages.dev&type=ws&host=v2rayroom.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.51.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.59:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.233.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.233.55:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2security#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443

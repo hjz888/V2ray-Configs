@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.0.224:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.0.224:443
+vless://fd23fc21-e356-48d8-a08a-d3828329a5b4@172.67.207.26:8880?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.207.26:8880
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.93:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.157:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.139:443
@@ -602,5 +604,3 @@ vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?security=none&type
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.217.36.98:14934?security=tls&sni=dns68.putata.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-8.217.36.98:14934
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.246.160:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.246.160:80
 vless://62876f90-7993-4a6c-b5e9-042e476a7f6f@104.21.60.147:2083?security=tls&sni=panel.jerkinheadplus.ir&type=ws&host=panel.jerkinheadplus.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.147:2083
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?security=tls&sni=fala.zafarinoco.ir&type=ws&host=fala.zafarinoco.ir&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.31:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.31:80

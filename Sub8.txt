@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.153:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.153:80
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2053?security=tls&sni=UuOxTfVv25.eJaZeMaDaStE-KhOdScH.OrG&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2053
 vless://1b807c00-25cc-407e-9056-60d80f39e16d@104.21.20.148:2053?security=tls&sni=clonaze_pam.sansorchi2.cloud&type=grpc&serviceName=VALdGZ9k#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2053
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.35.200:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.35.200:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.160.199:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.199:443
@@ -602,5 +604,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.165.1:45680?security=tls&sn
 vless://095f0ede-5187-426d-b837-328c14d389c9@104.18.252.72:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.252.72:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.227.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.188:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.18:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.60.18:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.66.213.38:443?security=tls&sni=saNdWORM.PAgEs.DEv&type=ws&host=sAndWorm.PaGes.DeV&path=/9UwyhFARaeIGcqZx&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.38:443
-vless://993f1768-f3cd-44f4-8241-3bc6ba16ed31@185.141.135.196:12346?security=none&type=tcp&host=Ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.141.135.196:12346

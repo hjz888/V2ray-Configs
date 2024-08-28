@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.35:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.226.35:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.17.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.17.221:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodesfp#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.215:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.238.127:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.238.127:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.198:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.198:8080
@@ -602,5 +604,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.92.244:443?security=tls&sni=
 vless://62c58634-d097-4a57-b232-450d8bdd5918@104.21.43.125:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.43.125:2096
 vless://6e9dea3c-734b-494a-95c6-5a30f124f677@129.153.107.224:443?security=tls&flow=xtls-rprx-vision&sni=mirrors.download.xn--mirrors-oj8km52txc7d.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-129.153.107.224:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.40.38:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.40.38:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.173.228:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.173.228:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.163.43:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.163.43:80

@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.46.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.152:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.25.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.25.81:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.22:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.147.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.96:80
 vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
@@ -602,5 +604,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.0.73:80?security=none&type=w
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.36.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.36.88:80
 vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?security=tls&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev&type=ws&host=hello-world-nameless-morning-b71b.bojipar202.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.60.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.142:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.153:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.153:80
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2053?security=tls&sni=UuOxTfVv25.eJaZeMaDaStE-KhOdScH.OrG&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2053
