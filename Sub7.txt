@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://99b3cbba-e6ac-485a-8381-976a0415eab9@104.21.84.239:443?security=tls&sni=esetsEcUriTyLIceNSe.XxUaKJW.wORkErs.dEV&type=ws&host=esEtsECuRITYLiCEnSE.xXuAkjW.WORkERS.deV&path=%2FueyrYzJuwk7dHAOs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.239:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.126:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.169.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.169.70:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.19.163:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=telegram-%40vpnAndroid2%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.19.163:443
@@ -604,3 +603,4 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.45.3:443?security=tls&sni=ab
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.159.108:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.159.108:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:443?security=tls&sni=T-neTPlus.pAgEs.DEv&type=ws&path=%2F3az8rcycqoxuulfw%2Fndcumjq1ljg2ljizma#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.34:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.90.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.91:80
