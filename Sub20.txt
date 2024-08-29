@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://b753cc65-d7bf-43b4-af1d-537bd5373d3b@157.254.20.4:443?allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-157.254.20.4:443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12061?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12061
 trojan://5301502@175.214.26.212:12273?security=tls&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&type=ws&host=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.comh3&path=/trojan-9tc.pages.dev/#🔒 TR-WS-TLS 🇰🇷 KR-175.214.26.212:12273
 trojan://dc2d9db59868ba6b@139.162.111.25:3306?security=tls&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-139.162.111.25:3306
 trojan://moist@27.50.48.108:443?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-NA 🇸🇬 SG-27.50.48.108:443
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#🔒 SS-TCP-NA 🇺
 ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@172.66.44.197:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.197:443
 ss://SVNTEAM9@151.101.130.219:443#🔒 SS-TCP-NA 🇺🇸 US-151.101.130.219:443
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.67.198.12:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.198.12:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.188:56047#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:56047
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7307
