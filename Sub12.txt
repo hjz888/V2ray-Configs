@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.123:80
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
 vless://12ec6fe7-b8ea-4f7b-b7fc-e936da472605@199.212.90.132:443?security=tls&sni=howdy-fr-chanel.highposhako.ir&type=grpc#🔒 VL-GRPC-TLS 🇨🇦 CA-199.212.90.132:443
@@ -603,4 +604,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.179.107:36322?security=tls&
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.255.27:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.255.27:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.249.221:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.249.221:443
 vless://4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@172.67.171.49:443?security=tls&sni=uk1.vless.site&type=ws&host=uk1.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.177.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.177.155:80
