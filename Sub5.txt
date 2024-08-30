@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a5b80cdc-5d85-4e4b-aefa-71df4955fdb4@146.75.94.225:443?security=tls&sni=www.iodata.com&type=ws&host=amaly.com&path=%2FSPD%3Fed%3D443&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-146.75.94.225:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.216.238:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.216.238:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.79:80
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.99:2087
 vless://93b99881-df03-4597-9146-0c11e46387f7@138.2.21.196:44333?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed#🔒 VL-WS-TLS 🇯🇵 JP-138.2.21.196:44333
@@ -602,5 +604,3 @@ vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.14:80
 vless://87571e5d-b38e-4007-cf53-cfe3100912b6@104.21.46.253:8880?type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws82.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.46.253:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.119.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.119.40:80
-vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@104.18.121.232:443?security=tls&sni=hdfy3rsnfdcp.cpiforpersia.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.121.232:443
-vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443
