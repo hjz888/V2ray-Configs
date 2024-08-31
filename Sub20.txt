@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://5301502@69.84.182.145:443?security=tls&sni=c543a30d-e872-49ad-8be6-2836890f3d20.b9caf607-1ef7-4fd2-be07-224869a92bdf.accesscam.org&type=ws&host=c543a30d-e872-49ad-8be6-2836890f3d20.b9caf607-1ef7-4fd2-be07-224869a92bdf.accesscam.orgh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇺🇸 US-69.84.182.145:443
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.6:443
 trojan://tg-dns68@162.159.153.96:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.96:443
 trojan://ZJU29smXwp@104.21.17.137:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.17.137:2053
@@ -604,3 +603,4 @@ ss://YWVzLTI1Ni1nY206clB5K1ZYRkhtZGhNUFBHM0pqbFllL0lHRGtVWnVoU2JiVm9GeW80TERpWT0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZVJGNXdQWW1kUGFPYXR4dkxqaEZv@103.113.70.81:37043#🔒 SS-TCP-NA 🇺🇸 US-103.113.70.81:37043
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:58456#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:58456
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.42:5600#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:5600
+ss://N2ViMmQ5OWItMWZkYi00OGY0LWJiYmUtMjZkNDczMjdiMDk2Og==@172.67.221.182:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.221.182:443

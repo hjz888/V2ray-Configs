@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.47.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.81:80
 vless://7cc12aa5-da94-4f7d-86b9-ce3fb3e0c58e@172.67.191.19:2083?security=tls&sni=nodesw.persianservers0.ir&type=grpc&serviceName=2083vless&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.19:2083
 vless://c10db166-b27e-49a6-a6ac-2c52bff7db59@104.21.3.89:2053?security=tls&sni=wWw-dIvAr-Ir-wWw-SpEeDtEsT-nEt.BpS-MvOiEoNiOn.wEbSiTe.&type=ws&host=wWw-dIvAr-Ir-wWw-SpEeDtEsT-nEt.BpS-MvOiEoNiOn.wEbSiTe&path=%2FJJJuGFYIbFIF6iVDINDzOBztICRKVIBdIb%3Fed%3D2560&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.89:2053
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.101:443
@@ -604,3 +603,4 @@ vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.214.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.214.46:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.148:80
 vless://92884c02-8b07-4519-b212-f917a14395c3@172.67.138.246:2096?security=tls&sni=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&type=ws&host=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.246:2096
+vless://69091cc1-5125-4ca4-9ea7-1df68551bed9@104.18.203.232:2087?security=tls&sni=v2rayngvpn.germanyws.online&type=grpc&serviceName=@HTTPCustom_Free-@HTTPCustom_Free-@HTTPCustom_Free-@HTTPCustom_Free-@HTTPCustom_Free&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2087

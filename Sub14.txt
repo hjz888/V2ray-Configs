@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.73.17:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.17:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni=heY.bACHeBiapAiN.Ir&type=ws&host=hey.bacheBiapAIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.216.241:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.48.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.48.82:80
 vless://2344a14e-154c-44f4-9df5-6de9ab7ea346@104.18.86.70:80?security=none&type=ws&host=Kanal-polproxy.Vipnufilter.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.70:80
@@ -604,3 +603,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.220:80?security=none&type
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?security=none&sni=falcunargo-telegram.384f2ed785.workers.Dev&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.92:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.228.128.51:443?security=tls&sni=sj.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇪🇪 EE-193.228.128.51:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=vx.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.219:443
