@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#US45%201.8MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQgOC40TUIvcyIsImFkZCI6IjEwNC4yMS45NS4xNjUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzYXJlaWtlbGEuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2FyZWlrZWxhLmNvbSIsInRlc3RfbmFtZSI6IjQ0In0=
 trojan://tg-dns68@162.159.152.92:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A545
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%E6%9C%AA%E7%9F%A546%201.8MB%2Fs
@@ -603,4 +604,3 @@ vless://Telegram-ipV2Ray-hum@www.speedtest.net:80?host=c.4.www.speedtest.net.zul
 vless://Telegram-ipV2Ray-how@www.speedtest.net:80?host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣2️⃣
 vless://Telegram-ipV2Ray-has@www.speedtest.net:80?host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣3️⃣
 vless://Telegram-ipV2Ray-had@www.speedtest.net:80?host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣4️⃣
-vless://Telegram-ipV2Ray-get@www.speedtest.net:80?host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣5️⃣
