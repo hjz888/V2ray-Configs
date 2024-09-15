@@ -4,15 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.30.48:33223?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0456
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.5.198:44300?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0457
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.4.191:35378?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0458
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.29.112:32568?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0459
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.25.65:1443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0460
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.227.95:43790?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0461
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.225.34:35805?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0462
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.19.18:30545?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0463
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.19.242.205:8443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0464
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.12.26:8445?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0465
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.12.204:9443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0466
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.10.2:12776?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0467
