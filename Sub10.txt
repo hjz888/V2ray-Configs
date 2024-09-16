@@ -4,6 +4,29 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.87.49:4433?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0445
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.23.255.85:59217?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0446
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.84.88:51525?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0447
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.80.57:39258?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0448
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.64.224.14:52804?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0449
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.9.73:882?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0450
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.23.207.84:45498?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0451
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.80.55:13171?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0452
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.9.241.153:31082?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0453
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@193.134.209.148:35519?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0454
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.5.32:47593?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0455
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.30.48:33223?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0456
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.5.198:44300?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0457
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.4.191:35378?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0458
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.29.112:32568?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0459
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.25.65:1443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0460
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.227.95:43790?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0461
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.225.34:35805?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0462
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.19.18:30545?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0463
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.19.242.205:8443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0464
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.12.26:8445?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0465
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.12.204:9443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0466
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.10.2:12776?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0467
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.10.111:14515?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0468
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@141.11.90.242:62001?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0469
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@136.175.177.2:50990?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0470
