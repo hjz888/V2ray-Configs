@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://a9e71cd5-ada9-42f5-b60c-a987ad57871f@91.199.84.195:15006?#HK4
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25201#HK5
 trojan://tg-dns68@162.159.152.225:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A528
 trojan://telegram-id-privatevpns@46.137.165.255:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A529
 trojan://tg-dns68@162.159.152.213:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A530
@@ -604,3 +602,5 @@ vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@199.193.126.19:443?allowInsecure=0&
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.9.238.154:20404?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0437
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.9.238.153:20404?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0438
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.93.36:53086?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0439
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.94.70:882?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0440
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.91.92:10001?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0441
