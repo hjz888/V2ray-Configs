@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://tg-dns68@162.159.153.159:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A539
+trojan://tg-dns68@162.159.153.126:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A540
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGczTmpsbA==@91.194.161.7:8388#%E6%9C%AA%E7%9F%A541%20499.4KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US35%2025.5MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzNiIsImFkZCI6IjEwNy4xNDguMTkyLjE1MCIsInBvcnQiOiI0MTkxMSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMzNiJ9
 trojan://telegram-id-privatevpns@16.170.72.71:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A542
@@ -601,6 +604,3 @@ vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@136.175.177.2:50990?allowInsecure=0
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@136.175.176.67:443?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0471
 vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@23.224.33.227:44559?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15|US_speednode_0472
 vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@141.11.91.177:40110?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15|US_speednode_0473
-vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@154.21.93.92:37956?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15|US_speednode_0474
-vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@45.59.185.71:13649?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15|US_speednode_0475
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIgIzMiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
