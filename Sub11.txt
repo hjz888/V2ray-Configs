@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://A98XMiF6NA@162.159.138.178:8443?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0462
-trojan://A98XMiF6NA@65.75.194.7:12266?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0463
-trojan://A98XMiF6NA@45.87.103.122:50006?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0464
-trojan://A98XMiF6NA@45.59.184.16:38908?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0465
-trojan://A98XMiF6NA@45.59.185.71:13649?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0466
 trojan://A98XMiF6NA@38.59.241.39:10000?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0467
 trojan://A98XMiF6NA@23.95.61.191:19678?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0468
 trojan://A98XMiF6NA@154.17.18.44:18920?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|US_speednode_0469
