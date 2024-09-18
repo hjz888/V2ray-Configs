@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#15|EE_speednode_0122
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#15|EE_speednode_0123
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#15|EE_speednode_0124
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#15|EE_speednode_0125
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#15|EE_speednode_0126
@@ -602,5 +604,3 @@ vless://9a0a7112-14db-48ab-815d-8b90a5ac18ae@104.21.19.124:8880?host=splUs.Ir.Di
 vless://04b2875d-16d7-40d6-af59-47bcad169843@zula.ir:80?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣3️⃣
 vless://04b2875d-16d7-40d6-af59-47bcad169843@www.speedtest.net:80?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣4️⃣
 vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&security=none&type=httpupgrade#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣5️⃣
-vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@zula.ir:80?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣6️⃣
-vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@www.speedtest.net:80?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2Fis%2Fneeded&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣7️⃣
