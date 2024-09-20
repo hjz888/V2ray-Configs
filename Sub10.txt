@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3389#US3%20835.6KB%2Fs
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29204#HK
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%9C%AA%E7%9F%A511%202.5MB%2Fs
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29105#HK2
@@ -604,3 +603,4 @@ vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@23.166.168.219:33158?allowInsecure=
 trojan://95b@154.23.255.48:40729?allowInsecure=1&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560#15|US_speednode_0334
 vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@45.59.185.71:13649?allowInsecure=0&sni=pages.tcorg.filegear-sg.me&type=ws&host=pages.tcorg.filegear-sg.me&path=/?ed=2048security=tls#15|US_speednode_0335
 trojan://95b@91.217.139.94:34237?allowInsecure=1&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&host=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560#15|US_speednode_0336
+trojan://95b@156.251.189.248:443?allowInsecure=1&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560#15|US_speednode_0337
