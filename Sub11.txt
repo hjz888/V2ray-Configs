@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.31:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0372
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.48:443?sni=jq.ylks01.eu.org&type=ws&host=jq.ylks01.eu.org&path=/bluesecurity=tls#15|US_speednode_0373
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.149.239.234:80?allowInsecure=0&type=ws&host=a.ssll.gay&path=Telegram🇨🇳+@WangCai2+/?ed=2048#15|US_speednode_0374
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.70:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/?proxyip=proxyiq.us.fxxk.dedyq.iosecurity=tls#15|US_speednode_0375
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.128:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/?proxyip=proxyiq.us.fxxk.dedyq.iosecurity=tls#15|US_speednode_0376
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fpsecurity=tls#15|US_speednode_0377
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.131:443?sni=xp.ylks.xyz&type=ws&host=xp.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0378
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.27:443?sni=hq.ylks.xyz&type=ws&host=hq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0379
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.53:443?sni=kq.ylks.xyz&type=ws&host=kq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0380
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.42:443?sni=jq.ylks01.eu.org&type=ws&host=jq.ylks01.eu.org&path=/bluesecurity=tls#15|US_speednode_0381
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#15|US_speednode_0382
@@ -604,3 +596,11 @@ vless://GozargahVPN@speedtest.net:443?encryption=none&host=GozargahVPN.ir&path=%
 vless://2db8a6f7-3b11-4122-c9d3-70fa67914ea2@cpanel.com:8080?encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣2️⃣
 vless://90209abc-fe5e-4689-f2eb-a3d509e79413@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣3️⃣
 vless://5b79794a-96b6-4051-f703-710d310ec46e@cpanel.com:8080?encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣4️⃣
+vless://047002bf-b578-44d6-8bfb-a09900a3fb53@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣5️⃣
+vless://0bc05508-b6ca-4225-cf10-26133f5600ec@cpanel.com:8080?encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣6️⃣
+vless://42b53885-3675-4a8c-cb15-103505d2c78b@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣7️⃣
+vless://79775e49-c3d7-4535-97e5-6980dbf760d1@92.243.74.137:8443?encryption=none&fp=random&host=vip4-romax-tiktok.golabyazd.ir&path=%2F%3Fed%3D2048&security=tls&sni=vip4-romax-tiktok.golabyazd.ir&type=ws#رایگان | VLESS | @ROMAX_VPN | KH🇰🇭 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@3.127.59.36:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@16.171.108.187:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@13.48.247.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@54.75.244.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣
