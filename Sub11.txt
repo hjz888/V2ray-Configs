@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.179:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0473
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.28:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0474
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitter苏小柠security=tls#15|US_speednode_0475
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.95:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#15|US_speednode_0476
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#15|US_speednode_0477
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/fp=chromefp=chrome&security=tls#15|US_speednode_0478
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.249.197.84:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/?proxyip=proxyiq.us.fxxk.dedyq.iosecurity=tls#15|US_speednode_0479
