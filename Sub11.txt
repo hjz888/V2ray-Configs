@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@23.236.68.152:34237?sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?edsecurity=tls#15|US_speednode_0368
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.78:443?sni=xp.ylks.xyz&type=ws&host=xp.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0369
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.89:443?sni=hq.kpcloud.eu.org&type=ws&host=hq.kpcloud.eu.org&path=/bluesecurity=tls#15|US_speednode_0370
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.152:443?sni=hq.kpcloud.eu.org&type=ws&host=hq.kpcloud.eu.org&path=/bluesecurity=tls#15|US_speednode_0371
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.211:443?sni=kq.ylks.xyz&type=ws&host=kq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0372
