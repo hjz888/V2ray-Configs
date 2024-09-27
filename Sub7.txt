@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.110:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.110:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@5.161.121.112:4343?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-5.161.121.112:4343
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.165:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.16.165:80
 vless://4ce50b07-59aa-4f71-a856-574b7efb6857@18.238.49.3:443?security=tls&sni=n1.motalservices.ir&type=ws&host=n1.motalservices.ir&path=%2Fws#🔒 VL-WS-TLS 🇺🇸 US-18.238.49.3:443
@@ -603,4 +604,3 @@ vless://8e0cdac9-ab9d-4022-8325-7e482cb327e4@104.20.19.168:8880?type=ws&host=drv
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.231:443
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:8443?security=tls&sni=folani.iiipok.WorKERS.dEv&type=ws&host=folani.iiipok.WorKERS.dEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.238:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.12:8443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.43:2053
