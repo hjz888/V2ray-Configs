@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/Twitterfreecodesfp=chrome#15|AE_speednode_0002
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|AE_speednode_0003
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/Twitterfreecodesfp=chromefp=chrome#15|AE_speednode_0005
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#15|AE_speednode_0006
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#%F0%9F%87%BA%F0%9F%8
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
