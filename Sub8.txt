@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ffffffff-ffff-ffff-ffff-ffffffffffff@104.21.69.44:8443?security=tls&sni=FrEe-PoRtAl.WaTaShI-jAvA.iR&type=httpupgrade&host=FrEe-PoRtAl.WaTaShI-jAvA.iR&path=%2Fwww.gov.se%2Ffree-portal.watashi-java.ir%3Fed%3D8443&fp=random&alpn=h3,h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.69.44:8443
-vless://dc0c3ea1-2960-4fad-99ec-3385adeafbb5@172.67.166.192:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.166.192:2053
-vless://1eaf9057-1c52-441f-b097-51c841f065ff@104.17.231.69:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.231.69:443
-vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@104.21.24.106:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.106:2053
-vless://1a518b79-35af-4e2d-85b2-f6be628f7802@172.67.208.245:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.208.245:2053
-vless://186c6afe-7234-4911-839f-77086e9b7278@172.64.86.128:80?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.128:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.165:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.16.165:80
 vless://3237181b-74a5-4917-bc74-2958fa21786a@172.66.192.80:443?security=tls&sni=vless.siliv98810.workers.dev&type=ws&host=vless.siliv98810.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.192.80:443
@@ -604,3 +598,9 @@ trojan://tg-dns68@162.159.153.116:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://tg-dns68@162.159.153.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.192:443
 trojan://telegram-id-directvpn@13.43.221.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.221.13:22222
 trojan://tg-dns68@162.159.152.66:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.66:443
+trojan://telegram-id-privatevpns@51.21.146.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.146.243:22222
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#🔒 TR-TCP-NA 🇸🇬 SG-139.177.189.122:443
+trojan://tg-dns68@162.159.152.111:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.111:443
+trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@104.18.185.80:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.18.185.80:443
+trojan://95b@174.136.206.95:57757?sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#🔒 TR-WS-NA 🇺🇸 US-174.136.206.95:57757
+trojan://tg-dns68@162.159.152.17:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.17:443

@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.131:8880?security=none&type=httpupgrade&host=mjTfmziq.labUarTo.fun&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.131:8880
-vless://ccfe4643-1279-4d8d-a2be-164a3bb037ad@104.22.75.105:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.75.105:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.27:443?security=tls&sni=yx.ylka.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.27:443
-vless://b966967d-115d-4b76-a04a-df27c0145f4b@104.24.20.71:2052?security=none&type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.VArZesH360.DE.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.20.71:2052
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.69.236:443?security=tls&sni=pages.dev&type=ws&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&path=%2FXV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.140:443?security=tls&sni=hx.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.140:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2096?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.30:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-168.138.50.249:443
@@ -604,3 +598,9 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=c
 vless://b898f0ca-5e34-4698-a4e5-7a7e91eee6f5@104.31.16.95:2096?security=tls&sni=apkdownloadsauto.turbooserver01.ir&type=httpupgrade&host=apkdoWnloAdsAutO.turbOOserver01.IR.&path=%2FShahin_cloud%3D%3D%3Fed%3D2560&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.31.16.95:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.18.159.129:443?security=tls&sni=kr.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇨🇦 CA-192.18.159.129:443
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@141.101.113.20:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.113.20:8080
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.23:2096?security=tls&sni=jOInv2NGNeT.pagES.DEV&type=ws&host=jOiNV2NgNET.PagEs.Dev&path=%2F5oCWf0wyQ2jcvTON%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.23:2096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.30:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.30:443
+vless://97a07e4c-14a0-4fb5-ba65-7fd7dbec9d8d@104.21.6.80:2083?security=tls&sni=bia-to-selincselincselincselincselinc.icxqmszn.workers.dev&type=ws&host=bia-to-selincselincselincselincselinc.icxqmszn.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.6.80:2083
+vless://ac281681-7b6f-48ef-8d3d-d1b2c1a4f4f0@157.20.129.230:443?security=tls&sni=mz-hostyones.abraria.ir&type=grpc&serviceName=www.speedtest.net&fp=edge&alpn=h3,h2#🔒 VL-GRPC-TLS 🇮🇳 IN-157.20.129.230:443
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.125:2087?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.125:2087
+vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-154.206.12.131:443
