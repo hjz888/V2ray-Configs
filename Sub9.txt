@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-privatevpns@35.179.65.8:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A586
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?security=tls&type=ws&sni=vfarid.xcdi.wORKERS.DEv&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wORKERS.DEv#%E6%9C%AA%E7%9F%A587
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.169.228.99:443#%E6%9C%AA%E7%9F%A588
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&type=ws&sni=avianrecruit.com&path=6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A589
@@ -604,3 +603,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMFZtallhMDB3Tk5FREJvRHVXS2ZJZFdLSXh5Y0pRdXE
 tuic://
 hy2://751c1e55ead7439a@free.netmh3.pro:443?insecure=1&obfs=salamander&obfs-password=159836e3#رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣
 hy2://
+vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBSb2NrcC5CbGFua3UuTWUtNDQzIHwgMTY3LjQ2bXMiLCJhZGQiOiJtYWlsLm5pdHJvY29kZS5pciIsInBvcnQiOiI0NDMiLCJpZCI6IjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUcmVlLkJsYW5rdS5NZSIsInBhdGgiOiJcL3dzczQ5NDA2IiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiY2hyb21lIn0=
