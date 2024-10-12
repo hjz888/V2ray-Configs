@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443?security=tls&type=ws&sni=vfarid.xcdi.woRkers.DeV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.woRkers.DeV#%E6%9C%AA%E7%9F%A583
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#US61%201.4MB%2Fs
-trojan://telegram-id-directvpn@35.157.47.228:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A584
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#%E6%9C%AA%E7%9F%A585%20170.8KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVM2MiIsImFkZCI6IjEwNy4xNDguMTkyLjE1MiIsInBvcnQiOiI0MTkxMSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM2MiJ9
 trojan://telegram-id-privatevpns@35.179.65.8:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A586
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?security=tls&type=ws&sni=vfarid.xcdi.wORKERS.DEv&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wORKERS.DEv#%E6%9C%AA%E7%9F%A587
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.169.228.99:443#%E6%9C%AA%E7%9F%A588
@@ -604,3 +599,8 @@ trojan://tg-dns68@cf.090227.xyz:443?alpn=h3&fp=randomized&host=vip.putata.eu.org
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMFZtallhMDB3Tk5FREJvRHVXS2ZJZFdLSXh5Y0pRdXExZUl3WE1DUmkyVDY1MFI=@167.235.139.105:51348#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+tuic://
+hy2://751c1e55ead7439a@free.netmh3.pro:443?insecure=1&obfs=salamander&obfs-password=159836e3#رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣
+hy2://
