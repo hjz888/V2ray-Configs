@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%2018.2MB%2Fs
 trojan://bpb-trojan@23.227.60.8:443?security=tls&type=ws&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&path=/trZkJgi4MLAtl7SrU9?ed&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#%E6%9C%AA%E7%9F%A580
 trojan://join-bede-daily-configs@104.18.4.46:2083?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A581
 trojan://auto@104.26.9.160:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A582
