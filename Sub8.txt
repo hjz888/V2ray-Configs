@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://auto@104.20.17.232:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A562
+trojan://auto@104.26.2.36:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A563
+trojan://blue2024@195.85.59.161:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A564
+trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A565
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#%E6%9C%AA%E7%9F%A566
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#US24%202.0MB%2Fs
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.203:8009#US25%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#US26%202.0MB%2Fs
