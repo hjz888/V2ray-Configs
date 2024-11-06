@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN222@104.19.225.155:443?#%E6%9C%AA%E7%9F%A5114
-trojan://NISHIKUITAN222@162.159.6.171:443?#%E6%9C%AA%E7%9F%A5115
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:21005?sni=alibabashop.com#%E6%9C%AA%E7%9F%A5116
 trojan://trojan@172.67.130.66:443?security=tls&type=ws&sni=test-a23.pages.dev&host=test-a23.pages.dev#%E6%9C%AA%E7%9F%A5117
 trojan://blue2024@162.159.44.187:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5118
