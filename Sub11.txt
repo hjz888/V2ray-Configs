@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&type=ws&sni=speedtest.net&host=dontskii.hqv2rayng.xyz#US45
-trojan://auto@104.20.22.16:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5132
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5600#US46%202.0MB%2Fs
-trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5133
-trojan://auto@104.20.17.178:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5134
 trojan://auto@108.162.195.148:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5135
 trojan://tg-dns68@162.159.152.96:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5136
 trojan://blue2024@104.17.48.63:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5137
