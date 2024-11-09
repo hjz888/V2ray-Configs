@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&type=ws&sni=Noshteri.hooplnqpb.ir&path=/Telegram-@V2ray_Alpha/?ed=2048&host=Noshteri.hooplnqpb.ir#%E6%9C%AA%E7%9F%A5130
-trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A5131
 trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&type=ws&sni=speedtest.net&host=dontskii.hqv2rayng.xyz#US45
 trojan://auto@104.20.22.16:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5132
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5600#US46%202.0MB%2Fs
