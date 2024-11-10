@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206N0RKWTdHWk45QVEyQVVSTg==@120.241.45.50:18001#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDFhMzEwMS03Zjk0LTQyOTAtOWE5YS05YzIzOGUxNjEzNzE=@node1.cenxiwc.shop:31419#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDFhMzEwMS03Zjk0LTQyOTAtOWE5YS05YzIzOGUxNjEzNzE=@node2.cenxiwc.shop:31621#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDFhMzEwMS03Zjk0LTQyOTAtOWE5YS05YzIzOGUxNjEzNzE=@111.29.57.108:31420#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDFhMzEwMS03Zjk0LTQyOTAtOWE5YS05YzIzOGUxNjEzNzE=@111.29.57.108:31520#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 trojan://3690911436885991424@flexible-griffon.iguana938.mom:443?allowInsecure=0&sni=flexible-griffon.iguana938.mom#13|🇸🇬 新加坡|@ripaojiedian
