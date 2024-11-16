@@ -4,28 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://tg-dns68@162.159.152.11:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5132
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:3389#US31%201.9MB%2Fs
-trojan://blue2024@162.159.44.188:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5133
-trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5134
-trojan://NISHIKUITAN222@104.24.247.219:443?#%E6%9C%AA%E7%9F%A5135
-trojan://auto@104.20.17.176:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5136
-trojan://NISHIKUITAN222@190.93.244.40:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A5137
-trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@bpb-worker-panel1-e4p.pages.dev:443?security=tls&type=ws&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=bpb-worker-panel1-e4p.pages.dev#%E6%9C%AA%E7%9F%A5138
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A5139
-trojan://NISHIKUITAN222@104.16.25.100:443?#%E6%9C%AA%E7%9F%A5140
-trojan://NISHIKUITAN222@104.21.221.251:443?#%E6%9C%AA%E7%9F%A5141
-trojan://auto@104.20.19.167:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5142
-trojan://auto@172.66.47.150:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#%E6%9C%AA%E7%9F%A5143
-trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5144
-trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2048&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5145
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#%E6%9C%AA%E7%9F%A5146
-trojan://auto@104.20.17.104:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5147
-trojan://NISHIKUITAN222@104.16.68.95:443?#%E6%9C%AA%E7%9F%A5148
-trojan://NISHIKUITAN222@104.25.60.186:443?#%E6%9C%AA%E7%9F%A5149
-trojan://NISHIKUITAN222@104.17.202.139:443?#%E6%9C%AA%E7%9F%A5150
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#US32%202.0MB%2Fs
-trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=pardazeshvpn-tg18.pages.dev#%E6%9C%AA%E7%9F%A5151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE=@91.103.122.32:39781#HK6
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.103:9102#US33%201.9MB%2Fs
 trojan://sharevpn@67.220.72.41:443?security=tls&type=http&sni=tlsh2ss.mynode.work.gdh2,http/1.1&path=/#US34
