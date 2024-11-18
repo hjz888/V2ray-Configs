@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=0&sni=late-tooth.granzinhannah.workers.dev&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/?ed=2560#15|CR_speednode_0008
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=1&sni=late-tooth.granzinhannah.workers.dev&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#15|CR_speednode_0012
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.74:443?allowInsecure=0&sni=lv.kpcloud.eu.org&type=ws&host=lv.kpcloud.eu.org&path=/?ed=2048security=tls#15|CR_speednode_0010
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=0&sni=late-tooth.granzinhannah.workers.dev&alpn=h3,h2,http/1.1&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/?ed=2560fp=chrome#15|CR_speednode_0011
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15|CZ_speednode_0013
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@77.221.152.41:2501?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560security=tls#15|FR_speednode_0014
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@89.168.43.28:443?allowInsecure=0&sni=ly.ylks01.eu.org&type=ws&host=ly.ylks01.eu.org&path=/freecodessecurity=tls#15|FR_speednode_0015
 trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#15|HK_speednode_0016
