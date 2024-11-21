@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#%E6%9C%AA%E7%9F%A593
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#%E6%9C%AA%E7%9F%A594%201.6MB%2Fs
 trojan://telegram-id-privatevpns@18.134.24.125:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A595%2017.5MB%2Fs
 trojan://blue2024@172.64.35.188:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A596
