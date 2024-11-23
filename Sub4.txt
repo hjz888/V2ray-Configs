@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.206.176.5:443?security=tls&sni=dhfthyt6.azurewebsites.net&type=ws&host=dhfthyt6.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇧🇷 BR-20.206.176.5:443
 vless://2d22be53-0b1e-4714-b79f-dcc025cfc63d@104.24.172.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.172.243:443
 vless://7c2ba149-2827-4e07-b82a-61b74b76d68b@104.17.221.248:443?security=tls&sni=demonstrates-breach-willing-pa.trycloudflare.com&type=ws&host=demonstrates-breach-willing-pa.trycloudflare.com&path=%2F7c2ba149-2827-4e07-b82a-61b74b76d68b-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443
 vless://ab524e8e-2d41-481b-b5ba-3b58a8e7cd08@172.67.204.84:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080
@@ -603,4 +604,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.39.50:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.39.50:443
 vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?security=none&type=ws&host=Fr2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.42:80
 vless://7781631b-b5d1-4643-9ba4-f58b759fb874@172.67.187.170:443?security=tls&sni=kachiina.thelastronin.cloudns.org&type=ws&host=kachiina.thelastronin.cloudns.org&path=%2F&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.170:443
-vless://c6292384-a5ff-4c54-9ce4-354aaec78a57@70.34.204.82:80?security=none&type=splithttp&host=pbv.sadjkhaslid.site&path=%2F#🔒 VL-SPLITHTTP-NONE 🇸🇪 SE-70.34.204.82:80
