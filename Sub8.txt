@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#%E6%9C%AA%E7%9F%A5140%201.7MB%2Fs
+trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5141
 trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5142
 trojan://NISHIKUITAN111@173.245.49.125:443?#%E6%9C%AA%E7%9F%A5143
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.87:8118#US41
