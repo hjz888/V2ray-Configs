@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTciLCJhZGQiOiIxNzYuMzIuMzMuNzMiLCJwb3J0IjoiNjM3MCIsImlkIjoiYTVmYTVmODAtYTM4My00NmFhLWI1ODktODZlZjY4YjU4MjBjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE3In0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.5:2375#US7%201.7MB%2Fs
 trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#%E6%9C%AA%E7%9F%A518
 trojan://NISHIKUITAN111@104.21.47.24:443?#%E6%9C%AA%E7%9F%A519
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&type=tcp&sni=customer-95-164-85-39.stark-industries.solutions#%E6%9C%AA%E7%9F%A520
