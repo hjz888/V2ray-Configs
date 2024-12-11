@@ -1,0 +1,7 @@
+#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMTAg8J+rgg==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjM4LjIwNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInAxLjYxMzA1NS54eXoiLAogICAgImlkIjogImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwKICAgICJwb3J0IjogMjA4NiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzOC4yMDUtMTU3NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
