@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://531585a6-862e-4c38-a37b-9fa3aac9cee3@68.183.178.241:443?security=tls&sni=netflix.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇸🇬 SG-68.183.178.241:443
+vless://62357561-a129-4b9e-9614-ce2578020866@45.149.186.112:8080?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-45.149.186.112:8080
 vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.0.155:80?type=ws&host=vpngaming.ir&path=%2F#🔒 VL-WS-NA 🇺🇸 US-151.101.0.155:80
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.66.47.7:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.39.67:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.39.67:443
@@ -602,5 +604,3 @@ vless://ace09674-e938-438b-bc61-454b8b13692d@87.248.152.25:35001?security=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.114:443
 vless://028caef1-1852-4074-884b-993e8baf4fd7@109.61.91.230:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-109.61.91.230:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@94.242.230.130:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.130:443
-vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@104.21.49.18:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.18:443
-vless://62357561-a129-4b9e-9614-ce2578020866@59.3.3.161:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-59.3.3.161:443

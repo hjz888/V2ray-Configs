@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
+trojan://blue2024@104.16.134.27:2083?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.134.27:2083
 trojan://blue2024@104.18.127.92:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.127.92:443
 trojan://blue2024@185.148.105.22:443?sni=b.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-185.148.105.22:443
 trojan://blue2024@162.159.44.159:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.159:443
@@ -602,5 +604,3 @@ trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&
 trojan://blue2024@198.41.221.124:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.124:443
 trojan://NISHIKUITAN111@45.131.208.126:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#🔒 TR-WS-NA 🇳🇱 NL-45.131.208.126:443
 trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.20.118:443
-trojan://a9e71cd5-ada9-42f5-b60c-a987ad57871f@91.199.84.195:15006?allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.195:15006
-trojan://blue2024@104.21.112.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.112.1:443

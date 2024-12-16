@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://4982b6fb-5579-4c3d-ba23-0aba78a3bc07@198.41.209.2:8443?security=tls&sni=gard.starmc.ir&type=grpc&serviceName=%40metavpnn&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.209.2:8443
+vless://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@104.16.58.162:80?sni=worker-winter-meadow-e881.test55.workers.dev&type=ws&host=worker-winter-meadow-e881.test55.workers.dev&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.58.162:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.37.231.34:11310?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-118.37.231.34:11310
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.37.33.5:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.5:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.111:443
@@ -602,5 +604,3 @@ vless://7781631b-b5d1-4643-9ba4-f58b759fb874@172.67.187.170:443?security=tls&sni
 vless://1ffc2033-a289-4bb2-96a1-04b707b19255@104.21.13.125:8880?security=none&type=ws&host=www.speedtest.net.Cafinet-lighter.ir.&path=/@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.125:8880
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.235:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.235:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.86.82:443?security=tls&sni=TEHRANARGO.io&type=ws&host=TEHRANARGO.io&path=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-%3Fed%3D2560&fp=randomized&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.86.82:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@152.70.155.147:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔒 VL-WS-TLS 🇺🇸 US-152.70.155.147:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇿 CZ-194.87.11.56:8000
