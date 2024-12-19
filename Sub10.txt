@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNVNkd2pXWEVPbUZKN0J6WVE4QVlm@51.120.6.189:40290#%E6%9C%AA%E7%9F%A587%201.3MB%2Fs
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A588
 trojan://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&headerType=none&type=tcp&sni=cloudflare.com#%E6%9C%AA%E7%9F%A589
 trojan://blue2024@104.18.41.190:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A590
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A591
