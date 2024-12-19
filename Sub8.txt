@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN111@62.72.166.140:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇯🇴 JO-62.72.166.140:443
-trojan://bpb-trojan@190.93.244.2:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&alpn=null#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.2:443
-trojan://blue2024@45.159.216.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-45.159.216.4:443
 trojan://NISHIKUITAN111@185.135.9.137:443?#🔒 TR-TCP-NA 🇩🇪 DE-185.135.9.137:443
 trojan://NISHIKUITAN111@104.24.20.206:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.20.206:443
 trojan://NISHIKUITAN111@104.26.6.233:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.233:443
@@ -604,3 +601,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGQ3M2U0Yi0wNTRkLTQxNDgtYmFiNi0yMjY0NmY0NDM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.60:2377
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@128.199.172.224:8080#🔒 SS-TCP-NA 🇸🇬 SG-128.199.172.224:8080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5001
+ss://SVNTEAM=@162.159.152.2:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.152.2:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmbW9RcXpMUzdRMjZWWHZFdXo0VlVz@77.91.70.76:443#🔒 SS-TCP-NA 🇫🇮 FI-77.91.70.76:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.171:8080
