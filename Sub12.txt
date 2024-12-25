@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://TGCitizenScyu@cf.zhetengsha.eu.org:443?sni=maikeaxiang.me&type=ws&host=maikeaxiang.me&path=/?ed=2560#14|香港6|@ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNDY2MDIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2ZFc5WVkzUkpVVFJNT0RsNWExVmFkMjR4TjFCdU0wTjZUa1JPWTFwVFVtRmlRMmRPTldoNVRsWTNTbEU=@tw.ssrxray.click:36918#14%7C%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNN@149.22.87.204:443#14%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogIjM4OTUzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjg0ZDgzYjdlLWQzOTAtM2FlZS05MDFiLTI1N2EzYTJmZTc5ZCIsICJzbmkiOiAiIn0=
 trojan://TGCitizenScyu@www.visa.com.hk:2087?sni=maikeaxiang.me&type=ws&host=maikeaxiang.me&path=/?ed=2560#14|美国2|@ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.112.235.194:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
