@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9102#US5%201.9MB%2Fs
-trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&type=ws&sni=in.ylks.xyz&path=/&host=in.ylks.xyz#%E6%9C%AA%E7%9F%A54
-trojan://e169856c-7c19-4908-9bdf-448dc846163a@144.21.56.16:443?security=tls&type=tcp&sni=www.0wolf.com#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A56
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#%E6%9C%AA%E7%9F%A57%201.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E6%9C%AA%E7%9F%A58%202.1MB%2Fs
 trojan://bpb-trojan@104.18.8.215:443?security=tls&type=tcp&sni=fcspring.ggff.net#%E6%9C%AA%E7%9F%A59
