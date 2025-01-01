@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTY0IiwgImFkZCI6ICJyMTdsZC1nMDEuanAwMy03ZDIyLXZtMC5lbnRyeS5mcjAzMDdhLmFydCIsICJwb3J0IjogMjE1ODEsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJhNjM3NDYzNC05ZDQ0LTNhNzAtOWJlZi1mZmEyMWVhMmJiMzIifQ==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?#0|--77
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?allowInsecure=1&sni=connectwithemployers.online#0|--82
 trojan://vzhXXZVw@36.150.215.222:48544?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
