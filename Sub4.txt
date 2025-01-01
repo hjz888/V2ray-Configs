@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.188:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-171.22.125.188:2198
+vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@190.93.244.58:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.58:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@141.148.220.141:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇮🇳 IN-141.148.220.141:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.36.107:443?security=tls&sni=ppaL03.KHaLeD-JackIe.WorkERs.DEV&type=ws&host=pPaL03.KHAled-JaCkIe.wORkErS.DEv&path=%2FTH8Z0l6ctuIioV8k%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.36.107:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.109.205.223:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇾 CY-213.109.205.223:8443
@@ -602,5 +604,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.53.189.22:443?security=tls&sni=v
 vless://0dfea564-4abd-49c7-82e4-7bda9718a6fc@198.105.125.194:443?security=tls&sni=20241214.777999.lol&type=ws&host=20241214.777999.lol&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇬🇧 GB-198.105.125.194:443
 vless://0b973691-d6a1-4829-aa24-25a1f40c10e8@188.114.96.4:443?security=tls&sni=PpAL03.YIcAMo8969.wOrkERs.dEv&type=ws&host=pPaL03.yiCaMO8969.WORkeRS.Dev&path=%2FkkuSkxJRaP6MzLKq%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.4:443
 vless://33b3cbba-e6ac-485a-9481-976a2945eab9@104.21.19.82:80?security=none&type=ws&host=fLat-nigHT-F3F9.jiwoxO6991.worKerS.DeV&path=%2FKHAwAhCL5HFxPH7w%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.82:80
-vless://22b3cbba-e6ac-485a-9321-976a0415eab7@104.21.5.57:443?security=tls&sni=FaLlInG-mEadoW-2CaA.jEPOGo9305.WorkeRs.dEv&type=ws&host=FaLlInG-mEaDOW-2caA.JePogo9305.WOrKerS.DEv&path=%2FBmwjYm7OnaFXHktl%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.57:443
-vless://668e148e-de6f-433a-93e0-78f55ef0702c@188.114.97.122:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:443

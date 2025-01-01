@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.48.1:2082?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082Telegram#🔒 VL-TCP-NA 🏴‍☠️ NA-104.21.48.1:2082
+vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=justFreedomByIMAN.com&path=%2Fws%40%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.219:443
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@188.245.228.234:2000?security=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.228.234:2000
 vless://b1634f7c-a569-4587-adb0-e1ed8cf27966@172.66.44.65:443?security=tls&sni=rmgy.pages.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.65:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.168:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.168:443
@@ -602,5 +604,3 @@ vless://8b08ddea-a401-412e-bbae-1d641cd1d32d@148.113.195.27:26352?security=tls&s
 vless://933caed5-2ec1-4211-84c2-c9521370d04c@151.101.194.120:80?security=none&type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.120:80
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&type=ws&host=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.109:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.185.121:443?security=tls&sni=pPAl03.LACahev115.wORkers.DEV&type=ws&host=PpaL03.LAcAHEV115.workeRs.Dev&path=%2FRTeRkaCiW3rgdqei%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.121:443
-vless://af8b1b26-38c4-4b38-89d9-afcb551c806c@104.18.32.47:443?security=tls&sni=webp.yandeximage.ru&type=ws&host=webp.yandeximage.ru&path=%2F%40ConnectStixUrewsdlfB8Yu6ADoNQS2Cq&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.47:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.38.122:443?security=tls&sni=pPAl03.STANtON-alAStoR.WORKeRS.dev&type=ws&host=PPAL03.sTanTON-AlAsTor.WORkers.DEV&path=%2FUwAzNE9qmcCeYaO5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.122:443
