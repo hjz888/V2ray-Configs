@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://NISHIKUITAN111@190.93.245.80:443?#%E6%9C%AA%E7%9F%A530
-trojan://auto@104.20.19.218:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A531
 trojan://3723507166611775488@80.240.112.167:443?sni=ample-cockatoo.boa152.lol#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20269.2KB%2Fs
 trojan://blue2024@104.17.190.165:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A532
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzMiLCJhZGQiOiJsYXgyLmliZ2Z3LnRvcCIsInBvcnQiOiI4NDQzIiwiaWQiOiJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJsYXgyLmliZ2Z3LnRvcCIsInBhdGgiOiIvZHlhanZ3cyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMzIn0=
