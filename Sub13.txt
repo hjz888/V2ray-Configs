@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-privatevpns@13.48.187.5:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8118#%E6%9C%AA%E7%9F%A595%201.7MB%2Fs
+trojan://NISHIKUITAN111@172.66.42.99:443?#%E6%9C%AA%E7%9F%A596
+trojan://NISHIKUITAN111@94.242.229.134:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A597
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQ2hWZGxveW5ld3RxUzA4NDdqdWk2UFFlakhMTzNnVXV3MXRuVW1ZVlBJPQ==@77.105.147.212:55098#%E6%9C%AA%E7%9F%A598%201.3MB%2Fs
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#%E6%9C%AA%E7%9F%A599%201.7MB%2Fs
 trojan://blue2024@188.244.122.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5100
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAxIDMuMk1CL3MiLCJhZGQiOiIxNDAuODMuNjMuMzgiLCJwb3J0IjoiMjQ0NDUiLCJpZCI6Ijk0YzVlZjM3LTRkODItNDlmOS1jNjI0LWYwMTI1OTM3NGExNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEwMSJ9
