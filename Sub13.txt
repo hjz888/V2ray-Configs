@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://blue2024@190.93.247.138:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A519
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1626?sni=desource1.mzsourcenode.info#%E6%9C%AA%E7%9F%A520
+trojan://bpb-trojan@141.11.203.98:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A521
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.115:8091#US5%201.9MB%2Fs
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#US6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRU43anpHNDhFNFFjRHRHOUdka3Nz@92.118.112.101:9483#US7
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US8%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#US9%202.0MB%2Fs
 trojan://blue2024@108.162.195.135:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A522
 trojan://blue2024@104.18.160.63:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A523
