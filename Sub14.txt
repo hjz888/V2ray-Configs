@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VlRWSFFWRk5UVWxHVVRKR1JEUTBRUQ==@qh62onjn.slashdevslashnetslashtun.net:18003#14%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@p199.panda003.net:58368#14%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VnpaTU1sbzFRMDlYUmpSVVIwTTRVdw==@qh62onjn.slashdevslashnetslashtun.net:16015#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UkU1WldGWTJNRkZITWxFM1NURTFWQQ==@8tv68qhq.slashdevslashnetslashtun.net:16009#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6ICI1MjExMiIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
