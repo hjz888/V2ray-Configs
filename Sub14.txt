@@ -4,24 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@p199.panda003.net:58368#14%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbU1UWmtNemMxTWkwM1ltRmxMVFEzTkdVdE9EZGtZeTFtT0RreVpHWXlZMkZsWVdZ@ctmm.gscloud.bond:31620#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VEVKT1ZqZEJVemcxV1RRMFUwWk9OZw==@w72tapyb.slashdevslashnetslashtun.net:16008#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6ICI1MjExMiIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2V1ZKRFN6SkVNVFpPU1ZORVFWQkZWZw==@w72tapyb.slashdevslashnetslashtun.net:17004#14%7C%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcDQuc2R3YW4uZGF5IiwgInBvcnQiOiAiNDQzMSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImZhZGUyYjM1LTc4NzItNDQyZS1hNTRlLTZjY2Y5Yjk3MDQ3NiIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3N0cmVhbSJ9
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.229.216.218:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.169.58.78:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.113.29.56:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-trojan://SSorg@188.164.159.175:8443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|AM_speednode_0001
-trojan://SSorg@188.164.159.49:2087?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|AM_speednode_0002
-trojan://SSorg@51.107.8.47:8443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|CH_speednode_0003
-vless://06d3cd5f-e413-4f20-a45e-53d1aa4df42e@138.124.53.161:443?allowInsecure=0&sni=ad3.transitkala.com&alpn=h3,h2,http/1.1&type=ws&host=ad3.transitkala.com&path=/fp=chrome&security=tls#15|CH_speednode_0004
-vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@190.93.245.137:443?allowInsecure=0&sni=WWW.pegAh-Esfahan.De.&alpn=h2,http/1.1&type=ws&host=WWW.pegAh-Esfahan.De.&path=/fp=chrome&security=tls#15|CR_speednode_0020
-vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@ns4.esfahansiman.com:443?allowInsecure=0&sni=WWW.EsfahAnsimaN.infO.&alpn=h2,http/1.1&type=ws&host=WWW.EsfahAnsimaN.infO.&path=/fp=chrome&security=tls#15|CR_speednode_0021
-vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@ns4.esfahansiman.com:443?allowInsecure=0&sni=WWW.moghavEmat.bLOg.&alpn=h2,http/1.1&type=ws&host=WWW.moghavEmat.bLOg.&path=/fp=chrome&security=tls#15|CR_speednode_0022
-vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@ns4.esfahansiman.com:443?allowInsecure=0&sni=WWW.pegAh-Esfahan.De.&alpn=h2,http/1.1&type=ws&host=WWW.pegAh-Esfahan.De.&path=/fp=chrome&security=tls#15|CR_speednode_0023
-trojan://SSorg@176.53.144.206:8443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|CY_speednode_0024
 trojan://SSorg@45.67.214.3:2096?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|CY_speednode_0025
 vless://06d3cd5f-e413-4f20-a45e-53d1aa4df42e@ad3.transitkala.com:443?allowInsecure=0&sni=ad3.transitkala.com&alpn=h3,h2,http/1.1&type=ws&host=ad3.transitkala.com&path=/fp=chrome&security=tls#15|DE_speednode_0026
 vless://06d3cd5f-e413-4f20-a45e-53d1aa4df42e@ad3.transitkala.com:443?allowInsecure=0&sni=ad3.transitkala.com&type=ws&fp=chrome&security=tls#15|DE_speednode_0027
