@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@27.50.48.126:2083?security=tls&sni=v.aivpn.filegear-sg.me&type=ws&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.126:2083
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.152.232:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.232:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@160.79.105.187:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.187:443
@@ -603,4 +604,3 @@ vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.93.24:443?security=tls&sni=d
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.53:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.53:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.47:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.47:443
 vless://6b970ff3-ebb2-4a32-96c2-cb3cbbd75e05@138.199.154.143:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.154.143:8880
-vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@167.82.80.60:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-167.82.80.60:80

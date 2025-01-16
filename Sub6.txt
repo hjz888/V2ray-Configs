@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@167.82.80.60:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-167.82.80.60:80
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.22.235:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.235:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.192:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.192:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@198.41.207.43:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.207.43:443
@@ -603,4 +604,3 @@ vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.124.175:2083?security=tls&sn
 vless://531bf100-1477-487c-a979-6adebf8f105f@198.62.62.176:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.176:443
 vless://eebcdbce-4a2a-437e-9b30-f9d24793ebb1@104.16.255.209:443?security=tls&sni=vbbd.lii2010.us.kg&type=ws&host=vbbd.lii2010.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.255.209:443
 vless://6b91d025-da4e-45c1-a9a0-1124454b0765@104.21.92.214:2053?security=tls&sni=9-9.9-9.lol&type=splithttp&host=9-9.9-9.lol&path=%2F9-9.9-9.lol9-9.9-9.lol&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-SPLITHTTP-TLS 🏴‍☠️ NA-104.21.92.214:2053
-vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.28:443

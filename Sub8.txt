@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.238.47:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.238.47:443
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@132.145.94.80:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-132.145.94.80:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.196.127:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.196.127:443
 vless://a21f2530-1e1c-4b74-8cdd-2de95a0560fe@172.67.179.43:443?security=tls&sni=D73D10d2-WiNTEr-UnioN-3936.NeWPAnEl54.WorkeRs.Dev&type=ws&host=d73d10d2-winter-union-3936.newpanel54.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.43:443
@@ -603,4 +604,3 @@ vless://70186b61-319d-42f2-9807-7df9594aa385@154.211.8.227:2087?sni=amedo.esslh.
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.140:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:8443
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.24.15.179:443?security=tls&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.15.179:443
 vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?security=none&type=ws&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔒 VL-WS-NONE 🇳🇱 NL-74.119.195.5:2052
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.87.30:2198
