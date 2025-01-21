@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://3723507166611775488@166.1.227.184:443?sni=organic-hare.boa152.lol&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-166.1.227.184:443
-trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.97.119:443
-trojan://NISHIKUITAN111@185.170.166.26:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.170.166.26:443
 trojan://blue2024@104.16.144.63:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.144.63:443
 trojan://blue2024@172.66.0.179:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.0.179:443
 trojan://blue2024@104.19.120.87:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.120.87:443
@@ -604,3 +601,6 @@ trojan://SSorg@195.123.212.237:8443?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA
 trojan://NISHIKUITAN111@168.100.6.46:443?#🔒 TR-TCP-NA 🇺🇸 US-168.100.6.46:443
 trojan://SSorg@103.116.7.189:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.189:443
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
+trojan://NISHIKUITAN111@89.117.112.181:443?#🔒 TR-TCP-NA 🇱🇹 LT-89.117.112.181:443
+trojan://blue2024@104.25.77.73:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.77.73:443
+trojan://blue2024@172.64.35.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.35.207:443
