@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.179:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.152.179:443
 vless://d4f0d5b6-66ff-4a38-fa36-d5b92379d588@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=vibkmcactusbic2.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
 vless://dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.68:5785?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.68:5785
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?security=none&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.0:80
@@ -604,3 +603,4 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@188.214.133.205:8443?security=tls&s
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=/xmrdark#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
 vless://cc6b985d-0362-4129-8763-38564174fb3e@5.182.84.155:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇷🇺 RU-5.182.84.155:443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@5.182.84.68:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇷🇺 RU-5.182.84.68:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.245.236:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.245.236:443

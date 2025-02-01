@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.245.236:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.245.236:443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.211:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.64.211:443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.67:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.246.67:443
 vless://6a3e9e9d-5c2e-481a-887e-f8d7acf5ef75@104.31.16.104:80?security=none&type=ws&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.104:80
@@ -604,3 +603,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9000
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🔒 SS-TCP-NA 🇱🇹 LT-195.238.126.84:9039
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🔒 SS-TCP-NA 🇷🇺 RU-45.151.62.54:28825
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.70.25:443#🔒 SS-TCP-NA 🇸🇬 SG-13.229.70.25:443

@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.189.149:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.189.149:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.18:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-188.119.112.18:2198
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&sni=147135010103.sec19org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.117:443
@@ -604,3 +603,4 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.66.165:80?type=ws#🔒 VL-WS
 vless://18161878-c749-40fe-8146-8b061a41bd4f@104.18.12.149:2052?security=none&type=ws&host=v2cityv2raygmsix6.6.6.6.ir.com.site.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8%E6%96%AF.mobileiraniii.ir&path=%2Ftelegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----telegram-%40alo_v2rayng----hameV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.149:2052
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.192.63.127:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-85.192.63.127:2501
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@198.41.209.216:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.216:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.179:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.152.179:443
