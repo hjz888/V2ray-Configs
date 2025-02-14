@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://er668@104.21.80.1:443?sni=kfjdi.pages.dev#%E6%9C%AA%E7%9F%A550
 trojan://884c5080-e9c2-11ef-8ad9-1239d0255272@51.210.182.170:443?#%E6%9C%AA%E7%9F%A551
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#%E6%9C%AA%E7%9F%A552
 trojan://Aimer@219.76.13.180:443?sni=ngepz.ambercc.filegear-sg.me#HK5
