@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://blue2024@104.16.112.144:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A573
+trojan://7e7331ba-5095-405a-b301-c2a8e75c7d58@107.149.254.26:158?#HK8
+trojan://Aimer@92.243.74.2:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A574
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.155:443?security=tls&type=tcp&sni=cmc3.5gsieuvip.vn#%E6%9C%AA%E7%9F%A575
+trojan://Aimer@108.162.193.144:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A576
+trojan://Aimer@107.175.37.135:443?sni=ngepo.ambercc.filegear-sg.me#US19
+trojan://Aimer@129.146.226.222:587?sni=ngepz.ambercc.filegear-sg.me#US20
 ss://YWVzLTI1Ni1nY206VDhsTmpvbXpKaENUZlBmWg==@185.239.48.109:8388#%E6%9C%AA%E7%9F%A577
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%E6%9C%AA%E7%9F%A578%201.8MB%2Fs
 trojan://65086520307764900@44.226.147.221:443?security=tls&type=tcp&sni=moral-rat.shiner427.skin#US21%20538.4KB%2Fs
