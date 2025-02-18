@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjUiLCJhZGQiOiIxODUuMTIxLjEzNC4xMiIsInBvcnQiOiIyMDMyMiIsImlkIjoiNzAxNjZjZTYtMzI2Zi00YjY3LWEyOTYtYTMyNTNkODA5MGZiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2NSJ9
-trojan://Aimer@35.167.93.200:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US26
 trojan://3774827088566296576@95.110.142.205:443?security=tls&type=tcp&sni=destined-cub.treefrog761.one#%E6%9C%AA%E7%9F%A566%2017.7MB%2Fs
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50015?#%E6%9C%AA%E7%9F%A567
 trojan://b80Iy90Fma@104.26.9.227:443?security=tls&type=ws&sni=usa03.rtx.al&path=/cfyyds&host=usa03.rtx.al#%E6%9C%AA%E7%9F%A568
