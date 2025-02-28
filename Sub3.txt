@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.21.69.44:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:443
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.15.132:8443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.71:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.71:8880
-vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
-vless://37459a31-9dbe-43bd-bf91-4905febb3819@151.101.3.8:80?security=none&type=ws&host=mmd.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
 vless://97ef6ad8-05d3-4d21-9048-c6fc6980d350@172.67.204.234:80?security=none&type=ws&host=farda.vipturk.ir&path=%2FFaRdAvipTurk.Rr#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.234:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.40:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.45.40:443
@@ -604,3 +598,9 @@ vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@198.202.211.78:2053?security=tls&sn
 vless://a4924fd2-ffc7-4749-ab49-22435b7c0322@172.66.44.98:2053?security=tls&sni=mAhdIServER-4Rm.paGEs.Dev&type=ws&host=mAhdIServER-4Rm.paGEs.Dev&path=%2F4urxrmj89fiisbgc%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.98:2053
 vless://d762fea2-c9b3-45ca-b70e-e1fb078c8776@172.66.44.75:2053?security=tls&sni=maHdiseRveR-3h9.pageS.deV&type=ws&host=mahdiserver-3h9.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.75:2053
 vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇰 SK-5.252.23.133:8880
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.60.145:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.36.60.145:22222
+vless://bbc4561e-d69c-4dfe-9bb3-fe86ac0a61b2@104.21.112.1:2053?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
+vless://568ba1ae-3b93-4587-885c-f4185bb2dbac@87.249.49.138:2052?security=none&type=grpc&serviceName=8880vless#🔒 VL-GRPC-NONE 🇷🇺 RU-87.249.49.138:2052
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.64.32.154:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.154:2053
+vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@95.164.69.101:80?security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/vless#🔒 VL-WS-NONE 🇬🇮 GI-95.164.69.101:80

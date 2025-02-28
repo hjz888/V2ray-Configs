@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.60.145:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.36.60.145:22222
-vless://bbc4561e-d69c-4dfe-9bb3-fe86ac0a61b2@104.21.112.1:2053?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:2053
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
-vless://568ba1ae-3b93-4587-885c-f4185bb2dbac@87.249.49.138:2052?security=none&type=grpc&serviceName=8880vless#🔒 VL-GRPC-NONE 🇷🇺 RU-87.249.49.138:2052
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.64.32.154:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.154:2053
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@95.164.69.101:80?security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/vless#🔒 VL-WS-NONE 🇬🇮 GI-95.164.69.101:80
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.114:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.114:80
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@146.56.155.102:20003?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-146.56.155.102:20003
 vless://38088723-d06e-463f-8a5d-784494ed4fe5@151.101.1.57:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.57:80
@@ -604,3 +598,9 @@ vless://b489cc27-6056-48bb-891e-de437658d519@185.143.233.5:80?security=none&type
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-45.144.29.246:2198
 vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@104.20.19.168:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.171.54:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-95.216.171.54:8880
+vless://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.211.51:80?sni=1224.j9q1xuv8.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.51:80
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.95.103:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.103:443
+vless://288f7827-0b6c-4fe3-a611-44e257261f95@185.31.8.13:11011?type=tcp&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.31.8.13:11011
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.5:80
+vless://55520747-311e-4015-83ce-be46e2060ce3@140.238.218.65:2053?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇨🇭 CH-140.238.218.65:2053
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.117:443
