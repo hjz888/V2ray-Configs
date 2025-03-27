@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:16704?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%B9%F0%9F%87%BC4%20%7C%20%203.6MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:38302?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%205.7MB/s
-vless://51435e51-e048-4a32-a9e6-1e6fa56a576d@192.200.160.188:2087?sni=crm.iranigamebaz.ir&type=ws&host=crm.iranigamebaz.ir&path=/V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizbanflow=-udp443&fp=randomized&security=tls#0%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%205.4MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:46716?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AD%F0%9F%87%B07%20%7C%20%206.2MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AF%F0%9F%87%B59%20%7C%20%206.0MB/s
 hysteria2://c8ed6f77-3a96-46f9-9959-79118f9c1019@85.194.246.115:53252?insecure=1&sni=www.bing.com#0%7C%F0%9F%87%B5%F0%9F%87%B11%20%7C%20%204.7MB/s
 hysteria2://fef82341-9425-49af-8aa3-a16883bf5121@212.192.12.73:32001?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ==#0%7C%F0%9F%87%AD%F0%9F%87%B08%20%7C%20%201.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:27932?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%B811%20%7C%20%205.1MB/s
