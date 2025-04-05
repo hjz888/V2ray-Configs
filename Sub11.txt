@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:443?security=tls&type=ws&sni=MEHRnews.farsonlInE24.ir&path=/x8xN4dH28mo7U3sS&host=mehrnews.farsonline24.ir#%E6%9C%AA%E7%9F%A556
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A557
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.21.226:443?security=tls&type=ws&sni=1P.890689.xyZ&path=/lXENb74xF4ylXngZ#%E6%9C%AA%E7%9F%A558
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.114:2377#%E6%9C%AA%E7%9F%A559
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGNjZDQxYy1jZDg2LTRhODgtYTAyMS0wZmRmNjM4YjVkZWM=@free.2weradf.xyz:36671#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
+trojan://telegram-id-directvpn@15.237.90.40:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A560
+trojan://Aimer@154.197.64.206:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A561
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjIgMjguNEtCL3MiLCJhZGQiOiIzOC4xMDkuMjI4LjExMyIsInBvcnQiOiIyMTgwOSIsImlkIjoiYTYxNzk0NzUtNDg5Yy00YmNjLWIwNWMtNDgxMzg2Mjk1YjkzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2MiJ9
 trojan://Aimer@222.97.9.166:50004?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
 trojan://Aimer@160.79.105.160:8443?sni=agepj.ambercc.filegear-sg.me#US13
@@ -565,3 +572,35 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-0412
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5278
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0417
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>mrpooya.top | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Connection timed out</span>
+              <span class="code-label">Error code 522</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2025-04-05 15:09:19 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
