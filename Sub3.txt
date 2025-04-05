@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.16.222.126:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.222.126:443
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:443
+vless://aebc10f3-f34b-49c6-b5e7-68b864183906@31.22.116.15:443?security=tls&sni=usa.sevco.me&type=ws&path=/bing#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.15:443
 vless://28886c09-721a-447d-a82e-72c5500858f3@172.67.141.68:2096?security=tls&sni=tASniM.Itn24.iR&type=ws&host=tasnim.itn24.ir&path=%2FMaQIF0W0gcLzI5m8ZghCC5&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:2096
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2087?security=tls&sni=us-190.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2087
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@172.67.70.92:2053?security=tls&sni=vless1-698.pages.dev&type=ws&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2053
@@ -601,6 +604,3 @@ vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&sni
 vless://21985130-6586-483d-a0ba-41d0642a84c8@199.59.243.228:443?security=tls&sni=ProxiIraniii.connectmemore.shop&type=ws&path=/@ProxiIraniii&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.228:443
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.98.254:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.254:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.174.21:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.21:443
-vless://af54e689-87b9-4a25-b431-efde3d7249ea@49.12.185.64:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.12.185.64:443
-vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.58.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.58.100:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.77.157:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2Fchannel%2CShokhmiPlus-channel%2CShokhmiPlus-channel%2CShokhmiPlus-channel%2CShokhmiPlus%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.77.157:2083
