@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:47531?allowInsecure=0&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0006
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:11555?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0008
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0013
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:22734?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0016
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:17889?allowInsecure=0&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0019
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:38302?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0021
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:22216?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0024
