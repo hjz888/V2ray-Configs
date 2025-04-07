@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#🔒 SS-TCP-NA 🇹🇼 TW-185.189.160.98:64759
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNndOVFNEV05EQXJRcmJkZWg3ZEJZ@86.104.74.203:32404#🔒 SS-TCP-NA 🇲🇩 MD-86.104.74.203:32404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnNhNURGelJBTllQczV5TWV4c1ZVckM3ZDZOWThwdkJSRm40ZzFXa0Y0UjcxWTVhNkU2cVlwM1N4UDJFYVVoMnlYc0FLYlRBbTdTbUw1cWs1eE1Hb0RSakg1RjhCQlU=@166.1.157.228:55330#🔒 SS-TCP-NA 🇺🇸 US-166.1.157.228:55330
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.160:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.160:2377
@@ -603,4 +604,3 @@ trojan://Aimer@45.153.7.216:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegea
 trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.173:43590?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
 trojan://bpb-trojan@104.18.107.117:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
 trojan://Aimer@45.86.229.28:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://auto@104.17.148.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A55
