@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://blue2024@104.17.165.253:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.165.253:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.145:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-37.48.65.145:443
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&host=301.pooriam.ir&path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
+trojan://xJ6KJem6QIwQ@104.21.71.8:8443?security=tls&sni=shabestan.itn24.ir&type=httpupgrade&host=shabestan.itn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.71.8:8443
+trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@5.83.221.31:30053?security=tls&sni=v2phl01.fuqiangren.com#🔒 TR-TCP-TLS 🇭🇰 HK-5.83.221.31:30053
 trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.97.119:443
 trojan://vs6f8hvt@172.66.47.179:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.179:443
 trojan://Aimer@160.79.104.131:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.79.104.131:8443
@@ -599,8 +604,3 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@159.65.149.67:8080#🔒 SS-TCP-NA 
 ss://YWVzLTEyOC1nY206Y2EzNWZhZDQtMDk5MC00ODgwLTgwYzktYjUwN2ZmMTliYmNh@83.147.13.92:45614#🔒 SS-TCP-NA 🇹🇼 TW-83.147.13.92:45614
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya1pNWk5vSTJzZ0tQYjZDLTlJUTh3@109.104.154.4:5555#🔒 SS-TCP-NA 🇳🇱 NL-109.104.154.4:5555
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.66:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.66:2377
-ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.26:16016
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:7307
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cnNma1RLc0dMNlNrbkRvZUFuakFC@150.241.77.214:4443#🔒 SS-TCP-NA 🇸🇪 SE-150.241.77.214:4443
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9079
-ss://YWVzLTI1Ni1nY206OUQ1STI2VEU4NVNQOTI4Vw==@185.213.22.93:20026#🔒 SS-TCP-NA 🇧🇪 BE-185.213.22.93:20026

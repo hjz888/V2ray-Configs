@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.26:16016
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cnNma1RLc0dMNlNrbkRvZUFuakFC@150.241.77.214:4443#🔒 SS-TCP-NA 🇸🇪 SE-150.241.77.214:4443
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9079
+ss://YWVzLTI1Ni1nY206OUQ1STI2VEU4NVNQOTI4Vw==@185.213.22.93:20026#🔒 SS-TCP-NA 🇧🇪 BE-185.213.22.93:20026
 ss://YWVzLTI1Ni1nY206MDg0T1Q0QUtFNDVLTkIxRg==@91.148.135.48:20039#🔒 SS-TCP-NA 🇨🇾 CY-91.148.135.48:20039
 ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#🔒 SS-TCP-NA 🇶🇦 QA-20.173.66.64:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@59.125.75.116:2377#🔒 SS-TCP-NA 🇹🇼 TW-59.125.75.116:2377
@@ -599,8 +604,3 @@ hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&o
 hysteria2://2a1a0537-717c-402e-8e4f-7e81369997bd@jpzl2.stardad.lol:48512?insecure=1&sni=https://bing.com#10%7C%40Pashmam_Vpn%20%20%20
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#10%7C%40V2rayNG3%20%233
 hysteria2://78e4c7ea92fed6d40792424990b6e793@a.grizzzlyyyy.ir:4443?insecure=0&sni=a.grizzzlyyyy.ir#10%7C%40GrizzlyVPN
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#10%7C%40V2rayNG3%20%234
-hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#10%7C%40V2rayNG3%20%235
-hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#10%7C%40V2rayNG3%20%236
-hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#10%7C%40V2rayNG3%20%237
-hysteria2://Telegram-SiNAVM-SiNAVM-SiNAVM-SiNAVM@sinavm.soft10.ir:443?alpn=h3&obfs=salamander&obfs-password=@SiNAVM-@SiNAVM-@SiNAVM-@SiNAVM-@SiNAVM-@SiNAVM#10%7C%40%D8%A7%20%D8%A7
